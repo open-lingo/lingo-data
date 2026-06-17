@@ -1,0 +1,749 @@
+{"lemma":"あい","reading":"あい","lang":"ja","pos":"noun","gloss":"love","source":"open-lingo-curriculum","romaji":"ai","tags":["module:m1"]}
+{"lemma":"いいえ","reading":"いいえ","lang":"ja","pos":"noun","gloss":"no","source":"open-lingo-curriculum","romaji":"iie","tags":["image-mcq-blocked","module:m1"],"notes":"interjection/function word"}
+{"lemma":"馬","reading":"うま","lang":"ja","pos":"noun","gloss":"horse","source":"open-lingo-curriculum","romaji":"uma","tags":["has-kanji","module:m1"]}
+{"lemma":"かい","reading":"かい","lang":"ja","pos":"noun","gloss":"shell","source":"open-lingo-curriculum","romaji":"kai","tags":["module:m1"],"emoji":"🐚"}
+{"lemma":"顔","reading":"かお","lang":"ja","pos":"noun","gloss":"face","source":"open-lingo-curriculum","romaji":"kao","tags":["has-kanji","module:m1"],"emoji":"😀"}
+{"lemma":"かめ","reading":"かめ","lang":"ja","pos":"noun","gloss":"turtle","source":"open-lingo-curriculum","romaji":"kame","tags":["module:m1"]}
+{"lemma":"きのこ","reading":"きのこ","lang":"ja","pos":"noun","gloss":"mushroom","source":"open-lingo-curriculum","romaji":"kinoko","tags":["module:m1"]}
+{"lemma":"桜","reading":"さくら","lang":"ja","pos":"noun","gloss":"cherry blossom","source":"open-lingo-curriculum","romaji":"sakura","tags":["has-kanji","module:m1"]}
+{"lemma":"月","reading":"つき","lang":"ja","pos":"noun","gloss":"moon","source":"open-lingo-curriculum","romaji":"tsuki","tags":["has-kanji","module:m1"],"emoji":"🌙"}
+{"lemma":"船","reading":"ふね","lang":"ja","pos":"noun","gloss":"boat","source":"open-lingo-curriculum","romaji":"fune","tags":["has-kanji","module:m1"],"emoji":"🚢"}
+{"lemma":"星","reading":"ほし","lang":"ja","pos":"noun","gloss":"star","source":"open-lingo-curriculum","romaji":"hoshi","tags":["has-kanji","module:m1"],"emoji":"⭐"}
+{"lemma":"桃","reading":"もも","lang":"ja","pos":"noun","gloss":"peach","source":"open-lingo-curriculum","romaji":"momo","tags":["has-kanji","module:m1"],"emoji":"🍑"}
+{"lemma":"上","reading":"うえ","lang":"ja","pos":"noun","gloss":"on top of","source":"open-lingo-curriculum","romaji":"ue","tags":["has-kanji","module:m1"],"emoji":"⬆️","notes":"up arrow as 'on top of' cue"}
+{"lemma":"人","reading":"ひと","lang":"ja","pos":"noun","gloss":"person","source":"open-lingo-curriculum","romaji":"hito","tags":["has-kanji","module:m1"],"emoji":"🧑","notes":"gender-neutral person"}
+{"lemma":"何","reading":"なに","lang":"ja","pos":"noun","gloss":"what","source":"open-lingo-curriculum","romaji":"nani","tags":["has-kanji","image-mcq-blocked","module:m1"],"emoji":"❓","notes":"interrogative — abstract grammar"}
+{"lemma":"声","reading":"こえ","lang":"ja","pos":"noun","gloss":"voice","source":"open-lingo-curriculum","romaji":"koe","tags":["has-kanji","module:m1"],"emoji":"🗣️","notes":"speaking head"}
+{"lemma":"家","reading":"いえ","lang":"ja","pos":"noun","gloss":"house","source":"open-lingo-curriculum","romaji":"ie","tags":["has-kanji","module:m1"],"emoji":"🏠"}
+{"lemma":"山","reading":"やま","lang":"ja","pos":"noun","gloss":"mountain","source":"open-lingo-curriculum","romaji":"yama","tags":["has-kanji","module:m1"],"emoji":"⛰️"}
+{"lemma":"川 / 河","reading":"かわ","lang":"ja","pos":"noun","gloss":"river","source":"open-lingo-curriculum","romaji":"kawa","tags":["has-kanji","module:m1"],"emoji":"🏞️"}
+{"lemma":"朝","reading":"あさ","lang":"ja","pos":"noun","gloss":"morning","source":"open-lingo-curriculum","romaji":"asa","tags":["has-kanji","module:m1"],"emoji":"🌅"}
+{"lemma":"歌","reading":"うた","lang":"ja","pos":"noun","gloss":"song","source":"open-lingo-curriculum","romaji":"uta","tags":["has-kanji","module:m1"],"emoji":"🎤","notes":"microphone as song cue (music note taken)"}
+{"lemma":"池","reading":"いけ","lang":"ja","pos":"noun","gloss":"pond","source":"open-lingo-curriculum","romaji":"ike","tags":["has-kanji","module:m1"],"emoji":"🦆","notes":"duck implies pond"}
+{"lemma":"海","reading":"うみ","lang":"ja","pos":"noun","gloss":"sea","source":"open-lingo-curriculum","romaji":"umi","tags":["has-kanji","module:m1"],"emoji":"🌊","notes":"wave"}
+{"lemma":"犬","reading":"いぬ","lang":"ja","pos":"noun","gloss":"dog","source":"open-lingo-curriculum","romaji":"inu","tags":["has-kanji","module:m1"],"emoji":"🐕"}
+{"lemma":"猫","reading":"ねこ","lang":"ja","pos":"noun","gloss":"cat","source":"open-lingo-curriculum","romaji":"neko","tags":["has-kanji","module:m1"],"emoji":"🐱"}
+{"lemma":"空","reading":"そら","lang":"ja","pos":"noun","gloss":"sky","source":"open-lingo-curriculum","romaji":"sora","tags":["has-kanji","module:m1"],"emoji":"☁️","notes":"cloud as sky proxy"}
+{"lemma":"色","reading":"いろ","lang":"ja","pos":"noun","gloss":"colour","source":"open-lingo-curriculum","romaji":"iro","tags":["has-kanji","module:m1"],"emoji":"🎨","notes":"palette = colour"}
+{"lemma":"花","reading":"はな","lang":"ja","pos":"noun","gloss":"flower","source":"open-lingo-curriculum","romaji":"hana","tags":["has-kanji","module:m1"],"emoji":"🌸"}
+{"lemma":"雪","reading":"ゆき","lang":"ja","pos":"noun","gloss":"snow","source":"open-lingo-curriculum","romaji":"yuki","tags":["has-kanji","module:m1"],"emoji":"❄️"}
+{"lemma":"青い","reading":"あおい","lang":"ja","pos":"noun","gloss":"blue","source":"open-lingo-curriculum","romaji":"aoi","tags":["has-kanji","module:m1"],"emoji":"🟦"}
+{"lemma":"鼻","reading":"はな","lang":"ja","pos":"noun","gloss":"nose","source":"open-lingo-curriculum","romaji":"hana","tags":["has-kanji","module:m1"],"emoji":"👃"}
+{"lemma":"えび","reading":"えび","lang":"ja","pos":"noun","gloss":"shrimp","source":"open-lingo-curriculum","romaji":"ebi","tags":["module:m2"]}
+{"lemma":"かぎ","reading":"かぎ","lang":"ja","pos":"noun","gloss":"key","source":"open-lingo-curriculum","romaji":"kagi","tags":["module:m2"],"emoji":"🔑"}
+{"lemma":"きゅうり","reading":"きゅうり","lang":"ja","pos":"noun","gloss":"cucumber","source":"open-lingo-curriculum","romaji":"kyuuri","tags":["module:m2"]}
+{"lemma":"散歩","reading":"さんぽ","lang":"ja","pos":"noun","gloss":"walk/stroll","source":"open-lingo-curriculum","romaji":"sanpo","tags":["has-kanji","module:m2"],"emoji":"🚶"}
+{"lemma":"象","reading":"ぞう","lang":"ja","pos":"noun","gloss":"elephant","source":"open-lingo-curriculum","romaji":"zou","tags":["has-kanji","module:m2"]}
+{"lemma":"どあ","reading":"どあ","lang":"ja","pos":"noun","gloss":"door","source":"open-lingo-curriculum","romaji":"doa","tags":["module:m2"]}
+{"lemma":"ぱん","reading":"ぱん","lang":"ja","pos":"noun","gloss":"bread","source":"open-lingo-curriculum","romaji":"pan","tags":["module:m2"]}
+{"lemma":"ぴあの","reading":"ぴあの","lang":"ja","pos":"noun","gloss":"piano","source":"open-lingo-curriculum","romaji":"piano","tags":["module:m2"]}
+{"lemma":"豚","reading":"ぶた","lang":"ja","pos":"noun","gloss":"pig","source":"open-lingo-curriculum","romaji":"buta","tags":["has-kanji","module:m2"]}
+{"lemma":"ぷりん","reading":"ぷりん","lang":"ja","pos":"noun","gloss":"pudding","source":"open-lingo-curriculum","romaji":"purin","tags":["module:m2"]}
+{"lemma":"ぺん","reading":"ぺん","lang":"ja","pos":"noun","gloss":"pen","source":"open-lingo-curriculum","romaji":"pen","tags":["module:m2"]}
+{"lemma":"ティーシャツ","reading":"ティーシャツ","lang":"ja","pos":"noun","gloss":"T-shirt","source":"open-lingo-curriculum","romaji":"tiishatsu","tags":["module:m2"],"emoji":"👕"}
+{"lemma":"パーティー","reading":"パーティー","lang":"ja","pos":"noun","gloss":"party","source":"open-lingo-curriculum","romaji":"paatii","tags":["module:m2"],"emoji":"🎉"}
+{"lemma":"今日","reading":"きょう","lang":"ja","pos":"noun","gloss":"today","source":"open-lingo-curriculum","romaji":"kyou","tags":["has-kanji","module:m2"],"emoji":"📅","notes":"calendar as today cue"}
+{"lemma":"体","reading":"からだ","lang":"ja","pos":"noun","gloss":"body","source":"open-lingo-curriculum","romaji":"karada","tags":["has-kanji","module:m2"],"emoji":"🧍"}
+{"lemma":"元気","reading":"げんき","lang":"ja","pos":"noun","gloss":"health, vitality","source":"open-lingo-curriculum","romaji":"genki","tags":["has-kanji","module:m2"],"emoji":"💪","notes":"flexed bicep as vitality cue"}
+{"lemma":"写真","reading":"しゃしん","lang":"ja","pos":"noun","gloss":"photograph","source":"open-lingo-curriculum","romaji":"shashin","tags":["has-kanji","module:m2"],"emoji":"📷"}
+{"lemma":"切符","reading":"きっぷ","lang":"ja","pos":"noun","gloss":"ticket","source":"open-lingo-curriculum","romaji":"kippu","tags":["has-kanji","module:m2"],"emoji":"🎫"}
+{"lemma":"家族","reading":"かぞく","lang":"ja","pos":"noun","gloss":"family","source":"open-lingo-curriculum","romaji":"kazoku","tags":["has-kanji","module:m2"],"emoji":"👨‍👩‍👧","notes":"ZWJ family — renders in Noto"}
+{"lemma":"帽子","reading":"ぼうし","lang":"ja","pos":"noun","gloss":"hat","source":"open-lingo-curriculum","romaji":"boushi","tags":["has-kanji","module:m2"],"emoji":"🎩"}
+{"lemma":"料理","reading":"りょうり","lang":"ja","pos":"noun","gloss":"cuisine","source":"open-lingo-curriculum","romaji":"ryouri","tags":["has-kanji","module:m2"],"emoji":"🍱","notes":"bento as cuisine proxy"}
+{"lemma":"時間","reading":"じかん","lang":"ja","pos":"noun","gloss":"time","source":"open-lingo-curriculum","romaji":"jikan","tags":["has-kanji","module:m2"],"emoji":"⏰"}
+{"lemma":"牛乳","reading":"ぎゅうにゅう","lang":"ja","pos":"noun","gloss":"milk","source":"open-lingo-curriculum","romaji":"gyuunyuu","tags":["has-kanji","module:m2"],"emoji":"🥛"}
+{"lemma":"百","reading":"ひゃく","lang":"ja","pos":"noun","gloss":"hundred","source":"open-lingo-curriculum","romaji":"hyaku","tags":["has-kanji","module:m2"],"emoji":"💯"}
+{"lemma":"眼鏡","reading":"めがね","lang":"ja","pos":"noun","gloss":"glasses","source":"open-lingo-curriculum","romaji":"megane","tags":["has-kanji","module:m2"],"emoji":"👓"}
+{"lemma":"窓","reading":"まど","lang":"ja","pos":"noun","gloss":"window","source":"open-lingo-curriculum","romaji":"mado","tags":["has-kanji","module:m2"],"emoji":"🪟"}
+{"lemma":"遊ぶ","reading":"あそぶ","lang":"ja","pos":"noun","gloss":"to play, to make a visit","source":"open-lingo-curriculum","romaji":"asobu","tags":["has-kanji","module:m2"],"emoji":"🎲","notes":"die as play proxy"}
+{"lemma":"鉛筆","reading":"えんぴつ","lang":"ja","pos":"noun","gloss":"pencil","source":"open-lingo-curriculum","romaji":"enpitsu","tags":["has-kanji","module:m2"],"emoji":"✏️"}
+{"lemma":"電話","reading":"でんわ","lang":"ja","pos":"noun","gloss":"telephone","source":"open-lingo-curriculum","romaji":"denwa","tags":["has-kanji","module:m2"],"emoji":"📞"}
+{"lemma":"風","reading":"かぜ","lang":"ja","pos":"noun","gloss":"wind","source":"open-lingo-curriculum","romaji":"kaze","tags":["has-kanji","module:m2"],"emoji":"🌬️","notes":"wind face"}
+{"lemma":"風邪","reading":"かぜ","lang":"ja","pos":"noun","gloss":"a cold","source":"open-lingo-curriculum","romaji":"kaze","tags":["has-kanji","module:m2"],"emoji":"🤧","notes":"sneezing face"}
+{"lemma":"あれは おおきいです","reading":"あれは おおきいです","lang":"ja","pos":"phrase","gloss":"That (over there) is big.","source":"open-lingo-curriculum","romaji":"are wa ookii desu","tags":["module:m3"]}
+{"lemma":"か","reading":"か","lang":"ja","pos":"particle","gloss":"question particle","source":"open-lingo-curriculum","romaji":"ka","tags":["particle","module:m3"]}
+{"lemma":"これは あおいです","reading":"これは あおいです","lang":"ja","pos":"phrase","gloss":"This is blue.","source":"open-lingo-curriculum","romaji":"kore wa aoi desu","tags":["module:m3"]}
+{"lemma":"すみません","reading":"すみません","lang":"ja","pos":"noun","gloss":"Excuse me","source":"open-lingo-curriculum","romaji":"sumimasen","tags":["module:m3"]}
+{"lemma":"日本人","reading":"にほんじん","lang":"ja","pos":"noun","gloss":"Japanese (person)","source":"open-lingo-curriculum","romaji":"nihonjin","tags":["has-kanji","module:m3"]}
+{"lemma":"は","reading":"は","lang":"ja","pos":"particle","gloss":"topic marker","source":"open-lingo-curriculum","romaji":"wa","tags":["particle","module:m3"]}
+{"lemma":"アメリカ人","reading":"アメリカじん","lang":"ja","pos":"noun","gloss":"American (person)","source":"open-lingo-curriculum","romaji":"amerikajin","tags":["has-kanji","module:m3"]}
+{"lemma":"コーヒー","reading":"コーヒー","lang":"ja","pos":"phrase","gloss":"coffee","source":"open-lingo-curriculum","romaji":"koohii","tags":["module:m3"],"emoji":"☕"}
+{"lemma":"コーヒー です","reading":"コーヒー です","lang":"ja","pos":"phrase","gloss":"It's coffee.","source":"open-lingo-curriculum","romaji":"koohii desu","tags":["module:m3"]}
+{"lemma":"タクシー","reading":"タクシー","lang":"ja","pos":"phrase","gloss":"taxi","source":"open-lingo-curriculum","romaji":"takushii","tags":["module:m3"],"emoji":"🚕"}
+{"lemma":"タクシー です","reading":"タクシー です","lang":"ja","pos":"phrase","gloss":"It's a taxi.","source":"open-lingo-curriculum","romaji":"takushii desu","tags":["module:m3"]}
+{"lemma":"ビール","reading":"ビール","lang":"ja","pos":"noun","gloss":"beer","source":"open-lingo-curriculum","romaji":"biiru","tags":["module:m3"],"emoji":"🍺"}
+{"lemma":"ホテル","reading":"ホテル","lang":"ja","pos":"noun","gloss":"hotel","source":"open-lingo-curriculum","romaji":"hoteru","tags":["module:m3"],"emoji":"🏨"}
+{"lemma":"レストラン","reading":"レストラン","lang":"ja","pos":"noun","gloss":"restaurant","source":"open-lingo-curriculum","romaji":"resutoran","tags":["module:m7"],"emoji":"🍽️"}
+{"lemma":"先生","reading":"せんせい","lang":"ja","pos":"noun","gloss":"teacher, doctor","source":"open-lingo-curriculum","romaji":"sensei","tags":["has-kanji","module:m3"],"emoji":"🧑‍🏫"}
+{"lemma":"友達","reading":"ともだち","lang":"ja","pos":"noun","gloss":"friend","source":"open-lingo-curriculum","romaji":"tomodachi","tags":["has-kanji","module:m3"],"emoji":"👫"}
+{"lemma":"名前","reading":"なまえ","lang":"ja","pos":"noun","gloss":"name","source":"open-lingo-curriculum","romaji":"namae","tags":["has-kanji","module:m3"],"emoji":"🪪","notes":"ID card"}
+{"lemma":"学生","reading":"がくせい","lang":"ja","pos":"noun","gloss":"student","source":"open-lingo-curriculum","romaji":"gakusei","tags":["has-kanji","module:m3"],"emoji":"🎓"}
+{"lemma":"本","reading":"ほん","lang":"ja","pos":"noun","gloss":"book","source":"open-lingo-curriculum","romaji":"hon","tags":["has-kanji","module:m3"],"emoji":"📖"}
+{"lemma":"水","reading":"みず","lang":"ja","pos":"noun","gloss":"water","source":"open-lingo-curriculum","romaji":"mizu","tags":["has-kanji","module:m3"],"emoji":"💧"}
+{"lemma":"あなた","reading":"あなた","lang":"ja","pos":"noun","gloss":"you","source":"open-lingo-curriculum","romaji":"anata","tags":["image-mcq-blocked","module:m4"],"emoji":"🫵","notes":"pronoun — rubric explicit block"}
+{"lemma":"いす","reading":"いす","lang":"ja","pos":"noun","gloss":"chair","source":"open-lingo-curriculum","romaji":"isu","tags":["module:m4"],"emoji":"🪑"}
+{"lemma":"かばん","reading":"かばん","lang":"ja","pos":"noun","gloss":"bag, basket","source":"open-lingo-curriculum","romaji":"kaban","tags":["module:m4"],"emoji":"👜"}
+{"lemma":"が","reading":"が","lang":"ja","pos":"particle","gloss":"subject marker","source":"open-lingo-curriculum","romaji":"ga","tags":["particle","module:m4"]}
+{"lemma":"けいたい","reading":"けいたい","lang":"ja","pos":"noun","gloss":"Mobile phone","source":"open-lingo-curriculum","romaji":"keitai","tags":["module:m4"]}
+{"lemma":"これ","reading":"これ","lang":"ja","pos":"noun","gloss":"this","source":"open-lingo-curriculum","romaji":"kore","tags":["image-mcq-blocked","module:m4"],"emoji":"👇","notes":"demonstrative — per rubric"}
+{"lemma":"父","reading":"ちち","lang":"ja","pos":"noun","gloss":"(my) father","source":"open-lingo-curriculum","romaji":"chichi","tags":["has-kanji","module:m8"],"emoji":"👨‍👦"}
+{"lemma":"と","reading":"と","lang":"ja","pos":"particle","gloss":"and / with","source":"open-lingo-curriculum","romaji":"to","tags":["particle","module:m4"]}
+{"lemma":"どれ","reading":"どれ","lang":"ja","pos":"noun","gloss":"which (of three or more)","source":"open-lingo-curriculum","romaji":"dore","tags":["image-mcq-blocked","module:m4"],"emoji":"🤔","notes":"demonstrative — rubric blocks"}
+{"lemma":"日本","reading":"にほん","lang":"ja","pos":"noun","gloss":"Japan","source":"open-lingo-curriculum","romaji":"nihon","tags":["has-kanji","module:m4"],"emoji":"🇯🇵"}
+{"lemma":"の","reading":"の","lang":"ja","pos":"particle","gloss":"possession","source":"open-lingo-curriculum","romaji":"no","tags":["particle","module:m4"]}
+{"lemma":"母","reading":"はは","lang":"ja","pos":"noun","gloss":"(my) mother","source":"open-lingo-curriculum","romaji":"haha","tags":["has-kanji","module:m8"],"emoji":"👩‍👦"}
+{"lemma":"も","reading":"も","lang":"ja","pos":"particle","gloss":"also","source":"open-lingo-curriculum","romaji":"mo","tags":["particle","module:m3"],"notes":"Formally taught in M3-7 via RULE_MO + phrase exposure + dialogue use (moved from M4 2026-05-21 to close the original curriculum-audit 'も missing' gap)."}
+{"lemma":"私","reading":"わたし","lang":"ja","pos":"noun","gloss":"I/me","source":"open-lingo-curriculum","romaji":"watashi","tags":["has-kanji","module:m4"],"emoji":"🙋"}
+{"lemma":"アメリカ","reading":"アメリカ","lang":"ja","pos":"noun","gloss":"America","source":"open-lingo-curriculum","romaji":"amerika","tags":["module:m4"],"emoji":"🇺🇸"}
+{"lemma":"カメラ","reading":"カメラ","lang":"ja","pos":"noun","gloss":"camera","source":"open-lingo-curriculum","romaji":"kamera","tags":["module:m4"],"emoji":"📷"}
+{"lemma":"ペン","reading":"ペン","lang":"ja","pos":"noun","gloss":"pen","source":"open-lingo-curriculum","romaji":"pen","tags":["module:m4"],"emoji":"🖊️"}
+{"lemma":"何","reading":"なん","lang":"ja","pos":"noun","gloss":"what","source":"open-lingo-curriculum","romaji":"nan","tags":["has-kanji","image-mcq-blocked","module:m4"],"emoji":"❓","notes":"interrogative — abstract grammar"}
+{"lemma":"傘","reading":"かさ","lang":"ja","pos":"noun","gloss":"umbrella","source":"open-lingo-curriculum","romaji":"kasa","tags":["has-kanji","module:m4"],"emoji":"☂️"}
+{"lemma":"兄","reading":"あに","lang":"ja","pos":"noun","gloss":"(humble) older brother","source":"open-lingo-curriculum","romaji":"ani","tags":["has-kanji","module:m3"],"emoji":"👦","notes":"boy; pair with phrase context per rubric. M3-5 formal intro added 2026-05-21 to close the M3 forward-leak — M3-5/6/7 already used あに as a re-exposure carrier (Wave-4B n=1 fix) so the atom is fully drilled by M3 even though it was previously tagged as M4 vocab."}
+{"lemma":"姉","reading":"あね","lang":"ja","pos":"noun","gloss":"(humble) older sister","source":"open-lingo-curriculum","romaji":"ane","tags":["has-kanji","module:m19"],"emoji":"👩","notes":"woman; kanji 姉 carries older cue"}
+{"lemma":"手紙","reading":"てがみ","lang":"ja","pos":"noun","gloss":"letter","source":"open-lingo-curriculum","romaji":"tegami","tags":["has-kanji","module:m4"],"emoji":"✉️"}
+{"lemma":"新聞","reading":"しんぶん","lang":"ja","pos":"noun","gloss":"newspaper","source":"open-lingo-curriculum","romaji":"shinbun","tags":["has-kanji","module:m8"],"emoji":"📰"}
+{"lemma":"時計","reading":"とけい","lang":"ja","pos":"noun","gloss":"watch, clock","source":"open-lingo-curriculum","romaji":"tokei","tags":["has-kanji","module:m1"],"emoji":"⌚"}
+{"lemma":"机","reading":"つくえ","lang":"ja","pos":"noun","gloss":"desk","source":"open-lingo-curriculum","romaji":"tsukue","tags":["has-kanji","module:future"],"emoji":"🪑","notes":"chair-adjacent; closest furniture glyph (no desk emoji)"}
+{"lemma":"自転車","reading":"じてんしゃ","lang":"ja","pos":"noun","gloss":"bicycle","source":"open-lingo-curriculum","romaji":"jitensha","tags":["has-kanji","module:m4"],"emoji":"🚲"}
+{"lemma":"誰","reading":"だれ","lang":"ja","pos":"noun","gloss":"who","source":"open-lingo-curriculum","romaji":"dare","tags":["has-kanji","image-mcq-blocked","module:m4"],"emoji":"🙋‍♂️","notes":"question pronoun"}
+{"lemma":"車","reading":"くるま","lang":"ja","pos":"noun","gloss":"car, vehicle","source":"open-lingo-curriculum","romaji":"kuruma","tags":["has-kanji","module:m4"],"emoji":"🚗"}
+{"lemma":"辞書","reading":"じしょ","lang":"ja","pos":"noun","gloss":"dictionary","source":"open-lingo-curriculum","romaji":"jisho","tags":["has-kanji","module:m4"],"emoji":"📖","notes":"open book"}
+{"lemma":"雑誌","reading":"ざっし","lang":"ja","pos":"noun","gloss":"magazine","source":"open-lingo-curriculum","romaji":"zasshi","tags":["has-kanji","module:m24"],"emoji":"📖","notes":"open book as magazine proxy"}
+{"lemma":"ありがとうございます","reading":"ありがとうございます","lang":"ja","pos":"phrase","gloss":"Thank you (polite)","source":"open-lingo-curriculum","romaji":"arigatou gozaimasu","tags":["module:m5"]}
+{"lemma":"いくら","reading":"いくら","lang":"ja","pos":"noun","gloss":"how much?","source":"open-lingo-curriculum","romaji":"ikura","tags":["image-mcq-blocked","module:m5"],"emoji":"💲","notes":"question word"}
+{"lemma":"円","reading":"えん","lang":"ja","pos":"noun","gloss":"Yen","source":"open-lingo-curriculum","romaji":"en","tags":["has-kanji","module:m5"]}
+{"lemma":"から","reading":"から","lang":"ja","pos":"noun","gloss":"from (origin)","source":"open-lingo-curriculum","romaji":"kara","tags":["module:m5"]}
+{"lemma":"ください","reading":"ください","lang":"ja","pos":"phrase","gloss":"please","source":"open-lingo-curriculum","romaji":"kudasai","tags":["image-mcq-blocked","module:m5"],"emoji":"🤲","notes":"polite-request auxiliary; function word"}
+{"lemma":"五人","reading":"ごにん","lang":"ja","pos":"noun","gloss":"5 people","source":"open-lingo-curriculum","romaji":"go nin","tags":["has-kanji","module:m5"]}
+{"lemma":"三人","reading":"さんにん","lang":"ja","pos":"noun","gloss":"3 people","source":"open-lingo-curriculum","romaji":"san nin","tags":["has-kanji","module:m5"]}
+{"lemma":"四人","reading":"よにん","lang":"ja","pos":"noun","gloss":"4 people","source":"open-lingo-curriculum","romaji":"yo nin","tags":["has-kanji","module:m5"]}
+{"lemma":"お茶","reading":"おちゃ","lang":"ja","pos":"noun","gloss":"green tea","source":"open-lingo-curriculum","romaji":"ocha","tags":["has-kanji","module:m5"],"emoji":"🍵"}
+{"lemma":"お金","reading":"おかね","lang":"ja","pos":"noun","gloss":"money","source":"open-lingo-curriculum","romaji":"okane","tags":["has-kanji","module:m5"],"emoji":"💰"}
+{"lemma":"一","reading":"いち","lang":"ja","pos":"noun","gloss":"one","source":"open-lingo-curriculum","romaji":"ichi","tags":["has-kanji","module:m5"],"emoji":"1️⃣"}
+{"lemma":"一つ","reading":"ひとつ","lang":"ja","pos":"noun","gloss":"one","source":"open-lingo-curriculum","romaji":"hitotsu","tags":["has-kanji","module:m5"],"emoji":"1️⃣"}
+{"lemma":"一人","reading":"ひとり","lang":"ja","pos":"noun","gloss":"one person","source":"open-lingo-curriculum","romaji":"hitori","tags":["has-kanji","module:m5"],"emoji":"🧍","notes":"single standing figure as one-person cue"}
+{"lemma":"七","reading":"なな","lang":"ja","pos":"noun","gloss":"seven","source":"open-lingo-curriculum","romaji":"nana","tags":["has-kanji","module:m5"],"emoji":"7️⃣"}
+{"lemma":"三","reading":"さん","lang":"ja","pos":"noun","gloss":"three","source":"open-lingo-curriculum","romaji":"san","tags":["has-kanji","module:m5"],"emoji":"3️⃣"}
+{"lemma":"三つ","reading":"みっつ","lang":"ja","pos":"noun","gloss":"three","source":"open-lingo-curriculum","romaji":"mittsu","tags":["has-kanji","module:m5"],"emoji":"3️⃣"}
+{"lemma":"九","reading":"きゅう","lang":"ja","pos":"noun","gloss":"nine","source":"open-lingo-curriculum","romaji":"kyuu","tags":["has-kanji","module:m5"],"emoji":"9️⃣"}
+{"lemma":"二","reading":"に","lang":"ja","pos":"noun","gloss":"two","source":"open-lingo-curriculum","romaji":"ni","tags":["has-kanji","module:m5"],"emoji":"2️⃣"}
+{"lemma":"二つ","reading":"ふたつ","lang":"ja","pos":"noun","gloss":"two","source":"open-lingo-curriculum","romaji":"futatsu","tags":["has-kanji","module:m5"],"emoji":"2️⃣"}
+{"lemma":"二人","reading":"ふたり","lang":"ja","pos":"noun","gloss":"two people","source":"open-lingo-curriculum","romaji":"futari","tags":["has-kanji","module:m5"],"emoji":"👥","notes":"two silhouettes"}
+{"lemma":"五","reading":"ご","lang":"ja","pos":"noun","gloss":"five","source":"open-lingo-curriculum","romaji":"go","tags":["has-kanji","module:m5"],"emoji":"5️⃣"}
+{"lemma":"八","reading":"はち","lang":"ja","pos":"noun","gloss":"eight","source":"open-lingo-curriculum","romaji":"hachi","tags":["has-kanji","module:m5"],"emoji":"8️⃣"}
+{"lemma":"六","reading":"ろく","lang":"ja","pos":"noun","gloss":"six","source":"open-lingo-curriculum","romaji":"roku","tags":["has-kanji","module:m5"],"emoji":"6️⃣"}
+{"lemma":"十","reading":"じゅう","lang":"ja","pos":"noun","gloss":"ten","source":"open-lingo-curriculum","romaji":"juu","tags":["has-kanji","module:m5"],"emoji":"🔟"}
+{"lemma":"四","reading":"よん","lang":"ja","pos":"noun","gloss":"four","source":"open-lingo-curriculum","romaji":"yon","tags":["has-kanji","module:m5"],"emoji":"4️⃣"}
+{"lemma":"あります","reading":"あります","lang":"ja","pos":"noun","gloss":"exists (thing)","source":"open-lingo-curriculum","romaji":"arimasu","tags":["module:m6"],"emoji":"📦"}
+{"lemma":"います","reading":"います","lang":"ja","pos":"noun","gloss":"exists (alive)","source":"open-lingo-curriculum","romaji":"imasu","tags":["module:m6"],"emoji":"🧑"}
+{"lemma":"うち","reading":"うち","lang":"ja","pos":"noun","gloss":"Home / my place","source":"open-lingo-curriculum","romaji":"uchi","tags":["module:m6"]}
+{"lemma":"空港","reading":"くうこう","lang":"ja","pos":"noun","gloss":"airport","source":"open-lingo-curriculum","romaji":"kuukou","tags":["has-kanji","module:m7"],"emoji":"✈️"}
+{"lemma":"で","reading":"で","lang":"ja","pos":"particle","gloss":"at / by means of","source":"open-lingo-curriculum","romaji":"de","tags":["particle","module:m6"]}
+{"lemma":"どこ","reading":"どこ","lang":"ja","pos":"noun","gloss":"where","source":"open-lingo-curriculum","romaji":"doko","tags":["image-mcq-blocked","module:m6"],"notes":"interrogative demonstrative; abstract"}
+{"lemma":"に","reading":"に","lang":"ja","pos":"particle","gloss":"to / at / location","source":"open-lingo-curriculum","romaji":"ni","tags":["particle","module:m6"]}
+{"lemma":"コンビニ","reading":"コンビニ","lang":"ja","pos":"noun","gloss":"Convenience store","source":"open-lingo-curriculum","romaji":"konbini","tags":["module:m6"]}
+{"lemma":"トイレ","reading":"トイレ","lang":"ja","pos":"noun","gloss":"toilet","source":"open-lingo-curriculum","romaji":"toire","tags":["module:m6"],"emoji":"🚽"}
+{"lemma":"バス","reading":"バス","lang":"ja","pos":"noun","gloss":"bus","source":"open-lingo-curriculum","romaji":"basu","tags":["module:m6"],"emoji":"🚌"}
+{"lemma":"公園","reading":"こうえん","lang":"ja","pos":"noun","gloss":"park","source":"open-lingo-curriculum","romaji":"kouen","tags":["has-kanji","module:m6"],"emoji":"🏞️"}
+{"lemma":"図書館","reading":"としょかん","lang":"ja","pos":"noun","gloss":"library","source":"open-lingo-curriculum","romaji":"toshokan","tags":["has-kanji","module:m6"],"emoji":"📚"}
+{"lemma":"地下鉄","reading":"ちかてつ","lang":"ja","pos":"noun","gloss":"underground train","source":"open-lingo-curriculum","romaji":"chikatetsu","tags":["has-kanji","module:future"],"emoji":"🚇"}
+{"lemma":"学校","reading":"がっこう","lang":"ja","pos":"noun","gloss":"school","source":"open-lingo-curriculum","romaji":"gakkou","tags":["has-kanji","module:m6"],"emoji":"🏫"}
+{"lemma":"店","reading":"みせ","lang":"ja","pos":"noun","gloss":"shop","source":"open-lingo-curriculum","romaji":"mise","tags":["has-kanji","module:m6"],"emoji":"🏪"}
+{"lemma":"病院","reading":"びょういん","lang":"ja","pos":"noun","gloss":"hospital","source":"open-lingo-curriculum","romaji":"byouin","tags":["has-kanji","module:m17"],"emoji":"🏥"}
+{"lemma":"近い","reading":"ちかい","lang":"ja","pos":"noun","gloss":"near","source":"open-lingo-curriculum","romaji":"chikai","tags":["has-kanji","module:m6"],"emoji":"📍","notes":"map pin as proximity cue (weak)"}
+{"lemma":"遠い","reading":"とおい","lang":"ja","pos":"noun","gloss":"far","source":"open-lingo-curriculum","romaji":"tooi","tags":["has-kanji","module:m6"],"emoji":"🔭","notes":"telescope = far / distant"}
+{"lemma":"部屋","reading":"へや","lang":"ja","pos":"noun","gloss":"room","source":"open-lingo-curriculum","romaji":"heya","tags":["has-kanji","module:m6"],"emoji":"🚪","notes":"door as room proxy; concrete spatial referent"}
+{"lemma":"郵便局","reading":"ゆうびんきょく","lang":"ja","pos":"noun","gloss":"post office","source":"open-lingo-curriculum","romaji":"yuubinkyoku","tags":["has-kanji","module:m7"],"emoji":"🏤","notes":"post office building"}
+{"lemma":"銀行","reading":"ぎんこう","lang":"ja","pos":"noun","gloss":"bank","source":"open-lingo-curriculum","romaji":"ginkou","tags":["has-kanji","module:m6"],"emoji":"🏦"}
+{"lemma":"電車","reading":"でんしゃ","lang":"ja","pos":"noun","gloss":"electric train","source":"open-lingo-curriculum","romaji":"densha","tags":["has-kanji","module:m6"],"emoji":"🚆"}
+{"lemma":"駅","reading":"えき","lang":"ja","pos":"noun","gloss":"station","source":"open-lingo-curriculum","romaji":"eki","tags":["has-kanji","module:m6"],"emoji":"🚉","notes":"station emoji"}
+{"lemma":"いきます","reading":"いきます","lang":"ja","pos":"noun","gloss":"go (polite)","source":"open-lingo-curriculum","romaji":"ikimasu","tags":["module:m7"],"emoji":"🚶"}
+{"lemma":"いらっしゃいませ","reading":"いらっしゃいませ","lang":"ja","pos":"phrase","gloss":"Welcome (shop greeting)","source":"open-lingo-curriculum","romaji":"irasshaimase","tags":["module:m7"]}
+{"lemma":"かきます","reading":"かきます","lang":"ja","pos":"noun","gloss":"write (polite)","source":"open-lingo-curriculum","romaji":"kakimasu","tags":["module:m7"],"emoji":"✍️"}
+{"lemma":"かしこまりました","reading":"かしこまりました","lang":"ja","pos":"phrase","gloss":"Understood. (formal acknowledgement)","source":"open-lingo-curriculum","romaji":"kashikomarimashita","tags":["module:m7"]}
+{"lemma":"ごちゅうもんは","reading":"ごちゅうもんは","lang":"ja","pos":"phrase","gloss":"Your order? (polite)","source":"open-lingo-curriculum","romaji":"go-chuumon wa","tags":["module:m7"]}
+{"lemma":"酒","reading":"さけ","lang":"ja","pos":"noun","gloss":"Sake (rice wine)","source":"open-lingo-curriculum","romaji":"sake","tags":["has-kanji","module:m7"]}
+{"lemma":"寿司","reading":"すし","lang":"ja","pos":"noun","gloss":"Sushi","source":"open-lingo-curriculum","romaji":"sushi","tags":["has-kanji","module:m7"]}
+{"lemma":"たべます","reading":"たべます","lang":"ja","pos":"noun","gloss":"eat (polite)","source":"open-lingo-curriculum","romaji":"tabemasu","tags":["module:m7"],"emoji":"🍴"}
+{"lemma":"なんめいさまですか","reading":"なんめいさまですか","lang":"ja","pos":"phrase","gloss":"How many people?","source":"open-lingo-curriculum","romaji":"nan-mei sama desu ka","tags":["module:m7"]}
+{"lemma":"のみます","reading":"のみます","lang":"ja","pos":"noun","gloss":"drink (polite)","source":"open-lingo-curriculum","romaji":"nomimasu","tags":["module:m7"],"emoji":"🥤"}
+{"lemma":"みます","reading":"みます","lang":"ja","pos":"noun","gloss":"watch (polite)","source":"open-lingo-curriculum","romaji":"mimasu","tags":["module:m7"],"emoji":"👀"}
+{"lemma":"よみます","reading":"よみます","lang":"ja","pos":"noun","gloss":"read (polite)","source":"open-lingo-curriculum","romaji":"yomimasu","tags":["module:m7"],"emoji":"📚"}
+{"lemma":"わたしは すしを たべます","reading":"わたしは すしを たべます","lang":"ja","pos":"phrase","gloss":"I eat sushi. (polite)","source":"open-lingo-curriculum","romaji":"watashi wa sushi wo tabemasu","tags":["module:m7"]}
+{"lemma":"わたしは ほんを よみます","reading":"わたしは ほんを よみます","lang":"ja","pos":"phrase","gloss":"I read a book. (polite)","source":"open-lingo-curriculum","romaji":"watashi wa hon wo yomimasu","tags":["module:future"]}
+{"lemma":"を","reading":"を","lang":"ja","pos":"particle","gloss":"direct object marker","source":"open-lingo-curriculum","romaji":"wo","tags":["particle","module:m7"]}
+{"lemma":"ジュース","reading":"ジュース","lang":"ja","pos":"noun","gloss":"Juice","source":"open-lingo-curriculum","romaji":"juusu","tags":["module:m7"]}
+{"lemma":"パン","reading":"パン","lang":"ja","pos":"noun","gloss":"bread","source":"open-lingo-curriculum","romaji":"pan","tags":["module:m7"],"emoji":"🍞"}
+{"lemma":"ラーメン","reading":"ラーメン","lang":"ja","pos":"noun","gloss":"Ramen","source":"open-lingo-curriculum","romaji":"raamen","tags":["module:m7"]}
+{"lemma":"お酒","reading":"おさけ","lang":"ja","pos":"noun","gloss":"alcohol, rice wine","source":"open-lingo-curriculum","romaji":"osake","tags":["has-kanji","module:m21"],"emoji":"🍶"}
+{"lemma":"御飯","reading":"ごはん","lang":"ja","pos":"noun","gloss":"cooked rice, meal","source":"open-lingo-curriculum","romaji":"gohan","tags":["has-kanji","module:m7"],"emoji":"🍚"}
+{"lemma":"書く","reading":"かく","lang":"ja","pos":"noun","gloss":"to write","source":"open-lingo-curriculum","romaji":"kaku","tags":["has-kanji","module:m7"],"emoji":"✍️"}
+{"lemma":"行く","reading":"いく","lang":"ja","pos":"noun","gloss":"to go","source":"open-lingo-curriculum","romaji":"iku","tags":["has-kanji","module:m7"],"emoji":"🚶","notes":"person walking"}
+{"lemma":"見る  観る","reading":"みる","lang":"ja","pos":"noun","gloss":"to see, to watch","source":"open-lingo-curriculum","romaji":"miru","tags":["has-kanji","module:m7"],"emoji":"👁️"}
+{"lemma":"読む","reading":"よむ","lang":"ja","pos":"noun","gloss":"to read","source":"open-lingo-curriculum","romaji":"yomu","tags":["has-kanji","module:m7"],"emoji":"📖"}
+{"lemma":"食べる","reading":"たべる","lang":"ja","pos":"noun","gloss":"to eat","source":"open-lingo-curriculum","romaji":"taberu","tags":["has-kanji","module:m7"],"emoji":"🍽️"}
+{"lemma":"飲む","reading":"のむ","lang":"ja","pos":"noun","gloss":"to drink","source":"open-lingo-curriculum","romaji":"nomu","tags":["has-kanji","module:m7"],"emoji":"🥤","notes":"cup with straw"}
+{"lemma":"いくらですか","reading":"いくらですか","lang":"ja","pos":"phrase","gloss":"How much is it?","source":"open-lingo-curriculum","romaji":"ikura desu ka","tags":["module:sidequest-survival"]}
+{"lemma":"いつ","reading":"いつ","lang":"ja","pos":"phrase","gloss":"when","source":"open-lingo-curriculum","romaji":"itsu","tags":["image-mcq-blocked","module:sidequest-survival"],"notes":"interrogative"}
+{"lemma":"おねがいします","reading":"おねがいします","lang":"ja","pos":"phrase","gloss":"Please","source":"open-lingo-curriculum","romaji":"onegaishimasu","tags":["module:sidequest-survival"]}
+{"lemma":"こんにちは","reading":"こんにちは","lang":"ja","pos":"phrase","gloss":"Hello / good afternoon","source":"open-lingo-curriculum","romaji":"konnichiwa","tags":["module:sidequest-survival"]}
+{"lemma":"ごめんなさい","reading":"ごめんなさい","lang":"ja","pos":"phrase","gloss":"I'm sorry","source":"open-lingo-curriculum","romaji":"gomen nasai","tags":["module:sidequest-survival"]}
+{"lemma":"じゃないです","reading":"じゃないです","lang":"ja","pos":"phrase","gloss":"is not / are not","source":"open-lingo-curriculum","romaji":"janai desu","tags":["module:sidequest-survival"]}
+{"lemma":"です","reading":"です","lang":"ja","pos":"phrase","gloss":"is / are (polite copula)","source":"open-lingo-curriculum","romaji":"desu","tags":["module:sidequest-survival"]}
+{"lemma":"どこですか","reading":"どこですか","lang":"ja","pos":"phrase","gloss":"Where is it?","source":"open-lingo-curriculum","romaji":"doko desu ka","tags":["module:sidequest-survival"]}
+{"lemma":"はい","reading":"はい","lang":"ja","pos":"phrase","gloss":"yes","source":"open-lingo-curriculum","romaji":"hai","tags":["image-mcq-blocked","module:sidequest-survival"],"notes":"interjection/function word"}
+{"lemma":"わかりました","reading":"わかりました","lang":"ja","pos":"phrase","gloss":"I understand / got it","source":"open-lingo-curriculum","romaji":"wakarimashita","tags":["module:sidequest-survival"]}
+{"lemma":"あさって","reading":"あさって","lang":"ja","pos":"noun","gloss":"day after tomorrow","source":"open-lingo-curriculum","romaji":"asatte","tags":["module:m12"],"emoji":"📅","notes":"calendar; pair with phrase context"}
+{"lemma":"あそこ","reading":"あそこ","lang":"ja","pos":"noun","gloss":"over there","source":"open-lingo-curriculum","romaji":"asoko","tags":["image-mcq-blocked","module:m6"],"notes":"spatial demonstrative — per rubric"}
+{"lemma":"あちら","reading":"あちら","lang":"ja","pos":"noun","gloss":"there","source":"open-lingo-curriculum","romaji":"achira","tags":["image-mcq-blocked","module:m8"],"notes":"spatial demonstrative — per rubric"}
+{"lemma":"あっち","reading":"あっち","lang":"ja","pos":"noun","gloss":"over there","source":"open-lingo-curriculum","romaji":"atchi","tags":["image-mcq-blocked","module:future"],"notes":"demonstrative spatial — rubric block"}
+{"lemma":"あの","reading":"あの","lang":"ja","pos":"noun","gloss":"that over there","source":"open-lingo-curriculum","romaji":"ano","tags":["image-mcq-blocked","module:m8"],"notes":"demonstrative — rubric block"}
+{"lemma":"あびる","reading":"あびる","lang":"ja","pos":"noun","gloss":"to bathe, to shower","source":"open-lingo-curriculum","romaji":"abiru","tags":["module:future"],"emoji":"🚿"}
+{"lemma":"あまり","reading":"あまり","lang":"ja","pos":"noun","gloss":"not very","source":"open-lingo-curriculum","romaji":"amari","tags":["image-mcq-blocked","module:m9"],"notes":"abstract grammar adverb"}
+{"lemma":"ある","reading":"ある","lang":"ja","pos":"noun","gloss":"to be, to have (used for inanimate objects)","source":"open-lingo-curriculum","romaji":"aru","tags":["image-mcq-blocked","module:m11"],"notes":"existence-of — rubric explicit block"}
+{"lemma":"あれ","reading":"あれ","lang":"ja","pos":"noun","gloss":"that","source":"open-lingo-curriculum","romaji":"are","tags":["image-mcq-blocked","module:m4"],"notes":"demonstrative — rubric block"}
+{"lemma":"いい / よい","reading":"いい / よい","lang":"ja","pos":"noun","gloss":"good","source":"open-lingo-curriculum","romaji":"ii-/-yoi","tags":["module:m8"],"emoji":"👍","notes":"thumbs up as good proxy"}
+{"lemma":"いかが","reading":"いかが","lang":"ja","pos":"noun","gloss":"how","source":"open-lingo-curriculum","romaji":"ikaga","tags":["image-mcq-blocked","module:m21"],"notes":"interrogative adverb — abstract grammar"}
+{"lemma":"いくつ","reading":"いくつ","lang":"ja","pos":"noun","gloss":"how many?, how old?","source":"open-lingo-curriculum","romaji":"ikutsu","tags":["image-mcq-blocked","module:m14"],"notes":"interrogative"}
+{"lemma":"いちばん","reading":"いちばん","lang":"ja","pos":"noun","gloss":"best, first","source":"open-lingo-curriculum","romaji":"ichiban","tags":["module:m22"],"emoji":"🥇"}
+{"lemma":"いつも","reading":"いつも","lang":"ja","pos":"noun","gloss":"always","source":"open-lingo-curriculum","romaji":"itsumo","tags":["image-mcq-blocked","module:m11"],"notes":"frequency adverb"}
+{"lemma":"いろいろ","reading":"いろいろ","lang":"ja","pos":"noun","gloss":"various","source":"open-lingo-curriculum","romaji":"iroiro","tags":["module:m22"],"emoji":"🌈","notes":"rainbow as variety cue"}
+{"lemma":"ええ","reading":"ええ","lang":"ja","pos":"noun","gloss":"yes","source":"open-lingo-curriculum","romaji":"ee","tags":["module:m25"],"emoji":"✅"}
+{"lemma":"おいしい","reading":"おいしい","lang":"ja","pos":"noun","gloss":"delicious","source":"open-lingo-curriculum","romaji":"oishii","tags":["module:m8"],"emoji":"😋"}
+{"lemma":"おなか","reading":"おなか","lang":"ja","pos":"noun","gloss":"stomach","source":"open-lingo-curriculum","romaji":"onaka","tags":["module:m20"],"emoji":"🫃"}
+{"lemma":"おばあさん","reading":"おばあさん","lang":"ja","pos":"noun","gloss":"grandmother, female senior-citizen","source":"open-lingo-curriculum","romaji":"obaasan","tags":["module:m19"],"emoji":"👵"}
+{"lemma":"おまわりさん","reading":"おまわりさん","lang":"ja","pos":"noun","gloss":"friendly term for policeman","source":"open-lingo-curriculum","romaji":"omawarisan","tags":["module:m17"],"emoji":"👮"}
+{"lemma":"おもしろい","reading":"おもしろい","lang":"ja","pos":"noun","gloss":"interesting","source":"open-lingo-curriculum","romaji":"omoshiroi","tags":["module:m8"],"emoji":"🤩","notes":"starstruck = fascinated/interesting"}
+{"lemma":"かかる","reading":"かかる","lang":"ja","pos":"noun","gloss":"to take time or money","source":"open-lingo-curriculum","romaji":"kakaru","tags":["image-mcq-blocked","module:future"],"notes":"abstract verb of cost/duration"}
+{"lemma":"かける","reading":"かける","lang":"ja","pos":"noun","gloss":"to call by phone","source":"open-lingo-curriculum","romaji":"kakeru","tags":["module:m14"],"emoji":"📞"}
+{"lemma":"かわいい","reading":"かわいい","lang":"ja","pos":"noun","gloss":"cute","source":"open-lingo-curriculum","romaji":"kawaii","tags":["module:m19"],"emoji":"🥰"}
+{"lemma":"きれい","reading":"きれい","lang":"ja","pos":"noun","gloss":"pretty, clean","source":"open-lingo-curriculum","romaji":"kirei","tags":["module:m9"],"emoji":"✨","notes":"sparkles as clean/pretty proxy"}
+{"lemma":"ここ","reading":"ここ","lang":"ja","pos":"noun","gloss":"here","source":"open-lingo-curriculum","romaji":"koko","tags":["image-mcq-blocked","module:m6"],"notes":"spatial demonstrative — per rubric"}
+{"lemma":"こちら","reading":"こちら","lang":"ja","pos":"noun","gloss":"this person or way","source":"open-lingo-curriculum","romaji":"kochira","tags":["image-mcq-blocked","module:m8"],"notes":"demonstrative — per rubric"}
+{"lemma":"こっち","reading":"こっち","lang":"ja","pos":"noun","gloss":"this person or way","source":"open-lingo-curriculum","romaji":"kotchi","tags":["image-mcq-blocked","module:future"],"notes":"demonstrative — spatial pronoun"}
+{"lemma":"この","reading":"この","lang":"ja","pos":"noun","gloss":"this","source":"open-lingo-curriculum","romaji":"kono","tags":["image-mcq-blocked","module:m8"],"notes":"demonstrative — rubric block"}
+{"lemma":"こんな","reading":"こんな","lang":"ja","pos":"noun","gloss":"such","source":"open-lingo-curriculum","romaji":"konna","tags":["image-mcq-blocked","module:m9"],"notes":"demonstrative determiner — abstract grammar"}
+{"lemma":"さあ","reading":"さあ","lang":"ja","pos":"noun","gloss":"well…","source":"open-lingo-curriculum","romaji":"saa","tags":["image-mcq-blocked","module:m26"],"notes":"interjection — no concrete referent"}
+{"lemma":"しかし","reading":"しかし","lang":"ja","pos":"noun","gloss":"however","source":"open-lingo-curriculum","romaji":"shikashi","tags":["image-mcq-blocked","module:m26"],"notes":"conjunction"}
+{"lemma":"しょうゆ","reading":"しょうゆ","lang":"ja","pos":"noun","gloss":"soy sauce","source":"open-lingo-curriculum","romaji":"shouyu","tags":["module:future"],"emoji":"🍶","notes":"sake bottle as closest condiment vessel; weak"}
+{"lemma":"じゃ / じゃあ","reading":"じゃ / じゃあ","lang":"ja","pos":"noun","gloss":"well then…","source":"open-lingo-curriculum","romaji":"ja-/-jaa","tags":["image-mcq-blocked","module:m26"],"notes":"discourse particle"}
+{"lemma":"すぐに","reading":"すぐに","lang":"ja","pos":"noun","gloss":"instantly","source":"open-lingo-curriculum","romaji":"suguni","tags":["module:m17"],"emoji":"⚡","notes":"lightning = instant"}
+{"lemma":"する","reading":"する","lang":"ja","pos":"noun","gloss":"to do","source":"open-lingo-curriculum","romaji":"suru","tags":["image-mcq-blocked","module:m11"],"notes":"generic abstract verb"}
+{"lemma":"せっけん","reading":"せっけん","lang":"ja","pos":"noun","gloss":"economy","source":"open-lingo-curriculum","romaji":"sekken","tags":["module:m20"],"emoji":"🧼","notes":"soap — note: meaning field appears mislabeled (せっけん=soap)"}
+{"lemma":"そうして / そして","reading":"そうして / そして","lang":"ja","pos":"noun","gloss":"and","source":"open-lingo-curriculum","romaji":"soushite-/-soshite","tags":["image-mcq-blocked","module:m26"],"notes":"conjunction / function word"}
+{"lemma":"そこ","reading":"そこ","lang":"ja","pos":"noun","gloss":"that place","source":"open-lingo-curriculum","romaji":"soko","tags":["image-mcq-blocked","module:m6"],"notes":"demonstrative — rubric blocks"}
+{"lemma":"そちら","reading":"そちら","lang":"ja","pos":"noun","gloss":"over there","source":"open-lingo-curriculum","romaji":"sochira","tags":["image-mcq-blocked","module:m8"],"notes":"spatial demonstrative — per rubric"}
+{"lemma":"そっち","reading":"そっち","lang":"ja","pos":"noun","gloss":"over there","source":"open-lingo-curriculum","romaji":"sotchi","tags":["image-mcq-blocked","module:future"],"notes":"demonstrative — rubric block"}
+{"lemma":"その","reading":"その","lang":"ja","pos":"noun","gloss":"that","source":"open-lingo-curriculum","romaji":"sono","tags":["image-mcq-blocked","module:m8"],"notes":"demonstrative — abstract grammar per rubric"}
+{"lemma":"そば","reading":"そば","lang":"ja","pos":"noun","gloss":"near, beside","source":"open-lingo-curriculum","romaji":"soba","tags":["image-mcq-blocked","module:m17"],"notes":"positional — abstract"}
+{"lemma":"それ","reading":"それ","lang":"ja","pos":"noun","gloss":"that","source":"open-lingo-curriculum","romaji":"sore","tags":["image-mcq-blocked","module:m4"],"notes":"demonstrative — per rubric"}
+{"lemma":"それから","reading":"それから","lang":"ja","pos":"noun","gloss":"after that","source":"open-lingo-curriculum","romaji":"sorekara","tags":["image-mcq-blocked","module:m10"],"notes":"conjunction — abstract grammar"}
+{"lemma":"それでは","reading":"それでは","lang":"ja","pos":"noun","gloss":"in that situation","source":"open-lingo-curriculum","romaji":"soredeha","tags":["image-mcq-blocked","module:future"],"notes":"discourse connector"}
+{"lemma":"たいへん","reading":"たいへん","lang":"ja","pos":"noun","gloss":"very","source":"open-lingo-curriculum","romaji":"taihen","tags":["image-mcq-blocked","module:m9"],"notes":"intensifier adverb"}
+{"lemma":"たくさん","reading":"たくさん","lang":"ja","pos":"noun","gloss":"many","source":"open-lingo-curriculum","romaji":"takusan","tags":["image-mcq-blocked","module:m20"],"notes":"abstract quantifier; no specific referent"}
+{"lemma":"たて","reading":"たて","lang":"ja","pos":"noun","gloss":"length, height","source":"open-lingo-curriculum","romaji":"tate","tags":["module:future"],"emoji":"📏","notes":"ruler = measurement"}
+{"lemma":"たばこ","reading":"たばこ","lang":"ja","pos":"noun","gloss":"tobacco, cigarettes","source":"open-lingo-curriculum","romaji":"tabako","tags":["module:m16"],"emoji":"🚬"}
+{"lemma":"たぶん","reading":"たぶん","lang":"ja","pos":"noun","gloss":"probably","source":"open-lingo-curriculum","romaji":"tabun","tags":["image-mcq-blocked","module:m18"],"notes":"modal adverb"}
+{"lemma":"だんだん","reading":"だんだん","lang":"ja","pos":"noun","gloss":"gradually","source":"open-lingo-curriculum","romaji":"dandan","tags":["image-mcq-blocked","module:m27"],"notes":"adverb of degree; no referent"}
+{"lemma":"ちゃわん","reading":"ちゃわん","lang":"ja","pos":"noun","gloss":"rice bowl","source":"open-lingo-curriculum","romaji":"chawan","tags":["module:m21"],"emoji":"🍚","notes":"cooked rice in bowl"}
+{"lemma":"ちょうど","reading":"ちょうど","lang":"ja","pos":"noun","gloss":"exactly","source":"open-lingo-curriculum","romaji":"choudo","tags":["image-mcq-blocked","module:m21"],"notes":"abstract adverb; no concrete referent"}
+{"lemma":"ちょっと","reading":"ちょっと","lang":"ja","pos":"noun","gloss":"somewhat","source":"open-lingo-curriculum","romaji":"chotto","tags":["image-mcq-blocked","module:m9"],"notes":"adverb/abstract degree marker"}
+{"lemma":"つける","reading":"つける","lang":"ja","pos":"noun","gloss":"to turn on","source":"open-lingo-curriculum","romaji":"tsukeru","tags":["module:future"],"emoji":"💡","notes":"lightbulb as turn-on cue"}
+{"lemma":"つまらない","reading":"つまらない","lang":"ja","pos":"noun","gloss":"boring","source":"open-lingo-curriculum","romaji":"tsumaranai","tags":["module:m8"],"emoji":"🥱","notes":"yawn = boredom"}
+{"lemma":"できる","reading":"できる","lang":"ja","pos":"noun","gloss":"to be able to","source":"open-lingo-curriculum","romaji":"dekiru","tags":["image-mcq-blocked","module:m23"],"notes":"modal/auxiliary verb; abstract"}
+{"lemma":"では","reading":"では","lang":"ja","pos":"noun","gloss":"with that...","source":"open-lingo-curriculum","romaji":"deha","tags":["image-mcq-blocked","module:m26"],"notes":"particle/conjunction"}
+{"lemma":"でも","reading":"でも","lang":"ja","pos":"noun","gloss":"but","source":"open-lingo-curriculum","romaji":"demo","tags":["image-mcq-blocked","module:m26"],"notes":"conjunction"}
+{"lemma":"とても","reading":"とても","lang":"ja","pos":"noun","gloss":"very","source":"open-lingo-curriculum","romaji":"totemo","tags":["image-mcq-blocked","module:m9"],"notes":"intensifier adverb; no referent"}
+{"lemma":"どう","reading":"どう","lang":"ja","pos":"noun","gloss":"how, in what way","source":"open-lingo-curriculum","romaji":"dou","tags":["image-mcq-blocked","module:m8"],"notes":"interrogative"}
+{"lemma":"どうして","reading":"どうして","lang":"ja","pos":"noun","gloss":"for what reason","source":"open-lingo-curriculum","romaji":"doushite","tags":["image-mcq-blocked","module:m13"],"notes":"interrogative"}
+{"lemma":"どうぞ","reading":"どうぞ","lang":"ja","pos":"noun","gloss":"please","source":"open-lingo-curriculum","romaji":"douzo","tags":["module:m21"],"emoji":"🙏","notes":"folded hands"}
+{"lemma":"どうも","reading":"どうも","lang":"ja","pos":"noun","gloss":"thanks","source":"open-lingo-curriculum","romaji":"doumo","tags":["module:m21"],"emoji":"🙏"}
+{"lemma":"どちら","reading":"どちら","lang":"ja","pos":"noun","gloss":"which of two","source":"open-lingo-curriculum","romaji":"dochira","tags":["image-mcq-blocked","module:m8"],"notes":"demonstrative — rubric blocks"}
+{"lemma":"どっち","reading":"どっち","lang":"ja","pos":"noun","gloss":"which","source":"open-lingo-curriculum","romaji":"dotchi","tags":["image-mcq-blocked","module:future"],"notes":"interrogative pronoun"}
+{"lemma":"どなた","reading":"どなた","lang":"ja","pos":"noun","gloss":"who","source":"open-lingo-curriculum","romaji":"donata","tags":["image-mcq-blocked","module:m19"],"notes":"interrogative pronoun — per rubric"}
+{"lemma":"どの","reading":"どの","lang":"ja","pos":"noun","gloss":"which","source":"open-lingo-curriculum","romaji":"dono","tags":["image-mcq-blocked","module:m8"],"notes":"demonstrative — rubric blocks"}
+{"lemma":"なぜ","reading":"なぜ","lang":"ja","pos":"noun","gloss":"why","source":"open-lingo-curriculum","romaji":"naze","tags":["image-mcq-blocked","module:m13"],"notes":"question word / abstract grammar"}
+{"lemma":"など","reading":"など","lang":"ja","pos":"noun","gloss":"et cetera","source":"open-lingo-curriculum","romaji":"nado","tags":["image-mcq-blocked","module:m21"],"notes":"particle"}
+{"lemma":"なる","reading":"なる","lang":"ja","pos":"noun","gloss":"to become","source":"open-lingo-curriculum","romaji":"naru","tags":["image-mcq-blocked","module:m27"],"emoji":"🔄","notes":"cycle reads as 'refresh' not 'become'"}
+{"lemma":"はく","reading":"はく","lang":"ja","pos":"noun","gloss":"to wear, to put on trousers","source":"open-lingo-curriculum","romaji":"haku","tags":["module:future"],"emoji":"👖","notes":"jeans as put-on-trousers cue"}
+{"lemma":"はし","reading":"はし","lang":"ja","pos":"noun","gloss":"chopsticks","source":"open-lingo-curriculum","romaji":"hashi","tags":["module:m21"],"emoji":"🥢"}
+{"lemma":"ふろ","reading":"ふろ","lang":"ja","pos":"noun","gloss":"bath","source":"open-lingo-curriculum","romaji":"furo","tags":["module:future"],"emoji":"🛁"}
+{"lemma":"ほか","reading":"ほか","lang":"ja","pos":"noun","gloss":"other, the rest","source":"open-lingo-curriculum","romaji":"hoka","tags":["image-mcq-blocked","module:m21"],"notes":"abstract relational word"}
+{"lemma":"ほんとう","reading":"ほんとう","lang":"ja","pos":"noun","gloss":"truth","source":"open-lingo-curriculum","romaji":"hontou","tags":["image-mcq-blocked","module:m11"],"notes":"abstract noun; no concrete referent"}
+{"lemma":"まずい","reading":"まずい","lang":"ja","pos":"noun","gloss":"unpleasant","source":"open-lingo-curriculum","romaji":"mazui","tags":["module:m8"],"emoji":"🤢","notes":"nauseated face for bad-taste cue"}
+{"lemma":"また","reading":"また","lang":"ja","pos":"noun","gloss":"again, and","source":"open-lingo-curriculum","romaji":"mata","tags":["image-mcq-blocked","module:m11"],"notes":"adverb/conjunction"}
+{"lemma":"まだ","reading":"まだ","lang":"ja","pos":"noun","gloss":"yet, still","source":"open-lingo-curriculum","romaji":"mada","tags":["image-mcq-blocked","module:m11"],"notes":"tense/aspect adverb — abstract grammar"}
+{"lemma":"まっすぐ","reading":"まっすぐ","lang":"ja","pos":"noun","gloss":"straight ahead, direct","source":"open-lingo-curriculum","romaji":"massugu","tags":["module:m17"],"emoji":"⬆️","notes":"up arrow as straight-ahead direction"}
+{"lemma":"みんな","reading":"みんな","lang":"ja","pos":"noun","gloss":"everyone","source":"open-lingo-curriculum","romaji":"minna","tags":["module:m19"],"emoji":"👥"}
+{"lemma":"もう","reading":"もう","lang":"ja","pos":"noun","gloss":"already","source":"open-lingo-curriculum","romaji":"mou","tags":["image-mcq-blocked","module:m11"],"notes":"tense/aspect adverb"}
+{"lemma":"もっと","reading":"もっと","lang":"ja","pos":"noun","gloss":"more","source":"open-lingo-curriculum","romaji":"motto","tags":["module:m22"],"emoji":"➕","notes":"plus = more"}
+{"lemma":"やる","reading":"やる","lang":"ja","pos":"noun","gloss":"to do","source":"open-lingo-curriculum","romaji":"yaru","tags":["image-mcq-blocked","module:m15"],"notes":"generic verb; same meaning as する — polite-form duplicate per rubric"}
+{"lemma":"ゆっくりと","reading":"ゆっくりと","lang":"ja","pos":"noun","gloss":"slowly","source":"open-lingo-curriculum","romaji":"yukkurito","tags":["module:m20"],"emoji":"🐢","notes":"turtle as slowness cue"}
+{"lemma":"よく","reading":"よく","lang":"ja","pos":"noun","gloss":"often, well","source":"open-lingo-curriculum","romaji":"yoku","tags":["image-mcq-blocked","module:m11"],"notes":"adverb of frequency/manner; abstract"}
+{"lemma":"より、ほう","reading":"より、ほう","lang":"ja","pos":"noun","gloss":"Used for comparison.","source":"open-lingo-curriculum","romaji":"yori?hou","tags":["image-mcq-blocked","module:m22"],"notes":"comparison particle — abstract grammar"}
+{"lemma":"りっぱ","reading":"りっぱ","lang":"ja","pos":"noun","gloss":"splendid","source":"open-lingo-curriculum","romaji":"rippa","tags":["module:future"],"emoji":"✨","notes":"sparkles = splendid/admirable"}
+{"lemma":"アパート","reading":"アパート","lang":"ja","pos":"noun","gloss":"apartment","source":"open-lingo-curriculum","romaji":"apaato","tags":["module:future"],"emoji":"🏢","notes":"apartment building"}
+{"lemma":"エレベーター","reading":"エレベーター","lang":"ja","pos":"noun","gloss":"elevator","source":"open-lingo-curriculum","romaji":"erebeetaa","tags":["module:m16"],"emoji":"🛗"}
+{"lemma":"カップ","reading":"カップ","lang":"ja","pos":"noun","gloss":"cup","source":"open-lingo-curriculum","romaji":"kappu","tags":["module:m21"],"emoji":"🥤"}
+{"lemma":"カレンダー","reading":"カレンダー","lang":"ja","pos":"noun","gloss":"calendar","source":"open-lingo-curriculum","romaji":"karendaa","tags":["module:future"],"emoji":"📅"}
+{"lemma":"カレー","reading":"カレー","lang":"ja","pos":"noun","gloss":"curry","source":"open-lingo-curriculum","romaji":"karee","tags":["module:m22"],"emoji":"🍛"}
+{"lemma":"キロ / キログラム","reading":"キロ / キログラム","lang":"ja","pos":"noun","gloss":"kilogram","source":"open-lingo-curriculum","romaji":"kiro-/-kiroguramu","tags":["module:future"],"emoji":"⚖️","notes":"balance scale as weight proxy"}
+{"lemma":"キロ / キロメートル","reading":"キロ / キロメートル","lang":"ja","pos":"noun","gloss":"kilometre","source":"open-lingo-curriculum","romaji":"kiro-/-kiromeetoru","tags":["image-mcq-blocked","module:future"],"notes":"unit of measure; no referent"}
+{"lemma":"ギター","reading":"ギター","lang":"ja","pos":"noun","gloss":"guitar","source":"open-lingo-curriculum","romaji":"gitaa","tags":["module:future"],"emoji":"🎸"}
+{"lemma":"クラス","reading":"クラス","lang":"ja","pos":"noun","gloss":"class","source":"open-lingo-curriculum","romaji":"kurasu","tags":["module:m13"],"emoji":"🏫","notes":"school as class proxy"}
+{"lemma":"グラム","reading":"グラム","lang":"ja","pos":"noun","gloss":"gram","source":"open-lingo-curriculum","romaji":"guramu","tags":["module:future"],"emoji":"⚖️","notes":"scale = mass unit"}
+{"lemma":"コップ","reading":"コップ","lang":"ja","pos":"noun","gloss":"a glass","source":"open-lingo-curriculum","romaji":"koppu","tags":["module:m21"],"emoji":"🥛","notes":"glass of milk; closest"}
+{"lemma":"コピーする","reading":"コピーする","lang":"ja","pos":"noun","gloss":"to copy","source":"open-lingo-curriculum","romaji":"kopiisuru","tags":["module:future"],"emoji":"📑","notes":"stacked copies"}
+{"lemma":"コート","reading":"コート","lang":"ja","pos":"noun","gloss":"coat, tennis court","source":"open-lingo-curriculum","romaji":"kooto","tags":["module:future"],"emoji":"🧥","notes":"coat (primary sense)"}
+{"lemma":"シャツ","reading":"シャツ","lang":"ja","pos":"noun","gloss":"shirt","source":"open-lingo-curriculum","romaji":"shatsu","tags":["module:future"],"emoji":"👕"}
+{"lemma":"シャワー","reading":"シャワー","lang":"ja","pos":"noun","gloss":"shower","source":"open-lingo-curriculum","romaji":"shawaa","tags":["module:m13"],"emoji":"🚿"}
+{"lemma":"スカート","reading":"スカート","lang":"ja","pos":"noun","gloss":"skirt","source":"open-lingo-curriculum","romaji":"sukaato","tags":["module:future"],"emoji":"👗","notes":"dress is closest Noto"}
+{"lemma":"ストーブ","reading":"ストーブ","lang":"ja","pos":"noun","gloss":"heater","source":"open-lingo-curriculum","romaji":"sutoobu","tags":["module:future"],"emoji":"🔥","notes":"fire — heater context; weak but concrete"}
+{"lemma":"スプーン","reading":"スプーン","lang":"ja","pos":"noun","gloss":"spoon","source":"open-lingo-curriculum","romaji":"supuun","tags":["module:m21"],"emoji":"🥄"}
+{"lemma":"スポーツ","reading":"スポーツ","lang":"ja","pos":"noun","gloss":"sport","source":"open-lingo-curriculum","romaji":"supootsu","tags":["module:m15"],"emoji":"⚽","notes":"soccer ball as sport proxy"}
+{"lemma":"スリッパ","reading":"スリッパ","lang":"ja","pos":"noun","gloss":"slippers","source":"open-lingo-curriculum","romaji":"surippa","tags":["module:future"],"emoji":"🥿","notes":"flat shoe — closest slipper glyph"}
+{"lemma":"ズボン","reading":"ズボン","lang":"ja","pos":"noun","gloss":"trousers","source":"open-lingo-curriculum","romaji":"zubon","tags":["module:future"],"emoji":"👖"}
+{"lemma":"セーター","reading":"セーター","lang":"ja","pos":"noun","gloss":"sweater, jumper","source":"open-lingo-curriculum","romaji":"seetaa","tags":["module:future"],"emoji":"🧥"}
+{"lemma":"ゼロ","reading":"ゼロ","lang":"ja","pos":"noun","gloss":"zero","source":"open-lingo-curriculum","romaji":"zero","tags":["module:future"],"emoji":"0️⃣"}
+{"lemma":"テスト","reading":"テスト","lang":"ja","pos":"noun","gloss":"test","source":"open-lingo-curriculum","romaji":"tesuto","tags":["module:m8"],"emoji":"📝","notes":"memo"}
+{"lemma":"テレビ","reading":"テレビ","lang":"ja","pos":"noun","gloss":"television","source":"open-lingo-curriculum","romaji":"terebi","tags":["module:m24"],"emoji":"📺"}
+{"lemma":"テーブル","reading":"テーブル","lang":"ja","pos":"noun","gloss":"table","source":"open-lingo-curriculum","romaji":"teeburu","tags":["module:future"],"notes":"no clean Noto table emoji; rely on custom art or phrase"}
+{"lemma":"テープ","reading":"テープ","lang":"ja","pos":"noun","gloss":"tape","source":"open-lingo-curriculum","romaji":"teepu","tags":["module:future"],"emoji":"📼"}
+{"lemma":"テープレコーダー","reading":"テープレコーダー","lang":"ja","pos":"noun","gloss":"tape recorder","source":"open-lingo-curriculum","romaji":"teepurekoodaa","tags":["module:future"],"emoji":"📼","notes":"videocassette — closest cassette glyph"}
+{"lemma":"デパート","reading":"デパート","lang":"ja","pos":"noun","gloss":"department store","source":"open-lingo-curriculum","romaji":"depaato","tags":["module:future"],"emoji":"🏬"}
+{"lemma":"ドア","reading":"ドア","lang":"ja","pos":"noun","gloss":"Western style door","source":"open-lingo-curriculum","romaji":"doa","tags":["module:future"],"emoji":"🚪"}
+{"lemma":"ナイフ","reading":"ナイフ","lang":"ja","pos":"noun","gloss":"knife","source":"open-lingo-curriculum","romaji":"naifu","tags":["module:m21"],"emoji":"🔪"}
+{"lemma":"ニュース","reading":"ニュース","lang":"ja","pos":"noun","gloss":"news","source":"open-lingo-curriculum","romaji":"nyuusu","tags":["module:m10"],"emoji":"📰","notes":"newspaper as news proxy"}
+{"lemma":"ネクタイ","reading":"ネクタイ","lang":"ja","pos":"noun","gloss":"tie, necktie","source":"open-lingo-curriculum","romaji":"nekutai","tags":["module:future"],"emoji":"👔"}
+{"lemma":"ノート","reading":"ノート","lang":"ja","pos":"noun","gloss":"notebook, exercise book","source":"open-lingo-curriculum","romaji":"nooto","tags":["module:future"],"emoji":"📓"}
+{"lemma":"ハンカチ","reading":"ハンカチ","lang":"ja","pos":"noun","gloss":"handkerchief","source":"open-lingo-curriculum","romaji":"hankachi","tags":["image-mcq-blocked","module:future"],"emoji":"🧻","notes":"no handkerchief glyph; toilet paper misreads"}
+{"lemma":"バター","reading":"バター","lang":"ja","pos":"noun","gloss":"butter","source":"open-lingo-curriculum","romaji":"bataa","tags":["module:future"],"emoji":"🧈"}
+{"lemma":"フィルム","reading":"フィルム","lang":"ja","pos":"noun","gloss":"roll of film","source":"open-lingo-curriculum","romaji":"firumu","tags":["module:future"],"emoji":"🎞️"}
+{"lemma":"フォーク","reading":"フォーク","lang":"ja","pos":"noun","gloss":"fork","source":"open-lingo-curriculum","romaji":"fooku","tags":["module:m21"],"emoji":"🍴"}
+{"lemma":"プール","reading":"プール","lang":"ja","pos":"noun","gloss":"swimming pool","source":"open-lingo-curriculum","romaji":"puuru","tags":["module:future"],"emoji":"🏊","notes":"swimmer as pool cue"}
+{"lemma":"ベッド","reading":"ベッド","lang":"ja","pos":"noun","gloss":"bed","source":"open-lingo-curriculum","romaji":"beddo","tags":["module:future"],"emoji":"🛏️"}
+{"lemma":"ペット","reading":"ペット","lang":"ja","pos":"noun","gloss":"pet","source":"open-lingo-curriculum","romaji":"petto","tags":["module:future"],"emoji":"🐕","notes":"dog as canonical pet"}
+{"lemma":"ページ","reading":"ページ","lang":"ja","pos":"noun","gloss":"page","source":"open-lingo-curriculum","romaji":"peeji","tags":["module:future"],"emoji":"📄"}
+{"lemma":"ボタン","reading":"ボタン","lang":"ja","pos":"noun","gloss":"button","source":"open-lingo-curriculum","romaji":"botan","tags":["module:future"],"emoji":"🔘","notes":"radio button"}
+{"lemma":"ボールペン","reading":"ボールペン","lang":"ja","pos":"noun","gloss":"ball-point pen","source":"open-lingo-curriculum","romaji":"boorupen","tags":["module:future"],"emoji":"🖊️"}
+{"lemma":"ポケット","reading":"ポケット","lang":"ja","pos":"noun","gloss":"pocket","source":"open-lingo-curriculum","romaji":"poketto","tags":["module:future"],"emoji":"👖","notes":"jeans as pocket proxy"}
+{"lemma":"ポスト","reading":"ポスト","lang":"ja","pos":"noun","gloss":"post","source":"open-lingo-curriculum","romaji":"posuto","tags":["module:m14"],"emoji":"📮","notes":"postbox"}
+{"lemma":"マッチ","reading":"マッチ","lang":"ja","pos":"noun","gloss":"match","source":"open-lingo-curriculum","romaji":"matchi","tags":["module:future"],"emoji":"🔥","notes":"fire as match-strike proxy (no match-stick emoji)"}
+{"lemma":"メートル","reading":"メートル","lang":"ja","pos":"noun","gloss":"metre","source":"open-lingo-curriculum","romaji":"meetoru","tags":["module:future"],"emoji":"📏","notes":"ruler"}
+{"lemma":"ラジオ","reading":"ラジオ","lang":"ja","pos":"noun","gloss":"radio","source":"open-lingo-curriculum","romaji":"rajio","tags":["module:m24"],"emoji":"📻"}
+{"lemma":"ラジカセ / ラジオカセット","reading":"ラジカセ / ラジオカセット","lang":"ja","pos":"noun","gloss":"radio cassette player","source":"open-lingo-curriculum","romaji":"rajikase-/-rajiokasetto","tags":["module:future"],"emoji":"📻"}
+{"lemma":"レコード","reading":"レコード","lang":"ja","pos":"noun","gloss":"record","source":"open-lingo-curriculum","romaji":"rekoodo","tags":["module:future"],"emoji":"💿","notes":"optical disc; record-like"}
+{"lemma":"ワイシャツ","reading":"ワイシャツ","lang":"ja","pos":"noun","gloss":"business shirt","source":"open-lingo-curriculum","romaji":"waishatsu","tags":["image-mcq-blocked","module:future"],"emoji":"👔","notes":"necktie already used; collision risk"}
+{"lemma":"お兄さん","reading":"おにいさん","lang":"ja","pos":"noun","gloss":"(honorable) older brother","source":"open-lingo-curriculum","romaji":"oniisan","tags":["has-kanji","module:m19"],"emoji":"👨","notes":"man + kanji 兄"}
+{"lemma":"お姉さん","reading":"おねえさん","lang":"ja","pos":"noun","gloss":"(honorable) older sister","source":"open-lingo-curriculum","romaji":"oneesan","tags":["has-kanji","module:m19"],"emoji":"👩","notes":"woman; kanji 姉 carries 'older'"}
+{"lemma":"お弁当","reading":"おべんとう","lang":"ja","pos":"noun","gloss":"boxed lunch","source":"open-lingo-curriculum","romaji":"obentou","tags":["has-kanji","module:m21"],"emoji":"🍱"}
+{"lemma":"お手洗い","reading":"おてあらい","lang":"ja","pos":"noun","gloss":"bathroom","source":"open-lingo-curriculum","romaji":"otearai","tags":["has-kanji","module:future"],"emoji":"🚻"}
+{"lemma":"お母さん","reading":"おかあさん","lang":"ja","pos":"noun","gloss":"(honorable) mother","source":"open-lingo-curriculum","romaji":"okaasan","tags":["has-kanji","module:m19"],"emoji":"👩","notes":"woman; pair with phrase context"}
+{"lemma":"お父さん","reading":"おとうさん","lang":"ja","pos":"noun","gloss":"(honorable) father","source":"open-lingo-curriculum","romaji":"otousan","tags":["has-kanji","image-mcq-blocked","module:m19"],"emoji":"👨","notes":"man glyph reads as 'man' not 'father'; rubric flags parent words"}
+{"lemma":"お皿","reading":"おさら","lang":"ja","pos":"noun","gloss":"plate, dish","source":"open-lingo-curriculum","romaji":"osara","tags":["has-kanji","module:m21"],"emoji":"🍽️","notes":"plate-with-utensils"}
+{"lemma":"お菓子","reading":"おかし","lang":"ja","pos":"noun","gloss":"sweets, candy","source":"open-lingo-curriculum","romaji":"okashi","tags":["has-kanji","module:future"],"emoji":"🍬"}
+{"lemma":"お風呂","reading":"おふろ","lang":"ja","pos":"noun","gloss":"bath","source":"open-lingo-curriculum","romaji":"ofuro","tags":["has-kanji","module:m13"],"emoji":"🛁"}
+{"lemma":"さ来年","reading":"さらいねん","lang":"ja","pos":"noun","gloss":"year after next","source":"open-lingo-curriculum","romaji":"sarainen","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"temporal abstraction"}
+{"lemma":"とり肉","reading":"とりにく","lang":"ja","pos":"noun","gloss":"chicken meat","source":"open-lingo-curriculum","romaji":"toriniku","tags":["has-kanji","module:m21"],"emoji":"🍗"}
+{"lemma":"もう一度","reading":"もういちど","lang":"ja","pos":"noun","gloss":"again","source":"open-lingo-curriculum","romaji":"mouichido","tags":["has-kanji","module:m11"],"emoji":"🔁","notes":"repeat arrow"}
+{"lemma":"一日","reading":"いちにち","lang":"ja","pos":"noun","gloss":"(1) one day, (2) first of month","source":"open-lingo-curriculum","romaji":"ichinichi","tags":["has-kanji","image-mcq-blocked","module:m20"],"notes":"counter/date abstraction"}
+{"lemma":"一昨年","reading":"おととし","lang":"ja","pos":"noun","gloss":"year before last","source":"open-lingo-curriculum","romaji":"ototoshi","tags":["has-kanji","image-mcq-blocked","module:m10"],"notes":"temporal abstraction"}
+{"lemma":"一昨日","reading":"おととい","lang":"ja","pos":"noun","gloss":"day before yesterday","source":"open-lingo-curriculum","romaji":"ototoi","tags":["has-kanji","image-mcq-blocked","module:m10"],"notes":"temporal abstraction"}
+{"lemma":"一月","reading":"ひとつき","lang":"ja","pos":"noun","gloss":"one month","source":"open-lingo-curriculum","romaji":"hitotsuki","tags":["has-kanji","image-mcq-blocked","module:m13"],"notes":"abstract duration; calendar reads as date not span"}
+{"lemma":"一緒","reading":"いっしょ","lang":"ja","pos":"noun","gloss":"together","source":"open-lingo-curriculum","romaji":"issho","tags":["has-kanji","module:m23"],"emoji":"👫"}
+{"lemma":"七","reading":"しち","lang":"ja","pos":"noun","gloss":"seven","source":"open-lingo-curriculum","romaji":"shichi","tags":["has-kanji","module:m13"],"emoji":"7️⃣"}
+{"lemma":"七つ","reading":"ななつ","lang":"ja","pos":"noun","gloss":"seven","source":"open-lingo-curriculum","romaji":"nanatsu","tags":["has-kanji","module:future"],"emoji":"7️⃣"}
+{"lemma":"七日","reading":"なのか","lang":"ja","pos":"noun","gloss":"seven days, the seventh day","source":"open-lingo-curriculum","romaji":"nanoka","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"no ordinal-day glyph"}
+{"lemma":"万","reading":"まん","lang":"ja","pos":"noun","gloss":"ten thousand","source":"open-lingo-curriculum","romaji":"man","tags":["has-kanji","image-mcq-blocked","module:m14"],"notes":"no glyph for 10000; ambiguous"}
+{"lemma":"万年筆","reading":"まんねんひつ","lang":"ja","pos":"noun","gloss":"fountain pen","source":"open-lingo-curriculum","romaji":"mannenhitsu","tags":["has-kanji","module:future"],"emoji":"🖋️","notes":"fountain pen — exact match"}
+{"lemma":"丈夫","reading":"じょうぶ","lang":"ja","pos":"noun","gloss":"strong, durable","source":"open-lingo-curriculum","romaji":"joubu","tags":["has-kanji","module:m9"],"emoji":"💪","notes":"flexed arm for strong/durable"}
+{"lemma":"三日","reading":"みっか","lang":"ja","pos":"noun","gloss":"three days, third day of the month","source":"open-lingo-curriculum","romaji":"mikka","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"no glyph for ordinal day-3"}
+{"lemma":"上げる","reading":"あげる","lang":"ja","pos":"noun","gloss":"to give","source":"open-lingo-curriculum","romaji":"ageru","tags":["has-kanji","module:future"],"emoji":"🎁","notes":"gift as giving cue"}
+{"lemma":"上手","reading":"じょうず","lang":"ja","pos":"noun","gloss":"skillful","source":"open-lingo-curriculum","romaji":"jouzu","tags":["has-kanji","module:m9"],"emoji":"👌","notes":"OK-hand as skillful cue"}
+{"lemma":"上着","reading":"うわぎ","lang":"ja","pos":"noun","gloss":"jacket","source":"open-lingo-curriculum","romaji":"uwagi","tags":["has-kanji","module:future"],"emoji":"🧥"}
+{"lemma":"下","reading":"した","lang":"ja","pos":"noun","gloss":"below","source":"open-lingo-curriculum","romaji":"shita","tags":["has-kanji","module:m17"],"emoji":"⬇️","notes":"directional concrete"}
+{"lemma":"下手","reading":"へた","lang":"ja","pos":"noun","gloss":"unskillful","source":"open-lingo-curriculum","romaji":"heta","tags":["has-kanji","module:m9"],"emoji":"👎","notes":"thumbs down as unskillful proxy"}
+{"lemma":"両親","reading":"りょうしん","lang":"ja","pos":"noun","gloss":"both parents","source":"open-lingo-curriculum","romaji":"ryoushin","tags":["has-kanji","module:future"],"emoji":"👪","notes":"family glyph implies parents"}
+{"lemma":"並ぶ","reading":"ならぶ","lang":"ja","pos":"noun","gloss":"to line up, to stand in a line","source":"open-lingo-curriculum","romaji":"narabu","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"no single-glyph for line-up; abstract action"}
+{"lemma":"並べる","reading":"ならべる","lang":"ja","pos":"noun","gloss":"to line up, to set up","source":"open-lingo-curriculum","romaji":"naraberu","tags":["has-kanji","image-mcq-blocked","module:future"],"emoji":"📊","notes":"no clean glyph for 'arrange in a row'; risk of confusion"}
+{"lemma":"中","reading":"なか","lang":"ja","pos":"noun","gloss":"middle","source":"open-lingo-curriculum","romaji":"naka","tags":["has-kanji","image-mcq-blocked","module:m17"],"emoji":"🎯","notes":"bullseye reads as 'target' not 'middle'"}
+{"lemma":"丸い / 円い","reading":"まるい","lang":"ja","pos":"noun","gloss":"round, circular","source":"open-lingo-curriculum","romaji":"marui","tags":["has-kanji","module:future"],"emoji":"⭕","notes":"circle"}
+{"lemma":"乗る","reading":"のる","lang":"ja","pos":"noun","gloss":"to get on, to ride","source":"open-lingo-curriculum","romaji":"noru","tags":["has-kanji","module:m17"],"emoji":"🚗","notes":"car as ride proxy"}
+{"lemma":"九","reading":"く","lang":"ja","pos":"noun","gloss":"nine","source":"open-lingo-curriculum","romaji":"ku","tags":["has-kanji","module:future"],"emoji":"9️⃣"}
+{"lemma":"九つ","reading":"ここのつ","lang":"ja","pos":"noun","gloss":"nine","source":"open-lingo-curriculum","romaji":"kokonotsu","tags":["has-kanji","module:future"],"emoji":"9️⃣"}
+{"lemma":"九日","reading":"ここのか","lang":"ja","pos":"noun","gloss":"nine days, ninth day","source":"open-lingo-curriculum","romaji":"kokonoka","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"no ordinal-day glyph"}
+{"lemma":"二十日","reading":"はつか","lang":"ja","pos":"noun","gloss":"twenty days, twentieth","source":"open-lingo-curriculum","romaji":"hatsuka","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"day counter; abstract"}
+{"lemma":"二十歳","reading":"はたち","lang":"ja","pos":"noun","gloss":"20 years old, 20th year","source":"open-lingo-curriculum","romaji":"hatachi","tags":["has-kanji","module:future"],"emoji":"🔞","notes":"age-20 milestone; Japanese coming-of-age"}
+{"lemma":"二日","reading":"ふつか","lang":"ja","pos":"noun","gloss":"two days, second day of the month","source":"open-lingo-curriculum","romaji":"futsuka","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"day counter; abstract"}
+{"lemma":"五つ","reading":"いつつ","lang":"ja","pos":"noun","gloss":"five","source":"open-lingo-curriculum","romaji":"itsutsu","tags":["has-kanji","module:future"],"emoji":"5️⃣"}
+{"lemma":"五日","reading":"いつか","lang":"ja","pos":"noun","gloss":"five days, fifth day","source":"open-lingo-curriculum","romaji":"itsuka","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"day counter; abstract"}
+{"lemma":"交差点","reading":"こうさてん","lang":"ja","pos":"noun","gloss":"intersection","source":"open-lingo-curriculum","romaji":"kousaten","tags":["has-kanji","module:future"],"emoji":"🚦","notes":"traffic light for intersection"}
+{"lemma":"交番","reading":"こうばん","lang":"ja","pos":"noun","gloss":"police box","source":"open-lingo-curriculum","romaji":"kouban","tags":["has-kanji","module:future"],"emoji":"🚓","notes":"police car; closest Noto for police context"}
+{"lemma":"今","reading":"いま","lang":"ja","pos":"noun","gloss":"now","source":"open-lingo-curriculum","romaji":"ima","tags":["has-kanji","module:m12"],"emoji":"⏰","notes":"clock = now/time"}
+{"lemma":"今年","reading":"ことし","lang":"ja","pos":"noun","gloss":"this year","source":"open-lingo-curriculum","romaji":"kotoshi","tags":["has-kanji","image-mcq-blocked","module:m18"],"notes":"deictic time expression"}
+{"lemma":"今晩","reading":"こんばん","lang":"ja","pos":"noun","gloss":"this evening","source":"open-lingo-curriculum","romaji":"konban","tags":["has-kanji","module:future"],"emoji":"🌃","notes":"night scene as evening cue (loses 'this' nuance)"}
+{"lemma":"今月","reading":"こんげつ","lang":"ja","pos":"noun","gloss":"this month","source":"open-lingo-curriculum","romaji":"kongetsu","tags":["has-kanji","module:future"],"emoji":"📅","notes":"calendar"}
+{"lemma":"今朝","reading":"けさ","lang":"ja","pos":"noun","gloss":"this morning","source":"open-lingo-curriculum","romaji":"kesa","tags":["has-kanji","module:m10"],"emoji":"🌅","notes":"sunrise as morning cue (loses 'this' nuance — phrase context needed)"}
+{"lemma":"今週","reading":"こんしゅう","lang":"ja","pos":"noun","gloss":"this week","source":"open-lingo-curriculum","romaji":"konshuu","tags":["has-kanji","image-mcq-blocked","module:m12"],"notes":"temporal abstraction"}
+{"lemma":"仕事","reading":"しごと","lang":"ja","pos":"noun","gloss":"job","source":"open-lingo-curriculum","romaji":"shigoto","tags":["has-kanji","module:m12"],"emoji":"💼"}
+{"lemma":"休み","reading":"やすみ","lang":"ja","pos":"noun","gloss":"rest, holiday","source":"open-lingo-curriculum","romaji":"yasumi","tags":["has-kanji","module:m10"],"emoji":"😴","notes":"sleeping face as rest proxy"}
+{"lemma":"休む","reading":"やすむ","lang":"ja","pos":"noun","gloss":"to rest","source":"open-lingo-curriculum","romaji":"yasumu","tags":["has-kanji","module:future"],"emoji":"😴","notes":"sleeping face — rest"}
+{"lemma":"会う","reading":"あう","lang":"ja","pos":"noun","gloss":"to meet","source":"open-lingo-curriculum","romaji":"au","tags":["has-kanji","module:m25"],"emoji":"🤝"}
+{"lemma":"会社","reading":"かいしゃ","lang":"ja","pos":"noun","gloss":"company","source":"open-lingo-curriculum","romaji":"kaisha","tags":["has-kanji","module:m13"],"emoji":"🏢","notes":"office building"}
+{"lemma":"伯母さん / 叔母さん","reading":"おばさん","lang":"ja","pos":"noun","gloss":"aunt","source":"open-lingo-curriculum","romaji":"obasan","tags":["has-kanji","module:future"],"emoji":"👩","notes":"woman; pair with phrase for aunt context"}
+{"lemma":"伯父 / 叔父","reading":"おじいさん","lang":"ja","pos":"noun","gloss":"grandfather, male senior citizen","source":"open-lingo-curriculum","romaji":"ojiisan","tags":["has-kanji","module:m19"],"emoji":"👴","notes":"older man"}
+{"lemma":"低い","reading":"ひくい","lang":"ja","pos":"noun","gloss":"short, low","source":"open-lingo-curriculum","romaji":"hikui","tags":["has-kanji","module:future"],"emoji":"⬇️","notes":"down arrow as low cue (weak; ⬆️ used for 上)"}
+{"lemma":"住む","reading":"すむ","lang":"ja","pos":"noun","gloss":"to live in","source":"open-lingo-curriculum","romaji":"sumu","tags":["has-kanji","module:m15"],"emoji":"🏠","notes":"house as live-in cue"}
+{"lemma":"作る","reading":"つくる","lang":"ja","pos":"noun","gloss":"to make","source":"open-lingo-curriculum","romaji":"tsukuru","tags":["has-kanji","module:m24"],"emoji":"🔨","notes":"hammer as making/building proxy"}
+{"lemma":"作文","reading":"さくぶん","lang":"ja","pos":"noun","gloss":"composition, writing","source":"open-lingo-curriculum","romaji":"sakubun","tags":["has-kanji","module:future"],"emoji":"📝"}
+{"lemma":"使う","reading":"つかう","lang":"ja","pos":"noun","gloss":"to use","source":"open-lingo-curriculum","romaji":"tsukau","tags":["has-kanji","module:future"],"emoji":"🛠️","notes":"tools — using"}
+{"lemma":"便利","reading":"べんり","lang":"ja","pos":"noun","gloss":"useful, convenient","source":"open-lingo-curriculum","romaji":"benri","tags":["has-kanji","module:m9"],"emoji":"🛠️","notes":"tools as useful proxy"}
+{"lemma":"借りる","reading":"かりる","lang":"ja","pos":"noun","gloss":"to borrow","source":"open-lingo-curriculum","romaji":"kariru","tags":["has-kanji","module:future"],"emoji":"🤝","notes":"handshake as borrow/lend cue (weak but acceptable)"}
+{"lemma":"働く","reading":"はたらく","lang":"ja","pos":"noun","gloss":"to work","source":"open-lingo-curriculum","romaji":"hataraku","tags":["has-kanji","module:future"],"emoji":"💼","notes":"briefcase"}
+{"lemma":"兄弟","reading":"きょうだい","lang":"ja","pos":"noun","gloss":"(humble) siblings","source":"open-lingo-curriculum","romaji":"kyoudai","tags":["has-kanji","module:future"],"emoji":"👫","notes":"two people; siblings"}
+{"lemma":"先","reading":"さき","lang":"ja","pos":"noun","gloss":"the future, previous","source":"open-lingo-curriculum","romaji":"saki","tags":["has-kanji","image-mcq-blocked","module:m16"],"notes":"abstract temporal/positional — no concrete referent"}
+{"lemma":"先月","reading":"せんげつ","lang":"ja","pos":"noun","gloss":"last month","source":"open-lingo-curriculum","romaji":"sengetsu","tags":["has-kanji","image-mcq-blocked","module:m10"],"notes":"abstract time reference"}
+{"lemma":"先週","reading":"せんしゅう","lang":"ja","pos":"noun","gloss":"last week","source":"open-lingo-curriculum","romaji":"senshuu","tags":["has-kanji","image-mcq-blocked","module:m10"],"notes":"temporal abstraction"}
+{"lemma":"入る","reading":"はいる","lang":"ja","pos":"noun","gloss":"to enter, to contain","source":"open-lingo-curriculum","romaji":"hairu","tags":["has-kanji","module:m16"],"emoji":"🚪","notes":"door as entering cue"}
+{"lemma":"入れる","reading":"いれる","lang":"ja","pos":"noun","gloss":"to put in","source":"open-lingo-curriculum","romaji":"ireru","tags":["has-kanji","module:future"],"emoji":"📥","notes":"inbox tray = put in"}
+{"lemma":"入口","reading":"いりぐち","lang":"ja","pos":"noun","gloss":"entrance","source":"open-lingo-curriculum","romaji":"iriguchi","tags":["has-kanji","module:future"],"emoji":"🚪","notes":"door + kanji 入"}
+{"lemma":"全部","reading":"ぜんぶ","lang":"ja","pos":"noun","gloss":"all","source":"open-lingo-curriculum","romaji":"zenbu","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"quantifier abstract"}
+{"lemma":"八つ","reading":"やっつ","lang":"ja","pos":"noun","gloss":"eight","source":"open-lingo-curriculum","romaji":"yattsu","tags":["has-kanji","module:future"],"emoji":"8️⃣"}
+{"lemma":"八日","reading":"ようか","lang":"ja","pos":"noun","gloss":"eight days, eighth day of the month","source":"open-lingo-curriculum","romaji":"youka","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"no ordinal-day glyph"}
+{"lemma":"八百屋","reading":"やおや","lang":"ja","pos":"noun","gloss":"greengrocer","source":"open-lingo-curriculum","romaji":"yaoya","tags":["has-kanji","module:future"],"emoji":"🥬","notes":"leafy greens stand-in for greengrocer"}
+{"lemma":"六つ","reading":"むっつ","lang":"ja","pos":"noun","gloss":"six","source":"open-lingo-curriculum","romaji":"muttsu","tags":["has-kanji","module:future"],"emoji":"6️⃣"}
+{"lemma":"六日","reading":"むいか","lang":"ja","pos":"noun","gloss":"six days, sixth day of the month","source":"open-lingo-curriculum","romaji":"muika","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"date concept — no clean visual"}
+{"lemma":"冬","reading":"ふゆ","lang":"ja","pos":"noun","gloss":"winter","source":"open-lingo-curriculum","romaji":"fuyu","tags":["has-kanji","module:m18"],"emoji":"❄️"}
+{"lemma":"冷たい","reading":"つめたい","lang":"ja","pos":"noun","gloss":"cold to the touch","source":"open-lingo-curriculum","romaji":"tsumetai","tags":["has-kanji","module:m8"],"emoji":"🧊","notes":"ice cube"}
+{"lemma":"冷蔵庫","reading":"れいぞうこ","lang":"ja","pos":"noun","gloss":"refrigerator","source":"open-lingo-curriculum","romaji":"reizouko","tags":["has-kanji","module:future"],"emoji":"🧊","notes":"ice cube as cold-storage proxy"}
+{"lemma":"出かける","reading":"でかける","lang":"ja","pos":"noun","gloss":"to go out","source":"open-lingo-curriculum","romaji":"dekakeru","tags":["has-kanji","module:m17"],"emoji":"🚶","notes":"person walking"}
+{"lemma":"出す","reading":"だす","lang":"ja","pos":"noun","gloss":"to put out","source":"open-lingo-curriculum","romaji":"dasu","tags":["has-kanji","module:future"],"emoji":"📤","notes":"outbox tray as put-out cue"}
+{"lemma":"出る","reading":"でる","lang":"ja","pos":"noun","gloss":"to appear, to leave","source":"open-lingo-curriculum","romaji":"deru","tags":["has-kanji","module:future"],"emoji":"🚪","notes":"door — leave/exit"}
+{"lemma":"出口","reading":"でぐち","lang":"ja","pos":"noun","gloss":"exit","source":"open-lingo-curriculum","romaji":"deguchi","tags":["has-kanji","module:future"],"emoji":"🚪","notes":"door — paired w/ kanji 出"}
+{"lemma":"分かる","reading":"わかる","lang":"ja","pos":"noun","gloss":"to be understood","source":"open-lingo-curriculum","romaji":"wakaru","tags":["has-kanji","image-mcq-blocked","module:future"],"emoji":"💡","notes":"lightbulb already used for 電気; understanding too abstract"}
+{"lemma":"切る","reading":"きる","lang":"ja","pos":"noun","gloss":"to cut","source":"open-lingo-curriculum","romaji":"kiru","tags":["has-kanji","module:future"],"emoji":"✂️"}
+{"lemma":"切手","reading":"きって","lang":"ja","pos":"noun","gloss":"postage stamp","source":"open-lingo-curriculum","romaji":"kitte","tags":["has-kanji","module:m14"],"emoji":"📮","notes":"postbox; no stamp emoji in Noto"}
+{"lemma":"初め / 始め","reading":"はじめ","lang":"ja","pos":"noun","gloss":"beginning","source":"open-lingo-curriculum","romaji":"hajime","tags":["has-kanji","module:future"],"emoji":"🏁","notes":"checkered flag — start"}
+{"lemma":"初めて","reading":"はじめて","lang":"ja","pos":"noun","gloss":"for the first time","source":"open-lingo-curriculum","romaji":"hajimete","tags":["has-kanji","image-mcq-blocked","module:m25"],"notes":"abstract adverb"}
+{"lemma":"前","reading":"まえ","lang":"ja","pos":"noun","gloss":"before","source":"open-lingo-curriculum","romaji":"mae","tags":["has-kanji","image-mcq-blocked","module:m17"],"notes":"polysemy: spatial 'in front' vs temporal 'before'; ambiguous"}
+{"lemma":"勉強","reading":"べんきょうする","lang":"ja","pos":"noun","gloss":"to study","source":"open-lingo-curriculum","romaji":"benkyousuru","tags":["has-kanji","module:m10"],"emoji":"📚","notes":"books"}
+{"lemma":"動物","reading":"どうぶつ","lang":"ja","pos":"noun","gloss":"animal","source":"open-lingo-curriculum","romaji":"doubutsu","tags":["has-kanji","module:future"],"emoji":"🐾","notes":"paw prints as animal cue"}
+{"lemma":"勤める","reading":"つとめる","lang":"ja","pos":"noun","gloss":"to work for someone","source":"open-lingo-curriculum","romaji":"tsutomeru","tags":["has-kanji","module:future"],"emoji":"💼","notes":"briefcase as employment proxy"}
+{"lemma":"北","reading":"きた","lang":"ja","pos":"noun","gloss":"north","source":"open-lingo-curriculum","romaji":"kita","tags":["has-kanji","module:future"],"emoji":"🧭","notes":"compass for cardinal direction"}
+{"lemma":"医者","reading":"いしゃ","lang":"ja","pos":"noun","gloss":"medical doctor","source":"open-lingo-curriculum","romaji":"isha","tags":["has-kanji","module:m20"],"emoji":"👨‍⚕️"}
+{"lemma":"十","reading":"とお","lang":"ja","pos":"noun","gloss":"ten","source":"open-lingo-curriculum","romaji":"too","tags":["has-kanji","module:future"],"emoji":"🔟"}
+{"lemma":"十日","reading":"とおか","lang":"ja","pos":"noun","gloss":"ten days, the tenth day","source":"open-lingo-curriculum","romaji":"tooka","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"day counter; abstract"}
+{"lemma":"千","reading":"せん","lang":"ja","pos":"noun","gloss":"thousand","source":"open-lingo-curriculum","romaji":"sen","tags":["has-kanji","image-mcq-blocked","module:m14"],"notes":"no canonical emoji for 1000; ambiguous with 100"}
+{"lemma":"午前","reading":"ごぜん","lang":"ja","pos":"noun","gloss":"morning","source":"open-lingo-curriculum","romaji":"gozen","tags":["has-kanji","module:m12"],"emoji":"🌅","notes":"sunrise"}
+{"lemma":"午後","reading":"ごご","lang":"ja","pos":"noun","gloss":"afternoon","source":"open-lingo-curriculum","romaji":"gogo","tags":["has-kanji","module:m12"],"emoji":"🌇","notes":"late-day cityscape as afternoon cue"}
+{"lemma":"半","reading":"はん","lang":"ja","pos":"noun","gloss":"half","source":"open-lingo-curriculum","romaji":"han","tags":["has-kanji","module:m12"],"emoji":"🌗","notes":"| swapped ½→🌗 (Noto has no fraction glyph; half-moon reads as 'half')"}
+{"lemma":"半分","reading":"はんぶん","lang":"ja","pos":"noun","gloss":"half minute","source":"open-lingo-curriculum","romaji":"hanbun","tags":["has-kanji","module:future"],"emoji":"🌗","notes":"half symbol | swapped ½→🌗 (Noto has no fraction glyph; half-moon reads as 'half')"}
+{"lemma":"南","reading":"みなみ","lang":"ja","pos":"noun","gloss":"south","source":"open-lingo-curriculum","romaji":"minami","tags":["has-kanji","module:future"],"emoji":"⬇️","notes":"down-arrow as south cue (map convention)"}
+{"lemma":"危ない","reading":"あぶない","lang":"ja","pos":"noun","gloss":"dangerous","source":"open-lingo-curriculum","romaji":"abunai","tags":["has-kanji","module:future"],"emoji":"⚠️"}
+{"lemma":"卵","reading":"たまご","lang":"ja","pos":"noun","gloss":"egg","source":"open-lingo-curriculum","romaji":"tamago","tags":["has-kanji","module:m21"],"emoji":"🥚"}
+{"lemma":"厚い","reading":"あつい","lang":"ja","pos":"noun","gloss":"kind, deep, thick","source":"open-lingo-curriculum","romaji":"atsui","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"polysemous abstract adjective"}
+{"lemma":"去年","reading":"きょねん","lang":"ja","pos":"noun","gloss":"last year","source":"open-lingo-curriculum","romaji":"kyonen","tags":["has-kanji","image-mcq-blocked","module:m10"],"notes":"abstract time reference; no visual referent"}
+{"lemma":"取る","reading":"とる","lang":"ja","pos":"noun","gloss":"to take something","source":"open-lingo-curriculum","romaji":"toru","tags":["has-kanji","module:m16"],"emoji":"🤲","notes":"open hands receiving"}
+{"lemma":"口","reading":"くち","lang":"ja","pos":"noun","gloss":"mouth, opening","source":"open-lingo-curriculum","romaji":"kuchi","tags":["has-kanji","module:m20"],"emoji":"👄"}
+{"lemma":"古い","reading":"ふるい","lang":"ja","pos":"noun","gloss":"old (not used for people)","source":"open-lingo-curriculum","romaji":"furui","tags":["has-kanji","module:m8"],"emoji":"🏚️","notes":"derelict house — old"}
+{"lemma":"台所","reading":"だいどころ","lang":"ja","pos":"noun","gloss":"kitchen","source":"open-lingo-curriculum","romaji":"daidokoro","tags":["has-kanji","module:future"],"emoji":"🍳","notes":"cooking pan stands in for kitchen"}
+{"lemma":"右","reading":"みぎ","lang":"ja","pos":"noun","gloss":"right side","source":"open-lingo-curriculum","romaji":"migi","tags":["has-kanji","module:m17"],"emoji":"➡️"}
+{"lemma":"同じ","reading":"おなじ","lang":"ja","pos":"noun","gloss":"same","source":"open-lingo-curriculum","romaji":"onaji","tags":["has-kanji","module:m22"],"emoji":"🟰","notes":"equals sign"}
+{"lemma":"向こう","reading":"むこう","lang":"ja","pos":"noun","gloss":"over there","source":"open-lingo-curriculum","romaji":"mukou","tags":["has-kanji","image-mcq-blocked","module:m17"],"notes":"spatial demonstrative"}
+{"lemma":"吸う","reading":"すう","lang":"ja","pos":"noun","gloss":"to smoke, to suck","source":"open-lingo-curriculum","romaji":"suu","tags":["has-kanji","module:m16"],"emoji":"🚬","notes":"cigarette as smoke cue"}
+{"lemma":"吹く","reading":"ふく","lang":"ja","pos":"noun","gloss":"to blow","source":"open-lingo-curriculum","romaji":"fuku","tags":["has-kanji","module:future"],"emoji":"💨","notes":"wind-puff as blowing cue"}
+{"lemma":"呼ぶ","reading":"よぶ","lang":"ja","pos":"noun","gloss":"to call out, to invite","source":"open-lingo-curriculum","romaji":"yobu","tags":["has-kanji","module:future"],"emoji":"📣","notes":"megaphone as call-out cue"}
+{"lemma":"咲く","reading":"さく","lang":"ja","pos":"noun","gloss":"to bloom","source":"open-lingo-curriculum","romaji":"saku","tags":["has-kanji","module:future"],"emoji":"🌷","notes":"tulip; avoid 🌸 per rubric (cherry blossom specific)"}
+{"lemma":"問題","reading":"もんだい","lang":"ja","pos":"noun","gloss":"problem","source":"open-lingo-curriculum","romaji":"mondai","tags":["has-kanji","module:future"],"emoji":"❓","notes":"question mark as problem proxy"}
+{"lemma":"喫茶店","reading":"きっさてん","lang":"ja","pos":"noun","gloss":"coffee lounge","source":"open-lingo-curriculum","romaji":"kissaten","tags":["has-kanji","module:m13"],"emoji":"☕","notes":"coffee cup; café"}
+{"lemma":"四","reading":"し","lang":"ja","pos":"noun","gloss":"four","source":"open-lingo-curriculum","romaji":"shi","tags":["has-kanji","module:m13"],"emoji":"4️⃣"}
+{"lemma":"四つ","reading":"よっつ","lang":"ja","pos":"noun","gloss":"four","source":"open-lingo-curriculum","romaji":"yottsu","tags":["has-kanji","module:future"],"emoji":"4️⃣"}
+{"lemma":"四日","reading":"よっか","lang":"ja","pos":"noun","gloss":"four days, fouth day of the month","source":"open-lingo-curriculum","romaji":"yokka","tags":["has-kanji","module:future"],"emoji":"4️⃣","notes":"number 4"}
+{"lemma":"困る","reading":"こまる","lang":"ja","pos":"noun","gloss":"to be worried","source":"open-lingo-curriculum","romaji":"komaru","tags":["has-kanji","module:m26"],"emoji":"😟","notes":"worried face"}
+{"lemma":"国","reading":"くに","lang":"ja","pos":"noun","gloss":"country","source":"open-lingo-curriculum","romaji":"kuni","tags":["has-kanji","module:future"],"emoji":"🗾","notes":"Japan map as country cue (concrete shape)"}
+{"lemma":"土曜日","reading":"どようび","lang":"ja","pos":"noun","gloss":"Saturday","source":"open-lingo-curriculum","romaji":"doyoubi","tags":["has-kanji","module:m12"],"emoji":"📅","notes":"generic calendar"}
+{"lemma":"地図","reading":"ちず","lang":"ja","pos":"noun","gloss":"map","source":"open-lingo-curriculum","romaji":"chizu","tags":["has-kanji","module:future"],"emoji":"🗺️"}
+{"lemma":"塩","reading":"しお","lang":"ja","pos":"noun","gloss":"salt","source":"open-lingo-curriculum","romaji":"shio","tags":["has-kanji","module:future"],"emoji":"🧂"}
+{"lemma":"売る","reading":"うる","lang":"ja","pos":"noun","gloss":"to sell","source":"open-lingo-curriculum","romaji":"uru","tags":["has-kanji","module:future"],"emoji":"🏷️","notes":"price tag as sell proxy"}
+{"lemma":"夏","reading":"なつ","lang":"ja","pos":"noun","gloss":"summer","source":"open-lingo-curriculum","romaji":"natsu","tags":["has-kanji","module:m18"],"emoji":"🌻","notes":"sunflower as summer cue (☀️ taken for warm)"}
+{"lemma":"夏休み","reading":"なつやすみ","lang":"ja","pos":"noun","gloss":"summer holiday","source":"open-lingo-curriculum","romaji":"natsuyasumi","tags":["has-kanji","module:m13"],"emoji":"🏖️"}
+{"lemma":"夕方","reading":"ゆうがた","lang":"ja","pos":"noun","gloss":"evening","source":"open-lingo-curriculum","romaji":"yuugata","tags":["has-kanji","module:m12"],"emoji":"🌇","notes":"sunset over buildings"}
+{"lemma":"夕飯","reading":"ゆうはん","lang":"ja","pos":"noun","gloss":"dinner","source":"open-lingo-curriculum","romaji":"yuuhan","tags":["has-kanji","module:future"],"emoji":"🍽️"}
+{"lemma":"外","reading":"そと","lang":"ja","pos":"noun","gloss":"outside","source":"open-lingo-curriculum","romaji":"soto","tags":["has-kanji","module:m13"],"emoji":"🌳","notes":"tree = outdoors"}
+{"lemma":"外国","reading":"がいこく","lang":"ja","pos":"noun","gloss":"foreign country","source":"open-lingo-curriculum","romaji":"gaikoku","tags":["has-kanji","module:m25"],"emoji":"🌏","notes":"globe as foreign-country cue"}
+{"lemma":"外国人","reading":"がいこくじん","lang":"ja","pos":"noun","gloss":"foreigner","source":"open-lingo-curriculum","romaji":"gaikokujin","tags":["has-kanji","module:future"],"emoji":"🌍","notes":"globe — foreign/abroad"}
+{"lemma":"多い","reading":"おおい","lang":"ja","pos":"noun","gloss":"many","source":"open-lingo-curriculum","romaji":"ooi","tags":["has-kanji","image-mcq-blocked","module:m22"],"notes":"abstract quantifier; no canonical referent"}
+{"lemma":"夜","reading":"よる","lang":"ja","pos":"noun","gloss":"evening, night","source":"open-lingo-curriculum","romaji":"yoru","tags":["has-kanji","module:m12"],"emoji":"🌙"}
+{"lemma":"大きい","reading":"おおきい","lang":"ja","pos":"noun","gloss":"big","source":"open-lingo-curriculum","romaji":"ookii","tags":["has-kanji","module:m8"],"emoji":"🐘","notes":"elephant = big (size adjective)"}
+{"lemma":"大きな","reading":"おおきな","lang":"ja","pos":"noun","gloss":"big","source":"open-lingo-curriculum","romaji":"ookina","tags":["has-kanji","module:m9"],"emoji":"🐘","notes":"elephant as big proxy"}
+{"lemma":"大丈夫","reading":"だいじょうぶ","lang":"ja","pos":"noun","gloss":"all right","source":"open-lingo-curriculum","romaji":"daijoubu","tags":["has-kanji","module:m9"],"emoji":"👌","notes":"OK sign"}
+{"lemma":"大人","reading":"おとな","lang":"ja","pos":"noun","gloss":"adult","source":"open-lingo-curriculum","romaji":"otona","tags":["has-kanji","module:m19"],"emoji":"🧑"}
+{"lemma":"大使館","reading":"たいしかん","lang":"ja","pos":"noun","gloss":"embassy","source":"open-lingo-curriculum","romaji":"taishikan","tags":["has-kanji","module:future"],"emoji":"🏛️","notes":"classical building as embassy cue"}
+{"lemma":"大切","reading":"たいせつ","lang":"ja","pos":"noun","gloss":"important","source":"open-lingo-curriculum","romaji":"taisetsu","tags":["has-kanji","module:m27"],"emoji":"❗","notes":"exclamation as importance cue"}
+{"lemma":"大勢","reading":"おおぜい","lang":"ja","pos":"noun","gloss":"great number of people","source":"open-lingo-curriculum","romaji":"oozei","tags":["has-kanji","module:future"],"emoji":"👨‍👩‍👧‍👦","notes":"family cluster = many people"}
+{"lemma":"大好き","reading":"だいすき","lang":"ja","pos":"noun","gloss":"to be very likeable","source":"open-lingo-curriculum","romaji":"daisuki","tags":["has-kanji","module:future"],"emoji":"❤️","notes":"heart as love cue"}
+{"lemma":"大学","reading":"だいがく","lang":"ja","pos":"noun","gloss":"university","source":"open-lingo-curriculum","romaji":"daigaku","tags":["has-kanji","module:m19"],"emoji":"🎓","notes":"graduation cap"}
+{"lemma":"天気","reading":"てんき","lang":"ja","pos":"noun","gloss":"weather","source":"open-lingo-curriculum","romaji":"tenki","tags":["has-kanji","module:m18"],"emoji":"⛅","notes":"sun-behind-cloud as generic weather cue"}
+{"lemma":"太い","reading":"ふとい","lang":"ja","pos":"noun","gloss":"fat","source":"open-lingo-curriculum","romaji":"futoi","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"polysemy fat/thick; person-emoji reads as body-shape; risky"}
+{"lemma":"奥さん","reading":"おくさん","lang":"ja","pos":"noun","gloss":"(honorable) wife","source":"open-lingo-curriculum","romaji":"okusan","tags":["has-kanji","module:future"],"emoji":"👰","notes":"bride stands in for wife"}
+{"lemma":"女","reading":"おんな","lang":"ja","pos":"noun","gloss":"woman","source":"open-lingo-curriculum","romaji":"onna","tags":["has-kanji","module:m19"],"emoji":"👩"}
+{"lemma":"女の子","reading":"おんなのこ","lang":"ja","pos":"noun","gloss":"girl","source":"open-lingo-curriculum","romaji":"onnanoko","tags":["has-kanji","module:m19"],"emoji":"👧"}
+{"lemma":"好き","reading":"すき","lang":"ja","pos":"noun","gloss":"likeable","source":"open-lingo-curriculum","romaji":"suki","tags":["has-kanji","module:m9"],"emoji":"❤️","notes":"heart"}
+{"lemma":"妹","reading":"いもうと","lang":"ja","pos":"noun","gloss":"(humble) younger sister","source":"open-lingo-curriculum","romaji":"imouto","tags":["has-kanji","module:m19"],"emoji":"👧","notes":"younger-girl approximation; sister relation context-dependent"}
+{"lemma":"始まる","reading":"はじまる","lang":"ja","pos":"noun","gloss":"to begin","source":"open-lingo-curriculum","romaji":"hajimaru","tags":["has-kanji","module:future"],"emoji":"▶️","notes":"play button as start proxy"}
+{"lemma":"嫌","reading":"いや","lang":"ja","pos":"noun","gloss":"unpleasant","source":"open-lingo-curriculum","romaji":"iya","tags":["has-kanji","module:future"],"emoji":"🤢","notes":"disgust face = unpleasant"}
+{"lemma":"嫌い","reading":"きらい","lang":"ja","pos":"noun","gloss":"hate","source":"open-lingo-curriculum","romaji":"kirai","tags":["has-kanji","module:m9"],"emoji":"🙅","notes":"person gesturing no"}
+{"lemma":"子供","reading":"こども","lang":"ja","pos":"noun","gloss":"child","source":"open-lingo-curriculum","romaji":"kodomo","tags":["has-kanji","module:m19"],"emoji":"🧒"}
+{"lemma":"字引","reading":"じびき","lang":"ja","pos":"noun","gloss":"dictionary","source":"open-lingo-curriculum","romaji":"jibiki","tags":["has-kanji","module:future"],"emoji":"📖","notes":"open book"}
+{"lemma":"安い","reading":"やすい","lang":"ja","pos":"noun","gloss":"cheap","source":"open-lingo-curriculum","romaji":"yasui","tags":["has-kanji","module:m8"],"emoji":"🪙","notes":"coin as cheap/small-money proxy"}
+{"lemma":"家庭","reading":"かてい","lang":"ja","pos":"noun","gloss":"household","source":"open-lingo-curriculum","romaji":"katei","tags":["has-kanji","module:future"],"emoji":"🏠","notes":"house"}
+{"lemma":"宿題","reading":"しゅくだい","lang":"ja","pos":"noun","gloss":"homework","source":"open-lingo-curriculum","romaji":"shukudai","tags":["has-kanji","module:m16"],"emoji":"📝"}
+{"lemma":"寒い","reading":"さむい","lang":"ja","pos":"noun","gloss":"cold","source":"open-lingo-curriculum","romaji":"samui","tags":["has-kanji","module:m8"],"emoji":"🥶","notes":"cold face"}
+{"lemma":"寝る","reading":"ねる","lang":"ja","pos":"noun","gloss":"to go to bed, to sleep","source":"open-lingo-curriculum","romaji":"neru","tags":["has-kanji","module:m17"],"emoji":"🛏️","notes":"bed"}
+{"lemma":"封筒","reading":"ふうとう","lang":"ja","pos":"noun","gloss":"envelope","source":"open-lingo-curriculum","romaji":"fuutou","tags":["has-kanji","module:m14"],"emoji":"✉️"}
+{"lemma":"小さい","reading":"ちいさい","lang":"ja","pos":"noun","gloss":"little","source":"open-lingo-curriculum","romaji":"chiisai","tags":["has-kanji","image-mcq-blocked","module:m8"],"notes":"abstract adjective; no canonical referent"}
+{"lemma":"小さな","reading":"ちいさな","lang":"ja","pos":"noun","gloss":"little","source":"open-lingo-curriculum","romaji":"chiisana","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"prenominal adjective; abstract size, no referent"}
+{"lemma":"少し","reading":"すこし","lang":"ja","pos":"noun","gloss":"few","source":"open-lingo-curriculum","romaji":"sukoshi","tags":["has-kanji","module:m9"],"emoji":"🤏","notes":"pinching hand as small-amount proxy"}
+{"lemma":"少ない","reading":"すくない","lang":"ja","pos":"noun","gloss":"a few","source":"open-lingo-curriculum","romaji":"sukunai","tags":["has-kanji","image-mcq-blocked","module:m22"],"notes":"abstract quantifier"}
+{"lemma":"居る","reading":"いる","lang":"ja","pos":"noun","gloss":"to be, to have (used for people and animals)","source":"open-lingo-curriculum","romaji":"iru","tags":["has-kanji","image-mcq-blocked","module:m11"],"notes":"existence-of — rubric explicit block"}
+{"lemma":"左","reading":"ひだり","lang":"ja","pos":"noun","gloss":"left hand side","source":"open-lingo-curriculum","romaji":"hidari","tags":["has-kanji","module:m17"],"emoji":"👈"}
+{"lemma":"差す","reading":"さす","lang":"ja","pos":"noun","gloss":"to stretch out hands, to raise an umbrella","source":"open-lingo-curriculum","romaji":"sasu","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"polysemous action verb"}
+{"lemma":"帰る","reading":"かえる","lang":"ja","pos":"noun","gloss":"to go back","source":"open-lingo-curriculum","romaji":"kaeru","tags":["has-kanji","module:m14"],"emoji":"🏠","notes":"home as return-destination cue"}
+{"lemma":"年","reading":"とし","lang":"ja","pos":"noun","gloss":"year","source":"open-lingo-curriculum","romaji":"toshi","tags":["has-kanji","module:m11"],"emoji":"📅","notes":"calendar as year proxy"}
+{"lemma":"広い","reading":"ひろい","lang":"ja","pos":"noun","gloss":"spacious, wide","source":"open-lingo-curriculum","romaji":"hiroi","tags":["has-kanji","module:m8"],"emoji":"🏜️","notes":"open desert as spacious cue (weak)"}
+{"lemma":"座る","reading":"すわる","lang":"ja","pos":"noun","gloss":"to sit","source":"open-lingo-curriculum","romaji":"suwaru","tags":["has-kanji","module:m16"],"emoji":"🪑","notes":"chair as sitting proxy"}
+{"lemma":"庭","reading":"にわ","lang":"ja","pos":"noun","gloss":"garden","source":"open-lingo-curriculum","romaji":"niwa","tags":["has-kanji","module:m18"],"emoji":"🌳","notes":"tree as garden proxy"}
+{"lemma":"廊下","reading":"ろうか","lang":"ja","pos":"noun","gloss":"corridor","source":"open-lingo-curriculum","romaji":"rouka","tags":["has-kanji","image-mcq-blocked","module:m16"],"notes":"no corridor emoji in Noto"}
+{"lemma":"建物","reading":"たてもの","lang":"ja","pos":"noun","gloss":"building","source":"open-lingo-curriculum","romaji":"tatemono","tags":["has-kanji","module:m17"],"emoji":"🏢"}
+{"lemma":"引く","reading":"ひく","lang":"ja","pos":"noun","gloss":"to pull","source":"open-lingo-curriculum","romaji":"hiku","tags":["has-kanji","module:m20"],"emoji":"🪝","notes":"hook implies pulling"}
+{"lemma":"弟","reading":"おとうと","lang":"ja","pos":"noun","gloss":"younger brother","source":"open-lingo-curriculum","romaji":"otouto","tags":["has-kanji","module:m19"],"emoji":"👦","notes":"boy reads younger-male; pair w/ kanji"}
+{"lemma":"弱い","reading":"よわい","lang":"ja","pos":"noun","gloss":"weak","source":"open-lingo-curriculum","romaji":"yowai","tags":["has-kanji","module:m18"],"emoji":"🪶","notes":"feather connotes weak/light"}
+{"lemma":"強い","reading":"つよい","lang":"ja","pos":"noun","gloss":"powerful","source":"open-lingo-curriculum","romaji":"tsuyoi","tags":["has-kanji","module:m27"],"emoji":"💪","notes":"flexed bicep"}
+{"lemma":"弾く","reading":"ひく","lang":"ja","pos":"noun","gloss":"to play an instrument with strings, including piano","source":"open-lingo-curriculum","romaji":"hiku","tags":["has-kanji","module:future"],"emoji":"🎹","notes":"piano keys"}
+{"lemma":"待つ","reading":"まつ","lang":"ja","pos":"noun","gloss":"to wait","source":"open-lingo-curriculum","romaji":"matsu","tags":["has-kanji","module:m14"],"emoji":"⏳","notes":"hourglass"}
+{"lemma":"後","reading":"あと","lang":"ja","pos":"noun","gloss":"afterwards","source":"open-lingo-curriculum","romaji":"ato","tags":["has-kanji","image-mcq-blocked","module:m13"],"notes":"abstract temporal adverb"}
+{"lemma":"後ろ","reading":"うしろ","lang":"ja","pos":"noun","gloss":"behind","source":"open-lingo-curriculum","romaji":"ushiro","tags":["has-kanji","image-mcq-blocked","module:m17"],"emoji":"⬅️","notes":"spatial relation; arrow ambiguous with left"}
+{"lemma":"忘れる","reading":"わすれる","lang":"ja","pos":"noun","gloss":"to forget","source":"open-lingo-curriculum","romaji":"wasureru","tags":["has-kanji","module:m26"],"emoji":"🤔","notes":"thinking face as memory-lapse cue (weak)"}
+{"lemma":"忙しい","reading":"いそがしい","lang":"ja","pos":"noun","gloss":"busy, irritated","source":"open-lingo-curriculum","romaji":"isogashii","tags":["has-kanji","module:m15"],"emoji":"😰","notes":"anxious sweat = busy/overwhelmed"}
+{"lemma":"悪い","reading":"わるい","lang":"ja","pos":"noun","gloss":"bad","source":"open-lingo-curriculum","romaji":"warui","tags":["has-kanji","module:m8"],"emoji":"👎"}
+{"lemma":"意味","reading":"いみ","lang":"ja","pos":"noun","gloss":"meaning","source":"open-lingo-curriculum","romaji":"imi","tags":["has-kanji","image-mcq-blocked","module:m26"],"notes":"abstract noun — per rubric"}
+{"lemma":"戸","reading":"と","lang":"ja","pos":"noun","gloss":"Japanese style door","source":"open-lingo-curriculum","romaji":"to","tags":["has-kanji","module:future"],"emoji":"🚪"}
+{"lemma":"所","reading":"ところ","lang":"ja","pos":"noun","gloss":"place","source":"open-lingo-curriculum","romaji":"tokoro","tags":["has-kanji","image-mcq-blocked","module:m9"],"notes":"abstract noun (per rubric: ところ explicitly flagged)"}
+{"lemma":"手","reading":"て","lang":"ja","pos":"noun","gloss":"hand","source":"open-lingo-curriculum","romaji":"te","tags":["has-kanji","module:m20"],"emoji":"✋"}
+{"lemma":"押す","reading":"おす","lang":"ja","pos":"noun","gloss":"to push, to stamp something","source":"open-lingo-curriculum","romaji":"osu","tags":["has-kanji","module:future"],"emoji":"👆","notes":"pointing/pushing finger"}
+{"lemma":"持つ","reading":"もつ","lang":"ja","pos":"noun","gloss":"to hold","source":"open-lingo-curriculum","romaji":"motsu","tags":["has-kanji","module:m15"],"emoji":"✊","notes":"fist as holding cue"}
+{"lemma":"掃除","reading":"そうじする","lang":"ja","pos":"noun","gloss":"to clean, to sweep","source":"open-lingo-curriculum","romaji":"soujisuru","tags":["has-kanji","module:future"],"emoji":"🧹","notes":"broom"}
+{"lemma":"授業","reading":"じゅぎょう","lang":"ja","pos":"noun","gloss":"lesson, class work","source":"open-lingo-curriculum","romaji":"jugyou","tags":["has-kanji","module:m13"],"emoji":"👨‍🏫","notes":"teacher as class cue"}
+{"lemma":"撮る","reading":"とる","lang":"ja","pos":"noun","gloss":"to take a photo or record a film","source":"open-lingo-curriculum","romaji":"toru","tags":["has-kanji","module:m16"],"emoji":"📸","notes":"camera with flash"}
+{"lemma":"教える","reading":"おしえる","lang":"ja","pos":"noun","gloss":"to teach, to tell","source":"open-lingo-curriculum","romaji":"oshieru","tags":["has-kanji","module:m14"],"emoji":"👨‍🏫","notes":"teacher ZWJ glyph"}
+{"lemma":"教室","reading":"きょうしつ","lang":"ja","pos":"noun","gloss":"classroom","source":"open-lingo-curriculum","romaji":"kyoushitsu","tags":["has-kanji","module:m16"],"emoji":"🏫","notes":"school; closest concrete"}
+{"lemma":"散歩","reading":"さんぽする","lang":"ja","pos":"noun","gloss":"to stroll","source":"open-lingo-curriculum","romaji":"sanposuru","tags":["has-kanji","module:future"],"emoji":"🚶"}
+{"lemma":"文章","reading":"ぶんしょう","lang":"ja","pos":"noun","gloss":"sentence, text","source":"open-lingo-curriculum","romaji":"bunshou","tags":["has-kanji","module:future"],"emoji":"📝"}
+{"lemma":"新しい","reading":"あたらしい","lang":"ja","pos":"noun","gloss":"new","source":"open-lingo-curriculum","romaji":"atarashii","tags":["has-kanji","module:m8"],"emoji":"🆕"}
+{"lemma":"方","reading":"かた","lang":"ja","pos":"noun","gloss":"person, way of doing","source":"open-lingo-curriculum","romaji":"kata","tags":["has-kanji","image-mcq-blocked","module:m19"],"notes":"polysemous abstract noun (per rubric)"}
+{"lemma":"旅行","reading":"りょこう","lang":"ja","pos":"noun","gloss":"travel","source":"open-lingo-curriculum","romaji":"ryokou","tags":["has-kanji","module:m15"],"emoji":"✈️"}
+{"lemma":"日曜日","reading":"にちようび","lang":"ja","pos":"noun","gloss":"Sunday","source":"open-lingo-curriculum","romaji":"nichiyoubi","tags":["has-kanji","module:m12"],"emoji":"📅","notes":"generic calendar"}
+{"lemma":"早い","reading":"はやい","lang":"ja","pos":"noun","gloss":"early","source":"open-lingo-curriculum","romaji":"hayai","tags":["has-kanji","module:m12"],"emoji":"⏰","notes":"alarm clock for early"}
+{"lemma":"明い","reading":"あかるい","lang":"ja","pos":"noun","gloss":"bright","source":"open-lingo-curriculum","romaji":"akarui","tags":["has-kanji","module:future"],"emoji":"💡","notes":"lightbulb"}
+{"lemma":"明日","reading":"あした","lang":"ja","pos":"noun","gloss":"tomorrow","source":"open-lingo-curriculum","romaji":"ashita","tags":["has-kanji","image-mcq-blocked","module:m12"],"notes":"abstract time reference"}
+{"lemma":"易しい","reading":"やさしい","lang":"ja","pos":"noun","gloss":"easy, simple","source":"open-lingo-curriculum","romaji":"yasashii","tags":["has-kanji","image-mcq-blocked","module:m8"],"notes":"abstract adjective; homophone with 'kind' increases ambiguity"}
+{"lemma":"映画","reading":"えいが","lang":"ja","pos":"noun","gloss":"movie","source":"open-lingo-curriculum","romaji":"eiga","tags":["has-kanji","module:m15"],"emoji":"🎬"}
+{"lemma":"映画館","reading":"えいがかん","lang":"ja","pos":"noun","gloss":"cinema","source":"open-lingo-curriculum","romaji":"eigakan","tags":["has-kanji","module:future"],"emoji":"🎦"}
+{"lemma":"春","reading":"はる","lang":"ja","pos":"noun","gloss":"spring","source":"open-lingo-curriculum","romaji":"haru","tags":["has-kanji","module:m18"],"emoji":"🌸","notes":"cherry blossom = spring"}
+{"lemma":"昨夜","reading":"ゆうべ","lang":"ja","pos":"noun","gloss":"last night","source":"open-lingo-curriculum","romaji":"yuube","tags":["has-kanji","module:m10"],"emoji":"🌙","notes":"crescent moon"}
+{"lemma":"昨日","reading":"きのう","lang":"ja","pos":"noun","gloss":"yesterday","source":"open-lingo-curriculum","romaji":"kinou","tags":["has-kanji","module:m10"],"emoji":"📅","notes":"calendar; pair with phrase"}
+{"lemma":"昼","reading":"ひる","lang":"ja","pos":"noun","gloss":"noon, daytime","source":"open-lingo-curriculum","romaji":"hiru","tags":["has-kanji","module:m12"],"emoji":"☀️","notes":"sun = daytime"}
+{"lemma":"昼御飯","reading":"ひるごはん","lang":"ja","pos":"noun","gloss":"midday meal","source":"open-lingo-curriculum","romaji":"hirugohan","tags":["has-kanji","module:m11"],"emoji":"🍱","notes":"bento reads as midday meal"}
+{"lemma":"時々","reading":"ときどき","lang":"ja","pos":"noun","gloss":"sometimes","source":"open-lingo-curriculum","romaji":"tokidoki","tags":["has-kanji","image-mcq-blocked","module:m11"],"notes":"frequency adverb"}
+{"lemma":"晩","reading":"ばん","lang":"ja","pos":"noun","gloss":"evening","source":"open-lingo-curriculum","romaji":"ban","tags":["has-kanji","module:m12"],"emoji":"🌆"}
+{"lemma":"晩御飯","reading":"ばんごはん","lang":"ja","pos":"noun","gloss":"evening meal","source":"open-lingo-curriculum","romaji":"bangohan","tags":["has-kanji","module:m23"],"emoji":"🍱","notes":"bento meal"}
+{"lemma":"晴れ","reading":"はれ","lang":"ja","pos":"noun","gloss":"clear weather","source":"open-lingo-curriculum","romaji":"hare","tags":["has-kanji","module:m18"],"emoji":"☀️","notes":"sun"}
+{"lemma":"晴れる","reading":"はれる","lang":"ja","pos":"noun","gloss":"to be sunny","source":"open-lingo-curriculum","romaji":"hareru","tags":["has-kanji","module:future"],"emoji":"🌞"}
+{"lemma":"暇","reading":"ひま","lang":"ja","pos":"noun","gloss":"free time","source":"open-lingo-curriculum","romaji":"hima","tags":["has-kanji","module:m9"],"emoji":"🛋️","notes":"couch = leisure/free time"}
+{"lemma":"暑い","reading":"あつい","lang":"ja","pos":"noun","gloss":"hot","source":"open-lingo-curriculum","romaji":"atsui","tags":["has-kanji","module:m8"],"emoji":"🥵","notes":"hot face"}
+{"lemma":"暖かい","reading":"あたたかい","lang":"ja","pos":"noun","gloss":"warm","source":"open-lingo-curriculum","romaji":"atatakai","tags":["has-kanji","module:m18"],"emoji":"☀️","notes":"sun as warmth cue"}
+{"lemma":"暗い","reading":"くらい","lang":"ja","pos":"noun","gloss":"gloomy","source":"open-lingo-curriculum","romaji":"kurai","tags":["has-kanji","module:m27"],"emoji":"🌑","notes":"new moon = dark"}
+{"lemma":"曇り","reading":"くもり","lang":"ja","pos":"noun","gloss":"cloudy weather","source":"open-lingo-curriculum","romaji":"kumori","tags":["has-kanji","module:m18"],"emoji":"☁️"}
+{"lemma":"曇る","reading":"くもる","lang":"ja","pos":"noun","gloss":"to become cloudy, to become dim","source":"open-lingo-curriculum","romaji":"kumoru","tags":["has-kanji","module:future"],"emoji":"☁️","notes":"cloud — also used for 空 sky, mild collision"}
+{"lemma":"曲る","reading":"まがる","lang":"ja","pos":"noun","gloss":"to turn, to bend","source":"open-lingo-curriculum","romaji":"magaru","tags":["has-kanji","module:m17"],"emoji":"↩️","notes":"curved arrow"}
+{"lemma":"月曜日","reading":"げつようび","lang":"ja","pos":"noun","gloss":"Monday","source":"open-lingo-curriculum","romaji":"getsuyoubi","tags":["has-kanji","module:m12"],"emoji":"📅","notes":"calendar"}
+{"lemma":"有名","reading":"ゆうめい","lang":"ja","pos":"noun","gloss":"famous","source":"open-lingo-curriculum","romaji":"yuumei","tags":["has-kanji","module:m9"],"emoji":"⭐","notes":"star as fame cue"}
+{"lemma":"服","reading":"ふく","lang":"ja","pos":"noun","gloss":"clothes","source":"open-lingo-curriculum","romaji":"fuku","tags":["has-kanji","module:m13"],"emoji":"👕","notes":"t-shirt"}
+{"lemma":"朝御飯","reading":"あさごはん","lang":"ja","pos":"noun","gloss":"breakfast","source":"open-lingo-curriculum","romaji":"asagohan","tags":["has-kanji","module:m16"],"emoji":"🍳","notes":"fried egg — also used for 台所; mild collision"}
+{"lemma":"木","reading":"き","lang":"ja","pos":"noun","gloss":"tree, wood","source":"open-lingo-curriculum","romaji":"ki","tags":["has-kanji","module:m18"],"emoji":"🌳"}
+{"lemma":"木曜日","reading":"もくようび","lang":"ja","pos":"noun","gloss":"Thursday","source":"open-lingo-curriculum","romaji":"mokuyoubi","tags":["has-kanji","image-mcq-blocked","module:m12"],"notes":"day-of-week label; needs text not image"}
+{"lemma":"本棚","reading":"ほんだな","lang":"ja","pos":"noun","gloss":"bookshelves","source":"open-lingo-curriculum","romaji":"hondana","tags":["has-kanji","module:future"],"emoji":"📚","notes":"stacked books"}
+{"lemma":"村","reading":"むら","lang":"ja","pos":"noun","gloss":"village","source":"open-lingo-curriculum","romaji":"mura","tags":["has-kanji","module:future"],"emoji":"🏘️"}
+{"lemma":"来る","reading":"くる","lang":"ja","pos":"noun","gloss":"to come","source":"open-lingo-curriculum","romaji":"kuru","tags":["has-kanji","image-mcq-blocked","module:m11"],"notes":"directional verb; arrow ambiguous with go/return"}
+{"lemma":"来年","reading":"らいねん","lang":"ja","pos":"noun","gloss":"next year","source":"open-lingo-curriculum","romaji":"rainen","tags":["has-kanji","module:m25"],"emoji":"📅","notes":"calendar; pair with phrase context"}
+{"lemma":"来月","reading":"らいげつ","lang":"ja","pos":"noun","gloss":"next month","source":"open-lingo-curriculum","romaji":"raigetsu","tags":["has-kanji","image-mcq-blocked","module:m25"],"notes":"temporal abstraction"}
+{"lemma":"来週","reading":"らいしゅう","lang":"ja","pos":"noun","gloss":"next week","source":"open-lingo-curriculum","romaji":"raishuu","tags":["has-kanji","image-mcq-blocked","module:m18"],"notes":"deictic time expression"}
+{"lemma":"東","reading":"ひがし","lang":"ja","pos":"noun","gloss":"east","source":"open-lingo-curriculum","romaji":"higashi","tags":["has-kanji","image-mcq-blocked","module:future"],"emoji":"🧭","notes":"compass already used for 西; can't distinguish east vs west via emoji"}
+{"lemma":"果物","reading":"くだもの","lang":"ja","pos":"noun","gloss":"fruit","source":"open-lingo-curriculum","romaji":"kudamono","tags":["has-kanji","module:m22"],"emoji":"🍎","notes":"apple as fruit cue"}
+{"lemma":"楽しい","reading":"たのしい","lang":"ja","pos":"noun","gloss":"enjoyable","source":"open-lingo-curriculum","romaji":"tanoshii","tags":["has-kanji","module:m15"],"emoji":"😄"}
+{"lemma":"横","reading":"よこ","lang":"ja","pos":"noun","gloss":"beside, side, width","source":"open-lingo-curriculum","romaji":"yoko","tags":["has-kanji","module:m17"],"emoji":"↔️","notes":"horizontal arrow for side/width"}
+{"lemma":"橋","reading":"はし","lang":"ja","pos":"noun","gloss":"bridge","source":"open-lingo-curriculum","romaji":"hashi","tags":["has-kanji","module:m17"],"emoji":"🌉"}
+{"lemma":"次","reading":"つぎ","lang":"ja","pos":"noun","gloss":"next","source":"open-lingo-curriculum","romaji":"tsugi","tags":["has-kanji","image-mcq-blocked","module:m13"],"notes":"abstract ordinal/temporal — no concrete referent"}
+{"lemma":"欲しい","reading":"ほしい","lang":"ja","pos":"noun","gloss":"want","source":"open-lingo-curriculum","romaji":"hoshii","tags":["has-kanji","module:m15"],"emoji":"🤲","notes":"cupped hands as wanting cue (weak)"}
+{"lemma":"歌う","reading":"うたう","lang":"ja","pos":"noun","gloss":"to sing","source":"open-lingo-curriculum","romaji":"utau","tags":["has-kanji","module:m23"],"emoji":"🎤","notes":"microphone"}
+{"lemma":"止まる","reading":"とまる","lang":"ja","pos":"noun","gloss":"to come to a halt","source":"open-lingo-curriculum","romaji":"tomaru","tags":["has-kanji","module:m17"],"emoji":"🛑"}
+{"lemma":"歩く","reading":"あるく","lang":"ja","pos":"noun","gloss":"to walk","source":"open-lingo-curriculum","romaji":"aruku","tags":["has-kanji","module:m17"],"emoji":"🚶"}
+{"lemma":"歯","reading":"は","lang":"ja","pos":"noun","gloss":"tooth","source":"open-lingo-curriculum","romaji":"ha","tags":["has-kanji","module:m20"],"emoji":"🦷"}
+{"lemma":"死ぬ","reading":"しぬ","lang":"ja","pos":"noun","gloss":"to die","source":"open-lingo-curriculum","romaji":"shinu","tags":["has-kanji","module:future"],"emoji":"💀"}
+{"lemma":"毎年","reading":"まいとし","lang":"ja","pos":"noun","gloss":"every year","source":"open-lingo-curriculum","romaji":"maitoshi","tags":["has-kanji","image-mcq-blocked","module:m11"],"notes":"abstract time interval"}
+{"lemma":"毎年","reading":"まいねん","lang":"ja","pos":"noun","gloss":"every year","source":"open-lingo-curriculum","romaji":"mainen","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"abstract time interval"}
+{"lemma":"毎日","reading":"まいにち","lang":"ja","pos":"noun","gloss":"every day","source":"open-lingo-curriculum","romaji":"mainichi","tags":["has-kanji","image-mcq-blocked","module:m11"],"notes":"abstract time interval"}
+{"lemma":"毎晩","reading":"まいばん","lang":"ja","pos":"noun","gloss":"every night","source":"open-lingo-curriculum","romaji":"maiban","tags":["has-kanji","module:m20"],"emoji":"🌙","notes":"moon as night cue (frequency lost — phrase context needed)"}
+{"lemma":"毎月","reading":"まいげつ","lang":"ja","pos":"noun","gloss":"every month","source":"open-lingo-curriculum","romaji":"maigetsu","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"abstract recurrence"}
+{"lemma":"毎月","reading":"まいつき","lang":"ja","pos":"noun","gloss":"every month","source":"open-lingo-curriculum","romaji":"maitsuki","tags":["has-kanji","image-mcq-blocked","module:m11"],"notes":"abstract recurrence"}
+{"lemma":"毎朝","reading":"まいあさ","lang":"ja","pos":"noun","gloss":"every morning","source":"open-lingo-curriculum","romaji":"maiasa","tags":["has-kanji","module:m20"],"emoji":"🌅","notes":"sunrise reads as morning"}
+{"lemma":"毎週","reading":"まいしゅう","lang":"ja","pos":"noun","gloss":"every week","source":"open-lingo-curriculum","romaji":"maishuu","tags":["has-kanji","image-mcq-blocked","module:m11"],"notes":"abstract recurrence"}
+{"lemma":"水曜日","reading":"すいようび","lang":"ja","pos":"noun","gloss":"Wednesday","source":"open-lingo-curriculum","romaji":"suiyoubi","tags":["has-kanji","module:m12"],"emoji":"📅","notes":"generic calendar"}
+{"lemma":"汚い","reading":"きたない","lang":"ja","pos":"noun","gloss":"dirty","source":"open-lingo-curriculum","romaji":"kitanai","tags":["has-kanji","image-mcq-blocked","module:future"],"emoji":"🗑️","notes":"trash reads as 'garbage' not 'dirty'"}
+{"lemma":"泳ぐ","reading":"およぐ","lang":"ja","pos":"noun","gloss":"to swim","source":"open-lingo-curriculum","romaji":"oyogu","tags":["has-kanji","module:m14"],"emoji":"🏊"}
+{"lemma":"洋服","reading":"ようふく","lang":"ja","pos":"noun","gloss":"western-style clothes","source":"open-lingo-curriculum","romaji":"youfuku","tags":["has-kanji","module:future"],"emoji":"👔","notes":"necktie/shirt"}
+{"lemma":"洗う","reading":"あらう","lang":"ja","pos":"noun","gloss":"to wash","source":"open-lingo-curriculum","romaji":"arau","tags":["has-kanji","module:m16"],"emoji":"🧼","notes":"soap = wash"}
+{"lemma":"洗濯","reading":"せんたく","lang":"ja","pos":"noun","gloss":"washing","source":"open-lingo-curriculum","romaji":"sentaku","tags":["has-kanji","module:m16"],"emoji":"🧺","notes":"laundry basket"}
+{"lemma":"消える","reading":"きえる","lang":"ja","pos":"noun","gloss":"to disappear","source":"open-lingo-curriculum","romaji":"kieru","tags":["has-kanji","module:future"],"emoji":"💨","notes":"puff = vanish"}
+{"lemma":"消す","reading":"けす","lang":"ja","pos":"noun","gloss":"to erase, to turn off power","source":"open-lingo-curriculum","romaji":"kesu","tags":["has-kanji","module:future"],"emoji":"🧽","notes":"sponge as erase proxy"}
+{"lemma":"涼しい","reading":"すずしい","lang":"ja","pos":"noun","gloss":"refreshing","source":"open-lingo-curriculum","romaji":"suzushii","tags":["has-kanji","module:m18"],"emoji":"🍃","notes":"leaf in wind — cool/refreshing"}
+{"lemma":"渡す","reading":"わたす","lang":"ja","pos":"noun","gloss":"to hand over","source":"open-lingo-curriculum","romaji":"watasu","tags":["has-kanji","module:future"],"emoji":"🤝","notes":"handshake/handoff"}
+{"lemma":"渡る","reading":"わたる","lang":"ja","pos":"noun","gloss":"to go across","source":"open-lingo-curriculum","romaji":"wataru","tags":["has-kanji","module:m17"],"emoji":"🚸","notes":"pedestrian crossing"}
+{"lemma":"温い","reading":"ぬるい","lang":"ja","pos":"noun","gloss":"luke warm","source":"open-lingo-curriculum","romaji":"nurui","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"subtle temperature distinction; no referent that reads as 'lukewarm' vs warm/hot"}
+{"lemma":"漢字","reading":"かんじ","lang":"ja","pos":"noun","gloss":"Chinese character","source":"open-lingo-curriculum","romaji":"kanji","tags":["has-kanji","module:future"],"emoji":"🈶","notes":"Japanese ideograph block"}
+{"lemma":"火曜日","reading":"かようび","lang":"ja","pos":"noun","gloss":"Tuesday","source":"open-lingo-curriculum","romaji":"kayoubi","tags":["has-kanji","image-mcq-blocked","module:m12"],"notes":"weekday name — no glyph distinguishes"}
+{"lemma":"灰皿","reading":"はいざら","lang":"ja","pos":"noun","gloss":"ashtray","source":"open-lingo-curriculum","romaji":"haizara","tags":["has-kanji","module:future"],"emoji":"🚬","notes":"cigarette as proxy; closest concrete"}
+{"lemma":"無くす","reading":"なくす","lang":"ja","pos":"noun","gloss":"to lose something","source":"open-lingo-curriculum","romaji":"nakusu","tags":["has-kanji","image-mcq-blocked","module:m17"],"notes":"abstract action"}
+{"lemma":"煩い","reading":"うるさい","lang":"ja","pos":"noun","gloss":"noisy, annoying","source":"open-lingo-curriculum","romaji":"urusai","tags":["has-kanji","module:future"],"emoji":"📢","notes":"loudspeaker = noisy"}
+{"lemma":"熱い","reading":"あつい","lang":"ja","pos":"noun","gloss":"hot to the touch","source":"open-lingo-curriculum","romaji":"atsui","tags":["has-kanji","module:m8"],"emoji":"🔥","notes":"fire — hot"}
+{"lemma":"牛肉","reading":"ぎゅうにく","lang":"ja","pos":"noun","gloss":"beef","source":"open-lingo-curriculum","romaji":"gyuuniku","tags":["has-kanji","module:future"],"emoji":"🐄","notes":"cow as beef cue (🥩 taken for generic meat)"}
+{"lemma":"物","reading":"もの","lang":"ja","pos":"noun","gloss":"thing","source":"open-lingo-curriculum","romaji":"mono","tags":["has-kanji","image-mcq-blocked","module:m24"],"notes":"abstract noun — per rubric"}
+{"lemma":"狭い","reading":"せまい","lang":"ja","pos":"noun","gloss":"narrow","source":"open-lingo-curriculum","romaji":"semai","tags":["has-kanji","image-mcq-blocked","module:m26"],"emoji":"↔️","notes":"no clean narrow glyph; left-right arrow reads as wide"}
+{"lemma":"玄関","reading":"げんかん","lang":"ja","pos":"noun","gloss":"entry hall","source":"open-lingo-curriculum","romaji":"genkan","tags":["has-kanji","module:future"],"emoji":"🚪","notes":"door as entry proxy"}
+{"lemma":"甘い","reading":"あまい","lang":"ja","pos":"noun","gloss":"sweet","source":"open-lingo-curriculum","romaji":"amai","tags":["has-kanji","module:future"],"emoji":"🍬","notes":"candy as sweet proxy"}
+{"lemma":"生まれる","reading":"うまれる","lang":"ja","pos":"noun","gloss":"to be born","source":"open-lingo-curriculum","romaji":"umareru","tags":["has-kanji","module:future"],"emoji":"👶"}
+{"lemma":"生徒","reading":"せいと","lang":"ja","pos":"noun","gloss":"pupil","source":"open-lingo-curriculum","romaji":"seito","tags":["has-kanji","module:m19"],"emoji":"🎒","notes":"backpack as pupil cue"}
+{"lemma":"男","reading":"おとこ","lang":"ja","pos":"noun","gloss":"man","source":"open-lingo-curriculum","romaji":"otoko","tags":["has-kanji","module:m19"],"emoji":"👨"}
+{"lemma":"男の子","reading":"おとこのこ","lang":"ja","pos":"noun","gloss":"boy","source":"open-lingo-curriculum","romaji":"otokonoko","tags":["has-kanji","module:m19"],"emoji":"👦"}
+{"lemma":"町","reading":"まち","lang":"ja","pos":"noun","gloss":"town, city","source":"open-lingo-curriculum","romaji":"machi","tags":["has-kanji","module:m8"],"emoji":"🏘️"}
+{"lemma":"留学生","reading":"りゅうがくせい","lang":"ja","pos":"noun","gloss":"overseas student","source":"open-lingo-curriculum","romaji":"ryuugakusei","tags":["has-kanji","module:m25"],"emoji":"🎓","notes":"graduation cap"}
+{"lemma":"番号","reading":"ばんごう","lang":"ja","pos":"noun","gloss":"number","source":"open-lingo-curriculum","romaji":"bangou","tags":["has-kanji","module:future"],"emoji":"🔢"}
+{"lemma":"疲れる","reading":"つかれる","lang":"ja","pos":"noun","gloss":"to get tired","source":"open-lingo-curriculum","romaji":"tsukareru","tags":["has-kanji","module:m26"],"emoji":"😩","notes":"weary face"}
+{"lemma":"病気","reading":"びょうき","lang":"ja","pos":"noun","gloss":"illness","source":"open-lingo-curriculum","romaji":"byouki","tags":["has-kanji","module:m20"],"emoji":"🤒","notes":"face with thermometer"}
+{"lemma":"痛い","reading":"いたい","lang":"ja","pos":"noun","gloss":"painful","source":"open-lingo-curriculum","romaji":"itai","tags":["has-kanji","module:m20"],"emoji":"🤕"}
+{"lemma":"登る","reading":"のぼる","lang":"ja","pos":"noun","gloss":"to climb","source":"open-lingo-curriculum","romaji":"noboru","tags":["has-kanji","module:future"],"emoji":"🧗","notes":"person climbing"}
+{"lemma":"白","reading":"しろ","lang":"ja","pos":"noun","gloss":"white","source":"open-lingo-curriculum","romaji":"shiro","tags":["has-kanji","module:future"],"emoji":"⚪"}
+{"lemma":"白い","reading":"しろい","lang":"ja","pos":"noun","gloss":"white","source":"open-lingo-curriculum","romaji":"shiroi","tags":["has-kanji","module:future"],"emoji":"⬜","notes":"white square"}
+{"lemma":"皆さん","reading":"みなさん","lang":"ja","pos":"noun","gloss":"everyone","source":"open-lingo-curriculum","romaji":"minasan","tags":["has-kanji","module:m19"],"emoji":"👥","notes":"synonym of みんな"}
+{"lemma":"目","reading":"め","lang":"ja","pos":"noun","gloss":"eye","source":"open-lingo-curriculum","romaji":"me","tags":["has-kanji","module:m20"],"emoji":"👁️"}
+{"lemma":"着く","reading":"つく","lang":"ja","pos":"noun","gloss":"to arrive at","source":"open-lingo-curriculum","romaji":"tsuku","tags":["has-kanji","module:future"],"emoji":"🛬","notes":"landing plane as arrival cue"}
+{"lemma":"着る","reading":"きる","lang":"ja","pos":"noun","gloss":"to put on from the shoulders down","source":"open-lingo-curriculum","romaji":"kiru","tags":["has-kanji","module:future"],"emoji":"👕","notes":"shirt as put-on cue"}
+{"lemma":"知る","reading":"しる","lang":"ja","pos":"noun","gloss":"to know","source":"open-lingo-curriculum","romaji":"shiru","tags":["has-kanji","image-mcq-blocked","module:m15"],"emoji":"💡","notes":"lightbulb used elsewhere; cognition too abstract"}
+{"lemma":"短い","reading":"みじかい","lang":"ja","pos":"noun","gloss":"short","source":"open-lingo-curriculum","romaji":"mijikai","tags":["has-kanji","module:m8"],"emoji":"📏","notes":"ruler for length adjectives"}
+{"lemma":"砂糖","reading":"さとう","lang":"ja","pos":"noun","gloss":"sugar","source":"open-lingo-curriculum","romaji":"satou","tags":["has-kanji","module:future"],"emoji":"🍬","notes":"candy as sugar proxy"}
+{"lemma":"磨く","reading":"みがく","lang":"ja","pos":"noun","gloss":"to brush teeth, to polish","source":"open-lingo-curriculum","romaji":"migaku","tags":["has-kanji","module:m20"],"emoji":"🪥","notes":"toothbrush"}
+{"lemma":"私","reading":"わたくし","lang":"ja","pos":"noun","gloss":"(humble) I, myself","source":"open-lingo-curriculum","romaji":"watakushi","tags":["has-kanji","image-mcq-blocked","module:m19"],"notes":"pronoun — rubric blocks pronouns"}
+{"lemma":"秋","reading":"あき","lang":"ja","pos":"noun","gloss":"autumn","source":"open-lingo-curriculum","romaji":"aki","tags":["has-kanji","module:m18"],"emoji":"🍂"}
+{"lemma":"立つ","reading":"たつ","lang":"ja","pos":"noun","gloss":"to stand","source":"open-lingo-curriculum","romaji":"tatsu","tags":["has-kanji","module:future"],"emoji":"🧍"}
+{"lemma":"答える","reading":"こたえる","lang":"ja","pos":"noun","gloss":"to answer","source":"open-lingo-curriculum","romaji":"kotaeru","tags":["has-kanji","module:future"],"emoji":"🙋","notes":"raising hand"}
+{"lemma":"箱","reading":"はこ","lang":"ja","pos":"noun","gloss":"box","source":"open-lingo-curriculum","romaji":"hako","tags":["has-kanji","module:future"],"emoji":"📦"}
+{"lemma":"紅茶","reading":"こうちゃ","lang":"ja","pos":"noun","gloss":"black tea","source":"open-lingo-curriculum","romaji":"koucha","tags":["has-kanji","module:future"],"emoji":"🍵","notes":"teacup; pair with phrase"}
+{"lemma":"紙","reading":"かみ","lang":"ja","pos":"noun","gloss":"paper","source":"open-lingo-curriculum","romaji":"kami","tags":["has-kanji","module:future"],"emoji":"📄"}
+{"lemma":"細い","reading":"ほそい","lang":"ja","pos":"noun","gloss":"thin","source":"open-lingo-curriculum","romaji":"hosoi","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"abstract adjective; no clean Noto referent"}
+{"lemma":"終る","reading":"おわる","lang":"ja","pos":"noun","gloss":"to finish","source":"open-lingo-curriculum","romaji":"owaru","tags":["has-kanji","module:future"],"emoji":"🏁","notes":"checkered flag as finish cue"}
+{"lemma":"結婚","reading":"けっこん","lang":"ja","pos":"noun","gloss":"marriage","source":"open-lingo-curriculum","romaji":"kekkon","tags":["has-kanji","module:m19"],"emoji":"💍","notes":"ring"}
+{"lemma":"結構","reading":"けっこう","lang":"ja","pos":"noun","gloss":"splendid, enough","source":"open-lingo-curriculum","romaji":"kekkou","tags":["has-kanji","image-mcq-blocked","module:m21"],"notes":"polysemous abstract adjective/adverb"}
+{"lemma":"絵","reading":"え","lang":"ja","pos":"noun","gloss":"picture","source":"open-lingo-curriculum","romaji":"e","tags":["has-kanji","module:m24"],"emoji":"🖼️","notes":"framed picture"}
+{"lemma":"緑","reading":"みどり","lang":"ja","pos":"noun","gloss":"green","source":"open-lingo-curriculum","romaji":"midori","tags":["has-kanji","module:future"],"emoji":"🟢"}
+{"lemma":"締める","reading":"しめる","lang":"ja","pos":"noun","gloss":"to tie","source":"open-lingo-curriculum","romaji":"shimeru","tags":["has-kanji","module:future"],"emoji":"🎀","notes":"ribbon"}
+{"lemma":"練習","reading":"れんしゅうする","lang":"ja","pos":"noun","gloss":"to practice","source":"open-lingo-curriculum","romaji":"renshuusuru","tags":["has-kanji","module:m27"],"emoji":"📓","notes":"notebook as practice proxy"}
+{"lemma":"置く","reading":"おく","lang":"ja","pos":"noun","gloss":"to put","source":"open-lingo-curriculum","romaji":"oku","tags":["has-kanji","module:future"],"emoji":"📥","notes":"inbox tray — place/put"}
+{"lemma":"習う","reading":"ならう","lang":"ja","pos":"noun","gloss":"to learn","source":"open-lingo-curriculum","romaji":"narau","tags":["has-kanji","module:future"],"emoji":"🎓"}
+{"lemma":"耳","reading":"みみ","lang":"ja","pos":"noun","gloss":"ear","source":"open-lingo-curriculum","romaji":"mimi","tags":["has-kanji","module:m20"],"emoji":"👂"}
+{"lemma":"聞く","reading":"きく","lang":"ja","pos":"noun","gloss":"to hear, to listen to, to ask","source":"open-lingo-curriculum","romaji":"kiku","tags":["has-kanji","module:m24"],"emoji":"👂","notes":"ear"}
+{"lemma":"肉","reading":"にく","lang":"ja","pos":"noun","gloss":"meat","source":"open-lingo-curriculum","romaji":"niku","tags":["has-kanji","module:m22"],"emoji":"🥩"}
+{"lemma":"背","reading":"せ","lang":"ja","pos":"noun","gloss":"height, stature","source":"open-lingo-curriculum","romaji":"se","tags":["has-kanji","module:future"],"emoji":"📏","notes":"ruler for stature"}
+{"lemma":"背広","reading":"せびろ","lang":"ja","pos":"noun","gloss":"business suit","source":"open-lingo-curriculum","romaji":"sebiro","tags":["has-kanji","module:future"],"emoji":"🤵","notes":"person in suit"}
+{"lemma":"脱ぐ","reading":"ぬぐ","lang":"ja","pos":"noun","gloss":"to take off clothes","source":"open-lingo-curriculum","romaji":"nugu","tags":["has-kanji","image-mcq-blocked","module:future"],"emoji":"👔","notes":"necktie reads as clothing not removing; verb action not visualizable"}
+{"lemma":"自分","reading":"じぶん","lang":"ja","pos":"noun","gloss":"oneself","source":"open-lingo-curriculum","romaji":"jibun","tags":["has-kanji","image-mcq-blocked","module:m16"],"notes":"reflexive pronoun"}
+{"lemma":"自動車","reading":"じどうしゃ","lang":"ja","pos":"noun","gloss":"automobile","source":"open-lingo-curriculum","romaji":"jidousha","tags":["has-kanji","module:future"],"emoji":"🚙"}
+{"lemma":"花瓶","reading":"かびん","lang":"ja","pos":"noun","gloss":"a vase","source":"open-lingo-curriculum","romaji":"kabin","tags":["has-kanji","module:future"],"emoji":"🏺","notes":"amphora — closest Noto vase"}
+{"lemma":"若い","reading":"わかい","lang":"ja","pos":"noun","gloss":"young","source":"open-lingo-curriculum","romaji":"wakai","tags":["has-kanji","module:future"],"emoji":"👶","notes":"baby connotes young"}
+{"lemma":"英語","reading":"えいご","lang":"ja","pos":"noun","gloss":"English language","source":"open-lingo-curriculum","romaji":"eigo","tags":["has-kanji","module:m9"],"emoji":"🇺🇸","notes":"US flag — wired via separate flag dir"}
+{"lemma":"茶色","reading":"ちゃいろ","lang":"ja","pos":"noun","gloss":"brown","source":"open-lingo-curriculum","romaji":"chairo","tags":["has-kanji","module:future"],"emoji":"🟫","notes":"brown square"}
+{"lemma":"荷物","reading":"にもつ","lang":"ja","pos":"noun","gloss":"luggage","source":"open-lingo-curriculum","romaji":"nimotsu","tags":["has-kanji","module:future"],"emoji":"🧳"}
+{"lemma":"葉書","reading":"はがき","lang":"ja","pos":"noun","gloss":"postcard","source":"open-lingo-curriculum","romaji":"hagaki","tags":["has-kanji","module:m14"],"emoji":"📮","notes":"postbox as proxy for postcard"}
+{"lemma":"薄い","reading":"うすい","lang":"ja","pos":"noun","gloss":"thin, weak","source":"open-lingo-curriculum","romaji":"usui","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"polysemy: thin (paper) vs weak (tea/color); no single concrete referent"}
+{"lemma":"薬","reading":"くすり","lang":"ja","pos":"noun","gloss":"medicine","source":"open-lingo-curriculum","romaji":"kusuri","tags":["has-kanji","module:m20"],"emoji":"💊"}
+{"lemma":"西","reading":"にし","lang":"ja","pos":"noun","gloss":"west","source":"open-lingo-curriculum","romaji":"nishi","tags":["has-kanji","module:future"],"emoji":"🧭","notes":"compass — west direction"}
+{"lemma":"要る","reading":"いる","lang":"ja","pos":"noun","gloss":"to need","source":"open-lingo-curriculum","romaji":"iru","tags":["has-kanji","image-mcq-blocked","module:future"],"emoji":"❗","notes":"exclamation reads as 'attention' not 'need'"}
+{"lemma":"見せる","reading":"みせる","lang":"ja","pos":"noun","gloss":"to show","source":"open-lingo-curriculum","romaji":"miseru","tags":["has-kanji","module:m14"],"emoji":"👀","notes":"eyes — showing/look at this"}
+{"lemma":"覚える","reading":"おぼえる","lang":"ja","pos":"noun","gloss":"to remember","source":"open-lingo-curriculum","romaji":"oboeru","tags":["has-kanji","module:future"],"emoji":"🧠","notes":"brain"}
+{"lemma":"角","reading":"かど","lang":"ja","pos":"noun","gloss":"a corner","source":"open-lingo-curriculum","romaji":"kado","tags":["has-kanji","module:future"],"emoji":"📐","notes":"triangle ruler — corner/angle"}
+{"lemma":"言う","reading":"いう","lang":"ja","pos":"noun","gloss":"to say","source":"open-lingo-curriculum","romaji":"iu","tags":["has-kanji","module:future"],"emoji":"💬","notes":"speech bubble"}
+{"lemma":"言葉","reading":"ことば","lang":"ja","pos":"noun","gloss":"word, language","source":"open-lingo-curriculum","romaji":"kotoba","tags":["has-kanji","module:future"],"emoji":"🔤","notes":"ABC input symbol as language proxy"}
+{"lemma":"話","reading":"はなし","lang":"ja","pos":"noun","gloss":"talk, story","source":"open-lingo-curriculum","romaji":"hanashi","tags":["has-kanji","module:m14"],"emoji":"💬"}
+{"lemma":"話す","reading":"はなす","lang":"ja","pos":"noun","gloss":"to speak","source":"open-lingo-curriculum","romaji":"hanasu","tags":["has-kanji","module:m14"],"emoji":"🗣️"}
+{"lemma":"誕生日","reading":"たんじょうび","lang":"ja","pos":"noun","gloss":"birthday","source":"open-lingo-curriculum","romaji":"tanjoubi","tags":["has-kanji","module:m19"],"emoji":"🎂"}
+{"lemma":"警官","reading":"けいかん","lang":"ja","pos":"noun","gloss":"policeman","source":"open-lingo-curriculum","romaji":"keikan","tags":["has-kanji","module:m17"],"emoji":"👮"}
+{"lemma":"豚肉","reading":"ぶたにく","lang":"ja","pos":"noun","gloss":"pork","source":"open-lingo-curriculum","romaji":"butaniku","tags":["has-kanji","module:future"],"emoji":"🥓","notes":"bacon as pork cue"}
+{"lemma":"財布","reading":"さいふ","lang":"ja","pos":"noun","gloss":"wallet","source":"open-lingo-curriculum","romaji":"saifu","tags":["has-kanji","module:m14"],"emoji":"👛","notes":"purse — closest wallet glyph"}
+{"lemma":"買い物","reading":"かいもの","lang":"ja","pos":"noun","gloss":"shopping","source":"open-lingo-curriculum","romaji":"kaimono","tags":["has-kanji","module:m15"],"emoji":"🛍️"}
+{"lemma":"買う","reading":"かう","lang":"ja","pos":"noun","gloss":"to buy","source":"open-lingo-curriculum","romaji":"kau","tags":["has-kanji","module:m25"],"emoji":"🛒"}
+{"lemma":"貸す","reading":"かす","lang":"ja","pos":"noun","gloss":"to lend","source":"open-lingo-curriculum","romaji":"kasu","tags":["has-kanji","module:m14"],"emoji":"🤝","notes":"handshake reads as exchange/lend"}
+{"lemma":"貼る","reading":"はる","lang":"ja","pos":"noun","gloss":"to stick","source":"open-lingo-curriculum","romaji":"haru","tags":["has-kanji","image-mcq-blocked","module:m14"],"notes":"no concrete Noto referent; pair with phrase"}
+{"lemma":"賑やか","reading":"にぎやか","lang":"ja","pos":"noun","gloss":"bustling, busy","source":"open-lingo-curriculum","romaji":"nigiyaka","tags":["has-kanji","module:m9"],"emoji":"🎉","notes":"party popper as lively proxy"}
+{"lemma":"質問","reading":"しつもん","lang":"ja","pos":"noun","gloss":"question","source":"open-lingo-curriculum","romaji":"shitsumon","tags":["has-kanji","module:future"],"emoji":"❓","notes":"question mark"}
+{"lemma":"赤","reading":"あか","lang":"ja","pos":"noun","gloss":"red","source":"open-lingo-curriculum","romaji":"aka","tags":["has-kanji","module:future"],"emoji":"🟥","notes":"red square — shares with 赤い"}
+{"lemma":"赤い","reading":"あかい","lang":"ja","pos":"noun","gloss":"red","source":"open-lingo-curriculum","romaji":"akai","tags":["has-kanji","module:future"],"emoji":"🟥","notes":"red square"}
+{"lemma":"走る","reading":"はしる","lang":"ja","pos":"noun","gloss":"to run","source":"open-lingo-curriculum","romaji":"hashiru","tags":["has-kanji","module:m16"],"emoji":"🏃"}
+{"lemma":"起きる","reading":"おきる","lang":"ja","pos":"noun","gloss":"to get up","source":"open-lingo-curriculum","romaji":"okiru","tags":["has-kanji","module:m16"],"emoji":"⏰","notes":"alarm clock — wake up"}
+{"lemma":"足","reading":"あし","lang":"ja","pos":"noun","gloss":"foot, leg","source":"open-lingo-curriculum","romaji":"ashi","tags":["has-kanji","module:m20"],"emoji":"🦶"}
+{"lemma":"軽い","reading":"かるい","lang":"ja","pos":"noun","gloss":"light","source":"open-lingo-curriculum","romaji":"karui","tags":["has-kanji","module:future"],"emoji":"🪶","notes":"feather = light weight"}
+{"lemma":"辛い","reading":"からい","lang":"ja","pos":"noun","gloss":"spicy","source":"open-lingo-curriculum","romaji":"karai","tags":["has-kanji","module:m26"],"emoji":"🌶️"}
+{"lemma":"辺","reading":"へん","lang":"ja","pos":"noun","gloss":"area","source":"open-lingo-curriculum","romaji":"hen","tags":["has-kanji","module:m16"],"emoji":"🗺️","notes":"map as area proxy"}
+{"lemma":"近く","reading":"ちかく","lang":"ja","pos":"noun","gloss":"near","source":"open-lingo-curriculum","romaji":"chikaku","tags":["has-kanji","module:m18"],"emoji":"📍","notes":"pin as near-here proxy"}
+{"lemma":"返す","reading":"かえす","lang":"ja","pos":"noun","gloss":"to return something","source":"open-lingo-curriculum","romaji":"kaesu","tags":["has-kanji","module:future"],"emoji":"↩️","notes":"return arrow"}
+{"lemma":"速い","reading":"はやい","lang":"ja","pos":"noun","gloss":"quick","source":"open-lingo-curriculum","romaji":"hayai","tags":["has-kanji","module:m8"],"emoji":"💨","notes":"dashing-away motion lines"}
+{"lemma":"遅い","reading":"おそい","lang":"ja","pos":"noun","gloss":"late, slow","source":"open-lingo-curriculum","romaji":"osoi","tags":["has-kanji","module:m8"],"emoji":"🐢","notes":"turtle = slow"}
+{"lemma":"道","reading":"みち","lang":"ja","pos":"noun","gloss":"street","source":"open-lingo-curriculum","romaji":"michi","tags":["has-kanji","module:m17"],"emoji":"🛣️","notes":"motorway as street proxy"}
+{"lemma":"違う","reading":"ちがう","lang":"ja","pos":"noun","gloss":"to differ","source":"open-lingo-curriculum","romaji":"chigau","tags":["has-kanji","module:m22"],"emoji":"❌","notes":"X as 'wrong/different' proxy"}
+{"lemma":"重い","reading":"おもい","lang":"ja","pos":"noun","gloss":"heavy","source":"open-lingo-curriculum","romaji":"omoi","tags":["has-kanji","module:future"],"emoji":"🏋️","notes":"weightlifter = heavy"}
+{"lemma":"野菜","reading":"やさい","lang":"ja","pos":"noun","gloss":"vegetable","source":"open-lingo-curriculum","romaji":"yasai","tags":["has-kanji","module:m22"],"emoji":"🥕"}
+{"lemma":"金曜日","reading":"きんようび","lang":"ja","pos":"noun","gloss":"Friday","source":"open-lingo-curriculum","romaji":"kinyoubi","tags":["has-kanji","image-mcq-blocked","module:m12"],"notes":"day-of-week label; needs text"}
+{"lemma":"長い","reading":"ながい","lang":"ja","pos":"noun","gloss":"long","source":"open-lingo-curriculum","romaji":"nagai","tags":["has-kanji","module:m8"],"emoji":"📏","notes":"ruler as length cue"}
+{"lemma":"門","reading":"もん","lang":"ja","pos":"noun","gloss":"gate","source":"open-lingo-curriculum","romaji":"mon","tags":["has-kanji","module:future"],"emoji":"⛩️","notes":"torii reads as Japanese gate"}
+{"lemma":"閉まる","reading":"しまる","lang":"ja","pos":"noun","gloss":"to close, to be closed","source":"open-lingo-curriculum","romaji":"shimaru","tags":["has-kanji","image-mcq-blocked","module:future"],"notes":"intransitive variant of 閉める — same physical event"}
+{"lemma":"閉める","reading":"しめる","lang":"ja","pos":"noun","gloss":"to close something","source":"open-lingo-curriculum","romaji":"shimeru","tags":["has-kanji","image-mcq-blocked","module:m14"],"emoji":"🚪","notes":"door already used for 玄関; verb action not visualizable"}
+{"lemma":"開く","reading":"あく","lang":"ja","pos":"noun","gloss":"to open, to become open","source":"open-lingo-curriculum","romaji":"aku","tags":["has-kanji","module:future"],"emoji":"🔓","notes":"unlocked = becoming open"}
+{"lemma":"開ける","reading":"あける","lang":"ja","pos":"noun","gloss":"to open","source":"open-lingo-curriculum","romaji":"akeru","tags":["has-kanji","module:m14"],"emoji":"🔓","notes":"transitive open"}
+{"lemma":"降りる","reading":"おりる","lang":"ja","pos":"noun","gloss":"to get off, to descend","source":"open-lingo-curriculum","romaji":"oriru","tags":["has-kanji","module:m17"],"emoji":"⬇️","notes":"down-arrow = descend"}
+{"lemma":"降る","reading":"ふる","lang":"ja","pos":"noun","gloss":"to fall, e.g. rain or snow","source":"open-lingo-curriculum","romaji":"furu","tags":["has-kanji","module:future"],"emoji":"🌧️","notes":"rain cloud as falling-rain cue"}
+{"lemma":"階段","reading":"かいだん","lang":"ja","pos":"noun","gloss":"stairs","source":"open-lingo-curriculum","romaji":"kaidan","tags":["has-kanji","module:m16"],"emoji":"🪜","notes":"ladder; closest Noto for stairs"}
+{"lemma":"隣","reading":"となり","lang":"ja","pos":"noun","gloss":"next door to","source":"open-lingo-curriculum","romaji":"tonari","tags":["has-kanji","image-mcq-blocked","module:m18"],"notes":"spatial relation; no visual referent"}
+{"lemma":"難しい","reading":"むずかしい","lang":"ja","pos":"noun","gloss":"difficult","source":"open-lingo-curriculum","romaji":"muzukashii","tags":["has-kanji","module:m8"],"emoji":"😖","notes":"confounded face as difficulty cue"}
+{"lemma":"雨","reading":"あめ","lang":"ja","pos":"noun","gloss":"rain","source":"open-lingo-curriculum","romaji":"ame","tags":["has-kanji","module:m18"],"emoji":"🌧️"}
+{"lemma":"零","reading":"れい","lang":"ja","pos":"noun","gloss":"zero","source":"open-lingo-curriculum","romaji":"rei","tags":["has-kanji","module:future"],"emoji":"0️⃣"}
+{"lemma":"電気","reading":"でんき","lang":"ja","pos":"noun","gloss":"electricity, electric light","source":"open-lingo-curriculum","romaji":"denki","tags":["has-kanji","module:m13"],"emoji":"💡","notes":"light bulb covers electric light"}
+{"lemma":"青","reading":"あお","lang":"ja","pos":"noun","gloss":"blue","source":"open-lingo-curriculum","romaji":"ao","tags":["has-kanji","module:future"],"emoji":"🔵"}
+{"lemma":"静か","reading":"しずか","lang":"ja","pos":"noun","gloss":"quiet","source":"open-lingo-curriculum","romaji":"shizuka","tags":["has-kanji","module:m9"],"emoji":"🤫","notes":"shushing face"}
+{"lemma":"靴","reading":"くつ","lang":"ja","pos":"noun","gloss":"shoes","source":"open-lingo-curriculum","romaji":"kutsu","tags":["has-kanji","module:m15"],"emoji":"👞"}
+{"lemma":"靴下","reading":"くつした","lang":"ja","pos":"noun","gloss":"socks","source":"open-lingo-curriculum","romaji":"kutsushita","tags":["has-kanji","module:future"],"emoji":"🧦"}
+{"lemma":"音楽","reading":"おんがく","lang":"ja","pos":"noun","gloss":"music","source":"open-lingo-curriculum","romaji":"ongaku","tags":["has-kanji","module:m15"],"emoji":"🎵"}
+{"lemma":"頭","reading":"あたま","lang":"ja","pos":"noun","gloss":"head","source":"open-lingo-curriculum","romaji":"atama","tags":["has-kanji","image-mcq-blocked","module:m20"],"emoji":"🧠","notes":"brain reads as 'remember' (used for 覚える); no clean head-anatomy glyph"}
+{"lemma":"頼む","reading":"たのむ","lang":"ja","pos":"noun","gloss":"to ask","source":"open-lingo-curriculum","romaji":"tanomu","tags":["has-kanji","module:future"],"emoji":"🙏","notes":"request gesture"}
+{"lemma":"飛ぶ","reading":"とぶ","lang":"ja","pos":"noun","gloss":"to fly, to hop","source":"open-lingo-curriculum","romaji":"tobu","tags":["has-kanji","module:future"],"emoji":"🕊️","notes":"dove as flying proxy"}
+{"lemma":"飛行機","reading":"ひこうき","lang":"ja","pos":"noun","gloss":"aeroplane","source":"open-lingo-curriculum","romaji":"hikouki","tags":["has-kanji","module:future"],"emoji":"✈️"}
+{"lemma":"食べ物","reading":"たべもの","lang":"ja","pos":"noun","gloss":"food","source":"open-lingo-curriculum","romaji":"tabemono","tags":["has-kanji","module:m21"],"emoji":"🍱","notes":"bento as food cue"}
+{"lemma":"食堂","reading":"しょくどう","lang":"ja","pos":"noun","gloss":"dining hall","source":"open-lingo-curriculum","romaji":"shokudou","tags":["has-kanji","module:future"],"emoji":"🍽️","notes":"plate with utensils"}
+{"lemma":"飲み物","reading":"のみもの","lang":"ja","pos":"noun","gloss":"a drink","source":"open-lingo-curriculum","romaji":"nomimono","tags":["has-kanji","module:m21"],"emoji":"🥤"}
+{"lemma":"飴","reading":"あめ","lang":"ja","pos":"noun","gloss":"candy","source":"open-lingo-curriculum","romaji":"ame","tags":["has-kanji","module:future"],"emoji":"🍬"}
+{"lemma":"高い","reading":"たかい","lang":"ja","pos":"noun","gloss":"tall, expensive","source":"open-lingo-curriculum","romaji":"takai","tags":["has-kanji","image-mcq-blocked","module:m8"],"notes":"polysemy flagged in rubric — tall vs expensive needs separate cards"}
+{"lemma":"魚","reading":"さかな","lang":"ja","pos":"noun","gloss":"fish","source":"open-lingo-curriculum","romaji":"sakana","tags":["has-kanji","module:m22"],"emoji":"🐟"}
+{"lemma":"鳥","reading":"とり","lang":"ja","pos":"noun","gloss":"bird","source":"open-lingo-curriculum","romaji":"tori","tags":["has-kanji","module:future"],"emoji":"🐦"}
+{"lemma":"鳴く","reading":"なく","lang":"ja","pos":"noun","gloss":"animal noise. to chirp, roar or croak etc.","source":"open-lingo-curriculum","romaji":"naku","tags":["has-kanji","module:future"],"emoji":"🐦","notes":"bird as canonical chirper"}
+{"lemma":"黄色","reading":"きいろ","lang":"ja","pos":"noun","gloss":"yellow","source":"open-lingo-curriculum","romaji":"kiiro","tags":["has-kanji","module:future"],"emoji":"🟡"}
+{"lemma":"黄色い","reading":"きいろい","lang":"ja","pos":"noun","gloss":"yellow","source":"open-lingo-curriculum","romaji":"kiiroi","tags":["has-kanji","module:future"],"emoji":"🟨","notes":"yellow square"}
+{"lemma":"黒","reading":"くろ","lang":"ja","pos":"noun","gloss":"black","source":"open-lingo-curriculum","romaji":"kuro","tags":["has-kanji","module:future"],"emoji":"⬛","notes":"black square"}
+{"lemma":"黒い","reading":"くろい","lang":"ja","pos":"noun","gloss":"black","source":"open-lingo-curriculum","romaji":"kuroi","tags":["has-kanji","module:future"],"emoji":"⬛","notes":"adjective form of 黒 — shares glyph"}

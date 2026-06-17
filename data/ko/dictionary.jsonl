@@ -1,0 +1,389 @@
+{"lemma":"아이","reading":"아이","lang":"ko","pos":"noun","gloss":"child","source":"open-lingo-curriculum","romaji":"ai","tags":["module:m1"],"emoji":"👶"}
+{"lemma":"오이","reading":"오이","lang":"ko","pos":"noun","gloss":"cucumber","source":"open-lingo-curriculum","romaji":"oi","tags":["module:m1"],"emoji":"🥒"}
+{"lemma":"오","reading":"오","lang":"ko","pos":"noun","gloss":"five","source":"open-lingo-curriculum","romaji":"o","tags":["module:m1"],"emoji":"5️⃣"}
+{"lemma":"이","reading":"이","lang":"ko","pos":"noun","gloss":"two","source":"open-lingo-curriculum","romaji":"i","tags":["module:m1"],"emoji":"2️⃣"}
+{"lemma":"고기","reading":"고기","lang":"ko","pos":"noun","gloss":"meat","source":"open-lingo-curriculum","romaji":"gogi","tags":["module:m1"],"emoji":"🥩"}
+{"lemma":"아기","reading":"아기","lang":"ko","pos":"noun","gloss":"baby","source":"open-lingo-curriculum","romaji":"agi","tags":["module:m1"],"emoji":"👶"}
+{"lemma":"거기","reading":"거기","lang":"ko","pos":"pronoun","gloss":"there","source":"open-lingo-curriculum","romaji":"geogi","tags":["module:m1"],"emoji":"📍"}
+{"lemma":"나","reading":"나","lang":"ko","pos":"pronoun","gloss":"I / me (casual)","source":"open-lingo-curriculum","romaji":"na","tags":["module:m1"],"emoji":"🙋"}
+{"lemma":"너","reading":"너","lang":"ko","pos":"pronoun","gloss":"you (casual)","source":"open-lingo-curriculum","romaji":"neo","tags":["module:m1"],"emoji":"👉"}
+{"lemma":"누구","reading":"누구","lang":"ko","pos":"pronoun","gloss":"who","source":"open-lingo-curriculum","romaji":"nugu","tags":["module:m1"],"emoji":"❓"}
+{"lemma":"어머니","reading":"어머니","lang":"ko","pos":"noun","gloss":"mother","source":"open-lingo-curriculum","romaji":"eomeoni","tags":["module:m1"],"emoji":"👩"}
+{"lemma":"나무","reading":"나무","lang":"ko","pos":"noun","gloss":"tree","source":"open-lingo-curriculum","romaji":"namu","tags":["module:m1"],"emoji":"🌳"}
+{"lemma":"구두","reading":"구두","lang":"ko","pos":"noun","gloss":"dress shoes","source":"open-lingo-curriculum","romaji":"gudu","tags":["module:m1"],"emoji":"👞"}
+{"lemma":"도","reading":"도","lang":"ko","pos":"particle","gloss":"also / too","source":"open-lingo-curriculum","romaji":"do","tags":["particle","module:m1"],"emoji":"➕"}
+{"lemma":"모두","reading":"모두","lang":"ko","pos":"noun","gloss":"all / everyone","source":"open-lingo-curriculum","romaji":"modu","tags":["module:m1"],"emoji":"👥"}
+{"lemma":"다리","reading":"다리","lang":"ko","pos":"noun","gloss":"leg / bridge","source":"open-lingo-curriculum","romaji":"dari","tags":["module:m1"],"emoji":"🦵"}
+{"lemma":"머리","reading":"머리","lang":"ko","pos":"noun","gloss":"head / hair","source":"open-lingo-curriculum","romaji":"meori","tags":["module:m1"],"emoji":"🧑"}
+{"lemma":"우리","reading":"우리","lang":"ko","pos":"pronoun","gloss":"we / us","source":"open-lingo-curriculum","romaji":"uri","tags":["module:m1"],"emoji":"🤝"}
+{"lemma":"바다","reading":"바다","lang":"ko","pos":"noun","gloss":"sea","source":"open-lingo-curriculum","romaji":"bada","tags":["module:m1"],"emoji":"🌊"}
+{"lemma":"비","reading":"비","lang":"ko","pos":"noun","gloss":"rain","source":"open-lingo-curriculum","romaji":"bi","tags":["module:m1"],"emoji":"🌧️"}
+{"lemma":"바보","reading":"바보","lang":"ko","pos":"noun","gloss":"fool / silly","source":"open-lingo-curriculum","romaji":"babo","tags":["module:m1"],"emoji":"🤪"}
+{"lemma":"사","reading":"사","lang":"ko","pos":"noun","gloss":"four (4, Sino)","source":"open-lingo-curriculum","romaji":"sa","tags":["module:m1"],"emoji":"4️⃣"}
+{"lemma":"소","reading":"소","lang":"ko","pos":"noun","gloss":"cow","source":"open-lingo-curriculum","romaji":"so","tags":["module:m1"],"emoji":"🐄"}
+{"lemma":"사이","reading":"사이","lang":"ko","pos":"noun","gloss":"between","source":"open-lingo-curriculum","romaji":"sai","tags":["module:m1"],"emoji":"↔️"}
+{"lemma":"자","reading":"자","lang":"ko","pos":"verb","gloss":"sleep! (imperative)","source":"open-lingo-curriculum","romaji":"ja","tags":["module:m1"],"emoji":"💤"}
+{"lemma":"모자","reading":"모자","lang":"ko","pos":"noun","gloss":"hat","source":"open-lingo-curriculum","romaji":"moja","tags":["module:m1"],"emoji":"🧢"}
+{"lemma":"지도","reading":"지도","lang":"ko","pos":"noun","gloss":"map","source":"open-lingo-curriculum","romaji":"jido","tags":["module:m1"],"emoji":"🗺️"}
+{"lemma":"하나","reading":"하나","lang":"ko","pos":"noun","gloss":"one (1, native)","source":"open-lingo-curriculum","romaji":"hana","tags":["module:m1"],"emoji":"1️⃣"}
+{"lemma":"하루","reading":"하루","lang":"ko","pos":"noun","gloss":"one day","source":"open-lingo-curriculum","romaji":"haru","tags":["module:m1"],"emoji":"📅"}
+{"lemma":"호두","reading":"호두","lang":"ko","pos":"noun","gloss":"walnut","source":"open-lingo-curriculum","romaji":"hodu","tags":["module:m1"],"emoji":"🌰"}
+{"lemma":"코","reading":"코","lang":"ko","pos":"noun","gloss":"nose","source":"open-lingo-curriculum","romaji":"ko","tags":["module:m2"],"emoji":"👃"}
+{"lemma":"키","reading":"키","lang":"ko","pos":"noun","gloss":"height / key","source":"open-lingo-curriculum","romaji":"ki","tags":["module:m2"],"emoji":"📏"}
+{"lemma":"커피","reading":"커피","lang":"ko","pos":"noun","gloss":"coffee","source":"open-lingo-curriculum","romaji":"keopi","tags":["module:m2"],"emoji":"☕"}
+{"lemma":"쿠키","reading":"쿠키","lang":"ko","pos":"noun","gloss":"cookie","source":"open-lingo-curriculum","romaji":"kuki","tags":["module:m2"],"emoji":"🍪"}
+{"lemma":"토끼","reading":"토끼","lang":"ko","pos":"noun","gloss":"rabbit","source":"open-lingo-curriculum","romaji":"tokki","tags":["module:m2"],"emoji":"🐰"}
+{"lemma":"타다","reading":"타다","lang":"ko","pos":"verb","gloss":"to ride / board","source":"open-lingo-curriculum","romaji":"tada","tags":["module:m2"]}
+{"lemma":"피","reading":"피","lang":"ko","pos":"noun","gloss":"blood","source":"open-lingo-curriculum","romaji":"pi","tags":["module:m2"],"emoji":"🩸"}
+{"lemma":"포도","reading":"포도","lang":"ko","pos":"noun","gloss":"grape","source":"open-lingo-curriculum","romaji":"podo","tags":["module:m2"],"emoji":"🍇"}
+{"lemma":"차","reading":"차","lang":"ko","pos":"noun","gloss":"car / tea","source":"open-lingo-curriculum","romaji":"cha","tags":["module:m2"],"emoji":"🚗"}
+{"lemma":"치마","reading":"치마","lang":"ko","pos":"noun","gloss":"skirt","source":"open-lingo-curriculum","romaji":"chima","tags":["module:m2"],"emoji":"👗"}
+{"lemma":"꼬리","reading":"꼬리","lang":"ko","pos":"noun","gloss":"tail","source":"open-lingo-curriculum","romaji":"kkori","tags":["module:m2"],"emoji":"🐈"}
+{"lemma":"토끼","reading":"토끼","lang":"ko","pos":"noun","gloss":"rabbit (with tense ㄲ)","source":"open-lingo-curriculum","romaji":"tokki","tags":["not-srs-eligible","module:m2"]}
+{"lemma":"오빠","reading":"오빠","lang":"ko","pos":"noun","gloss":"older brother (female speaker)","source":"open-lingo-curriculum","romaji":"oppa","tags":["module:m2"],"emoji":"🧑"}
+{"lemma":"아빠","reading":"아빠","lang":"ko","pos":"noun","gloss":"dad","source":"open-lingo-curriculum","romaji":"appa","tags":["module:m2"],"emoji":"👨"}
+{"lemma":"싸다","reading":"싸다","lang":"ko","pos":"adjective","gloss":"to be cheap","source":"open-lingo-curriculum","romaji":"ssada","tags":["module:m2"]}
+{"lemma":"짜다","reading":"짜다","lang":"ko","pos":"adjective","gloss":"to be salty","source":"open-lingo-curriculum","romaji":"jjada","tags":["module:m2"]}
+{"lemma":"야구","reading":"야구","lang":"ko","pos":"noun","gloss":"baseball","source":"open-lingo-curriculum","romaji":"yagu","tags":["module:m2"],"emoji":"⚾"}
+{"lemma":"여기","reading":"여기","lang":"ko","pos":"pronoun","gloss":"here","source":"open-lingo-curriculum","romaji":"yeogi","tags":["module:m2"],"emoji":"📍"}
+{"lemma":"교실","reading":"교실","lang":"ko","pos":"noun","gloss":"classroom","source":"open-lingo-curriculum","romaji":"gyosil","tags":["module:m2"],"emoji":"🏫"}
+{"lemma":"우유","reading":"우유","lang":"ko","pos":"noun","gloss":"milk","source":"open-lingo-curriculum","romaji":"uyu","tags":["module:m2"],"emoji":"🥛"}
+{"lemma":"안녕히 가세요","reading":"안녕히 가세요","lang":"ko","pos":"phrase","gloss":"goodbye (to person leaving)","source":"open-lingo-curriculum","romaji":"annyeonghi gaseyo","tags":["phrase","module:m3"]}
+{"lemma":"안녕히 계세요","reading":"안녕히 계세요","lang":"ko","pos":"phrase","gloss":"goodbye (to person staying)","source":"open-lingo-curriculum","romaji":"annyeonghi gyeseyo","tags":["phrase","module:m3"]}
+{"lemma":"반갑습니다","reading":"반갑습니다","lang":"ko","pos":"phrase","gloss":"nice to meet you","source":"open-lingo-curriculum","romaji":"bangapseumnida","tags":["phrase","module:m3"]}
+{"lemma":"안녕","reading":"안녕","lang":"ko","pos":"phrase","gloss":"hi / bye (casual)","source":"open-lingo-curriculum","romaji":"annyeong","tags":["phrase","module:m3"]}
+{"lemma":"저","reading":"저","lang":"ko","pos":"pronoun","gloss":"I / me (polite)","source":"open-lingo-curriculum","romaji":"jeo","tags":["module:m3"],"emoji":"🙋"}
+{"lemma":"이름","reading":"이름","lang":"ko","pos":"noun","gloss":"name","source":"open-lingo-curriculum","romaji":"ireum","tags":["module:m3"],"emoji":"🪪"}
+{"lemma":"학생","reading":"학생","lang":"ko","pos":"noun","gloss":"student","source":"open-lingo-curriculum","romaji":"haksaeng","tags":["module:m3"],"emoji":"🧑‍🎓"}
+{"lemma":"선생님","reading":"선생님","lang":"ko","pos":"noun","gloss":"teacher","source":"open-lingo-curriculum","romaji":"seonsaengnim","tags":["module:m3"],"emoji":"🧑‍🏫"}
+{"lemma":"친구","reading":"친구","lang":"ko","pos":"noun","gloss":"friend","source":"open-lingo-curriculum","romaji":"chingu","tags":["module:m3"],"emoji":"👫"}
+{"lemma":"뭐","reading":"뭐","lang":"ko","pos":"pronoun","gloss":"what","source":"open-lingo-curriculum","romaji":"mwo","tags":["module:m3"],"emoji":"❓"}
+{"lemma":"이에요","reading":"이에요","lang":"ko","pos":"grammar","gloss":"to be (polite, after consonant)","source":"open-lingo-curriculum","romaji":"ieyo","tags":["not-srs-eligible","module:m3"]}
+{"lemma":"예요","reading":"예요","lang":"ko","pos":"grammar","gloss":"to be (polite, after vowel)","source":"open-lingo-curriculum","romaji":"yeyo","tags":["not-srs-eligible","module:m3"]}
+{"lemma":"일","reading":"일","lang":"ko","pos":"noun","gloss":"one (1, Sino)","source":"open-lingo-curriculum","romaji":"il","tags":["module:m3"],"emoji":"1️⃣"}
+{"lemma":"이","reading":"이","lang":"ko","pos":"noun","gloss":"two (2, Sino)","source":"open-lingo-curriculum","romaji":"i","tags":["not-srs-eligible","module:m3"],"emoji":"2️⃣"}
+{"lemma":"삼","reading":"삼","lang":"ko","pos":"noun","gloss":"three (3, Sino)","source":"open-lingo-curriculum","romaji":"sam","tags":["module:m3"],"emoji":"3️⃣"}
+{"lemma":"사","reading":"사","lang":"ko","pos":"noun","gloss":"four (4, Sino)","source":"open-lingo-curriculum","romaji":"sa","tags":["not-srs-eligible","module:m3"],"emoji":"4️⃣"}
+{"lemma":"오","reading":"오","lang":"ko","pos":"noun","gloss":"five (5, Sino)","source":"open-lingo-curriculum","romaji":"o","tags":["not-srs-eligible","module:m3"],"emoji":"5️⃣"}
+{"lemma":"육","reading":"육","lang":"ko","pos":"noun","gloss":"six (6, Sino)","source":"open-lingo-curriculum","romaji":"yuk","tags":["module:m3"],"emoji":"6️⃣"}
+{"lemma":"칠","reading":"칠","lang":"ko","pos":"noun","gloss":"seven (7, Sino)","source":"open-lingo-curriculum","romaji":"chil","tags":["module:m3"],"emoji":"7️⃣"}
+{"lemma":"팔","reading":"팔","lang":"ko","pos":"noun","gloss":"eight (8, Sino)","source":"open-lingo-curriculum","romaji":"pal","tags":["module:m3"],"emoji":"8️⃣"}
+{"lemma":"구","reading":"구","lang":"ko","pos":"noun","gloss":"nine (9, Sino)","source":"open-lingo-curriculum","romaji":"gu","tags":["not-srs-eligible","module:m3"],"emoji":"9️⃣"}
+{"lemma":"십","reading":"십","lang":"ko","pos":"noun","gloss":"ten (10, Sino)","source":"open-lingo-curriculum","romaji":"sip","tags":["module:m3"],"emoji":"🔟"}
+{"lemma":"책","reading":"책","lang":"ko","pos":"noun","gloss":"book","source":"open-lingo-curriculum","romaji":"chaek","tags":["module:m4"],"emoji":"📖"}
+{"lemma":"펜","reading":"펜","lang":"ko","pos":"noun","gloss":"pen","source":"open-lingo-curriculum","romaji":"pen","tags":["module:m4"],"emoji":"🖊️"}
+{"lemma":"가방","reading":"가방","lang":"ko","pos":"noun","gloss":"bag","source":"open-lingo-curriculum","romaji":"gabang","tags":["module:m4"],"emoji":"👜"}
+{"lemma":"의자","reading":"의자","lang":"ko","pos":"noun","gloss":"chair","source":"open-lingo-curriculum","romaji":"uija","tags":["module:m4"],"emoji":"🪑"}
+{"lemma":"문","reading":"문","lang":"ko","pos":"noun","gloss":"door","source":"open-lingo-curriculum","romaji":"mun","tags":["module:m4"],"emoji":"🚪"}
+{"lemma":"핸드폰","reading":"핸드폰","lang":"ko","pos":"noun","gloss":"cellphone","source":"open-lingo-curriculum","romaji":"haendeupon","tags":["module:m4"],"emoji":"📱"}
+{"lemma":"이거","reading":"이거","lang":"ko","pos":"pronoun","gloss":"this (thing)","source":"open-lingo-curriculum","romaji":"igeo","tags":["module:m4"]}
+{"lemma":"그거","reading":"그거","lang":"ko","pos":"pronoun","gloss":"that (thing, near you)","source":"open-lingo-curriculum","romaji":"geugeo","tags":["module:m4"]}
+{"lemma":"저거","reading":"저거","lang":"ko","pos":"pronoun","gloss":"that (thing, over there)","source":"open-lingo-curriculum","romaji":"jeogeo","tags":["module:m4"]}
+{"lemma":"이","reading":"이","lang":"ko","pos":"other","gloss":"this (+ noun)","source":"open-lingo-curriculum","romaji":"i","tags":["not-srs-eligible","module:m4"]}
+{"lemma":"그","reading":"그","lang":"ko","pos":"other","gloss":"that (+ noun, near you)","source":"open-lingo-curriculum","romaji":"geu","tags":["module:m4"]}
+{"lemma":"저","reading":"저","lang":"ko","pos":"other","gloss":"that (+ noun, over there)","source":"open-lingo-curriculum","romaji":"jeo","tags":["not-srs-eligible","module:m4"]}
+{"lemma":"제","reading":"제","lang":"ko","pos":"pronoun","gloss":"my (polite, = 저의)","source":"open-lingo-curriculum","romaji":"je","tags":["module:m4"]}
+{"lemma":"거","reading":"거","lang":"ko","pos":"noun","gloss":"thing / one (spoken 것)","source":"open-lingo-curriculum","romaji":"geo","tags":["not-srs-eligible","module:m4"]}
+{"lemma":"하나","reading":"하나","lang":"ko","pos":"noun","gloss":"one (1, native)","source":"open-lingo-curriculum","romaji":"hana","tags":["not-srs-eligible","module:m5"],"emoji":"1️⃣"}
+{"lemma":"둘","reading":"둘","lang":"ko","pos":"noun","gloss":"two (2, native)","source":"open-lingo-curriculum","romaji":"dul","tags":["module:m5"],"emoji":"2️⃣"}
+{"lemma":"셋","reading":"셋","lang":"ko","pos":"noun","gloss":"three (3, native)","source":"open-lingo-curriculum","romaji":"set","tags":["module:m5"],"emoji":"3️⃣"}
+{"lemma":"넷","reading":"넷","lang":"ko","pos":"noun","gloss":"four (4, native)","source":"open-lingo-curriculum","romaji":"net","tags":["module:m5"],"emoji":"4️⃣"}
+{"lemma":"다섯","reading":"다섯","lang":"ko","pos":"noun","gloss":"five (5, native)","source":"open-lingo-curriculum","romaji":"daseot","tags":["module:m5"],"emoji":"5️⃣"}
+{"lemma":"여섯","reading":"여섯","lang":"ko","pos":"noun","gloss":"six (6, native)","source":"open-lingo-curriculum","romaji":"yeoseot","tags":["module:m5"],"emoji":"6️⃣"}
+{"lemma":"일곱","reading":"일곱","lang":"ko","pos":"noun","gloss":"seven (7, native)","source":"open-lingo-curriculum","romaji":"ilgop","tags":["module:m5"],"emoji":"7️⃣"}
+{"lemma":"여덟","reading":"여덟","lang":"ko","pos":"noun","gloss":"eight (8, native)","source":"open-lingo-curriculum","romaji":"yeodeol","tags":["module:m5"],"emoji":"8️⃣"}
+{"lemma":"아홉","reading":"아홉","lang":"ko","pos":"noun","gloss":"nine (9, native)","source":"open-lingo-curriculum","romaji":"ahop","tags":["module:m5"],"emoji":"9️⃣"}
+{"lemma":"열","reading":"열","lang":"ko","pos":"noun","gloss":"ten (10, native)","source":"open-lingo-curriculum","romaji":"yeol","tags":["module:m5"],"emoji":"🔟"}
+{"lemma":"한","reading":"한","lang":"ko","pos":"other","gloss":"one (before a counter)","source":"open-lingo-curriculum","romaji":"han","tags":["not-srs-eligible","module:m5"]}
+{"lemma":"두","reading":"두","lang":"ko","pos":"other","gloss":"two (before a counter)","source":"open-lingo-curriculum","romaji":"du","tags":["not-srs-eligible","module:m5"]}
+{"lemma":"세","reading":"세","lang":"ko","pos":"other","gloss":"three (before a counter)","source":"open-lingo-curriculum","romaji":"se","tags":["not-srs-eligible","module:m5"]}
+{"lemma":"개","reading":"개","lang":"ko","pos":"noun","gloss":"counter: things / items","source":"open-lingo-curriculum","romaji":"gae","tags":["module:m5"]}
+{"lemma":"명","reading":"명","lang":"ko","pos":"noun","gloss":"counter: people","source":"open-lingo-curriculum","romaji":"myeong","tags":["module:m5"]}
+{"lemma":"잔","reading":"잔","lang":"ko","pos":"noun","gloss":"counter: cups / glasses","source":"open-lingo-curriculum","romaji":"jan","tags":["module:m5"]}
+{"lemma":"주세요","reading":"주세요","lang":"ko","pos":"verb","gloss":"please give (me)","source":"open-lingo-curriculum","romaji":"juseyo","tags":["module:m5"]}
+{"lemma":"물","reading":"물","lang":"ko","pos":"noun","gloss":"water","source":"open-lingo-curriculum","romaji":"mul","tags":["module:m5"],"emoji":"💧"}
+{"lemma":"빵","reading":"빵","lang":"ko","pos":"noun","gloss":"bread","source":"open-lingo-curriculum","romaji":"ppang","tags":["module:m5"],"emoji":"🍞"}
+{"lemma":"얼마","reading":"얼마","lang":"ko","pos":"pronoun","gloss":"how much","source":"open-lingo-curriculum","romaji":"eolma","tags":["module:m5"]}
+{"lemma":"원","reading":"원","lang":"ko","pos":"noun","gloss":"won (₩, currency)","source":"open-lingo-curriculum","romaji":"won","tags":["module:m5"]}
+{"lemma":"집","reading":"집","lang":"ko","pos":"noun","gloss":"house / home","source":"open-lingo-curriculum","romaji":"jip","tags":["module:m6"],"emoji":"🏠"}
+{"lemma":"학교","reading":"학교","lang":"ko","pos":"noun","gloss":"school","source":"open-lingo-curriculum","romaji":"hakgyo","tags":["module:m6"],"emoji":"🏫"}
+{"lemma":"가게","reading":"가게","lang":"ko","pos":"noun","gloss":"store / shop","source":"open-lingo-curriculum","romaji":"gage","tags":["module:m6"],"emoji":"🏪"}
+{"lemma":"식당","reading":"식당","lang":"ko","pos":"noun","gloss":"restaurant","source":"open-lingo-curriculum","romaji":"sikdang","tags":["module:m6"],"emoji":"🍜"}
+{"lemma":"역","reading":"역","lang":"ko","pos":"noun","gloss":"(train) station","source":"open-lingo-curriculum","romaji":"yeok","tags":["module:m6"],"emoji":"🚉"}
+{"lemma":"병원","reading":"병원","lang":"ko","pos":"noun","gloss":"hospital","source":"open-lingo-curriculum","romaji":"byeongwon","tags":["module:m6"],"emoji":"🏥"}
+{"lemma":"있어요","reading":"있어요","lang":"ko","pos":"verb","gloss":"there is / I have","source":"open-lingo-curriculum","romaji":"isseoyo","tags":["module:m6"]}
+{"lemma":"없어요","reading":"없어요","lang":"ko","pos":"verb","gloss":"there isn't / I don't have","source":"open-lingo-curriculum","romaji":"eopseoyo","tags":["module:m6"]}
+{"lemma":"어디","reading":"어디","lang":"ko","pos":"pronoun","gloss":"where","source":"open-lingo-curriculum","romaji":"eodi","tags":["module:m6"]}
+{"lemma":"여기","reading":"여기","lang":"ko","pos":"pronoun","gloss":"here","source":"open-lingo-curriculum","romaji":"yeogi","tags":["not-srs-eligible","module:m6"]}
+{"lemma":"거기","reading":"거기","lang":"ko","pos":"pronoun","gloss":"there (near you)","source":"open-lingo-curriculum","romaji":"geogi","tags":["not-srs-eligible","module:m6"]}
+{"lemma":"가다","reading":"가다","lang":"ko","pos":"verb","gloss":"to go (dictionary form)","source":"open-lingo-curriculum","romaji":"gada","tags":["not-srs-eligible","module:m7"]}
+{"lemma":"오다","reading":"오다","lang":"ko","pos":"verb","gloss":"to come (dictionary form)","source":"open-lingo-curriculum","romaji":"oda","tags":["not-srs-eligible","module:m7"]}
+{"lemma":"먹다","reading":"먹다","lang":"ko","pos":"verb","gloss":"to eat (dictionary form)","source":"open-lingo-curriculum","romaji":"meokda","tags":["not-srs-eligible","module:m7"]}
+{"lemma":"마시다","reading":"마시다","lang":"ko","pos":"verb","gloss":"to drink (dictionary form)","source":"open-lingo-curriculum","romaji":"masida","tags":["not-srs-eligible","module:m7"]}
+{"lemma":"보다","reading":"보다","lang":"ko","pos":"verb","gloss":"to see / watch (dictionary form)","source":"open-lingo-curriculum","romaji":"boda","tags":["not-srs-eligible","module:m7"]}
+{"lemma":"하다","reading":"하다","lang":"ko","pos":"verb","gloss":"to do (dictionary form)","source":"open-lingo-curriculum","romaji":"hada","tags":["not-srs-eligible","module:m7"]}
+{"lemma":"가요","reading":"가요","lang":"ko","pos":"verb","gloss":"go / will go (polite)","source":"open-lingo-curriculum","romaji":"gayo","tags":["module:m7"]}
+{"lemma":"와요","reading":"와요","lang":"ko","pos":"verb","gloss":"come / will come (polite)","source":"open-lingo-curriculum","romaji":"wayo","tags":["module:m7"]}
+{"lemma":"먹어요","reading":"먹어요","lang":"ko","pos":"verb","gloss":"eat / will eat (polite)","source":"open-lingo-curriculum","romaji":"meogeoyo","tags":["module:m7"]}
+{"lemma":"마셔요","reading":"마셔요","lang":"ko","pos":"verb","gloss":"drink / will drink (polite)","source":"open-lingo-curriculum","romaji":"masyeoyo","tags":["module:m7"]}
+{"lemma":"봐요","reading":"봐요","lang":"ko","pos":"verb","gloss":"see / watch (polite)","source":"open-lingo-curriculum","romaji":"bwayo","tags":["module:m7"]}
+{"lemma":"해요","reading":"해요","lang":"ko","pos":"verb","gloss":"do / will do (polite)","source":"open-lingo-curriculum","romaji":"haeyo","tags":["module:m7"]}
+{"lemma":"밥","reading":"밥","lang":"ko","pos":"noun","gloss":"(cooked) rice / a meal","source":"open-lingo-curriculum","romaji":"bap","tags":["module:m7"],"emoji":"🍚"}
+{"lemma":"커피","reading":"커피","lang":"ko","pos":"noun","gloss":"coffee","source":"open-lingo-curriculum","romaji":"keopi","tags":["not-srs-eligible","module:m7"],"emoji":"☕"}
+{"lemma":"영화","reading":"영화","lang":"ko","pos":"noun","gloss":"movie","source":"open-lingo-curriculum","romaji":"yeonghwa","tags":["module:m7"],"emoji":"🎬"}
+{"lemma":"공부","reading":"공부","lang":"ko","pos":"noun","gloss":"study / studying","source":"open-lingo-curriculum","romaji":"gongbu","tags":["module:m7"],"emoji":"📚"}
+{"lemma":"좋다","reading":"좋다","lang":"ko","pos":"adjective","gloss":"to be good (dictionary form)","source":"open-lingo-curriculum","romaji":"jota","tags":["not-srs-eligible","module:m8"]}
+{"lemma":"크다","reading":"크다","lang":"ko","pos":"adjective","gloss":"to be big (dictionary form)","source":"open-lingo-curriculum","romaji":"keuda","tags":["not-srs-eligible","module:m8"]}
+{"lemma":"작다","reading":"작다","lang":"ko","pos":"adjective","gloss":"to be small (dictionary form)","source":"open-lingo-curriculum","romaji":"jakda","tags":["not-srs-eligible","module:m8"]}
+{"lemma":"예쁘다","reading":"예쁘다","lang":"ko","pos":"adjective","gloss":"to be pretty (dictionary form)","source":"open-lingo-curriculum","romaji":"yeppeuda","tags":["not-srs-eligible","module:m8"]}
+{"lemma":"맛있다","reading":"맛있다","lang":"ko","pos":"adjective","gloss":"to be delicious (dictionary form)","source":"open-lingo-curriculum","romaji":"masitda","tags":["not-srs-eligible","module:m8"]}
+{"lemma":"비싸다","reading":"비싸다","lang":"ko","pos":"adjective","gloss":"to be expensive (dictionary form)","source":"open-lingo-curriculum","romaji":"bissada","tags":["not-srs-eligible","module:m8"]}
+{"lemma":"좋아요","reading":"좋아요","lang":"ko","pos":"adjective","gloss":"is good / I like it (polite)","source":"open-lingo-curriculum","romaji":"joayo","tags":["module:m8"]}
+{"lemma":"커요","reading":"커요","lang":"ko","pos":"adjective","gloss":"is big (polite)","source":"open-lingo-curriculum","romaji":"keoyo","tags":["module:m8"]}
+{"lemma":"작아요","reading":"작아요","lang":"ko","pos":"adjective","gloss":"is small (polite)","source":"open-lingo-curriculum","romaji":"jagayo","tags":["module:m8"]}
+{"lemma":"예뻐요","reading":"예뻐요","lang":"ko","pos":"adjective","gloss":"is pretty (polite)","source":"open-lingo-curriculum","romaji":"yeppeoyo","tags":["module:m8"]}
+{"lemma":"맛있어요","reading":"맛있어요","lang":"ko","pos":"adjective","gloss":"is delicious (polite)","source":"open-lingo-curriculum","romaji":"masisseoyo","tags":["module:m8"]}
+{"lemma":"비싸요","reading":"비싸요","lang":"ko","pos":"adjective","gloss":"is expensive (polite)","source":"open-lingo-curriculum","romaji":"bissayo","tags":["module:m8"]}
+{"lemma":"좋은","reading":"좋은","lang":"ko","pos":"adjective","gloss":"good (+ noun)","source":"open-lingo-curriculum","romaji":"joeun","tags":["not-srs-eligible","module:m8"]}
+{"lemma":"큰","reading":"큰","lang":"ko","pos":"adjective","gloss":"big (+ noun)","source":"open-lingo-curriculum","romaji":"keun","tags":["not-srs-eligible","module:m8"]}
+{"lemma":"작은","reading":"작은","lang":"ko","pos":"adjective","gloss":"small (+ noun)","source":"open-lingo-curriculum","romaji":"jageun","tags":["not-srs-eligible","module:m8"]}
+{"lemma":"하고","reading":"하고","lang":"ko","pos":"particle","gloss":"and / with (spoken, nouns)","source":"open-lingo-curriculum","romaji":"hago","tags":["particle","module:m9"]}
+{"lemma":"와","reading":"와","lang":"ko","pos":"particle","gloss":"and (formal, after a vowel)","source":"open-lingo-curriculum","romaji":"wa","tags":["particle","module:m9"]}
+{"lemma":"과","reading":"과","lang":"ko","pos":"particle","gloss":"and (formal, after a consonant)","source":"open-lingo-curriculum","romaji":"gwa","tags":["particle","module:m9"]}
+{"lemma":"도","reading":"도","lang":"ko","pos":"particle","gloss":"too / also","source":"open-lingo-curriculum","romaji":"do","tags":["not-srs-eligible","particle","module:m9"]}
+{"lemma":"빵","reading":"빵","lang":"ko","pos":"noun","gloss":"bread","source":"open-lingo-curriculum","romaji":"ppang","tags":["not-srs-eligible","module:m9"],"emoji":"🍞"}
+{"lemma":"우유","reading":"우유","lang":"ko","pos":"noun","gloss":"milk","source":"open-lingo-curriculum","romaji":"uyu","tags":["not-srs-eligible","module:m9"],"emoji":"🥛"}
+{"lemma":"사과","reading":"사과","lang":"ko","pos":"noun","gloss":"apple","source":"open-lingo-curriculum","romaji":"sagwa","tags":["module:m9"],"emoji":"🍎"}
+{"lemma":"갔어요","reading":"갔어요","lang":"ko","pos":"verb","gloss":"went (polite past)","source":"open-lingo-curriculum","romaji":"gasseoyo","tags":["module:m10"]}
+{"lemma":"왔어요","reading":"왔어요","lang":"ko","pos":"verb","gloss":"came (polite past)","source":"open-lingo-curriculum","romaji":"wasseoyo","tags":["module:m10"]}
+{"lemma":"먹었어요","reading":"먹었어요","lang":"ko","pos":"verb","gloss":"ate (polite past)","source":"open-lingo-curriculum","romaji":"meogeosseoyo","tags":["module:m10"]}
+{"lemma":"마셨어요","reading":"마셨어요","lang":"ko","pos":"verb","gloss":"drank (polite past)","source":"open-lingo-curriculum","romaji":"masyeosseoyo","tags":["module:m10"]}
+{"lemma":"봤어요","reading":"봤어요","lang":"ko","pos":"verb","gloss":"saw / watched (polite past)","source":"open-lingo-curriculum","romaji":"bwasseoyo","tags":["module:m10"]}
+{"lemma":"했어요","reading":"했어요","lang":"ko","pos":"verb","gloss":"did (polite past)","source":"open-lingo-curriculum","romaji":"haesseoyo","tags":["module:m10"]}
+{"lemma":"좋았어요","reading":"좋았어요","lang":"ko","pos":"adjective","gloss":"was good (polite past)","source":"open-lingo-curriculum","romaji":"joasseoyo","tags":["module:m10"]}
+{"lemma":"맛있었어요","reading":"맛있었어요","lang":"ko","pos":"adjective","gloss":"was delicious (polite past)","source":"open-lingo-curriculum","romaji":"masisseosseoyo","tags":["module:m10"]}
+{"lemma":"였어요","reading":"였어요","lang":"ko","pos":"grammar","gloss":"was (after a vowel)","source":"open-lingo-curriculum","romaji":"yeosseoyo","tags":["not-srs-eligible","module:m10"]}
+{"lemma":"이었어요","reading":"이었어요","lang":"ko","pos":"grammar","gloss":"was (after a consonant)","source":"open-lingo-curriculum","romaji":"ieosseoyo","tags":["not-srs-eligible","module:m10"]}
+{"lemma":"어제","reading":"어제","lang":"ko","pos":"adverb","gloss":"yesterday","source":"open-lingo-curriculum","romaji":"eoje","tags":["module:m10"]}
+{"lemma":"오늘","reading":"오늘","lang":"ko","pos":"adverb","gloss":"today","source":"open-lingo-curriculum","romaji":"oneul","tags":["module:m10"]}
+{"lemma":"안","reading":"안","lang":"ko","pos":"adverb","gloss":"not (simple negation, before a verb)","source":"open-lingo-curriculum","romaji":"an","tags":["module:m11"]}
+{"lemma":"못","reading":"못","lang":"ko","pos":"adverb","gloss":"can't (inability, before a verb)","source":"open-lingo-curriculum","romaji":"mot","tags":["module:m11"]}
+{"lemma":"싶어요","reading":"싶어요","lang":"ko","pos":"verb","gloss":"want to (with verb stem + 고)","source":"open-lingo-curriculum","romaji":"sipeoyo","tags":["not-srs-eligible","module:m11"]}
+{"lemma":"가고 싶어요","reading":"가고 싶어요","lang":"ko","pos":"phrase","gloss":"want to go","source":"open-lingo-curriculum","romaji":"gago sipeoyo","tags":["phrase","module:m11"]}
+{"lemma":"먹고 싶어요","reading":"먹고 싶어요","lang":"ko","pos":"phrase","gloss":"want to eat","source":"open-lingo-curriculum","romaji":"meokgo sipeoyo","tags":["phrase","module:m11"]}
+{"lemma":"시","reading":"시","lang":"ko","pos":"noun","gloss":"o'clock (hour counter)","source":"open-lingo-curriculum","romaji":"si","tags":["module:m12"]}
+{"lemma":"분","reading":"분","lang":"ko","pos":"noun","gloss":"minute(s)","source":"open-lingo-curriculum","romaji":"bun","tags":["module:m12"]}
+{"lemma":"반","reading":"반","lang":"ko","pos":"noun","gloss":"half (past the hour)","source":"open-lingo-curriculum","romaji":"ban","tags":["module:m12"]}
+{"lemma":"지금","reading":"지금","lang":"ko","pos":"adverb","gloss":"now","source":"open-lingo-curriculum","romaji":"jigeum","tags":["module:m12"]}
+{"lemma":"몇","reading":"몇","lang":"ko","pos":"other","gloss":"how many / what (number)","source":"open-lingo-curriculum","romaji":"myeot","tags":["module:m12"]}
+{"lemma":"월요일","reading":"월요일","lang":"ko","pos":"noun","gloss":"Monday","source":"open-lingo-curriculum","romaji":"woryoil","tags":["module:m12"]}
+{"lemma":"화요일","reading":"화요일","lang":"ko","pos":"noun","gloss":"Tuesday","source":"open-lingo-curriculum","romaji":"hwayoil","tags":["module:m12"]}
+{"lemma":"수요일","reading":"수요일","lang":"ko","pos":"noun","gloss":"Wednesday","source":"open-lingo-curriculum","romaji":"suyoil","tags":["module:m12"]}
+{"lemma":"목요일","reading":"목요일","lang":"ko","pos":"noun","gloss":"Thursday","source":"open-lingo-curriculum","romaji":"mogyoil","tags":["module:m12"]}
+{"lemma":"금요일","reading":"금요일","lang":"ko","pos":"noun","gloss":"Friday","source":"open-lingo-curriculum","romaji":"geumyoil","tags":["module:m12"]}
+{"lemma":"토요일","reading":"토요일","lang":"ko","pos":"noun","gloss":"Saturday","source":"open-lingo-curriculum","romaji":"toyoil","tags":["module:m12"]}
+{"lemma":"일요일","reading":"일요일","lang":"ko","pos":"noun","gloss":"Sunday","source":"open-lingo-curriculum","romaji":"iryoil","tags":["module:m12"]}
+{"lemma":"월","reading":"월","lang":"ko","pos":"noun","gloss":"month (counter, with Sino numbers)","source":"open-lingo-curriculum","romaji":"wol","tags":["module:m13"]}
+{"lemma":"유월","reading":"유월","lang":"ko","pos":"noun","gloss":"June (irregular: not 육월)","source":"open-lingo-curriculum","romaji":"yuwol","tags":["module:m13"]}
+{"lemma":"시월","reading":"시월","lang":"ko","pos":"noun","gloss":"October (irregular: not 십월)","source":"open-lingo-curriculum","romaji":"siwol","tags":["module:m13"]}
+{"lemma":"항상","reading":"항상","lang":"ko","pos":"adverb","gloss":"always","source":"open-lingo-curriculum","romaji":"hangsang","tags":["module:m13"]}
+{"lemma":"자주","reading":"자주","lang":"ko","pos":"adverb","gloss":"often","source":"open-lingo-curriculum","romaji":"jaju","tags":["module:m13"]}
+{"lemma":"가끔","reading":"가끔","lang":"ko","pos":"adverb","gloss":"sometimes","source":"open-lingo-curriculum","romaji":"gakkeum","tags":["module:m13"]}
+{"lemma":"별로","reading":"별로","lang":"ko","pos":"adverb","gloss":"not really / not much (with negative)","source":"open-lingo-curriculum","romaji":"byeollo","tags":["module:m13"]}
+{"lemma":"전혀","reading":"전혀","lang":"ko","pos":"adverb","gloss":"(not) at all (with negative)","source":"open-lingo-curriculum","romaji":"jeonhyeo","tags":["module:m13"]}
+{"lemma":"부터","reading":"부터","lang":"ko","pos":"particle","gloss":"from (a starting time)","source":"open-lingo-curriculum","romaji":"buteo","tags":["particle","module:m13"]}
+{"lemma":"까지","reading":"까지","lang":"ko","pos":"particle","gloss":"until / up to","source":"open-lingo-curriculum","romaji":"kkaji","tags":["particle","module:m13"]}
+{"lemma":"그래서","reading":"그래서","lang":"ko","pos":"adverb","gloss":"so / therefore","source":"open-lingo-curriculum","romaji":"geuraeseo","tags":["module:m13"]}
+{"lemma":"회사","reading":"회사","lang":"ko","pos":"noun","gloss":"company / workplace","source":"open-lingo-curriculum","romaji":"hoesa","tags":["module:m13"],"emoji":"🏢"}
+{"lemma":"운동","reading":"운동","lang":"ko","pos":"noun","gloss":"exercise / working out","source":"open-lingo-curriculum","romaji":"undong","tags":["module:m13"],"emoji":"🏃"}
+{"lemma":"고","reading":"고","lang":"ko","pos":"particle","gloss":"and / and then (joins clauses)","source":"open-lingo-curriculum","romaji":"go","tags":["particle","module:m14"]}
+{"lemma":"아서","reading":"아서","lang":"ko","pos":"grammar","gloss":"and so / and then (after ㅏ/ㅗ stem)","source":"open-lingo-curriculum","romaji":"aseo","tags":["not-srs-eligible","module:m14"]}
+{"lemma":"어서","reading":"어서","lang":"ko","pos":"grammar","gloss":"and so / and then (other stems)","source":"open-lingo-curriculum","romaji":"eoseo","tags":["not-srs-eligible","module:m14"]}
+{"lemma":"도와주세요","reading":"도와주세요","lang":"ko","pos":"phrase","gloss":"please help (me)","source":"open-lingo-curriculum","romaji":"dowajuseyo","tags":["phrase","module:m14"]}
+{"lemma":"백","reading":"백","lang":"ko","pos":"noun","gloss":"hundred","source":"open-lingo-curriculum","romaji":"baek","tags":["module:m14"]}
+{"lemma":"천","reading":"천","lang":"ko","pos":"noun","gloss":"thousand","source":"open-lingo-curriculum","romaji":"cheon","tags":["module:m14"]}
+{"lemma":"만","reading":"만","lang":"ko","pos":"noun","gloss":"ten thousand","source":"open-lingo-curriculum","romaji":"man","tags":["module:m14"]}
+{"lemma":"기다리다","reading":"기다리다","lang":"ko","pos":"verb","gloss":"to wait (dictionary form)","source":"open-lingo-curriculum","romaji":"gidarida","tags":["not-srs-eligible","module:m14"]}
+{"lemma":"기다려 주세요","reading":"기다려 주세요","lang":"ko","pos":"phrase","gloss":"please wait (for me)","source":"open-lingo-curriculum","romaji":"gidaryeo juseyo","tags":["phrase","module:m14"]}
+{"lemma":"고 있어요","reading":"고 있어요","lang":"ko","pos":"grammar","gloss":"is ...-ing (progressive)","source":"open-lingo-curriculum","romaji":"go isseoyo","tags":["not-srs-eligible","module:m15"]}
+{"lemma":"도 돼요","reading":"도 돼요","lang":"ko","pos":"grammar","gloss":"may / it's okay to (permission)","source":"open-lingo-curriculum","romaji":"do dwaeyo","tags":["not-srs-eligible","module:m15"]}
+{"lemma":"지만","reading":"지만","lang":"ko","pos":"particle","gloss":"but / although (joins clauses)","source":"open-lingo-curriculum","romaji":"jiman","tags":["particle","module:m15"]}
+{"lemma":"자다","reading":"자다","lang":"ko","pos":"verb","gloss":"to sleep (dictionary form)","source":"open-lingo-curriculum","romaji":"jada","tags":["not-srs-eligible","module:m15"]}
+{"lemma":"쉬다","reading":"쉬다","lang":"ko","pos":"verb","gloss":"to rest (dictionary form)","source":"open-lingo-curriculum","romaji":"swida","tags":["not-srs-eligible","module:m15"]}
+{"lemma":"전화","reading":"전화","lang":"ko","pos":"noun","gloss":"phone / phone call","source":"open-lingo-curriculum","romaji":"jeonhwa","tags":["module:m15"],"emoji":"📞"}
+{"lemma":"으면 안 돼요","reading":"으면 안 돼요","lang":"ko","pos":"grammar","gloss":"must not / you may not (after consonant)","source":"open-lingo-curriculum","romaji":"eumyeon an dwaeyo","tags":["not-srs-eligible","module:m16"]}
+{"lemma":"면 안 돼요","reading":"면 안 돼요","lang":"ko","pos":"grammar","gloss":"must not / you may not (after vowel)","source":"open-lingo-curriculum","romaji":"myeon an dwaeyo","tags":["not-srs-eligible","module:m16"]}
+{"lemma":"지 마세요","reading":"지 마세요","lang":"ko","pos":"grammar","gloss":"please don't (do)","source":"open-lingo-curriculum","romaji":"ji maseyo","tags":["not-srs-eligible","module:m16"]}
+{"lemma":"고 나서","reading":"고 나서","lang":"ko","pos":"grammar","gloss":"after doing (then)","source":"open-lingo-curriculum","romaji":"go naseo","tags":["not-srs-eligible","module:m16"]}
+{"lemma":"좋아하다","reading":"좋아하다","lang":"ko","pos":"verb","gloss":"to like (dictionary form)","source":"open-lingo-curriculum","romaji":"joahada","tags":["not-srs-eligible","module:m16"]}
+{"lemma":"좋아해요","reading":"좋아해요","lang":"ko","pos":"verb","gloss":"like(s) (polite)","source":"open-lingo-curriculum","romaji":"joahaeyo","tags":["module:m16"]}
+{"lemma":"싫어하다","reading":"싫어하다","lang":"ko","pos":"verb","gloss":"to dislike (dictionary form)","source":"open-lingo-curriculum","romaji":"sireohada","tags":["not-srs-eligible","module:m16"]}
+{"lemma":"싫어해요","reading":"싫어해요","lang":"ko","pos":"verb","gloss":"dislike(s) (polite)","source":"open-lingo-curriculum","romaji":"sireohaeyo","tags":["module:m16"]}
+{"lemma":"담배","reading":"담배","lang":"ko","pos":"noun","gloss":"cigarette(s)","source":"open-lingo-curriculum","romaji":"dambae","tags":["module:m16"],"emoji":"🚬"}
+{"lemma":"로","reading":"로","lang":"ko","pos":"particle","gloss":"by / by means of (after vowel or ㄹ)","source":"open-lingo-curriculum","romaji":"ro","tags":["particle","module:m17"]}
+{"lemma":"으로","reading":"으로","lang":"ko","pos":"particle","gloss":"by / by means of (after consonant)","source":"open-lingo-curriculum","romaji":"euro","tags":["particle","module:m17"]}
+{"lemma":"버스","reading":"버스","lang":"ko","pos":"noun","gloss":"bus","source":"open-lingo-curriculum","romaji":"beoseu","tags":["module:m17"],"emoji":"🚌"}
+{"lemma":"지하철","reading":"지하철","lang":"ko","pos":"noun","gloss":"subway","source":"open-lingo-curriculum","romaji":"jihacheol","tags":["module:m17"],"emoji":"🚇"}
+{"lemma":"택시","reading":"택시","lang":"ko","pos":"noun","gloss":"taxi","source":"open-lingo-curriculum","romaji":"taeksi","tags":["module:m17"],"emoji":"🚕"}
+{"lemma":"기차","reading":"기차","lang":"ko","pos":"noun","gloss":"train","source":"open-lingo-curriculum","romaji":"gicha","tags":["module:m17"],"emoji":"🚆"}
+{"lemma":"비행기","reading":"비행기","lang":"ko","pos":"noun","gloss":"airplane","source":"open-lingo-curriculum","romaji":"bihaenggi","tags":["module:m17"],"emoji":"✈️"}
+{"lemma":"왼쪽","reading":"왼쪽","lang":"ko","pos":"noun","gloss":"left side","source":"open-lingo-curriculum","romaji":"oenjjok","tags":["module:m17"]}
+{"lemma":"오른쪽","reading":"오른쪽","lang":"ko","pos":"noun","gloss":"right side","source":"open-lingo-curriculum","romaji":"oreunjjok","tags":["module:m17"]}
+{"lemma":"똑바로","reading":"똑바로","lang":"ko","pos":"adverb","gloss":"straight ahead","source":"open-lingo-curriculum","romaji":"ttokbaro","tags":["module:m17"]}
+{"lemma":"타다","reading":"타다","lang":"ko","pos":"verb","gloss":"to ride / get on (dictionary form)","source":"open-lingo-curriculum","romaji":"tada","tags":["not-srs-eligible","module:m17"]}
+{"lemma":"타요","reading":"타요","lang":"ko","pos":"verb","gloss":"ride / get on (polite)","source":"open-lingo-curriculum","romaji":"tayo","tags":["module:m17"]}
+{"lemma":"내리다","reading":"내리다","lang":"ko","pos":"verb","gloss":"to get off (dictionary form)","source":"open-lingo-curriculum","romaji":"naerida","tags":["not-srs-eligible","module:m17"]}
+{"lemma":"날씨","reading":"날씨","lang":"ko","pos":"noun","gloss":"weather","source":"open-lingo-curriculum","romaji":"nalssi","tags":["module:m18"],"emoji":"🌤️"}
+{"lemma":"맑다","reading":"맑다","lang":"ko","pos":"adjective","gloss":"to be clear / sunny (dictionary form)","source":"open-lingo-curriculum","romaji":"makda","tags":["not-srs-eligible","module:m18"]}
+{"lemma":"맑아요","reading":"맑아요","lang":"ko","pos":"adjective","gloss":"is clear / sunny (polite)","source":"open-lingo-curriculum","romaji":"malgayo","tags":["module:m18"]}
+{"lemma":"흐리다","reading":"흐리다","lang":"ko","pos":"adjective","gloss":"to be cloudy (dictionary form)","source":"open-lingo-curriculum","romaji":"heurida","tags":["not-srs-eligible","module:m18"]}
+{"lemma":"흐려요","reading":"흐려요","lang":"ko","pos":"adjective","gloss":"is cloudy (polite)","source":"open-lingo-curriculum","romaji":"heuryeoyo","tags":["module:m18"]}
+{"lemma":"눈","reading":"눈","lang":"ko","pos":"noun","gloss":"snow","source":"open-lingo-curriculum","romaji":"nun","tags":["module:m18"],"emoji":"❄️"}
+{"lemma":"바람","reading":"바람","lang":"ko","pos":"noun","gloss":"wind","source":"open-lingo-curriculum","romaji":"baram","tags":["module:m18"],"emoji":"💨"}
+{"lemma":"덥다","reading":"덥다","lang":"ko","pos":"adjective","gloss":"to be hot (weather, dictionary form)","source":"open-lingo-curriculum","romaji":"deopda","tags":["not-srs-eligible","module:m18"]}
+{"lemma":"더워요","reading":"더워요","lang":"ko","pos":"adjective","gloss":"is hot (polite, ㅂ-irregular)","source":"open-lingo-curriculum","romaji":"deowoyo","tags":["module:m18"]}
+{"lemma":"춥다","reading":"춥다","lang":"ko","pos":"adjective","gloss":"to be cold (weather, dictionary form)","source":"open-lingo-curriculum","romaji":"chupda","tags":["not-srs-eligible","module:m18"]}
+{"lemma":"추워요","reading":"추워요","lang":"ko","pos":"adjective","gloss":"is cold (polite, ㅂ-irregular)","source":"open-lingo-curriculum","romaji":"chuwoyo","tags":["module:m18"]}
+{"lemma":"봄","reading":"봄","lang":"ko","pos":"noun","gloss":"spring","source":"open-lingo-curriculum","romaji":"bom","tags":["module:m18"],"emoji":"🌸"}
+{"lemma":"여름","reading":"여름","lang":"ko","pos":"noun","gloss":"summer","source":"open-lingo-curriculum","romaji":"yeoreum","tags":["module:m18"],"emoji":"🏖️"}
+{"lemma":"가을","reading":"가을","lang":"ko","pos":"noun","gloss":"autumn / fall","source":"open-lingo-curriculum","romaji":"gaeul","tags":["module:m18"],"emoji":"🍂"}
+{"lemma":"겨울","reading":"겨울","lang":"ko","pos":"noun","gloss":"winter","source":"open-lingo-curriculum","romaji":"gyeoul","tags":["module:m18"],"emoji":"⛄"}
+{"lemma":"거예요","reading":"거예요","lang":"ko","pos":"grammar","gloss":"will / probably (future, after ㄹ)","source":"open-lingo-curriculum","romaji":"geoyeyo","tags":["not-srs-eligible","module:m18"]}
+{"lemma":"것 같아요","reading":"것 같아요","lang":"ko","pos":"grammar","gloss":"I think / it seems (that)","source":"open-lingo-curriculum","romaji":"geot gatayo","tags":["not-srs-eligible","module:m18"]}
+{"lemma":"가족","reading":"가족","lang":"ko","pos":"noun","gloss":"family","source":"open-lingo-curriculum","romaji":"gajok","tags":["module:m19"],"emoji":"👪"}
+{"lemma":"엄마","reading":"엄마","lang":"ko","pos":"noun","gloss":"mom","source":"open-lingo-curriculum","romaji":"eomma","tags":["module:m19"],"emoji":"👩"}
+{"lemma":"아빠","reading":"아빠","lang":"ko","pos":"noun","gloss":"dad","source":"open-lingo-curriculum","romaji":"appa","tags":["not-srs-eligible","module:m19"],"emoji":"👨"}
+{"lemma":"부모님","reading":"부모님","lang":"ko","pos":"noun","gloss":"parents","source":"open-lingo-curriculum","romaji":"bumonim","tags":["module:m19"],"emoji":"👫"}
+{"lemma":"형","reading":"형","lang":"ko","pos":"noun","gloss":"older brother (male speaker)","source":"open-lingo-curriculum","romaji":"hyeong","tags":["module:m19"],"emoji":"👦"}
+{"lemma":"오빠","reading":"오빠","lang":"ko","pos":"noun","gloss":"older brother (female speaker)","source":"open-lingo-curriculum","romaji":"oppa","tags":["not-srs-eligible","module:m19"],"emoji":"👦"}
+{"lemma":"누나","reading":"누나","lang":"ko","pos":"noun","gloss":"older sister (male speaker)","source":"open-lingo-curriculum","romaji":"nuna","tags":["module:m19"],"emoji":"👧"}
+{"lemma":"언니","reading":"언니","lang":"ko","pos":"noun","gloss":"older sister (female speaker)","source":"open-lingo-curriculum","romaji":"eonni","tags":["module:m19"],"emoji":"👧"}
+{"lemma":"동생","reading":"동생","lang":"ko","pos":"noun","gloss":"younger sibling","source":"open-lingo-curriculum","romaji":"dongsaeng","tags":["module:m19"],"emoji":"🧒"}
+{"lemma":"우리","reading":"우리","lang":"ko","pos":"pronoun","gloss":"our / my (in-group)","source":"open-lingo-curriculum","romaji":"uri","tags":["not-srs-eligible","module:m19"],"emoji":"🤝"}
+{"lemma":"명","reading":"명","lang":"ko","pos":"noun","gloss":"counter: people","source":"open-lingo-curriculum","romaji":"myeong","tags":["not-srs-eligible","module:m19"]}
+{"lemma":"살","reading":"살","lang":"ko","pos":"noun","gloss":"counter: years of age","source":"open-lingo-curriculum","romaji":"sal","tags":["module:m19"]}
+{"lemma":"스무","reading":"스무","lang":"ko","pos":"noun","gloss":"twenty (before a counter)","source":"open-lingo-curriculum","romaji":"seumu","tags":["not-srs-eligible","module:m19"]}
+{"lemma":"서른","reading":"서른","lang":"ko","pos":"noun","gloss":"thirty (native)","source":"open-lingo-curriculum","romaji":"seoreun","tags":["module:m19"]}
+{"lemma":"머리","reading":"머리","lang":"ko","pos":"noun","gloss":"head / hair","source":"open-lingo-curriculum","romaji":"meori","tags":["not-srs-eligible","module:m20"],"emoji":"🧠"}
+{"lemma":"코","reading":"코","lang":"ko","pos":"noun","gloss":"nose","source":"open-lingo-curriculum","romaji":"ko","tags":["not-srs-eligible","module:m20"],"emoji":"👃"}
+{"lemma":"입","reading":"입","lang":"ko","pos":"noun","gloss":"mouth","source":"open-lingo-curriculum","romaji":"ip","tags":["module:m20"],"emoji":"👄"}
+{"lemma":"귀","reading":"귀","lang":"ko","pos":"noun","gloss":"ear","source":"open-lingo-curriculum","romaji":"gwi","tags":["module:m20"],"emoji":"👂"}
+{"lemma":"손","reading":"손","lang":"ko","pos":"noun","gloss":"hand","source":"open-lingo-curriculum","romaji":"son","tags":["module:m20"],"emoji":"✋"}
+{"lemma":"발","reading":"발","lang":"ko","pos":"noun","gloss":"foot","source":"open-lingo-curriculum","romaji":"bal","tags":["module:m20"],"emoji":"🦶"}
+{"lemma":"배","reading":"배","lang":"ko","pos":"noun","gloss":"stomach / belly","source":"open-lingo-curriculum","romaji":"bae","tags":["module:m20"],"emoji":"🫃"}
+{"lemma":"목","reading":"목","lang":"ko","pos":"noun","gloss":"neck / throat","source":"open-lingo-curriculum","romaji":"mok","tags":["module:m20"],"emoji":"🧣"}
+{"lemma":"아파요","reading":"아파요","lang":"ko","pos":"adjective","gloss":"hurts / is sick (ㅡ-irregular)","source":"open-lingo-curriculum","romaji":"apayo","tags":["module:m20"]}
+{"lemma":"병원","reading":"병원","lang":"ko","pos":"noun","gloss":"hospital / clinic","source":"open-lingo-curriculum","romaji":"byeongwon","tags":["not-srs-eligible","module:m20"],"emoji":"🏥"}
+{"lemma":"약","reading":"약","lang":"ko","pos":"noun","gloss":"medicine","source":"open-lingo-curriculum","romaji":"yak","tags":["module:m20"],"emoji":"💊"}
+{"lemma":"감기","reading":"감기","lang":"ko","pos":"noun","gloss":"a cold (illness)","source":"open-lingo-curriculum","romaji":"gamgi","tags":["module:m20"],"emoji":"🤧"}
+{"lemma":"고기","reading":"고기","lang":"ko","pos":"noun","gloss":"meat","source":"open-lingo-curriculum","romaji":"gogi","tags":["not-srs-eligible","module:m21"],"emoji":"🥩"}
+{"lemma":"생선","reading":"생선","lang":"ko","pos":"noun","gloss":"fish (food)","source":"open-lingo-curriculum","romaji":"saengseon","tags":["module:m21"],"emoji":"🐟"}
+{"lemma":"채소","reading":"채소","lang":"ko","pos":"noun","gloss":"vegetables","source":"open-lingo-curriculum","romaji":"chaeso","tags":["module:m21"],"emoji":"🥬"}
+{"lemma":"과일","reading":"과일","lang":"ko","pos":"noun","gloss":"fruit","source":"open-lingo-curriculum","romaji":"gwail","tags":["module:m21"],"emoji":"🍎"}
+{"lemma":"빵","reading":"빵","lang":"ko","pos":"noun","gloss":"bread","source":"open-lingo-curriculum","romaji":"ppang","tags":["not-srs-eligible","module:m21"],"emoji":"🍞"}
+{"lemma":"김치","reading":"김치","lang":"ko","pos":"noun","gloss":"kimchi","source":"open-lingo-curriculum","romaji":"gimchi","tags":["module:m21"],"emoji":"🥬"}
+{"lemma":"비빔밥","reading":"비빔밥","lang":"ko","pos":"noun","gloss":"bibimbap","source":"open-lingo-curriculum","romaji":"bibimbap","tags":["module:m21"],"emoji":"🍲"}
+{"lemma":"불고기","reading":"불고기","lang":"ko","pos":"noun","gloss":"bulgogi (grilled beef)","source":"open-lingo-curriculum","romaji":"bulgogi","tags":["module:m21"],"emoji":"🥩"}
+{"lemma":"라면","reading":"라면","lang":"ko","pos":"noun","gloss":"ramyeon (noodles)","source":"open-lingo-curriculum","romaji":"ramyeon","tags":["module:m21"],"emoji":"🍜"}
+{"lemma":"하고","reading":"하고","lang":"ko","pos":"particle","gloss":"and / with (nouns)","source":"open-lingo-curriculum","romaji":"hago","tags":["not-srs-eligible","particle","module:m21"]}
+{"lemma":"랑","reading":"랑","lang":"ko","pos":"particle","gloss":"and / with (casual, after vowel)","source":"open-lingo-curriculum","romaji":"rang","tags":["particle","module:m21"]}
+{"lemma":"잔","reading":"잔","lang":"ko","pos":"noun","gloss":"counter: cups / glasses","source":"open-lingo-curriculum","romaji":"jan","tags":["not-srs-eligible","module:m21"]}
+{"lemma":"더","reading":"더","lang":"ko","pos":"adverb","gloss":"more","source":"open-lingo-curriculum","romaji":"deo","tags":["module:m22"]}
+{"lemma":"덜","reading":"덜","lang":"ko","pos":"adverb","gloss":"less","source":"open-lingo-curriculum","romaji":"deol","tags":["module:m22"]}
+{"lemma":"제일","reading":"제일","lang":"ko","pos":"adverb","gloss":"most / -est","source":"open-lingo-curriculum","romaji":"jeil","tags":["module:m22"]}
+{"lemma":"가장","reading":"가장","lang":"ko","pos":"adverb","gloss":"most (formal)","source":"open-lingo-curriculum","romaji":"gajang","tags":["module:m22"]}
+{"lemma":"중에서","reading":"중에서","lang":"ko","pos":"particle","gloss":"among / out of","source":"open-lingo-curriculum","romaji":"jungeseo","tags":["particle","module:m22"]}
+{"lemma":"어느 게","reading":"어느 게","lang":"ko","pos":"pronoun","gloss":"which one","source":"open-lingo-curriculum","romaji":"eoneu ge","tags":["not-srs-eligible","phrase","module:m22"]}
+{"lemma":"수영","reading":"수영","lang":"ko","pos":"noun","gloss":"swimming","source":"open-lingo-curriculum","romaji":"suyeong","tags":["module:m23"],"emoji":"🏊"}
+{"lemma":"운전","reading":"운전","lang":"ko","pos":"noun","gloss":"driving","source":"open-lingo-curriculum","romaji":"unjeon","tags":["module:m23"],"emoji":"🚗"}
+{"lemma":"노래","reading":"노래","lang":"ko","pos":"noun","gloss":"a song / singing","source":"open-lingo-curriculum","romaji":"norae","tags":["module:m23"],"emoji":"🎤"}
+{"lemma":"요리","reading":"요리","lang":"ko","pos":"noun","gloss":"cooking","source":"open-lingo-curriculum","romaji":"yori","tags":["module:m23"],"emoji":"🍳"}
+{"lemma":"춤추다","reading":"춤추다","lang":"ko","pos":"verb","gloss":"to dance","source":"open-lingo-curriculum","romaji":"chumchuda","tags":["not-srs-eligible","module:m23"],"emoji":"💃"}
+{"lemma":"잘해요","reading":"잘해요","lang":"ko","pos":"verb","gloss":"is good at / does well","source":"open-lingo-curriculum","romaji":"jalhaeyo","tags":["module:m23"]}
+{"lemma":"못해요","reading":"못해요","lang":"ko","pos":"verb","gloss":"is bad at / can't do well","source":"open-lingo-curriculum","romaji":"mothaeyo","tags":["module:m23"]}
+{"lemma":"취미","reading":"취미","lang":"ko","pos":"noun","gloss":"hobby","source":"open-lingo-curriculum","romaji":"chwimi","tags":["module:m24"],"emoji":"🎨"}
+{"lemma":"그림","reading":"그림","lang":"ko","pos":"noun","gloss":"drawing / picture","source":"open-lingo-curriculum","romaji":"geurim","tags":["module:m24"],"emoji":"🖼️"}
+{"lemma":"사진","reading":"사진","lang":"ko","pos":"noun","gloss":"photo","source":"open-lingo-curriculum","romaji":"sajin","tags":["module:m24"],"emoji":"📷"}
+{"lemma":"음악","reading":"음악","lang":"ko","pos":"noun","gloss":"music","source":"open-lingo-curriculum","romaji":"eumak","tags":["module:m24"],"emoji":"🎵"}
+{"lemma":"게임","reading":"게임","lang":"ko","pos":"noun","gloss":"game","source":"open-lingo-curriculum","romaji":"geim","tags":["module:m24"],"emoji":"🎮"}
+{"lemma":"거나","reading":"거나","lang":"ko","pos":"particle","gloss":"or (joining verbs)","source":"open-lingo-curriculum","romaji":"geona","tags":["not-srs-eligible","particle","module:m24"]}
+{"lemma":"번","reading":"번","lang":"ko","pos":"noun","gloss":"counter: times / occurrences","source":"open-lingo-curriculum","romaji":"beon","tags":["module:m24"]}
+{"lemma":"일주일","reading":"일주일","lang":"ko","pos":"noun","gloss":"one week","source":"open-lingo-curriculum","romaji":"iljuil","tags":["module:m24"],"emoji":"📅"}
+{"lemma":"여행","reading":"여행","lang":"ko","pos":"noun","gloss":"travel / trip","source":"open-lingo-curriculum","romaji":"yeohaeng","tags":["module:m25"],"emoji":"✈️"}
+{"lemma":"계획","reading":"계획","lang":"ko","pos":"noun","gloss":"plan","source":"open-lingo-curriculum","romaji":"gyehoek","tags":["module:m25"],"emoji":"📋"}
+{"lemma":"출발","reading":"출발","lang":"ko","pos":"noun","gloss":"departure","source":"open-lingo-curriculum","romaji":"chulbal","tags":["module:m25"],"emoji":"🛫"}
+{"lemma":"도착","reading":"도착","lang":"ko","pos":"noun","gloss":"arrival","source":"open-lingo-curriculum","romaji":"dochak","tags":["module:m25"],"emoji":"🛬"}
+{"lemma":"외국","reading":"외국","lang":"ko","pos":"noun","gloss":"foreign country","source":"open-lingo-curriculum","romaji":"oeguk","tags":["module:m25"],"emoji":"🌏"}
+{"lemma":"온천","reading":"온천","lang":"ko","pos":"noun","gloss":"hot spring","source":"open-lingo-curriculum","romaji":"oncheon","tags":["module:m25"],"emoji":"♨️"}
+{"lemma":"축제","reading":"축제","lang":"ko","pos":"noun","gloss":"festival","source":"open-lingo-curriculum","romaji":"chukje","tags":["module:m25"],"emoji":"🎆"}
+{"lemma":"결혼","reading":"결혼","lang":"ko","pos":"noun","gloss":"marriage","source":"open-lingo-curriculum","romaji":"gyeolhon","tags":["module:m25"],"emoji":"💍"}
+{"lemma":"졸업","reading":"졸업","lang":"ko","pos":"noun","gloss":"graduation","source":"open-lingo-curriculum","romaji":"joreop","tags":["module:m25"],"emoji":"🎓"}
+{"lemma":"피곤하다","reading":"피곤하다","lang":"ko","pos":"adjective","gloss":"be tired","source":"open-lingo-curriculum","romaji":"pigonhada","tags":["module:m26"],"emoji":"😫"}
+{"lemma":"늦다","reading":"늦다","lang":"ko","pos":"verb","gloss":"be late","source":"open-lingo-curriculum","romaji":"neutda","tags":["module:m26"],"emoji":"⏰"}
+{"lemma":"잊어버리다","reading":"잊어버리다","lang":"ko","pos":"verb","gloss":"forget","source":"open-lingo-curriculum","romaji":"ijeobeorida","tags":["module:m26"],"emoji":"🤦"}
+{"lemma":"실수","reading":"실수","lang":"ko","pos":"noun","gloss":"mistake","source":"open-lingo-curriculum","romaji":"silsu","tags":["module:m26"],"emoji":"❌"}
+{"lemma":"하지만","reading":"하지만","lang":"ko","pos":"adverb","gloss":"but / however","source":"open-lingo-curriculum","romaji":"hajiman","tags":["module:m26"]}
+{"lemma":"그리고","reading":"그리고","lang":"ko","pos":"adverb","gloss":"and","source":"open-lingo-curriculum","romaji":"geurigo","tags":["module:m26"]}
+{"lemma":"그런데","reading":"그런데","lang":"ko","pos":"adverb","gloss":"but / by the way","source":"open-lingo-curriculum","romaji":"geureonde","tags":["module:m26"]}
+{"lemma":"너무","reading":"너무","lang":"ko","pos":"adverb","gloss":"too / excessively","source":"open-lingo-curriculum","romaji":"neomu","tags":["module:m26"]}
+{"lemma":"결정하다","reading":"결정하다","lang":"ko","pos":"verb","gloss":"decide","source":"open-lingo-curriculum","romaji":"gyeoljeonghada","tags":["module:m27"],"emoji":"✅"}
+{"lemma":"약속","reading":"약속","lang":"ko","pos":"noun","gloss":"promise / appointment","source":"open-lingo-curriculum","romaji":"yaksok","tags":["module:m27"],"emoji":"🤝"}
+{"lemma":"준비","reading":"준비","lang":"ko","pos":"noun","gloss":"preparation","source":"open-lingo-curriculum","romaji":"junbi","tags":["module:m27"],"emoji":"🎒"}
+{"lemma":"연습","reading":"연습","lang":"ko","pos":"noun","gloss":"practice","source":"open-lingo-curriculum","romaji":"yeonseup","tags":["module:m27"],"emoji":"🔁"}
+{"lemma":"시험","reading":"시험","lang":"ko","pos":"noun","gloss":"exam","source":"open-lingo-curriculum","romaji":"siheom","tags":["module:m27"],"emoji":"📝"}
+{"lemma":"건강","reading":"건강","lang":"ko","pos":"noun","gloss":"health","source":"open-lingo-curriculum","romaji":"geongang","tags":["module:m27"],"emoji":"💪"}
+{"lemma":"조심하다","reading":"조심하다","lang":"ko","pos":"verb","gloss":"be careful","source":"open-lingo-curriculum","romaji":"josimhada","tags":["module:m27"],"emoji":"⚠️"}
+{"lemma":"ㄱ","reading":"ㄱ","lang":"ko","pos":"other","gloss":"g / k","source":"open-lingo-curriculum","romaji":"g","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㄴ","reading":"ㄴ","lang":"ko","pos":"other","gloss":"n","source":"open-lingo-curriculum","romaji":"n","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㄷ","reading":"ㄷ","lang":"ko","pos":"other","gloss":"d / t","source":"open-lingo-curriculum","romaji":"d","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㄹ","reading":"ㄹ","lang":"ko","pos":"other","gloss":"r / l","source":"open-lingo-curriculum","romaji":"r","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅁ","reading":"ㅁ","lang":"ko","pos":"other","gloss":"m","source":"open-lingo-curriculum","romaji":"m","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅂ","reading":"ㅂ","lang":"ko","pos":"other","gloss":"b / p","source":"open-lingo-curriculum","romaji":"b","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅅ","reading":"ㅅ","lang":"ko","pos":"other","gloss":"s","source":"open-lingo-curriculum","romaji":"s","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅇ","reading":"ㅇ","lang":"ko","pos":"other","gloss":"silent / ng","source":"open-lingo-curriculum","romaji":"-","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅈ","reading":"ㅈ","lang":"ko","pos":"other","gloss":"j","source":"open-lingo-curriculum","romaji":"j","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅎ","reading":"ㅎ","lang":"ko","pos":"other","gloss":"h","source":"open-lingo-curriculum","romaji":"h","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅋ","reading":"ㅋ","lang":"ko","pos":"other","gloss":"k (aspirated)","source":"open-lingo-curriculum","romaji":"k","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅌ","reading":"ㅌ","lang":"ko","pos":"other","gloss":"t (aspirated)","source":"open-lingo-curriculum","romaji":"t","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅍ","reading":"ㅍ","lang":"ko","pos":"other","gloss":"p (aspirated)","source":"open-lingo-curriculum","romaji":"p","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅊ","reading":"ㅊ","lang":"ko","pos":"other","gloss":"ch","source":"open-lingo-curriculum","romaji":"ch","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㄲ","reading":"ㄲ","lang":"ko","pos":"other","gloss":"kk (tense)","source":"open-lingo-curriculum","romaji":"kk","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㄸ","reading":"ㄸ","lang":"ko","pos":"other","gloss":"tt (tense)","source":"open-lingo-curriculum","romaji":"tt","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅃ","reading":"ㅃ","lang":"ko","pos":"other","gloss":"pp (tense)","source":"open-lingo-curriculum","romaji":"pp","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅆ","reading":"ㅆ","lang":"ko","pos":"other","gloss":"ss (tense)","source":"open-lingo-curriculum","romaji":"ss","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅉ","reading":"ㅉ","lang":"ko","pos":"other","gloss":"jj (tense)","source":"open-lingo-curriculum","romaji":"jj","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅏ","reading":"ㅏ","lang":"ko","pos":"other","gloss":"a","source":"open-lingo-curriculum","romaji":"a","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅓ","reading":"ㅓ","lang":"ko","pos":"other","gloss":"eo (uh)","source":"open-lingo-curriculum","romaji":"eo","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅗ","reading":"ㅗ","lang":"ko","pos":"other","gloss":"o","source":"open-lingo-curriculum","romaji":"o","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅜ","reading":"ㅜ","lang":"ko","pos":"other","gloss":"u","source":"open-lingo-curriculum","romaji":"u","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅡ","reading":"ㅡ","lang":"ko","pos":"other","gloss":"eu (unrounded)","source":"open-lingo-curriculum","romaji":"eu","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅣ","reading":"ㅣ","lang":"ko","pos":"other","gloss":"i (ee)","source":"open-lingo-curriculum","romaji":"i","tags":["not-srs-eligible","jamo","module:m1"]}
+{"lemma":"ㅑ","reading":"ㅑ","lang":"ko","pos":"other","gloss":"ya","source":"open-lingo-curriculum","romaji":"ya","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅕ","reading":"ㅕ","lang":"ko","pos":"other","gloss":"yeo","source":"open-lingo-curriculum","romaji":"yeo","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅛ","reading":"ㅛ","lang":"ko","pos":"other","gloss":"yo","source":"open-lingo-curriculum","romaji":"yo","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"ㅠ","reading":"ㅠ","lang":"ko","pos":"other","gloss":"yu","source":"open-lingo-curriculum","romaji":"yu","tags":["not-srs-eligible","jamo","module:m2"]}
+{"lemma":"은","reading":"은","lang":"ko","pos":"particle","gloss":"topic marker (after consonant)","source":"open-lingo-curriculum","romaji":"eun","tags":["particle","module:m3"]}
+{"lemma":"는","reading":"는","lang":"ko","pos":"particle","gloss":"topic marker (after vowel)","source":"open-lingo-curriculum","romaji":"neun","tags":["particle","module:m3"]}
+{"lemma":"이","reading":"이","lang":"ko","pos":"particle","gloss":"subject marker (after consonant)","source":"open-lingo-curriculum","romaji":"i","tags":["particle","module:m3"]}
+{"lemma":"가","reading":"가","lang":"ko","pos":"particle","gloss":"subject marker (after vowel)","source":"open-lingo-curriculum","romaji":"ga","tags":["particle","module:m3"]}
+{"lemma":"을","reading":"을","lang":"ko","pos":"particle","gloss":"object marker (after consonant)","source":"open-lingo-curriculum","romaji":"eul","tags":["particle","module:m3"]}
+{"lemma":"를","reading":"를","lang":"ko","pos":"particle","gloss":"object marker (after vowel)","source":"open-lingo-curriculum","romaji":"reul","tags":["particle","module:m3"]}
+{"lemma":"에","reading":"에","lang":"ko","pos":"particle","gloss":"at / to / in (time or place)","source":"open-lingo-curriculum","romaji":"e","tags":["particle","module:m3"]}
+{"lemma":"에서","reading":"에서","lang":"ko","pos":"particle","gloss":"at (location of action) / from","source":"open-lingo-curriculum","romaji":"eseo","tags":["particle","module:m3"]}
+{"lemma":"의","reading":"의","lang":"ko","pos":"particle","gloss":"possessive 's (of)","source":"open-lingo-curriculum","romaji":"ui","tags":["particle","module:m4"]}
+{"lemma":"안녕하세요","reading":"안녕하세요","lang":"ko","pos":"phrase","gloss":"hello (polite)","source":"open-lingo-curriculum","romaji":"annyeonghaseyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"감사합니다","reading":"감사합니다","lang":"ko","pos":"phrase","gloss":"thank you (formal)","source":"open-lingo-curriculum","romaji":"gamsahamnida","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"고마워요","reading":"고마워요","lang":"ko","pos":"phrase","gloss":"thanks (polite, casual)","source":"open-lingo-curriculum","romaji":"gomawoyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"죄송합니다","reading":"죄송합니다","lang":"ko","pos":"phrase","gloss":"I'm sorry (formal)","source":"open-lingo-curriculum","romaji":"joesonghamnida","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"괜찮아요","reading":"괜찮아요","lang":"ko","pos":"phrase","gloss":"it's okay / I'm okay","source":"open-lingo-curriculum","romaji":"gwaenchanayo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"네","reading":"네","lang":"ko","pos":"phrase","gloss":"yes","source":"open-lingo-curriculum","romaji":"ne","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"아니요","reading":"아니요","lang":"ko","pos":"phrase","gloss":"no","source":"open-lingo-curriculum","romaji":"aniyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"얼마예요?","reading":"얼마예요?","lang":"ko","pos":"phrase","gloss":"how much is it?","source":"open-lingo-curriculum","romaji":"eolmayeyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"어디예요?","reading":"어디예요?","lang":"ko","pos":"phrase","gloss":"where is it?","source":"open-lingo-curriculum","romaji":"eodiyeyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"화장실이 어디예요?","reading":"화장실이 어디예요?","lang":"ko","pos":"phrase","gloss":"where is the restroom?","source":"open-lingo-curriculum","romaji":"hwajangsiri eodiyeyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"도와주세요","reading":"도와주세요","lang":"ko","pos":"phrase","gloss":"please help me","source":"open-lingo-curriculum","romaji":"dowajuseyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"물 주세요","reading":"물 주세요","lang":"ko","pos":"phrase","gloss":"water, please","source":"open-lingo-curriculum","romaji":"mul juseyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"이거 주세요","reading":"이거 주세요","lang":"ko","pos":"phrase","gloss":"this one, please","source":"open-lingo-curriculum","romaji":"igeo juseyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"한국어 못해요","reading":"한국어 못해요","lang":"ko","pos":"phrase","gloss":"I don't speak Korean (well)","source":"open-lingo-curriculum","romaji":"hangugeo motaeyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"다시 말해주세요","reading":"다시 말해주세요","lang":"ko","pos":"phrase","gloss":"please say it again","source":"open-lingo-curriculum","romaji":"dasi malhaejuseyo","tags":["phrase","module:sidequest-survival"]}
+{"lemma":"잠시만요","reading":"잠시만요","lang":"ko","pos":"phrase","gloss":"one moment, please","source":"open-lingo-curriculum","romaji":"jamsimanyo","tags":["phrase","module:sidequest-survival"]}

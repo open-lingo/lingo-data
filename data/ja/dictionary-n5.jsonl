@@ -1,0 +1,661 @@
+{"lemma":"毎朝","reading":"まいあさ","lang":"ja","pos":"other","gloss":"every morning","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌅","notes":"sunrise reads as morning"}
+{"lemma":"問題","reading":"もんだい","lang":"ja","pos":"other","gloss":"problem","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"❓","notes":"question mark as problem proxy"}
+{"lemma":"お茶","reading":"おちゃ","lang":"ja","pos":"other","gloss":"green tea","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍵","notes":"⚠ already authored in M1-M7"}
+{"lemma":"黒","reading":"くろ","lang":"ja","pos":"other","gloss":"black","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⬛","notes":"black square"}
+{"lemma":"台所","reading":"だいどころ","lang":"ja","pos":"other","gloss":"kitchen","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍳","notes":"cooking pan stands in for kitchen"}
+{"lemma":"葉書","reading":"はがき","lang":"ja","pos":"other","gloss":"postcard","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📮","notes":"postbox as proxy for postcard"}
+{"lemma":"ペン","reading":"ペン","lang":"ja","pos":"other","gloss":"pen","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🖊️"}
+{"lemma":"ニュース","reading":"ニュース","lang":"ja","pos":"other","gloss":"news","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📰","notes":"newspaper as news proxy"}
+{"lemma":"花瓶","reading":"かびん","lang":"ja","pos":"other","gloss":"a vase","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏺","notes":"amphora — closest Noto vase"}
+{"lemma":"フォーク","reading":"フォーク","lang":"ja","pos":"other","gloss":"fork","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍴"}
+{"lemma":"引く","reading":"ひく","lang":"ja","pos":"other","gloss":"to pull","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪝","notes":"hook implies pulling"}
+{"lemma":"フィルム","reading":"フィルム","lang":"ja","pos":"other","gloss":"roll of film","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎞️"}
+{"lemma":"磨く","reading":"みがく","lang":"ja","pos":"other","gloss":"to brush teeth, to polish","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪥","notes":"toothbrush"}
+{"lemma":"押す","reading":"おす","lang":"ja","pos":"other","gloss":"to push, to stamp something","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👆","notes":"pointing/pushing finger"}
+{"lemma":"売る","reading":"うる","lang":"ja","pos":"other","gloss":"to sell","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏷️","notes":"price tag as sell proxy"}
+{"lemma":"電気","reading":"でんき","lang":"ja","pos":"other","gloss":"electricity, electric light","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💡","notes":"light bulb covers electric light"}
+{"lemma":"病気","reading":"びょうき","lang":"ja","pos":"other","gloss":"illness","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤒","notes":"face with thermometer"}
+{"lemma":"ポケット","reading":"ポケット","lang":"ja","pos":"other","gloss":"pocket","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👖","notes":"jeans as pocket proxy"}
+{"lemma":"はし","reading":"はし","lang":"ja","pos":"other","gloss":"chopsticks","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥢"}
+{"lemma":"英語","reading":"えいご","lang":"ja","pos":"other","gloss":"English language","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🇺🇸","notes":"US flag — wired via separate flag dir"}
+{"lemma":"家","reading":"いえ","lang":"ja","pos":"other","gloss":"house","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏠","notes":"⚠ already authored in M1-M7"}
+{"lemma":"暑い","reading":"あつい","lang":"ja","pos":"other","gloss":"hot","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥵","notes":"hot face"}
+{"lemma":"遊ぶ","reading":"あそぶ","lang":"ja","pos":"other","gloss":"to play, to make a visit","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎲","notes":"die as play proxy"}
+{"lemma":"取る","reading":"とる","lang":"ja","pos":"other","gloss":"to take something","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤲","notes":"open hands receiving"}
+{"lemma":"九","reading":"きゅう / く","lang":"ja","pos":"other","gloss":"nine","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"9️⃣"}
+{"lemma":"奥さん","reading":"おくさん","lang":"ja","pos":"other","gloss":"(honorable) wife","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👰","notes":"bride stands in for wife"}
+{"lemma":"作文","reading":"さくぶん","lang":"ja","pos":"other","gloss":"composition, writing","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📝"}
+{"lemma":"便利","reading":"べんり","lang":"ja","pos":"other","gloss":"useful, convenient","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛠️","notes":"tools as useful proxy"}
+{"lemma":"右","reading":"みぎ","lang":"ja","pos":"other","gloss":"right side","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"➡️"}
+{"lemma":"寒い","reading":"さむい","lang":"ja","pos":"other","gloss":"cold","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥶","notes":"cold face"}
+{"lemma":"あびる","reading":"あびる","lang":"ja","pos":"other","gloss":"to bathe, to shower","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚿"}
+{"lemma":"十","reading":"じゅう  とお","lang":"ja","pos":"other","gloss":"ten","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔟"}
+{"lemma":"消す","reading":"けす","lang":"ja","pos":"other","gloss":"to erase, to turn off power","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧽","notes":"sponge as erase proxy"}
+{"lemma":"近く","reading":"ちかく","lang":"ja","pos":"other","gloss":"near","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📍","notes":"pin as near-here proxy"}
+{"lemma":"七つ","reading":"ななつ","lang":"ja","pos":"other","gloss":"seven","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"7️⃣"}
+{"lemma":"テープレコーダー","reading":"テープレコーダー","lang":"ja","pos":"other","gloss":"tape recorder","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📼","notes":"videocassette — closest cassette glyph"}
+{"lemma":"目","reading":"め","lang":"ja","pos":"other","gloss":"eye","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👁️","notes":"⚠ already authored in M1-M7"}
+{"lemma":"空","reading":"そら","lang":"ja","pos":"other","gloss":"sky","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"☁️","notes":"cloud as sky proxy ⚠ already authored in M1-M7"}
+{"lemma":"座る","reading":"すわる","lang":"ja","pos":"other","gloss":"to sit","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪑","notes":"chair as sitting proxy"}
+{"lemma":"年","reading":"とし","lang":"ja","pos":"other","gloss":"year","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"calendar as year proxy"}
+{"lemma":"男の子","reading":"おとこのこ","lang":"ja","pos":"other","gloss":"boy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👦"}
+{"lemma":"冷蔵庫","reading":"れいぞうこ","lang":"ja","pos":"other","gloss":"refrigerator","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧊","notes":"ice cube as cold-storage proxy"}
+{"lemma":"カメラ","reading":"カメラ","lang":"ja","pos":"other","gloss":"camera","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📷"}
+{"lemma":"玄関","reading":"げんかん","lang":"ja","pos":"other","gloss":"entry hall","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚪","notes":"door as entry proxy"}
+{"lemma":"違う","reading":"ちがう","lang":"ja","pos":"other","gloss":"to differ","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"❌","notes":"X as 'wrong/different' proxy"}
+{"lemma":"危ない","reading":"あぶない","lang":"ja","pos":"other","gloss":"dangerous","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⚠️"}
+{"lemma":"言う","reading":"いう","lang":"ja","pos":"other","gloss":"to say","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💬","notes":"speech bubble"}
+{"lemma":"飲む","reading":"のむ","lang":"ja","pos":"other","gloss":"to drink","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥤","notes":"cup with straw"}
+{"lemma":"練習","reading":"れんしゅうする","lang":"ja","pos":"other","gloss":"to practice","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📓","notes":"notebook as practice proxy"}
+{"lemma":"黒い","reading":"くろい","lang":"ja","pos":"other","gloss":"black","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⬛","notes":"adjective form of 黒 — shares glyph"}
+{"lemma":"登る","reading":"のぼる","lang":"ja","pos":"other","gloss":"to climb","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧗","notes":"person climbing"}
+{"lemma":"雨","reading":"あめ","lang":"ja","pos":"other","gloss":"rain","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌧️"}
+{"lemma":"お皿","reading":"おさら","lang":"ja","pos":"other","gloss":"plate, dish","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍽️","notes":"plate-with-utensils"}
+{"lemma":"速い","reading":"はやい","lang":"ja","pos":"other","gloss":"quick","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💨","notes":"dashing-away motion lines"}
+{"lemma":"お風呂","reading":"おふろ","lang":"ja","pos":"other","gloss":"bath","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛁"}
+{"lemma":"新しい","reading":"あたらしい","lang":"ja","pos":"other","gloss":"new","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🆕"}
+{"lemma":"茶色","reading":"ちゃいろ","lang":"ja","pos":"other","gloss":"brown","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🟫","notes":"brown square"}
+{"lemma":"コート","reading":"コート","lang":"ja","pos":"other","gloss":"coat, tennis court","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧥","notes":"coat (primary sense)"}
+{"lemma":"手紙","reading":"てがみ","lang":"ja","pos":"other","gloss":"letter","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✉️","notes":"⚠ already authored in M1-M7"}
+{"lemma":"スプーン","reading":"スプーン","lang":"ja","pos":"other","gloss":"spoon","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥄"}
+{"lemma":"傘","reading":"かさ","lang":"ja","pos":"other","gloss":"umbrella","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"☂️","notes":"⚠ already authored in M1-M7"}
+{"lemma":"いい / よい","reading":"いい / よい","lang":"ja","pos":"other","gloss":"good","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👍","notes":"thumbs up as good proxy"}
+{"lemma":"電話","reading":"でんわ","lang":"ja","pos":"other","gloss":"telephone","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📞","notes":"⚠ already authored in M1-M7"}
+{"lemma":"勤める","reading":"つとめる","lang":"ja","pos":"other","gloss":"to work for someone","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💼","notes":"briefcase as employment proxy"}
+{"lemma":"安い","reading":"やすい","lang":"ja","pos":"other","gloss":"cheap","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪙","notes":"coin as cheap/small-money proxy"}
+{"lemma":"道","reading":"みち","lang":"ja","pos":"other","gloss":"street","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛣️","notes":"motorway as street proxy"}
+{"lemma":"バス","reading":"バス","lang":"ja","pos":"other","gloss":"bus","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚌"}
+{"lemma":"クラス","reading":"クラス","lang":"ja","pos":"other","gloss":"class","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏫","notes":"school as class proxy"}
+{"lemma":"スポーツ","reading":"スポーツ","lang":"ja","pos":"other","gloss":"sport","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⚽","notes":"soccer ball as sport proxy"}
+{"lemma":"新聞","reading":"しんぶん","lang":"ja","pos":"other","gloss":"newspaper","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📰","notes":"⚠ already authored in M1-M7"}
+{"lemma":"庭","reading":"にわ","lang":"ja","pos":"other","gloss":"garden","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌳","notes":"tree as garden proxy"}
+{"lemma":"大きな","reading":"おおきな","lang":"ja","pos":"other","gloss":"big","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐘","notes":"elephant as big proxy"}
+{"lemma":"辺","reading":"へん","lang":"ja","pos":"other","gloss":"area","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🗺️","notes":"map as area proxy"}
+{"lemma":"番号","reading":"ばんごう","lang":"ja","pos":"other","gloss":"number","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔢"}
+{"lemma":"家族","reading":"かぞく","lang":"ja","pos":"other","gloss":"family","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👨‍👩‍👧","notes":"ZWJ family — renders in Noto"}
+{"lemma":"下手","reading":"へた","lang":"ja","pos":"other","gloss":"unskillful","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👎","notes":"thumbs down as unskillful proxy"}
+{"lemma":"料理","reading":"りょうり","lang":"ja","pos":"other","gloss":"cuisine","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍱","notes":"bento as cuisine proxy ⚠ already authored in M1-M7"}
+{"lemma":"カレー","reading":"カレー","lang":"ja","pos":"other","gloss":"curry","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍛"}
+{"lemma":"六","reading":"ろく","lang":"ja","pos":"other","gloss":"six","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"6️⃣","notes":"⚠ already authored in M1-M7"}
+{"lemma":"風邪","reading":"かぜ","lang":"ja","pos":"other","gloss":"a cold","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤧","notes":"sneezing face ⚠ already authored in M1-M7"}
+{"lemma":"赤い","reading":"あかい","lang":"ja","pos":"other","gloss":"red","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🟥","notes":"red square"}
+{"lemma":"甘い","reading":"あまい","lang":"ja","pos":"other","gloss":"sweet","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍬","notes":"candy as sweet proxy"}
+{"lemma":"西","reading":"にし","lang":"ja","pos":"other","gloss":"west","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧭","notes":"compass — west direction"}
+{"lemma":"五つ","reading":"いつつ","lang":"ja","pos":"other","gloss":"five","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"5️⃣"}
+{"lemma":"建物","reading":"たてもの","lang":"ja","pos":"other","gloss":"building","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏢"}
+{"lemma":"まっすぐ","reading":"まっすぐ","lang":"ja","pos":"other","gloss":"straight ahead, direct","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⬆️","notes":"up arrow as straight-ahead direction"}
+{"lemma":"作る","reading":"つくる","lang":"ja","pos":"other","gloss":"to make","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔨","notes":"hammer as making/building proxy"}
+{"lemma":"風","reading":"かぜ","lang":"ja","pos":"other","gloss":"wind","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌬️","notes":"wind face ⚠ already authored in M1-M7"}
+{"lemma":"少し","reading":"すこし","lang":"ja","pos":"other","gloss":"few","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤏","notes":"pinching hand as small-amount proxy"}
+{"lemma":"大学","reading":"だいがく","lang":"ja","pos":"other","gloss":"university","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎓","notes":"graduation cap"}
+{"lemma":"シャツ","reading":"シャツ","lang":"ja","pos":"other","gloss":"shirt","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👕"}
+{"lemma":"病院","reading":"びょういん","lang":"ja","pos":"other","gloss":"hospital","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏥","notes":"⚠ already authored in M1-M7"}
+{"lemma":"会社","reading":"かいしゃ","lang":"ja","pos":"other","gloss":"company","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏢","notes":"office building"}
+{"lemma":"スリッパ","reading":"スリッパ","lang":"ja","pos":"other","gloss":"slippers","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥿","notes":"flat shoe — closest slipper glyph"}
+{"lemma":"地下鉄","reading":"ちかてつ","lang":"ja","pos":"other","gloss":"underground train","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚇","notes":"⚠ already authored in M1-M7"}
+{"lemma":"ページ","reading":"ページ","lang":"ja","pos":"other","gloss":"page","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📄"}
+{"lemma":"曇る","reading":"くもる","lang":"ja","pos":"other","gloss":"to become cloudy, to become dim","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"☁️","notes":"cloud — also used for 空 sky, mild collision"}
+{"lemma":"辞書","reading":"じしょ","lang":"ja","pos":"other","gloss":"dictionary","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📖","notes":"open book ⚠ already authored in M1-M7"}
+{"lemma":"万年筆","reading":"まんねんひつ","lang":"ja","pos":"other","gloss":"fountain pen","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🖋️","notes":"fountain pen — exact match"}
+{"lemma":"海","reading":"うみ","lang":"ja","pos":"other","gloss":"sea","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌊","notes":"wave ⚠ already authored in M1-M7"}
+{"lemma":"エレベーター","reading":"エレベーター","lang":"ja","pos":"other","gloss":"elevator","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛗"}
+{"lemma":"夕方","reading":"ゆうがた","lang":"ja","pos":"other","gloss":"evening","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌇","notes":"sunset over buildings"}
+{"lemma":"声","reading":"こえ","lang":"ja","pos":"other","gloss":"voice","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🗣️","notes":"speaking head ⚠ already authored in M1-M7"}
+{"lemma":"撮る","reading":"とる","lang":"ja","pos":"other","gloss":"to take a photo or record a film","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📸","notes":"camera with flash"}
+{"lemma":"両親","reading":"りょうしん","lang":"ja","pos":"other","gloss":"both parents","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👪","notes":"family glyph implies parents"}
+{"lemma":"きれい","reading":"きれい","lang":"ja","pos":"other","gloss":"pretty, clean","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✨","notes":"sparkles as clean/pretty proxy"}
+{"lemma":"どうぞ","reading":"どうぞ","lang":"ja","pos":"other","gloss":"please","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🙏","notes":"folded hands"}
+{"lemma":"好き","reading":"すき","lang":"ja","pos":"other","gloss":"likeable","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"❤️","notes":"heart"}
+{"lemma":"静か","reading":"しずか","lang":"ja","pos":"other","gloss":"quiet","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤫","notes":"shushing face"}
+{"lemma":"人","reading":"ひと","lang":"ja","pos":"other","gloss":"person","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧑","notes":"gender-neutral person ⚠ already authored in M1-M7"}
+{"lemma":"覚える","reading":"おぼえる","lang":"ja","pos":"other","gloss":"to remember","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧠","notes":"brain"}
+{"lemma":"休み","reading":"やすみ","lang":"ja","pos":"other","gloss":"rest, holiday","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"😴","notes":"sleeping face as rest proxy"}
+{"lemma":"池","reading":"いけ","lang":"ja","pos":"other","gloss":"pond","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🦆","notes":"duck implies pond"}
+{"lemma":"始まる","reading":"はじまる","lang":"ja","pos":"other","gloss":"to begin","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"▶️","notes":"play button as start proxy"}
+{"lemma":"困る","reading":"こまる","lang":"ja","pos":"other","gloss":"to be worried","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"😟","notes":"worried face"}
+{"lemma":"ちゃわん","reading":"ちゃわん","lang":"ja","pos":"other","gloss":"rice bowl","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍚","notes":"cooked rice in bowl"}
+{"lemma":"疲れる","reading":"つかれる","lang":"ja","pos":"other","gloss":"to get tired","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"😩","notes":"weary face"}
+{"lemma":"掃除","reading":"そうじする","lang":"ja","pos":"other","gloss":"to clean, to sweep","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧹","notes":"broom"}
+{"lemma":"賑やか","reading":"にぎやか","lang":"ja","pos":"other","gloss":"bustling, busy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎉","notes":"party popper as lively proxy"}
+{"lemma":"一つ","reading":"ひとつ","lang":"ja","pos":"other","gloss":"one","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"1️⃣"}
+{"lemma":"財布","reading":"さいふ","lang":"ja","pos":"other","gloss":"wallet","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👛","notes":"purse — closest wallet glyph"}
+{"lemma":"教える","reading":"おしえる","lang":"ja","pos":"other","gloss":"to teach, to tell","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👨‍🏫","notes":"teacher ZWJ glyph"}
+{"lemma":"朝御飯","reading":"あさごはん","lang":"ja","pos":"other","gloss":"breakfast","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍳","notes":"fried egg — also used for 台所; mild collision"}
+{"lemma":"飛ぶ","reading":"とぶ","lang":"ja","pos":"other","gloss":"to fly, to hop","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🕊️","notes":"dove as flying proxy"}
+{"lemma":"言葉","reading":"ことば","lang":"ja","pos":"other","gloss":"word, language","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔤","notes":"ABC input symbol as language proxy"}
+{"lemma":"キロ / キログラム","reading":"キロ / キログラム","lang":"ja","pos":"other","gloss":"kilogram","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⚖️","notes":"balance scale as weight proxy"}
+{"lemma":"赤","reading":"あか","lang":"ja","pos":"other","gloss":"red","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🟥","notes":"red square — shares with 赤い"}
+{"lemma":"デパート","reading":"デパート","lang":"ja","pos":"other","gloss":"department store","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏬"}
+{"lemma":"帰る","reading":"かえる","lang":"ja","pos":"other","gloss":"to go back","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏠","notes":"home as return-destination cue"}
+{"lemma":"卵","reading":"たまご","lang":"ja","pos":"other","gloss":"egg","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥚"}
+{"lemma":"低い","reading":"ひくい","lang":"ja","pos":"other","gloss":"short, low","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⬇️","notes":"down arrow as low cue (weak; ⬆️ used for 上)"}
+{"lemma":"時間","reading":"じかん","lang":"ja","pos":"other","gloss":"time","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⏰","notes":"⚠ already authored in M1-M7"}
+{"lemma":"上げる","reading":"あげる","lang":"ja","pos":"other","gloss":"to give","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎁","notes":"gift as giving cue"}
+{"lemma":"ふろ","reading":"ふろ","lang":"ja","pos":"other","gloss":"bath","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛁"}
+{"lemma":"生徒","reading":"せいと","lang":"ja","pos":"other","gloss":"pupil","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎒","notes":"backpack as pupil cue"}
+{"lemma":"レストラン","reading":"レストラン","lang":"ja","pos":"other","gloss":"restaurant","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍽️"}
+{"lemma":"出す","reading":"だす","lang":"ja","pos":"other","gloss":"to put out","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📤","notes":"outbox tray as put-out cue"}
+{"lemma":"かわいい","reading":"かわいい","lang":"ja","pos":"other","gloss":"cute","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥰"}
+{"lemma":"音楽","reading":"おんがく","lang":"ja","pos":"other","gloss":"music","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎵"}
+{"lemma":"歌","reading":"うた","lang":"ja","pos":"other","gloss":"song","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎤","notes":"microphone as song cue (music note taken) ⚠ already authored in M1-M7"}
+{"lemma":"いちばん","reading":"いちばん","lang":"ja","pos":"other","gloss":"best, first","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥇"}
+{"lemma":"咲く","reading":"さく","lang":"ja","pos":"other","gloss":"to bloom","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌷","notes":"tulip; avoid 🌸 per rubric (cherry blossom specific)"}
+{"lemma":"山","reading":"やま","lang":"ja","pos":"other","gloss":"mountain","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⛰️","notes":"⚠ already authored in M1-M7"}
+{"lemma":"テレビ","reading":"テレビ","lang":"ja","pos":"other","gloss":"television","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📺"}
+{"lemma":"授業","reading":"じゅぎょう","lang":"ja","pos":"other","gloss":"lesson, class work","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👨‍🏫","notes":"teacher as class cue"}
+{"lemma":"暖かい","reading":"あたたかい","lang":"ja","pos":"other","gloss":"warm","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"☀️","notes":"sun as warmth cue"}
+{"lemma":"セーター","reading":"セーター","lang":"ja","pos":"other","gloss":"sweater, jumper","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧥"}
+{"lemma":"自転車","reading":"じてんしゃ","lang":"ja","pos":"other","gloss":"bicycle","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚲","notes":"⚠ already authored in M1-M7"}
+{"lemma":"ラジカセ / ラジオカセット","reading":"ラジカセ / ラジオカセット","lang":"ja","pos":"other","gloss":"radio cassette player","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📻"}
+{"lemma":"つける","reading":"つける","lang":"ja","pos":"other","gloss":"to turn on","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💡","notes":"lightbulb as turn-on cue"}
+{"lemma":"学校","reading":"がっこう","lang":"ja","pos":"other","gloss":"school","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏫","notes":"⚠ already authored in M1-M7"}
+{"lemma":"四","reading":"し / よん","lang":"ja","pos":"other","gloss":"four","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"4️⃣"}
+{"lemma":"入る","reading":"はいる","lang":"ja","pos":"other","gloss":"to enter, to contain","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚪","notes":"door as entering cue"}
+{"lemma":"曇り","reading":"くもり","lang":"ja","pos":"other","gloss":"cloudy weather","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"☁️"}
+{"lemma":"外国","reading":"がいこく","lang":"ja","pos":"other","gloss":"foreign country","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌏","notes":"globe as foreign-country cue"}
+{"lemma":"どうも","reading":"どうも","lang":"ja","pos":"other","gloss":"thanks","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🙏"}
+{"lemma":"仕事","reading":"しごと","lang":"ja","pos":"other","gloss":"job","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💼"}
+{"lemma":"窓","reading":"まど","lang":"ja","pos":"other","gloss":"window","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪟"}
+{"lemma":"晩","reading":"ばん","lang":"ja","pos":"other","gloss":"evening","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌆"}
+{"lemma":"難しい","reading":"むずかしい","lang":"ja","pos":"other","gloss":"difficult","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"😖","notes":"confounded face as difficulty cue"}
+{"lemma":"村","reading":"むら","lang":"ja","pos":"other","gloss":"village","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏘️"}
+{"lemma":"鉛筆","reading":"えんぴつ","lang":"ja","pos":"other","gloss":"pencil","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✏️"}
+{"lemma":"長い","reading":"ながい","lang":"ja","pos":"other","gloss":"long","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📏","notes":"ruler as length cue"}
+{"lemma":"生まれる","reading":"うまれる","lang":"ja","pos":"other","gloss":"to be born","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👶"}
+{"lemma":"雑誌","reading":"ざっし","lang":"ja","pos":"other","gloss":"magazine","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📖","notes":"open book as magazine proxy ⚠ already authored in M1-M7"}
+{"lemma":"国","reading":"くに","lang":"ja","pos":"other","gloss":"country","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🗾","notes":"Japan map as country cue (concrete shape)"}
+{"lemma":"おまわりさん","reading":"おまわりさん","lang":"ja","pos":"other","gloss":"friendly term for policeman","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👮"}
+{"lemma":"今朝","reading":"けさ","lang":"ja","pos":"other","gloss":"this morning","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌅","notes":"sunrise as morning cue (loses 'this' nuance — phrase context needed)"}
+{"lemma":"晴れる","reading":"はれる","lang":"ja","pos":"other","gloss":"to be sunny","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌞"}
+{"lemma":"夕飯","reading":"ゆうはん","lang":"ja","pos":"other","gloss":"dinner","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍽️"}
+{"lemma":"一緒","reading":"いっしょ","lang":"ja","pos":"other","gloss":"together","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👫"}
+{"lemma":"立つ","reading":"たつ","lang":"ja","pos":"other","gloss":"to stand","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧍"}
+{"lemma":"元気","reading":"げんき","lang":"ja","pos":"other","gloss":"health, vitality","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💪","notes":"flexed bicep as vitality cue ⚠ already authored in M1-M7"}
+{"lemma":"天気","reading":"てんき","lang":"ja","pos":"other","gloss":"weather","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⛅","notes":"sun-behind-cloud as generic weather cue"}
+{"lemma":"医者","reading":"いしゃ","lang":"ja","pos":"other","gloss":"medical doctor","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👨‍⚕️"}
+{"lemma":"七","reading":"しち / なな","lang":"ja","pos":"other","gloss":"seven","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"7️⃣"}
+{"lemma":"はく","reading":"はく","lang":"ja","pos":"other","gloss":"to wear, to put on trousers","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👖","notes":"jeans as put-on-trousers cue"}
+{"lemma":"戸","reading":"と","lang":"ja","pos":"other","gloss":"Japanese style door","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚪"}
+{"lemma":"ノート","reading":"ノート","lang":"ja","pos":"other","gloss":"notebook, exercise book","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📓"}
+{"lemma":"今日","reading":"きょう","lang":"ja","pos":"other","gloss":"today","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"calendar as today cue ⚠ already authored in M1-M7"}
+{"lemma":"文章","reading":"ぶんしょう","lang":"ja","pos":"other","gloss":"sentence, text","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📝"}
+{"lemma":"公園","reading":"こうえん","lang":"ja","pos":"other","gloss":"park","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏞️","notes":"⚠ already authored in M1-M7"}
+{"lemma":"借りる","reading":"かりる","lang":"ja","pos":"other","gloss":"to borrow","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤝","notes":"handshake as borrow/lend cue (weak but acceptable)"}
+{"lemma":"口","reading":"くち","lang":"ja","pos":"other","gloss":"mouth, opening","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👄"}
+{"lemma":"持つ","reading":"もつ","lang":"ja","pos":"other","gloss":"to hold","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✊","notes":"fist as holding cue"}
+{"lemma":"上着","reading":"うわぎ","lang":"ja","pos":"other","gloss":"jacket","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧥"}
+{"lemma":"秋","reading":"あき","lang":"ja","pos":"other","gloss":"autumn","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍂"}
+{"lemma":"悪い","reading":"わるい","lang":"ja","pos":"other","gloss":"bad","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👎"}
+{"lemma":"青い","reading":"あおい","lang":"ja","pos":"other","gloss":"blue","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🟦","notes":"⚠ already authored in M1-M7"}
+{"lemma":"住む","reading":"すむ","lang":"ja","pos":"other","gloss":"to live in","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏠","notes":"house as live-in cue"}
+{"lemma":"かける","reading":"かける","lang":"ja","pos":"other","gloss":"to call by phone","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📞"}
+{"lemma":"忘れる","reading":"わすれる","lang":"ja","pos":"other","gloss":"to forget","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤔","notes":"thinking face as memory-lapse cue (weak)"}
+{"lemma":"お手洗い","reading":"おてあらい","lang":"ja","pos":"other","gloss":"bathroom","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚻"}
+{"lemma":"写真","reading":"しゃしん","lang":"ja","pos":"other","gloss":"photograph","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📷","notes":"⚠ already authored in M1-M7"}
+{"lemma":"ゼロ","reading":"ゼロ","lang":"ja","pos":"other","gloss":"zero","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"0️⃣"}
+{"lemma":"いろいろ","reading":"いろいろ","lang":"ja","pos":"other","gloss":"various","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌈","notes":"rainbow as variety cue"}
+{"lemma":"会う","reading":"あう","lang":"ja","pos":"other","gloss":"to meet","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤝"}
+{"lemma":"南","reading":"みなみ","lang":"ja","pos":"other","gloss":"south","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⬇️","notes":"down-arrow as south cue (map convention)"}
+{"lemma":"着る","reading":"きる","lang":"ja","pos":"other","gloss":"to put on from the shoulders down","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👕","notes":"shirt as put-on cue"}
+{"lemma":"終る","reading":"おわる","lang":"ja","pos":"other","gloss":"to finish","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏁","notes":"checkered flag as finish cue"}
+{"lemma":"読む","reading":"よむ","lang":"ja","pos":"other","gloss":"to read","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📖","notes":"⚠ already authored in M1-M7"}
+{"lemma":"果物","reading":"くだもの","lang":"ja","pos":"other","gloss":"fruit","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍎","notes":"apple as fruit cue"}
+{"lemma":"止まる","reading":"とまる","lang":"ja","pos":"other","gloss":"to come to a halt","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛑"}
+{"lemma":"着く","reading":"つく","lang":"ja","pos":"other","gloss":"to arrive at","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛬","notes":"landing plane as arrival cue"}
+{"lemma":"大好き","reading":"だいすき","lang":"ja","pos":"other","gloss":"to be very likeable","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"❤️","notes":"heart as love cue"}
+{"lemma":"妹","reading":"いもうと","lang":"ja","pos":"other","gloss":"(humble) younger sister","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👧","notes":"younger-girl approximation; sister relation context-dependent"}
+{"lemma":"夏","reading":"なつ","lang":"ja","pos":"other","gloss":"summer","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌻","notes":"sunflower as summer cue (☀️ taken for warm)"}
+{"lemma":"今晩","reading":"こんばん","lang":"ja","pos":"other","gloss":"this evening","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌃","notes":"night scene as evening cue (loses 'this' nuance)"}
+{"lemma":"塩","reading":"しお","lang":"ja","pos":"other","gloss":"salt","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧂"}
+{"lemma":"欲しい","reading":"ほしい","lang":"ja","pos":"other","gloss":"want","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤲","notes":"cupped hands as wanting cue (weak)"}
+{"lemma":"木","reading":"き","lang":"ja","pos":"other","gloss":"tree, wood","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌳","notes":"⚠ already authored in M1-M7"}
+{"lemma":"薬","reading":"くすり","lang":"ja","pos":"other","gloss":"medicine","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💊"}
+{"lemma":"お菓子","reading":"おかし","lang":"ja","pos":"other","gloss":"sweets, candy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍬"}
+{"lemma":"まずい","reading":"まずい","lang":"ja","pos":"other","gloss":"unpleasant","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤢","notes":"nauseated face for bad-taste cue"}
+{"lemma":"お酒","reading":"おさけ","lang":"ja","pos":"other","gloss":"alcohol, rice wine","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍶","notes":"⚠ already authored in M1-M7"}
+{"lemma":"動物","reading":"どうぶつ","lang":"ja","pos":"other","gloss":"animal","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐾","notes":"paw prints as animal cue"}
+{"lemma":"切符","reading":"きっぷ","lang":"ja","pos":"other","gloss":"ticket","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎫"}
+{"lemma":"呼ぶ","reading":"よぶ","lang":"ja","pos":"other","gloss":"to call out, to invite","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📣","notes":"megaphone as call-out cue"}
+{"lemma":"体","reading":"からだ","lang":"ja","pos":"other","gloss":"body","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧍","notes":"⚠ already authored in M1-M7"}
+{"lemma":"ゆっくりと","reading":"ゆっくりと","lang":"ja","pos":"other","gloss":"slowly","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐢","notes":"turtle as slowness cue"}
+{"lemma":"大人","reading":"おとな","lang":"ja","pos":"other","gloss":"adult","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧑"}
+{"lemma":"歯","reading":"は","lang":"ja","pos":"other","gloss":"tooth","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🦷"}
+{"lemma":"冬","reading":"ふゆ","lang":"ja","pos":"other","gloss":"winter","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"❄️"}
+{"lemma":"吹く","reading":"ふく","lang":"ja","pos":"other","gloss":"to blow","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💨","notes":"wind-puff as blowing cue"}
+{"lemma":"足","reading":"あし","lang":"ja","pos":"other","gloss":"foot, leg","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🦶"}
+{"lemma":"箱","reading":"はこ","lang":"ja","pos":"other","gloss":"box","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📦"}
+{"lemma":"八","reading":"はち","lang":"ja","pos":"other","gloss":"eight","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"8️⃣","notes":"⚠ already authored in M1-M7"}
+{"lemma":"朝","reading":"あさ","lang":"ja","pos":"other","gloss":"morning","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌅","notes":"⚠ already authored in M1-M7"}
+{"lemma":"有名","reading":"ゆうめい","lang":"ja","pos":"other","gloss":"famous","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⭐","notes":"star as fame cue"}
+{"lemma":"近い","reading":"ちかい","lang":"ja","pos":"other","gloss":"near","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📍","notes":"map pin as proximity cue (weak)"}
+{"lemma":"時計","reading":"とけい","lang":"ja","pos":"other","gloss":"watch, clock","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⌚","notes":"⚠ already authored in M1-M7"}
+{"lemma":"午後","reading":"ごご","lang":"ja","pos":"other","gloss":"afternoon","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌇","notes":"late-day cityscape as afternoon cue"}
+{"lemma":"食べ物","reading":"たべもの","lang":"ja","pos":"other","gloss":"food","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍱","notes":"bento as food cue"}
+{"lemma":"降る","reading":"ふる","lang":"ja","pos":"other","gloss":"to fall, e.g. rain or snow","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌧️","notes":"rain cloud as falling-rain cue"}
+{"lemma":"大使館","reading":"たいしかん","lang":"ja","pos":"other","gloss":"embassy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏛️","notes":"classical building as embassy cue"}
+{"lemma":"上","reading":"うえ","lang":"ja","pos":"other","gloss":"on top of","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⬆️","notes":"up arrow as 'on top of' cue ⚠ already authored in M1-M7"}
+{"lemma":"五","reading":"ご","lang":"ja","pos":"other","gloss":"five","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"5️⃣","notes":"⚠ already authored in M1-M7"}
+{"lemma":"プール","reading":"プール","lang":"ja","pos":"other","gloss":"swimming pool","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏊","notes":"swimmer as pool cue"}
+{"lemma":"肉","reading":"にく","lang":"ja","pos":"other","gloss":"meat","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥩"}
+{"lemma":"零","reading":"れい","lang":"ja","pos":"other","gloss":"zero","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"0️⃣"}
+{"lemma":"豚肉","reading":"ぶたにく","lang":"ja","pos":"other","gloss":"pork","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥓","notes":"bacon as pork cue"}
+{"lemma":"広い","reading":"ひろい","lang":"ja","pos":"other","gloss":"spacious, wide","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏜️","notes":"open desert as spacious cue (weak)"}
+{"lemma":"靴下","reading":"くつした","lang":"ja","pos":"other","gloss":"socks","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧦"}
+{"lemma":"一人","reading":"ひとり","lang":"ja","pos":"other","gloss":"one person","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧍","notes":"single standing figure as one-person cue ⚠ already authored in M1-M7"}
+{"lemma":"かぎ","reading":"かぎ","lang":"ja","pos":"other","gloss":"key","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔑"}
+{"lemma":"上手","reading":"じょうず","lang":"ja","pos":"other","gloss":"skillful","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👌","notes":"OK-hand as skillful cue"}
+{"lemma":"牛肉","reading":"ぎゅうにく","lang":"ja","pos":"other","gloss":"beef","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐄","notes":"cow as beef cue (🥩 taken for generic meat)"}
+{"lemma":"話","reading":"はなし","lang":"ja","pos":"other","gloss":"talk, story","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💬"}
+{"lemma":"毎晩","reading":"まいばん","lang":"ja","pos":"other","gloss":"every night","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌙","notes":"moon as night cue (frequency lost — phrase context needed)"}
+{"lemma":"三つ","reading":"みっつ","lang":"ja","pos":"other","gloss":"three","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"3️⃣"}
+{"lemma":"吸う","reading":"すう","lang":"ja","pos":"other","gloss":"to smoke, to suck","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚬","notes":"cigarette as smoke cue"}
+{"lemma":"銀行","reading":"ぎんこう","lang":"ja","pos":"other","gloss":"bank","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏦","notes":"⚠ already authored in M1-M7"}
+{"lemma":"大切","reading":"たいせつ","lang":"ja","pos":"other","gloss":"important","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"❗","notes":"exclamation as importance cue"}
+{"lemma":"学生","reading":"がくせい","lang":"ja","pos":"other","gloss":"student","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎓","notes":"⚠ already authored in M1-M7"}
+{"lemma":"部屋","reading":"へや","lang":"ja","pos":"other","gloss":"room","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚪","notes":"door as room proxy; concrete spatial referent ⚠ already authored in M1-M7"}
+{"lemma":"昼御飯","reading":"ひるごはん","lang":"ja","pos":"other","gloss":"midday meal","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍱","notes":"bento reads as midday meal"}
+{"lemma":"下","reading":"した","lang":"ja","pos":"other","gloss":"below","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⬇️","notes":"directional concrete"}
+{"lemma":"二つ","reading":"ふたつ","lang":"ja","pos":"other","gloss":"two","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"2️⃣"}
+{"lemma":"百","reading":"ひゃく","lang":"ja","pos":"other","gloss":"hundred","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💯","notes":"⚠ already authored in M1-M7"}
+{"lemma":"地図","reading":"ちず","lang":"ja","pos":"other","gloss":"map","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🗺️"}
+{"lemma":"八百屋","reading":"やおや","lang":"ja","pos":"other","gloss":"greengrocer","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥬","notes":"leafy greens stand-in for greengrocer"}
+{"lemma":"ネクタイ","reading":"ネクタイ","lang":"ja","pos":"other","gloss":"tie, necktie","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👔"}
+{"lemma":"乗る","reading":"のる","lang":"ja","pos":"other","gloss":"to get on, to ride","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚗","notes":"car as ride proxy"}
+{"lemma":"弟","reading":"おとうと","lang":"ja","pos":"other","gloss":"younger brother","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👦","notes":"boy reads younger-male; pair w/ kanji"}
+{"lemma":"緑","reading":"みどり","lang":"ja","pos":"other","gloss":"green","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🟢"}
+{"lemma":"とり肉","reading":"とりにく","lang":"ja","pos":"other","gloss":"chicken meat","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍗"}
+{"lemma":"軽い","reading":"かるい","lang":"ja","pos":"other","gloss":"light","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪶","notes":"feather = light weight"}
+{"lemma":"帽子","reading":"ぼうし","lang":"ja","pos":"other","gloss":"hat","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎩","notes":"⚠ already authored in M1-M7"}
+{"lemma":"丈夫","reading":"じょうぶ","lang":"ja","pos":"other","gloss":"strong, durable","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💪","notes":"flexed arm for strong/durable"}
+{"lemma":"入れる","reading":"いれる","lang":"ja","pos":"other","gloss":"to put in","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📥","notes":"inbox tray = put in"}
+{"lemma":"二十歳","reading":"はたち","lang":"ja","pos":"other","gloss":"20 years old, 20th year","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔞","notes":"age-20 milestone; Japanese coming-of-age"}
+{"lemma":"遠い","reading":"とおい","lang":"ja","pos":"other","gloss":"far","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔭","notes":"telescope = far / distant"}
+{"lemma":"夏休み","reading":"なつやすみ","lang":"ja","pos":"other","gloss":"summer holiday","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏖️"}
+{"lemma":"友達","reading":"ともだち","lang":"ja","pos":"other","gloss":"friend","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👫","notes":"⚠ already authored in M1-M7"}
+{"lemma":"横","reading":"よこ","lang":"ja","pos":"other","gloss":"beside, side, width","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"↔️","notes":"horizontal arrow for side/width"}
+{"lemma":"冷たい","reading":"つめたい","lang":"ja","pos":"other","gloss":"cold to the touch","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧊","notes":"ice cube"}
+{"lemma":"夜","reading":"よる","lang":"ja","pos":"other","gloss":"evening, night","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌙"}
+{"lemma":"トイレ","reading":"トイレ","lang":"ja","pos":"other","gloss":"toilet","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚽"}
+{"lemma":"おなか","reading":"おなか","lang":"ja","pos":"other","gloss":"stomach","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🫃"}
+{"lemma":"暇","reading":"ひま","lang":"ja","pos":"other","gloss":"free time","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛋️","notes":"couch = leisure/free time"}
+{"lemma":"鳴く","reading":"なく","lang":"ja","pos":"other","gloss":"animal noise. to chirp, roar or croak etc.","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐦","notes":"bird as canonical chirper"}
+{"lemma":"先生","reading":"せんせい","lang":"ja","pos":"other","gloss":"teacher, doctor","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧑‍🏫","notes":"⚠ already authored in M1-M7"}
+{"lemma":"出口","reading":"でぐち","lang":"ja","pos":"other","gloss":"exit","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚪","notes":"door — paired w/ kanji 出"}
+{"lemma":"テープ","reading":"テープ","lang":"ja","pos":"other","gloss":"tape","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📼"}
+{"lemma":"お姉さん","reading":"おねえさん","lang":"ja","pos":"other","gloss":"(honorable) older sister","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👩","notes":"woman; kanji 姉 carries 'older'"}
+{"lemma":"本","reading":"ほん","lang":"ja","pos":"other","gloss":"book","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📖","notes":"⚠ already authored in M1-M7"}
+{"lemma":"泳ぐ","reading":"およぐ","lang":"ja","pos":"other","gloss":"to swim","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏊"}
+{"lemma":"灰皿","reading":"はいざら","lang":"ja","pos":"other","gloss":"ashtray","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚬","notes":"cigarette as proxy; closest concrete"}
+{"lemma":"門","reading":"もん","lang":"ja","pos":"other","gloss":"gate","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⛩️","notes":"torii reads as Japanese gate"}
+{"lemma":"荷物","reading":"にもつ","lang":"ja","pos":"other","gloss":"luggage","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧳"}
+{"lemma":"書く","reading":"かく","lang":"ja","pos":"other","gloss":"to write","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✍️"}
+{"lemma":"ホテル","reading":"ホテル","lang":"ja","pos":"other","gloss":"hotel","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏨"}
+{"lemma":"降りる","reading":"おりる","lang":"ja","pos":"other","gloss":"to get off, to descend","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⬇️","notes":"down-arrow = descend"}
+{"lemma":"重い","reading":"おもい","lang":"ja","pos":"other","gloss":"heavy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏋️","notes":"weightlifter = heavy"}
+{"lemma":"電車","reading":"でんしゃ","lang":"ja","pos":"other","gloss":"electric train","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚆","notes":"⚠ already authored in M1-M7"}
+{"lemma":"痛い","reading":"いたい","lang":"ja","pos":"other","gloss":"painful","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤕"}
+{"lemma":"話す","reading":"はなす","lang":"ja","pos":"other","gloss":"to speak","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🗣️"}
+{"lemma":"りっぱ","reading":"りっぱ","lang":"ja","pos":"other","gloss":"splendid","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✨","notes":"sparkles = splendid/admirable"}
+{"lemma":"つまらない","reading":"つまらない","lang":"ja","pos":"other","gloss":"boring","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥱","notes":"yawn = boredom"}
+{"lemma":"嫌","reading":"いや","lang":"ja","pos":"other","gloss":"unpleasant","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤢","notes":"disgust face = unpleasant"}
+{"lemma":"宿題","reading":"しゅくだい","lang":"ja","pos":"other","gloss":"homework","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📝"}
+{"lemma":"死ぬ","reading":"しぬ","lang":"ja","pos":"other","gloss":"to die","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💀"}
+{"lemma":"みんな","reading":"みんな","lang":"ja","pos":"other","gloss":"everyone","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👥"}
+{"lemma":"映画","reading":"えいが","lang":"ja","pos":"other","gloss":"movie","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎬"}
+{"lemma":"遅い","reading":"おそい","lang":"ja","pos":"other","gloss":"late, slow","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐢","notes":"turtle = slow"}
+{"lemma":"耳","reading":"みみ","lang":"ja","pos":"other","gloss":"ear","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👂"}
+{"lemma":"四つ","reading":"よっつ","lang":"ja","pos":"other","gloss":"four","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"4️⃣"}
+{"lemma":"机","reading":"つくえ","lang":"ja","pos":"other","gloss":"desk","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪑","notes":"chair-adjacent; closest furniture glyph (no desk emoji) ⚠ already authored in M1-M7"}
+{"lemma":"買う","reading":"かう","lang":"ja","pos":"other","gloss":"to buy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛒"}
+{"lemma":"開く","reading":"あく","lang":"ja","pos":"other","gloss":"to open, to become open","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔓","notes":"unlocked = becoming open"}
+{"lemma":"教室","reading":"きょうしつ","lang":"ja","pos":"other","gloss":"classroom","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏫","notes":"school; closest concrete"}
+{"lemma":"かばん","reading":"かばん","lang":"ja","pos":"other","gloss":"bag, basket","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👜"}
+{"lemma":"マッチ","reading":"マッチ","lang":"ja","pos":"other","gloss":"match","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔥","notes":"fire as match-strike proxy (no match-stick emoji)"}
+{"lemma":"短い","reading":"みじかい","lang":"ja","pos":"other","gloss":"short","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📏","notes":"ruler for length adjectives"}
+{"lemma":"姉","reading":"あね","lang":"ja","pos":"other","gloss":"(humble) older sister","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👩","notes":"woman; kanji 姉 carries older cue ⚠ already authored in M1-M7"}
+{"lemma":"大勢","reading":"おおぜい","lang":"ja","pos":"other","gloss":"great number of people","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👨‍👩‍👧‍👦","notes":"family cluster = many people"}
+{"lemma":"開ける","reading":"あける","lang":"ja","pos":"other","gloss":"to open","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔓","notes":"transitive open"}
+{"lemma":"忙しい","reading":"いそがしい","lang":"ja","pos":"other","gloss":"busy, irritated","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"😰","notes":"anxious sweat = busy/overwhelmed"}
+{"lemma":"おばあさん","reading":"おばあさん","lang":"ja","pos":"other","gloss":"grandmother, female senior-citizen","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👵"}
+{"lemma":"店","reading":"みせ","lang":"ja","pos":"other","gloss":"shop","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏪","notes":"⚠ already authored in M1-M7"}
+{"lemma":"北","reading":"きた","lang":"ja","pos":"other","gloss":"north","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧭","notes":"compass for cardinal direction"}
+{"lemma":"ラジオ","reading":"ラジオ","lang":"ja","pos":"other","gloss":"radio","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📻"}
+{"lemma":"すぐに","reading":"すぐに","lang":"ja","pos":"other","gloss":"instantly","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⚡","notes":"lightning = instant"}
+{"lemma":"橋","reading":"はし","lang":"ja","pos":"other","gloss":"bridge","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌉"}
+{"lemma":"川 / 河","reading":"かわ","lang":"ja","pos":"other","gloss":"river","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏞️","notes":"⚠ already authored in M1-M7"}
+{"lemma":"バター","reading":"バター","lang":"ja","pos":"other","gloss":"butter","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧈"}
+{"lemma":"もっと","reading":"もっと","lang":"ja","pos":"other","gloss":"more","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"➕","notes":"plus = more"}
+{"lemma":"入口","reading":"いりぐち","lang":"ja","pos":"other","gloss":"entrance","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚪","notes":"door + kanji 入"}
+{"lemma":"自動車","reading":"じどうしゃ","lang":"ja","pos":"other","gloss":"automobile","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚙"}
+{"lemma":"昼","reading":"ひる","lang":"ja","pos":"other","gloss":"noon, daytime","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"☀️","notes":"sun = daytime"}
+{"lemma":"色","reading":"いろ","lang":"ja","pos":"other","gloss":"colour","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎨","notes":"palette = colour ⚠ already authored in M1-M7"}
+{"lemma":"黄色","reading":"きいろ","lang":"ja","pos":"other","gloss":"yellow","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🟡"}
+{"lemma":"左","reading":"ひだり","lang":"ja","pos":"other","gloss":"left hand side","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👈"}
+{"lemma":"野菜","reading":"やさい","lang":"ja","pos":"other","gloss":"vegetable","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥕"}
+{"lemma":"シャワー","reading":"シャワー","lang":"ja","pos":"other","gloss":"shower","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚿"}
+{"lemma":"散歩","reading":"さんぽする","lang":"ja","pos":"other","gloss":"to stroll","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚶"}
+{"lemma":"三","reading":"さん","lang":"ja","pos":"other","gloss":"three","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"3️⃣","notes":"⚠ already authored in M1-M7"}
+{"lemma":"消える","reading":"きえる","lang":"ja","pos":"other","gloss":"to disappear","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💨","notes":"puff = vanish"}
+{"lemma":"映画館","reading":"えいがかん","lang":"ja","pos":"other","gloss":"cinema","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎦"}
+{"lemma":"いす","reading":"いす","lang":"ja","pos":"other","gloss":"chair","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪑"}
+{"lemma":"誕生日","reading":"たんじょうび","lang":"ja","pos":"other","gloss":"birthday","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎂"}
+{"lemma":"切る","reading":"きる","lang":"ja","pos":"other","gloss":"to cut","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✂️"}
+{"lemma":"洗う","reading":"あらう","lang":"ja","pos":"other","gloss":"to wash","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧼","notes":"soap = wash"}
+{"lemma":"グラム","reading":"グラム","lang":"ja","pos":"other","gloss":"gram","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⚖️","notes":"scale = mass unit"}
+{"lemma":"習う","reading":"ならう","lang":"ja","pos":"other","gloss":"to learn","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎓"}
+{"lemma":"猫","reading":"ねこ","lang":"ja","pos":"other","gloss":"cat","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐱","notes":"⚠ already authored in M1-M7"}
+{"lemma":"図書館","reading":"としょかん","lang":"ja","pos":"other","gloss":"library","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📚","notes":"⚠ already authored in M1-M7"}
+{"lemma":"大きい","reading":"おおきい","lang":"ja","pos":"other","gloss":"big","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐘","notes":"elephant = big (size adjective)"}
+{"lemma":"歩く","reading":"あるく","lang":"ja","pos":"other","gloss":"to walk","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚶"}
+{"lemma":"ズボン","reading":"ズボン","lang":"ja","pos":"other","gloss":"trousers","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👖"}
+{"lemma":"たて","reading":"たて","lang":"ja","pos":"other","gloss":"length, height","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📏","notes":"ruler = measurement"}
+{"lemma":"カップ","reading":"カップ","lang":"ja","pos":"other","gloss":"cup","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥤"}
+{"lemma":"頼む","reading":"たのむ","lang":"ja","pos":"other","gloss":"to ask","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🙏","notes":"request gesture"}
+{"lemma":"お兄さん","reading":"おにいさん","lang":"ja","pos":"other","gloss":"(honorable) older brother","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👨","notes":"man + kanji 兄"}
+{"lemma":"手","reading":"て","lang":"ja","pos":"other","gloss":"hand","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✋","notes":"⚠ already authored in M1-M7"}
+{"lemma":"ええ","reading":"ええ","lang":"ja","pos":"other","gloss":"yes","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✅"}
+{"lemma":"花","reading":"はな","lang":"ja","pos":"other","gloss":"flower","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌸","notes":"⚠ already authored in M1-M7"}
+{"lemma":"一","reading":"いち","lang":"ja","pos":"other","gloss":"one","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"1️⃣","notes":"⚠ already authored in M1-M7"}
+{"lemma":"砂糖","reading":"さとう","lang":"ja","pos":"other","gloss":"sugar","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍬","notes":"candy as sugar proxy"}
+{"lemma":"カレンダー","reading":"カレンダー","lang":"ja","pos":"other","gloss":"calendar","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅"}
+{"lemma":"今","reading":"いま","lang":"ja","pos":"other","gloss":"now","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⏰","notes":"clock = now/time"}
+{"lemma":"旅行","reading":"りょこう","lang":"ja","pos":"other","gloss":"travel","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✈️"}
+{"lemma":"春","reading":"はる","lang":"ja","pos":"other","gloss":"spring","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌸","notes":"cherry blossom = spring"}
+{"lemma":"八つ","reading":"やっつ","lang":"ja","pos":"other","gloss":"eight","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"8️⃣"}
+{"lemma":"町","reading":"まち","lang":"ja","pos":"other","gloss":"town, city","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏘️"}
+{"lemma":"渡す","reading":"わたす","lang":"ja","pos":"other","gloss":"to hand over","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤝","notes":"handshake/handoff"}
+{"lemma":"青","reading":"あお","lang":"ja","pos":"other","gloss":"blue","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔵"}
+{"lemma":"白","reading":"しろ","lang":"ja","pos":"other","gloss":"white","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⚪"}
+{"lemma":"ベッド","reading":"ベッド","lang":"ja","pos":"other","gloss":"bed","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛏️"}
+{"lemma":"水","reading":"みず","lang":"ja","pos":"other","gloss":"water","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💧","notes":"⚠ already authored in M1-M7"}
+{"lemma":"楽しい","reading":"たのしい","lang":"ja","pos":"other","gloss":"enjoyable","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"😄"}
+{"lemma":"御飯","reading":"ごはん","lang":"ja","pos":"other","gloss":"cooked rice, meal","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍚","notes":"⚠ already authored in M1-M7"}
+{"lemma":"皆さん","reading":"みなさん","lang":"ja","pos":"other","gloss":"everyone","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👥","notes":"synonym of みんな"}
+{"lemma":"おいしい","reading":"おいしい","lang":"ja","pos":"other","gloss":"delicious","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"😋"}
+{"lemma":"ペット","reading":"ペット","lang":"ja","pos":"other","gloss":"pet","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐕","notes":"dog as canonical pet"}
+{"lemma":"外","reading":"そと","lang":"ja","pos":"other","gloss":"outside","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌳","notes":"tree = outdoors"}
+{"lemma":"おもしろい","reading":"おもしろい","lang":"ja","pos":"other","gloss":"interesting","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤩","notes":"starstruck = fascinated/interesting"}
+{"lemma":"貸す","reading":"かす","lang":"ja","pos":"other","gloss":"to lend","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤝","notes":"handshake reads as exchange/lend"}
+{"lemma":"早い","reading":"はやい","lang":"ja","pos":"other","gloss":"early","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⏰","notes":"alarm clock for early"}
+{"lemma":"弱い","reading":"よわい","lang":"ja","pos":"other","gloss":"weak","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪶","notes":"feather connotes weak/light"}
+{"lemma":"洗濯","reading":"せんたく","lang":"ja","pos":"other","gloss":"washing","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧺","notes":"laundry basket"}
+{"lemma":"九つ","reading":"ここのつ","lang":"ja","pos":"other","gloss":"nine","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"9️⃣"}
+{"lemma":"来年","reading":"らいねん","lang":"ja","pos":"other","gloss":"next year","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"calendar; pair with phrase context"}
+{"lemma":"眼鏡","reading":"めがね","lang":"ja","pos":"other","gloss":"glasses","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👓","notes":"⚠ already authored in M1-M7"}
+{"lemma":"背","reading":"せ","lang":"ja","pos":"other","gloss":"height, stature","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📏","notes":"ruler for stature"}
+{"lemma":"水曜日","reading":"すいようび","lang":"ja","pos":"other","gloss":"Wednesday","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"generic calendar"}
+{"lemma":"お金","reading":"おかね","lang":"ja","pos":"other","gloss":"money","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💰","notes":"⚠ already authored in M1-M7"}
+{"lemma":"同じ","reading":"おなじ","lang":"ja","pos":"other","gloss":"same","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🟰","notes":"equals sign"}
+{"lemma":"弾く","reading":"ひく","lang":"ja","pos":"other","gloss":"to play an instrument with strings, including piano","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎹","notes":"piano keys"}
+{"lemma":"土曜日","reading":"どようび","lang":"ja","pos":"other","gloss":"Saturday","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"generic calendar"}
+{"lemma":"階段","reading":"かいだん","lang":"ja","pos":"other","gloss":"stairs","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪜","notes":"ladder; closest Noto for stairs"}
+{"lemma":"煩い","reading":"うるさい","lang":"ja","pos":"other","gloss":"noisy, annoying","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📢","notes":"loudspeaker = noisy"}
+{"lemma":"半分","reading":"はんぶん","lang":"ja","pos":"other","gloss":"half minute","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌗","notes":"half symbol \\"}
+{"lemma":"背広","reading":"せびろ","lang":"ja","pos":"other","gloss":"business suit","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🤵","notes":"person in suit"}
+{"lemma":"晴れ","reading":"はれ","lang":"ja","pos":"other","gloss":"clear weather","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"☀️","notes":"sun"}
+{"lemma":"見せる","reading":"みせる","lang":"ja","pos":"other","gloss":"to show","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👀","notes":"eyes — showing/look at this"}
+{"lemma":"飲み物","reading":"のみもの","lang":"ja","pos":"other","gloss":"a drink","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥤"}
+{"lemma":"雪","reading":"ゆき","lang":"ja","pos":"other","gloss":"snow","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"❄️","notes":"⚠ already authored in M1-M7"}
+{"lemma":"買い物","reading":"かいもの","lang":"ja","pos":"other","gloss":"shopping","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛍️"}
+{"lemma":"交差点","reading":"こうさてん","lang":"ja","pos":"other","gloss":"intersection","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚦","notes":"traffic light for intersection"}
+{"lemma":"駅","reading":"えき","lang":"ja","pos":"other","gloss":"station","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚉","notes":"station emoji ⚠ already authored in M1-M7"}
+{"lemma":"大丈夫","reading":"だいじょうぶ","lang":"ja","pos":"other","gloss":"all right","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👌","notes":"OK sign"}
+{"lemma":"ボールペン","reading":"ボールペン","lang":"ja","pos":"other","gloss":"ball-point pen","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🖊️"}
+{"lemma":"勉強","reading":"べんきょうする","lang":"ja","pos":"other","gloss":"to study","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📚","notes":"books"}
+{"lemma":"兄弟","reading":"きょうだい","lang":"ja","pos":"other","gloss":"(humble) siblings","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👫","notes":"two people; siblings"}
+{"lemma":"封筒","reading":"ふうとう","lang":"ja","pos":"other","gloss":"envelope","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✉️"}
+{"lemma":"レコード","reading":"レコード","lang":"ja","pos":"other","gloss":"record","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💿","notes":"optical disc; record-like"}
+{"lemma":"コーヒー","reading":"コーヒー","lang":"ja","pos":"other","gloss":"coffee","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"☕"}
+{"lemma":"漢字","reading":"かんじ","lang":"ja","pos":"other","gloss":"Chinese character","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🈶","notes":"Japanese ideograph block"}
+{"lemma":"喫茶店","reading":"きっさてん","lang":"ja","pos":"other","gloss":"coffee lounge","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"☕","notes":"coffee cup; café"}
+{"lemma":"子供","reading":"こども","lang":"ja","pos":"other","gloss":"child","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧒"}
+{"lemma":"女の子","reading":"おんなのこ","lang":"ja","pos":"other","gloss":"girl","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👧"}
+{"lemma":"紙","reading":"かみ","lang":"ja","pos":"other","gloss":"paper","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📄"}
+{"lemma":"字引","reading":"じびき","lang":"ja","pos":"other","gloss":"dictionary","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📖","notes":"open book"}
+{"lemma":"あさって","reading":"あさって","lang":"ja","pos":"other","gloss":"day after tomorrow","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"calendar; pair with phrase context"}
+{"lemma":"嫌い","reading":"きらい","lang":"ja","pos":"other","gloss":"hate","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🙅","notes":"person gesturing no"}
+{"lemma":"答える","reading":"こたえる","lang":"ja","pos":"other","gloss":"to answer","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🙋","notes":"raising hand"}
+{"lemma":"食堂","reading":"しょくどう","lang":"ja","pos":"other","gloss":"dining hall","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍽️","notes":"plate with utensils"}
+{"lemma":"コピーする","reading":"コピーする","lang":"ja","pos":"other","gloss":"to copy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📑","notes":"stacked copies"}
+{"lemma":"働く","reading":"はたらく","lang":"ja","pos":"other","gloss":"to work","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💼","notes":"briefcase"}
+{"lemma":"ドア","reading":"ドア","lang":"ja","pos":"other","gloss":"Western style door","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚪"}
+{"lemma":"見る  観る","reading":"みる","lang":"ja","pos":"other","gloss":"to see, to watch","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👁️"}
+{"lemma":"交番","reading":"こうばん","lang":"ja","pos":"other","gloss":"police box","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚓","notes":"police car; closest Noto for police context"}
+{"lemma":"ナイフ","reading":"ナイフ","lang":"ja","pos":"other","gloss":"knife","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔪"}
+{"lemma":"辛い","reading":"からい","lang":"ja","pos":"other","gloss":"spicy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌶️"}
+{"lemma":"洋服","reading":"ようふく","lang":"ja","pos":"other","gloss":"western-style clothes","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👔","notes":"necktie/shirt"}
+{"lemma":"晩御飯","reading":"ばんごはん","lang":"ja","pos":"other","gloss":"evening meal","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍱","notes":"bento meal"}
+{"lemma":"車","reading":"くるま","lang":"ja","pos":"other","gloss":"car, vehicle","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚗","notes":"⚠ already authored in M1-M7"}
+{"lemma":"もう一度","reading":"もういちど","lang":"ja","pos":"other","gloss":"again","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔁","notes":"repeat arrow"}
+{"lemma":"ポスト","reading":"ポスト","lang":"ja","pos":"other","gloss":"post","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📮","notes":"postbox"}
+{"lemma":"服","reading":"ふく","lang":"ja","pos":"other","gloss":"clothes","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👕","notes":"t-shirt"}
+{"lemma":"メートル","reading":"メートル","lang":"ja","pos":"other","gloss":"metre","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📏","notes":"ruler"}
+{"lemma":"パン","reading":"パン","lang":"ja","pos":"other","gloss":"bread","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍞"}
+{"lemma":"半","reading":"はん","lang":"ja","pos":"other","gloss":"half","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌗","notes":"\\"}
+{"lemma":"若い","reading":"わかい","lang":"ja","pos":"other","gloss":"young","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👶","notes":"baby connotes young"}
+{"lemma":"食べる","reading":"たべる","lang":"ja","pos":"other","gloss":"to eat","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍽️","notes":"⚠ already authored in M1-M7"}
+{"lemma":"四日","reading":"よっか","lang":"ja","pos":"other","gloss":"four days, fouth day of the month","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"4️⃣","notes":"number 4"}
+{"lemma":"警官","reading":"けいかん","lang":"ja","pos":"other","gloss":"policeman","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👮"}
+{"lemma":"伯父 / 叔父","reading":"おじいさん","lang":"ja","pos":"other","gloss":"grandfather, male senior citizen","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👴","notes":"older man"}
+{"lemma":"アパート","reading":"アパート","lang":"ja","pos":"other","gloss":"apartment","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏢","notes":"apartment building"}
+{"lemma":"鳥","reading":"とり","lang":"ja","pos":"other","gloss":"bird","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐦"}
+{"lemma":"タクシー","reading":"タクシー","lang":"ja","pos":"other","gloss":"taxi","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚕"}
+{"lemma":"しょうゆ","reading":"しょうゆ","lang":"ja","pos":"other","gloss":"soy sauce","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍶","notes":"sake bottle as closest condiment vessel; weak"}
+{"lemma":"白い","reading":"しろい","lang":"ja","pos":"other","gloss":"white","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⬜","notes":"white square"}
+{"lemma":"待つ","reading":"まつ","lang":"ja","pos":"other","gloss":"to wait","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⏳","notes":"hourglass"}
+{"lemma":"行く","reading":"いく","lang":"ja","pos":"other","gloss":"to go","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚶","notes":"person walking"}
+{"lemma":"角","reading":"かど","lang":"ja","pos":"other","gloss":"a corner","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📐","notes":"triangle ruler — corner/angle"}
+{"lemma":"男","reading":"おとこ","lang":"ja","pos":"other","gloss":"man","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👨"}
+{"lemma":"ギター","reading":"ギター","lang":"ja","pos":"other","gloss":"guitar","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎸"}
+{"lemma":"聞く","reading":"きく","lang":"ja","pos":"other","gloss":"to hear, to listen to, to ask","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👂","notes":"ear"}
+{"lemma":"走る","reading":"はしる","lang":"ja","pos":"other","gloss":"to run","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏃"}
+{"lemma":"お母さん","reading":"おかあさん","lang":"ja","pos":"other","gloss":"(honorable) mother","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👩","notes":"woman; pair with phrase context"}
+{"lemma":"強い","reading":"つよい","lang":"ja","pos":"other","gloss":"powerful","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💪","notes":"flexed bicep"}
+{"lemma":"魚","reading":"さかな","lang":"ja","pos":"other","gloss":"fish","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐟"}
+{"lemma":"切手","reading":"きって","lang":"ja","pos":"other","gloss":"postage stamp","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📮","notes":"postbox; no stamp emoji in Noto"}
+{"lemma":"暗い","reading":"くらい","lang":"ja","pos":"other","gloss":"gloomy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌑","notes":"new moon = dark"}
+{"lemma":"出る","reading":"でる","lang":"ja","pos":"other","gloss":"to appear, to leave","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚪","notes":"door — leave/exit"}
+{"lemma":"犬","reading":"いぬ","lang":"ja","pos":"other","gloss":"dog","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🐕","notes":"⚠ already authored in M1-M7"}
+{"lemma":"女","reading":"おんな","lang":"ja","pos":"other","gloss":"woman","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👩"}
+{"lemma":"飛行機","reading":"ひこうき","lang":"ja","pos":"other","gloss":"aeroplane","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"✈️"}
+{"lemma":"日曜日","reading":"にちようび","lang":"ja","pos":"other","gloss":"Sunday","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"generic calendar"}
+{"lemma":"午前","reading":"ごぜん","lang":"ja","pos":"other","gloss":"morning","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌅","notes":"sunrise"}
+{"lemma":"名前","reading":"なまえ","lang":"ja","pos":"other","gloss":"name","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🪪","notes":"ID card ⚠ already authored in M1-M7"}
+{"lemma":"丸い / 円い","reading":"まるい","lang":"ja","pos":"other","gloss":"round, circular","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⭕","notes":"circle"}
+{"lemma":"曲る","reading":"まがる","lang":"ja","pos":"other","gloss":"to turn, to bend","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"↩️","notes":"curved arrow"}
+{"lemma":"鼻","reading":"はな","lang":"ja","pos":"other","gloss":"nose","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👃","notes":"⚠ already authored in M1-M7"}
+{"lemma":"お弁当","reading":"おべんとう","lang":"ja","pos":"other","gloss":"boxed lunch","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍱"}
+{"lemma":"コップ","reading":"コップ","lang":"ja","pos":"other","gloss":"a glass","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥛","notes":"glass of milk; closest"}
+{"lemma":"結婚","reading":"けっこん","lang":"ja","pos":"other","gloss":"marriage","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💍","notes":"ring"}
+{"lemma":"置く","reading":"おく","lang":"ja","pos":"other","gloss":"to put","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📥","notes":"inbox tray — place/put"}
+{"lemma":"渡る","reading":"わたる","lang":"ja","pos":"other","gloss":"to go across","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚸","notes":"pedestrian crossing"}
+{"lemma":"伯母さん / 叔母さん","reading":"おばさん","lang":"ja","pos":"other","gloss":"aunt","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👩","notes":"woman; pair with phrase for aunt context"}
+{"lemma":"明い","reading":"あかるい","lang":"ja","pos":"other","gloss":"bright","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"💡","notes":"lightbulb"}
+{"lemma":"家庭","reading":"かてい","lang":"ja","pos":"other","gloss":"household","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏠","notes":"house"}
+{"lemma":"パーティー","reading":"パーティー","lang":"ja","pos":"other","gloss":"party","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎉"}
+{"lemma":"スカート","reading":"スカート","lang":"ja","pos":"other","gloss":"skirt","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👗","notes":"dress is closest Noto"}
+{"lemma":"靴","reading":"くつ","lang":"ja","pos":"other","gloss":"shoes","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👞"}
+{"lemma":"ボタン","reading":"ボタン","lang":"ja","pos":"other","gloss":"button","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔘","notes":"radio button"}
+{"lemma":"今月","reading":"こんげつ","lang":"ja","pos":"other","gloss":"this month","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"calendar"}
+{"lemma":"返す","reading":"かえす","lang":"ja","pos":"other","gloss":"to return something","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"↩️","notes":"return arrow"}
+{"lemma":"ストーブ","reading":"ストーブ","lang":"ja","pos":"other","gloss":"heater","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔥","notes":"fire — heater context; weak but concrete"}
+{"lemma":"二人","reading":"ふたり","lang":"ja","pos":"other","gloss":"two people","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👥","notes":"two silhouettes ⚠ already authored in M1-M7"}
+{"lemma":"起きる","reading":"おきる","lang":"ja","pos":"other","gloss":"to get up","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"⏰","notes":"alarm clock — wake up"}
+{"lemma":"古い","reading":"ふるい","lang":"ja","pos":"other","gloss":"old (not used for people)","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏚️","notes":"derelict house — old"}
+{"lemma":"黄色い","reading":"きいろい","lang":"ja","pos":"other","gloss":"yellow","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🟨","notes":"yellow square"}
+{"lemma":"歌う","reading":"うたう","lang":"ja","pos":"other","gloss":"to sing","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎤","notes":"microphone"}
+{"lemma":"飴","reading":"あめ","lang":"ja","pos":"other","gloss":"candy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍬"}
+{"lemma":"寝る","reading":"ねる","lang":"ja","pos":"other","gloss":"to go to bed, to sleep","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛏️","notes":"bed"}
+{"lemma":"質問","reading":"しつもん","lang":"ja","pos":"other","gloss":"question","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"❓","notes":"question mark"}
+{"lemma":"牛乳","reading":"ぎゅうにゅう","lang":"ja","pos":"other","gloss":"milk","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🥛"}
+{"lemma":"二","reading":"に","lang":"ja","pos":"other","gloss":"two","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"2️⃣","notes":"⚠ already authored in M1-M7"}
+{"lemma":"紅茶","reading":"こうちゃ","lang":"ja","pos":"other","gloss":"black tea","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍵","notes":"teacup; pair with phrase"}
+{"lemma":"出かける","reading":"でかける","lang":"ja","pos":"other","gloss":"to go out","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚶","notes":"person walking"}
+{"lemma":"兄","reading":"あに","lang":"ja","pos":"other","gloss":"(humble) older brother","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"👦","notes":"boy; pair with phrase context per rubric ⚠ already authored in M1-M7"}
+{"lemma":"留学生","reading":"りゅうがくせい","lang":"ja","pos":"other","gloss":"overseas student","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎓","notes":"graduation cap"}
+{"lemma":"月曜日","reading":"げつようび","lang":"ja","pos":"other","gloss":"Monday","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"calendar"}
+{"lemma":"締める","reading":"しめる","lang":"ja","pos":"other","gloss":"to tie","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🎀","notes":"ribbon"}
+{"lemma":"熱い","reading":"あつい","lang":"ja","pos":"other","gloss":"hot to the touch","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🔥","notes":"fire — hot"}
+{"lemma":"郵便局","reading":"ゆうびんきょく","lang":"ja","pos":"other","gloss":"post office","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏤","notes":"post office building ⚠ already authored in M1-M7"}
+{"lemma":"六つ","reading":"むっつ","lang":"ja","pos":"other","gloss":"six","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"6️⃣"}
+{"lemma":"本棚","reading":"ほんだな","lang":"ja","pos":"other","gloss":"bookshelves","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📚","notes":"stacked books"}
+{"lemma":"昨夜","reading":"ゆうべ","lang":"ja","pos":"other","gloss":"last night","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌙","notes":"crescent moon"}
+{"lemma":"外国人","reading":"がいこくじん","lang":"ja","pos":"other","gloss":"foreigner","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🌍","notes":"globe — foreign/abroad"}
+{"lemma":"絵","reading":"え","lang":"ja","pos":"other","gloss":"picture","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🖼️","notes":"framed picture"}
+{"lemma":"使う","reading":"つかう","lang":"ja","pos":"other","gloss":"to use","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🛠️","notes":"tools — using"}
+{"lemma":"休む","reading":"やすむ","lang":"ja","pos":"other","gloss":"to rest","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"😴","notes":"sleeping face — rest"}
+{"lemma":"テスト","reading":"テスト","lang":"ja","pos":"other","gloss":"test","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📝","notes":"memo"}
+{"lemma":"たばこ","reading":"たばこ","lang":"ja","pos":"other","gloss":"tobacco, cigarettes","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🚬"}
+{"lemma":"涼しい","reading":"すずしい","lang":"ja","pos":"other","gloss":"refreshing","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🍃","notes":"leaf in wind — cool/refreshing"}
+{"lemma":"昨日","reading":"きのう","lang":"ja","pos":"other","gloss":"yesterday","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"📅","notes":"calendar; pair with phrase"}
+{"lemma":"せっけん","reading":"せっけん","lang":"ja","pos":"other","gloss":"economy","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🧼","notes":"soap — note: meaning field appears mislabeled (せっけん=soap)"}
+{"lemma":"初め / 始め","reading":"はじめ","lang":"ja","pos":"other","gloss":"beginning","source":"jlpt-n5","tags":["jlpt-n5"],"emoji":"🏁","notes":"checkered flag — start"}
+{"lemma":"並ぶ","reading":"ならぶ","lang":"ja","pos":"other","gloss":"to line up, to stand in a line","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no single-glyph for line-up; abstract action"}
+{"lemma":"頭","reading":"あたま","lang":"ja","pos":"other","gloss":"head","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"brain reads as 'remember' (used for 覚える); no clean head-anatomy glyph"}
+{"lemma":"一月","reading":"ひとつき","lang":"ja","pos":"other","gloss":"one month","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract duration; calendar reads as date not span"}
+{"lemma":"閉める","reading":"しめる","lang":"ja","pos":"other","gloss":"to close something","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"door already used for 玄関; verb action not visualizable"}
+{"lemma":"たいへん","reading":"たいへん","lang":"ja","pos":"other","gloss":"very","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"intensifier adverb"}
+{"lemma":"中","reading":"なか","lang":"ja","pos":"other","gloss":"middle","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"bullseye reads as 'target' not 'middle'"}
+{"lemma":"六日","reading":"むいか","lang":"ja","pos":"other","gloss":"six days, sixth day of the month","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"date concept — no clean visual"}
+{"lemma":"狭い","reading":"せまい","lang":"ja","pos":"other","gloss":"narrow","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no clean narrow glyph; left-right arrow reads as wide"}
+{"lemma":"分かる","reading":"わかる","lang":"ja","pos":"other","gloss":"to be understood","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"lightbulb already used for 電気; understanding too abstract"}
+{"lemma":"何","reading":"なん / なに","lang":"ja","pos":"other","gloss":"what","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interrogative — abstract grammar"}
+{"lemma":"厚い","reading":"あつい","lang":"ja","pos":"other","gloss":"kind, deep, thick","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"polysemous abstract adjective"}
+{"lemma":"毎月","reading":"まいげつ / まいつき","lang":"ja","pos":"other","gloss":"every month","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract recurrence"}
+{"lemma":"閉まる","reading":"しまる","lang":"ja","pos":"other","gloss":"to close, to be closed","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"intransitive variant of 閉める — same physical event"}
+{"lemma":"脱ぐ","reading":"ぬぐ","lang":"ja","pos":"other","gloss":"to take off clothes","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"necktie reads as clothing not removing; verb action not visualizable"}
+{"lemma":"汚い","reading":"きたない","lang":"ja","pos":"other","gloss":"dirty","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"trash reads as 'garbage' not 'dirty'"}
+{"lemma":"廊下","reading":"ろうか","lang":"ja","pos":"other","gloss":"corridor","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no corridor emoji in Noto"}
+{"lemma":"要る","reading":"いる","lang":"ja","pos":"other","gloss":"to need","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"exclamation reads as 'attention' not 'need'"}
+{"lemma":"こっち","reading":"こっち","lang":"ja","pos":"other","gloss":"this person or way","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — spatial pronoun"}
+{"lemma":"時々","reading":"ときどき","lang":"ja","pos":"other","gloss":"sometimes","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"frequency adverb"}
+{"lemma":"どう","reading":"どう","lang":"ja","pos":"other","gloss":"how, in what way","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interrogative"}
+{"lemma":"差す","reading":"さす","lang":"ja","pos":"other","gloss":"to stretch out hands, to raise an umbrella","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"polysemous action verb"}
+{"lemma":"どっち","reading":"どっち","lang":"ja","pos":"other","gloss":"which","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interrogative pronoun"}
+{"lemma":"そば","reading":"そば","lang":"ja","pos":"other","gloss":"near, beside","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"positional — abstract"}
+{"lemma":"どうして","reading":"どうして","lang":"ja","pos":"other","gloss":"for what reason","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interrogative"}
+{"lemma":"今年","reading":"ことし","lang":"ja","pos":"other","gloss":"this year","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"deictic time expression"}
+{"lemma":"初めて","reading":"はじめて","lang":"ja","pos":"other","gloss":"for the first time","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract adverb"}
+{"lemma":"毎週","reading":"まいしゅう","lang":"ja","pos":"other","gloss":"every week","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract recurrence"}
+{"lemma":"いつも","reading":"いつも","lang":"ja","pos":"other","gloss":"always","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"frequency adverb"}
+{"lemma":"なる","reading":"なる","lang":"ja","pos":"other","gloss":"to become","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"cycle reads as 'refresh' not 'become'"}
+{"lemma":"無くす","reading":"なくす","lang":"ja","pos":"other","gloss":"to lose something","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract action"}
+{"lemma":"たぶん","reading":"たぶん","lang":"ja","pos":"other","gloss":"probably","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"modal adverb"}
+{"lemma":"東","reading":"ひがし","lang":"ja","pos":"other","gloss":"east","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"compass already used for 西; can't distinguish east vs west via emoji"}
+{"lemma":"私","reading":"わたくし","lang":"ja","pos":"other","gloss":"(humble) I, myself","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"pronoun — rubric blocks pronouns"}
+{"lemma":"お父さん","reading":"おとうさん","lang":"ja","pos":"other","gloss":"(honorable) father","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"man glyph reads as 'man' not 'father'; rubric flags parent words"}
+{"lemma":"ほか","reading":"ほか","lang":"ja","pos":"other","gloss":"other, the rest","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract relational word"}
+{"lemma":"来週","reading":"らいしゅう","lang":"ja","pos":"other","gloss":"next week","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"deictic time expression"}
+{"lemma":"知る","reading":"しる","lang":"ja","pos":"other","gloss":"to know","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"lightbulb used elsewhere; cognition too abstract"}
+{"lemma":"自分","reading":"じぶん","lang":"ja","pos":"other","gloss":"oneself","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"reflexive pronoun"}
+{"lemma":"薄い","reading":"うすい","lang":"ja","pos":"other","gloss":"thin, weak","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"polysemy: thin (paper) vs weak (tea/color); no single concrete referent"}
+{"lemma":"高い","reading":"たかい","lang":"ja","pos":"other","gloss":"tall, expensive","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"polysemy flagged in rubric — tall vs expensive needs separate cards"}
+{"lemma":"はい","reading":"はい","lang":"ja","pos":"other","gloss":"yes","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interjection/function word"}
+{"lemma":"なぜ","reading":"なぜ","lang":"ja","pos":"other","gloss":"why","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"question word / abstract grammar"}
+{"lemma":"一日","reading":"いちにち","lang":"ja","pos":"other","gloss":"(1) one day, (2) first of month","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"counter/date abstraction"}
+{"lemma":"いいえ","reading":"いいえ","lang":"ja","pos":"other","gloss":"no","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interjection/function word"}
+{"lemma":"小さな","reading":"ちいさな","lang":"ja","pos":"other","gloss":"little","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"prenominal adjective; abstract size, no referent"}
+{"lemma":"さ来年","reading":"さらいねん","lang":"ja","pos":"other","gloss":"year after next","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"temporal abstraction"}
+{"lemma":"いくら","reading":"いくら","lang":"ja","pos":"other","gloss":"how much?","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"question word"}
+{"lemma":"温い","reading":"ぬるい","lang":"ja","pos":"other","gloss":"luke warm","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"subtle temperature distinction; no referent that reads as 'lukewarm' vs warm/hot"}
+{"lemma":"そうして / そして","reading":"そうして / そして","lang":"ja","pos":"other","gloss":"and","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"conjunction / function word"}
+{"lemma":"どれ","reading":"どれ","lang":"ja","pos":"other","gloss":"which (of three or more)","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — rubric blocks"}
+{"lemma":"だんだん","reading":"だんだん","lang":"ja","pos":"other","gloss":"gradually","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"adverb of degree; no referent"}
+{"lemma":"また","reading":"また","lang":"ja","pos":"other","gloss":"again, and","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"adverb/conjunction"}
+{"lemma":"とても","reading":"とても","lang":"ja","pos":"other","gloss":"very","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"intensifier adverb; no referent"}
+{"lemma":"一昨年","reading":"おととし","lang":"ja","pos":"other","gloss":"year before last","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"temporal abstraction"}
+{"lemma":"木曜日","reading":"もくようび","lang":"ja","pos":"other","gloss":"Thursday","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"day-of-week label; needs text not image"}
+{"lemma":"もう","reading":"もう","lang":"ja","pos":"other","gloss":"already","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"tense/aspect adverb"}
+{"lemma":"五日","reading":"いつか","lang":"ja","pos":"other","gloss":"five days, fifth day","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"day counter; abstract"}
+{"lemma":"そこ","reading":"そこ","lang":"ja","pos":"other","gloss":"that place","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — rubric blocks"}
+{"lemma":"どの","reading":"どの","lang":"ja","pos":"other","gloss":"which","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — rubric blocks"}
+{"lemma":"それでは","reading":"それでは","lang":"ja","pos":"other","gloss":"in that situation","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"discourse connector"}
+{"lemma":"来月","reading":"らいげつ","lang":"ja","pos":"other","gloss":"next month","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"temporal abstraction"}
+{"lemma":"先週","reading":"せんしゅう","lang":"ja","pos":"other","gloss":"last week","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"temporal abstraction"}
+{"lemma":"ほんとう","reading":"ほんとう","lang":"ja","pos":"other","gloss":"truth","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract noun; no concrete referent"}
+{"lemma":"金曜日","reading":"きんようび","lang":"ja","pos":"other","gloss":"Friday","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"day-of-week label; needs text"}
+{"lemma":"多い","reading":"おおい","lang":"ja","pos":"other","gloss":"many","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract quantifier; no canonical referent"}
+{"lemma":"キロ / キロメートル","reading":"キロ / キロメートル","lang":"ja","pos":"other","gloss":"kilometre","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"unit of measure; no referent"}
+{"lemma":"二日","reading":"ふつか","lang":"ja","pos":"other","gloss":"two days, second day of the month","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"day counter; abstract"}
+{"lemma":"所","reading":"ところ","lang":"ja","pos":"other","gloss":"place","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract noun (per rubric: ところ explicitly flagged)"}
+{"lemma":"一昨日","reading":"おととい","lang":"ja","pos":"other","gloss":"day before yesterday","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"temporal abstraction"}
+{"lemma":"二十日","reading":"はつか","lang":"ja","pos":"other","gloss":"twenty days, twentieth","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"day counter; abstract"}
+{"lemma":"ください","reading":"ください","lang":"ja","pos":"other","gloss":"please","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"polite-request auxiliary; function word"}
+{"lemma":"易しい","reading":"やさしい","lang":"ja","pos":"other","gloss":"easy, simple","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract adjective; homophone with 'kind' increases ambiguity"}
+{"lemma":"誰","reading":"だれ","lang":"ja","pos":"other","gloss":"who","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"question pronoun"}
+{"lemma":"十日","reading":"とおか","lang":"ja","pos":"other","gloss":"ten days, the tenth day","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"day counter; abstract"}
+{"lemma":"どちら","reading":"どちら","lang":"ja","pos":"other","gloss":"which of two","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — rubric blocks"}
+{"lemma":"小さい","reading":"ちいさい","lang":"ja","pos":"other","gloss":"little","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract adjective; no canonical referent"}
+{"lemma":"今週","reading":"こんしゅう","lang":"ja","pos":"other","gloss":"this week","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"temporal abstraction"}
+{"lemma":"向こう","reading":"むこう","lang":"ja","pos":"other","gloss":"over there","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"spatial demonstrative"}
+{"lemma":"去年","reading":"きょねん","lang":"ja","pos":"other","gloss":"last year","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract time reference; no visual referent"}
+{"lemma":"火曜日","reading":"かようび","lang":"ja","pos":"other","gloss":"Tuesday","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"weekday name — no glyph distinguishes"}
+{"lemma":"あなた","reading":"あなた","lang":"ja","pos":"other","gloss":"you","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"pronoun — rubric explicit block"}
+{"lemma":"千","reading":"せん","lang":"ja","pos":"other","gloss":"thousand","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no canonical emoji for 1000; ambiguous with 100"}
+{"lemma":"あまり","reading":"あまり","lang":"ja","pos":"other","gloss":"not very","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract grammar adverb"}
+{"lemma":"三日","reading":"みっか","lang":"ja","pos":"other","gloss":"three days, third day of the month","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no glyph for ordinal day-3"}
+{"lemma":"どこ","reading":"どこ","lang":"ja","pos":"other","gloss":"where","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interrogative demonstrative; abstract"}
+{"lemma":"隣","reading":"となり","lang":"ja","pos":"other","gloss":"next door to","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"spatial relation; no visual referent"}
+{"lemma":"後ろ","reading":"うしろ","lang":"ja","pos":"other","gloss":"behind","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"spatial relation; arrow ambiguous with left"}
+{"lemma":"先月","reading":"せんげつ","lang":"ja","pos":"other","gloss":"last month","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract time reference"}
+{"lemma":"じゃ / じゃあ","reading":"じゃ / じゃあ","lang":"ja","pos":"other","gloss":"well then…","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"discourse particle"}
+{"lemma":"この","reading":"この","lang":"ja","pos":"other","gloss":"this","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — rubric block"}
+{"lemma":"毎年","reading":"まいねん / まいとし","lang":"ja","pos":"other","gloss":"every year","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract time interval"}
+{"lemma":"明日","reading":"あした","lang":"ja","pos":"other","gloss":"tomorrow","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract time reference"}
+{"lemma":"よく","reading":"よく","lang":"ja","pos":"other","gloss":"often, well","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"adverb of frequency/manner; abstract"}
+{"lemma":"万","reading":"まん","lang":"ja","pos":"other","gloss":"ten thousand","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no glyph for 10000; ambiguous"}
+{"lemma":"かかる","reading":"かかる","lang":"ja","pos":"other","gloss":"to take time or money","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract verb of cost/duration"}
+{"lemma":"でも","reading":"でも","lang":"ja","pos":"other","gloss":"but","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"conjunction"}
+{"lemma":"あっち","reading":"あっち","lang":"ja","pos":"other","gloss":"over there","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative spatial — rubric block"}
+{"lemma":"ワイシャツ","reading":"ワイシャツ","lang":"ja","pos":"other","gloss":"business shirt","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"necktie already used; collision risk"}
+{"lemma":"ハンカチ","reading":"ハンカチ","lang":"ja","pos":"other","gloss":"handkerchief","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no handkerchief glyph; toilet paper misreads"}
+{"lemma":"いつ","reading":"いつ","lang":"ja","pos":"other","gloss":"when","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interrogative"}
+{"lemma":"全部","reading":"ぜんぶ","lang":"ja","pos":"other","gloss":"all","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"quantifier abstract"}
+{"lemma":"など","reading":"など","lang":"ja","pos":"other","gloss":"et cetera","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"particle"}
+{"lemma":"太い","reading":"ふとい","lang":"ja","pos":"other","gloss":"fat","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"polysemy fat/thick; person-emoji reads as body-shape; risky"}
+{"lemma":"やる","reading":"やる","lang":"ja","pos":"other","gloss":"to do","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"generic verb; same meaning as する — polite-form duplicate per rubric"}
+{"lemma":"七日","reading":"なのか","lang":"ja","pos":"other","gloss":"seven days, the seventh day","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no ordinal-day glyph"}
+{"lemma":"あれ","reading":"あれ","lang":"ja","pos":"other","gloss":"that","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — rubric block"}
+{"lemma":"後","reading":"あと","lang":"ja","pos":"other","gloss":"afterwards","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract temporal adverb"}
+{"lemma":"並べる","reading":"ならべる","lang":"ja","pos":"other","gloss":"to line up, to set up","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no clean glyph for 'arrange in a row'; risk of confusion"}
+{"lemma":"しかし","reading":"しかし","lang":"ja","pos":"other","gloss":"however","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"conjunction"}
+{"lemma":"八日","reading":"ようか","lang":"ja","pos":"other","gloss":"eight days, eighth day of the month","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no ordinal-day glyph"}
+{"lemma":"九日","reading":"ここのか","lang":"ja","pos":"other","gloss":"nine days, ninth day","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no ordinal-day glyph"}
+{"lemma":"そっち","reading":"そっち","lang":"ja","pos":"other","gloss":"over there","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — rubric block"}
+{"lemma":"あの","reading":"あの","lang":"ja","pos":"other","gloss":"that over there","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — rubric block"}
+{"lemma":"毎日","reading":"まいにち","lang":"ja","pos":"other","gloss":"every day","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract time interval"}
+{"lemma":"居る","reading":"いる","lang":"ja","pos":"other","gloss":"to be, to have (used for people and animals)","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"existence-of — rubric explicit block"}
+{"lemma":"できる","reading":"できる","lang":"ja","pos":"other","gloss":"to be able to","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"modal/auxiliary verb; abstract"}
+{"lemma":"する","reading":"する","lang":"ja","pos":"other","gloss":"to do","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"generic abstract verb"}
+{"lemma":"ある","reading":"ある","lang":"ja","pos":"other","gloss":"to be, to have (used for inanimate objects)","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"existence-of — rubric explicit block"}
+{"lemma":"いくつ","reading":"いくつ","lang":"ja","pos":"other","gloss":"how many?, how old?","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interrogative"}
+{"lemma":"前","reading":"まえ","lang":"ja","pos":"other","gloss":"before","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"polysemy: spatial 'in front' vs temporal 'before'; ambiguous"}
+{"lemma":"来る","reading":"くる","lang":"ja","pos":"other","gloss":"to come","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"directional verb; arrow ambiguous with go/return"}
+{"lemma":"その","reading":"その","lang":"ja","pos":"other","gloss":"that","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — abstract grammar per rubric"}
+{"lemma":"ちょっと","reading":"ちょっと","lang":"ja","pos":"other","gloss":"somewhat","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"adverb/abstract degree marker"}
+{"lemma":"先","reading":"さき","lang":"ja","pos":"other","gloss":"the future, previous","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract temporal/positional — no concrete referent"}
+{"lemma":"こんな","reading":"こんな","lang":"ja","pos":"other","gloss":"such","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative determiner — abstract grammar"}
+{"lemma":"たくさん","reading":"たくさん","lang":"ja","pos":"other","gloss":"many","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract quantifier; no specific referent"}
+{"lemma":"ちょうど","reading":"ちょうど","lang":"ja","pos":"other","gloss":"exactly","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract adverb; no concrete referent"}
+{"lemma":"これ","reading":"これ","lang":"ja","pos":"other","gloss":"this","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — per rubric"}
+{"lemma":"ここ","reading":"ここ","lang":"ja","pos":"other","gloss":"here","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"spatial demonstrative — per rubric"}
+{"lemma":"方","reading":"かた","lang":"ja","pos":"other","gloss":"person, way of doing","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"polysemous abstract noun (per rubric)"}
+{"lemma":"では","reading":"では","lang":"ja","pos":"other","gloss":"with that...","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"particle/conjunction"}
+{"lemma":"少ない","reading":"すくない","lang":"ja","pos":"other","gloss":"a few","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract quantifier"}
+{"lemma":"次","reading":"つぎ","lang":"ja","pos":"other","gloss":"next","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract ordinal/temporal — no concrete referent"}
+{"lemma":"意味","reading":"いみ","lang":"ja","pos":"other","gloss":"meaning","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract noun — per rubric"}
+{"lemma":"物","reading":"もの","lang":"ja","pos":"other","gloss":"thing","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract noun — per rubric"}
+{"lemma":"より、ほう","reading":"より、ほう","lang":"ja","pos":"other","gloss":"Used for comparison.","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"comparison particle — abstract grammar"}
+{"lemma":"それから","reading":"それから","lang":"ja","pos":"other","gloss":"after that","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"conjunction — abstract grammar"}
+{"lemma":"あちら","reading":"あちら","lang":"ja","pos":"other","gloss":"there","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"spatial demonstrative — per rubric"}
+{"lemma":"いかが","reading":"いかが","lang":"ja","pos":"other","gloss":"how","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interrogative adverb — abstract grammar"}
+{"lemma":"さあ","reading":"さあ","lang":"ja","pos":"other","gloss":"well…","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interjection — no concrete referent"}
+{"lemma":"あそこ","reading":"あそこ","lang":"ja","pos":"other","gloss":"over there","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"spatial demonstrative — per rubric"}
+{"lemma":"まだ","reading":"まだ","lang":"ja","pos":"other","gloss":"yet, still","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"tense/aspect adverb — abstract grammar"}
+{"lemma":"それ","reading":"それ","lang":"ja","pos":"other","gloss":"that","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — per rubric"}
+{"lemma":"どなた","reading":"どなた","lang":"ja","pos":"other","gloss":"who","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"interrogative pronoun — per rubric"}
+{"lemma":"そちら","reading":"そちら","lang":"ja","pos":"other","gloss":"over there","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"spatial demonstrative — per rubric"}
+{"lemma":"細い","reading":"ほそい","lang":"ja","pos":"other","gloss":"thin","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"abstract adjective; no clean Noto referent"}
+{"lemma":"結構","reading":"けっこう","lang":"ja","pos":"other","gloss":"splendid, enough","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"polysemous abstract adjective/adverb"}
+{"lemma":"こちら","reading":"こちら","lang":"ja","pos":"other","gloss":"this person or way","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"demonstrative — per rubric"}
+{"lemma":"貼る","reading":"はる","lang":"ja","pos":"other","gloss":"to stick","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no concrete Noto referent; pair with phrase"}
