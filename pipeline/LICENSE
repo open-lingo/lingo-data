@@ -1,0 +1,6 @@
+The code in `pipeline/` is MIT-licensed, same as the rest of this repo's
+code. See the root `LICENSE` file for the full MIT text.
+
+Generated audio artifacts (mp3s written to the output directory) are a
+separate matter from this code license; they are produced by third-party
+TTS engines (Microsoft Edge-TTS, Kokoro) under their own terms.
