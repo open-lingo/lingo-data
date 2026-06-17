@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Default generation output (configurable via --out-dir / $TTS_OUT_DIR)
+out/
+
+# TTS generation venv
+.venv-tts/

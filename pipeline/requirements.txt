@@ -1,0 +1,26 @@
+# TTS generation pipeline — standalone deps (decoupled from lingo-core).
+#
+# Install into a dedicated venv:
+#   python3 -m venv .venv-tts
+#   .venv-tts/bin/python -m pip install --upgrade pip
+#   .venv-tts/bin/python -m pip install -r pipeline/requirements.txt
+#
+# System binaries also required (NOT pip-installable): ffmpeg + ffprobe.
+#   apt-get install ffmpeg   # or: brew install ffmpeg
+#
+# Kokoro (the local provider) additionally needs the unidic Japanese
+# dictionary downloaded once at runtime (~526 MB):
+#   .venv-tts/bin/python -m unidic download
+
+# --- Edge-TTS provider (default, cloud, free, no API key) ---
+edge-tts>=6.1
+
+# --- Kokoro provider (local, offline neural TTS) ---
+# misaki[ja] supplies Kokoro's Japanese G2P; numpy + soundfile write the mp3.
+kokoro>=0.9.4
+misaki[ja]>=0.9.4
+numpy>=1.26
+soundfile>=0.12
+
+# --- Whisper QA / audit step (transcribe generated audio, compare to target) ---
+faster-whisper>=1.0
