@@ -1,0 +1,4 @@
+{"lemma":"馬","reading":"うま","lang":"ja","pos":"noun","gloss":"horse","source":"open-lingo-curriculum","romaji":"uma","tags":["has-kanji","module:m1"]}
+{"lemma":"아이","reading":"아이","lang":"ko","pos":"noun","gloss":"child","source":"open-lingo-curriculum","romaji":"ai","tags":["module:m1"],"emoji":"👶"}
+{"lemma":"並ぶ","reading":"ならぶ","lang":"ja","pos":"other","gloss":"to line up, to stand in a line","source":"jlpt-n5","tags":["jlpt-n5","image-mcq-blocked"],"notes":"no single-glyph for line-up; abstract action"}
+{"lemma":"EXAMPLE_LEMMA","reading":"EXAMPLE_READING","lang":"ja","source":"some-cited-source","senses":[{"gloss":"first sense","pos":"verb"},{"gloss":"second, distinct sense","pos":"verb","notes":"only fill in senses you can cite to the source"}]}
