@@ -74,11 +74,15 @@ SCHEMA = 2
 # kana) stay on the same prefix and take a CloudFront invalidation instead.
 VERSION_PREFIX = "v1"
 
-# `ja-keita` names a VOICE, not a language: its recordings sit in the shared
-# `tts/ja/` directory. Any future voice-scoped pseudo-language belongs here
-# too, otherwise its files would be looked for under a directory that the
-# pipeline never writes.
-DIR_FOR_LANG: dict[str, str] = {"ja-keita": "ja"}
+# Where a language's LEGACY (pre-migration) files were written, when that
+# differs from the language name. `ja-keita` names a voice, and the bespoke
+# script that produced it dropped its output into the shared `tts/ja/`
+# directory rather than one of its own.
+#
+# This applies ONLY to locating legacy files. Anything generated from here on
+# writes to `<out>/<lang>/`, so `prefix_for` deliberately does not consult it
+# — a regenerated ja-keita clip lives at `tts/v1/ja-keita/<hash>.mp3`.
+LEGACY_DIR_FOR_LANG: dict[str, str] = {"ja-keita": "ja"}
 
 
 def hash16(cache_key: str) -> str:
@@ -86,17 +90,14 @@ def hash16(cache_key: str) -> str:
     return hashlib.sha256(cache_key.encode("utf-8")).hexdigest()[:16]
 
 
-def dir_for(lang: str) -> str:
-    return DIR_FOR_LANG.get(lang, lang)
-
-
 def prefix_for(lang: str) -> str:
-    return f"tts/{VERSION_PREFIX}/{dir_for(lang)}"
+    """Where NEWLY generated audio for `lang` is published."""
+    return f"tts/{VERSION_PREFIX}/{lang}"
 
 
 def _legacy_path_for(lang: str, h: str) -> str:
     """Where an UN-versioned (pre-migration) file sits on disk."""
-    return f"tts/{dir_for(lang)}/{h}.mp3"
+    return f"tts/{LEGACY_DIR_FOR_LANG.get(lang, lang)}/{h}.mp3"
 
 
 def build(manifest: dict[str, str | list[str]]) -> dict[str, dict]:

@@ -110,6 +110,12 @@ class EdgeTtsProvider(TtsProvider):
         "ja": {"default_voice": "ja-JP-NanamiNeural"},
         "es": {"default_voice": "es-MX-DaliaNeural"},
         "ko": {"default_voice": "ko-KR-SunHiNeural"},
+        # A VOICE masquerading as a language, so dialogue decks can route a
+        # second speaker through the ordinary generation path. The 679
+        # existing `ja-keita:` clips came from a bespoke script that no longer
+        # exists and whose hashes aren't reconstructible, so they survive only
+        # as manifest overrides; regenerating them here retires that block.
+        "ja-keita": {"default_voice": "ja-JP-KeitaNeural"},
     }
 
     # Edge-TTS currently exposes only two ja voices (Microsoft retired the
