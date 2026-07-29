@@ -174,20 +174,77 @@ path(s)`; values are arrays so the app can rotate voices per playback.
 an asset base URL. Today that base is the local/dev static server; the target
 is an S3/CDN bucket — see below.
 
-## Target: S3/CDN bucket consumed via asset base URL
+## Manifests (schema 2) — `emit_manifest`
 
-The move off the FE publicDir is step one. The end state:
+The app no longer ships a path table. Because the path is a pure function of
+the cache key, it derives the URL itself and only needs to know *which* clips
+exist:
 
-1. Generation writes to `<out-dir>` (local) as today.
-2. An upload step syncs `<out-dir>` to an S3 bucket / CloudFront distribution,
-   preserving the exact `tts/<lang>/<hash>.mp3` layout.
-3. The app sets an asset base URL (e.g. `VITE_ASSET_BASE_URL`) to the CDN
-   and prefixes the manifest's relative paths with it. Because the hash
-   scheme and layout are unchanged, no re-generation is needed to flip.
+```bash
+python -m pipeline.tts.emit_manifest          # reads <out-dir>/manifest.json
+```
 
-The upload seam is `paths.upload_outputs()` in `tts/paths.py` — currently a
-no-op. Implement the S3 sync there (boto3 / `aws s3 sync`) and call it
-post-run; that is the only code change required to go remote.
+writes `<out-dir>/manifest/<lang>.json`, one per language:
+
+```json
+{"schema":2,"lang":"ja","prefix":"tts/v1/ja","count":10853,
+ "hashes":"<sorted 16-char hashes, concatenated>","overrides":{}}
+```
+
+The client slices `hashes` into a Set, computes `sha256("<lang>:<text>")[:16]`,
+and builds `<prefix>/<hash>.mp3` on a hit. ~1.0 MB of JSON becomes ~268 KB,
+split so a Korean learner never downloads the Japanese set.
+
+`overrides` carries the entries that can't be derived:
+
+- **Multi-voice** (67) — a second recording hashed as `{lang}:{text}::{voice}`.
+  Listing them beats coupling the app to pipeline voice IDs.
+- **`ja-keita` dialogue** (679) — produced by `gen_keita_dialogue.py`, a
+  script that no longer exists in any repo; the hashes don't match any
+  reconstructible input, so the legacy mapping is carried verbatim.
+  Regenerating them through `generate.py` (where `ja-keita` is now a
+  first-class language) collapses this class to zero.
+
+A side benefit worth knowing: schema 2 does **not** contain the source text
+for derivable entries, only hashes. The old manifest published every phrase
+in the course as plaintext JSON. Only the ~746 override keys still carry text.
+
+## Publishing — `upload`
+
+```bash
+python -m pipeline.tts.upload --dry-run                  # report only
+python -m pipeline.tts.upload --revision <lingo-sha>     # publish
+```
+
+**Append-only, never deletes.** Filenames are content hashes under a version
+prefix, so publishing is a pure set difference: one paginated `ListObjectsV2`
+against the bucket, then PUT whatever is missing. No size or mtime compare —
+which is what makes it safe from CI, where a fresh checkout gives every file
+a new mtime and would make `aws s3 sync` re-upload the entire corpus.
+
+Cache headers: mp3s get `public, max-age=31536000, immutable`; manifests get
+`no-cache`. Passing `--revision` also snapshots the manifests to
+`tts/manifests/<sha>/`, which is what lets the ops sweep express retention as
+"the last N deploys" rather than a wall-clock guess.
+
+Deletion is deliberately NOT here — the app resolves audio through a manifest
+bundled into its JS, so a user mid-session is still requesting the previous
+build's URLs. Reclaiming orphans is the separate `tts-sweep` job in
+`lingo-ops` (dry-run by default).
+
+### Version prefix
+
+`VERSION_PREFIX` in `emit_manifest.py` (`v1` today) namespaces every derived
+path. Bump it on a **mass** regeneration — a voice swap, a provider change —
+so new audio lands on fresh URLs instead of overwriting bytes clients have
+cached as immutable. A targeted regen (`regen_best` fixing one bad kana)
+keeps the prefix and takes a CloudFront invalidation for that path instead.
+
+### The app side
+
+The app prefixes relative manifest paths with `VITE_ASSET_BASE_URL`. Unset
+means same-origin, so local dev serves out of `lingo/src/pub/tts/` exactly as
+before; set it to the CloudFront origin to serve from the CDN.
 
 ## License
 

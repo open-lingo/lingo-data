@@ -77,15 +77,28 @@ def add_out_dir_arg(parser) -> None:
     )
 
 
-def upload_outputs(local_dir: Path, *, prefix: str = "tts") -> None:
-    """S3/CDN upload seam — no-op until remote hosting is wired.
+def upload_outputs(
+    local_dir: Path,
+    *,
+    bucket: str | None = None,
+    revision: str | None = None,
+    dry_run: bool = False,
+) -> int:
+    """Publish `local_dir` to S3. Thin wrapper over `upload.py`.
 
-    When we move off committed/local files, implement the sync here (e.g.
-    `aws s3 sync` or boto3 put_object over `local_dir`, keyed under
-    `<bucket>/<prefix>/...` mirroring the on-disk layout). The hash scheme
-    and path layout stay identical, so the app only needs to flip its asset
-    base URL from the local dev server to the CDN.
+    Kept here because this module is the one every script already imports, so
+    a generation script can publish with a single call. The real logic (set
+    difference against the bucket, append-only, cache headers) lives in
+    `upload.py`; run it directly for the full flag surface:
+
+        python -m pipeline.tts.upload --dry-run
     """
-    # Intentionally not implemented yet. Generation stays decoupled from the
-    # destination so this is the only function that changes for S3.
-    return None
+    from . import upload as _upload  # noqa: PLC0415  (boto3 is optional at import)
+
+    s3 = _upload._client()
+    target = bucket or _upload.DEFAULT_BUCKET
+    n = _upload.upload_audio(s3, target, local_dir, dry_run=dry_run)
+    _upload.upload_manifests(
+        s3, target, local_dir, revision=revision, dry_run=dry_run
+    )
+    return n

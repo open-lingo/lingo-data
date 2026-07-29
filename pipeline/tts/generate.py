@@ -108,6 +108,8 @@ class EdgeTtsProvider(TtsProvider):
 
     LANG_CONFIG: dict[str, dict[str, str]] = {
         "ja": {"default_voice": "ja-JP-NanamiNeural"},
+        "es": {"default_voice": "es-MX-DaliaNeural"},
+        "ko": {"default_voice": "ko-KR-SunHiNeural"},
     }
 
     # Edge-TTS currently exposes only two ja voices (Microsoft retired the
@@ -118,6 +120,16 @@ class EdgeTtsProvider(TtsProvider):
         "ja": [
             "ja-JP-NanamiNeural",   # Female
             "ja-JP-KeitaNeural",    # Male
+        ],
+        # LatAm course voice; es-ES Alvaro/Elvira also live if Castilian
+        # is ever wanted. Verified via list_voices() 2026-07-13.
+        "es": [
+            "es-MX-DaliaNeural",    # Female
+            "es-MX-JorgeNeural",    # Male
+        ],
+        "ko": [
+            "ko-KR-SunHiNeural",    # Female (course default)
+            "ko-KR-InJoonNeural",   # Male
         ],
     }
 
@@ -147,8 +159,12 @@ PROVIDERS: dict[str, type[TtsProvider]] = {
 # Shared setup
 # ---------------------------------------------------------------------------
 
+# One per language in SAMPLE_VOICES — `generate_samples` indexes this by
+# lang, so a language listed there without an entry here is a KeyError.
 SAMPLE_PHRASES: dict[str, str] = {
     "ja": "今日はいい天気ですね。一緒に散歩に行きませんか?",
+    "es": "Hola, ¿cómo estás? Vamos a aprender español juntos.",
+    "ko": "안녕하세요. 오늘 날씨가 좋네요. 같이 산책하러 갈까요?",
 }
 
 

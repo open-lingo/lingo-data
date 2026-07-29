@@ -24,3 +24,6 @@ soundfile>=0.12
 
 # --- Whisper QA / audit step (transcribe generated audio, compare to target) ---
 faster-whisper>=1.0
+
+# --- Publish step (S3/CloudFront upload; see pipeline/tts/upload.py) ---
+boto3>=1.34

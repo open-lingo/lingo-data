@@ -1,0 +1,62 @@
+# Publish generated TTS audio to S3/CloudFront.
+#
+# Manual-trigger only. Generation itself still runs locally (Edge-TTS is
+# network-bound and the mp3 corpus is not in git), so this workflow publishes
+# whatever the operator has already generated and attached — it is the
+# *upload* that benefits from OIDC credentials, not the synthesis.
+#
+# Auth is short-lived OIDC via the `ci-lingo-data` role (lingo-infra/
+# ci_oidc.tf), scoped to `s3://openlingoapp-site/tts/*`. No static keys, and
+# no ability to touch the app build in the same bucket.
+#
+# NOTE: GitHub Actions runs fine on private repositories — included minutes
+# apply on Free/Pro/Team. Nothing here requires the repo to be public.
+
+name: Publish TTS
+
+on:
+  workflow_dispatch:
+    inputs:
+      revision:
+        description: >-
+          Commit sha of the lingo build that ships the matching manifest.
+          Snapshots the manifests under tts/manifests/<revision>/ so the
+          ops sweep can compute its retention window.
+        required: true
+      dry_run:
+        description: "Report what would upload without writing"
+        type: boolean
+        default: true
+
+permissions:
+  id-token: write # required for OIDC
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install publish deps
+        # Only boto3 — the synthesis/QA deps (kokoro, faster-whisper) are
+        # heavy and irrelevant to uploading.
+        run: pip install boto3
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.AWS_TTS_PUBLISH_ROLE_ARN }}
+          aws-region: us-east-1
+
+      - name: Publish
+        env:
+          TTS_OUT_DIR: ${{ github.workspace }}/out/tts
+        run: |
+          python -m pipeline.tts.upload \
+            --revision "${{ inputs.revision }}" \
+            ${{ inputs.dry_run && '--dry-run' || '' }}
