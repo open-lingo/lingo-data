@@ -18,7 +18,11 @@ What you'll find here:
 
 A companion **TTS / Whisper generation pipeline** (audio + transcripts for these
 words) lives under `pipeline/` and is maintained as a separate effort; this
-README just points at it.
+README just points at it. It reads phrase decks from `data/test_decks/`, writes
+mp3s to `out/tts/` (local only — audio is not committed here), and publishes
+them to a CDN — consumers derive
+each clip's path from `sha256("<lang>:<text>")[:16]` rather than a lookup table.
+See [`pipeline/README.md`](./pipeline/README.md).
 
 ## Structure
 
@@ -39,10 +43,11 @@ README just points at it.
 │   │   ├── dictionary.jsonl        # Japanese course-atom dictionary
 │   │   ├── dictionary-n5.jsonl     # JLPT N5 vocabulary list
 │   │   └── frequency.csv           # curriculum-introduction ordering
-│   └── ko/
-│       ├── dictionary.jsonl        # Korean course-atom dictionary
-│       └── frequency.csv           # curriculum-introduction ordering
-└── pipeline/            # (separate effort) TTS / Whisper generation — not in this repo's scope
+│   ├── ko/
+│   │   ├── dictionary.jsonl        # Korean course-atom dictionary
+│   │   └── frequency.csv           # curriculum-introduction ordering
+│   └── test_decks/                 # phrase decks the TTS pipeline speaks (emitted from the course)
+└── pipeline/            # (separate effort) TTS / Whisper generation + CDN publishing
 ```
 
 ## Data formats

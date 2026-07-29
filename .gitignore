@@ -27,3 +27,8 @@ __pycache__/
 # Editor / tooling
 .claude/
 .DS_Store
+
+# Pipeline output — generated audio, hundreds of MB. paths.py defaults its
+# out root to <repo-root>/out/tts, which sits exactly where `git add -A` would
+# stage it. pipeline/.gitignore only covers inside pipeline/.
+out/
