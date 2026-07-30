@@ -77,7 +77,10 @@ def synth_deck(
         if isinstance(existing, list):
             existing = existing[0] if existing else None
         rel = existing or f"tts/ja/{hashlib.sha1(key.encode()).hexdigest()[:16]}.mp3"
-        out = LINGO_FE / "src" / "pub" / rel
+        # `rel` starts with "tts/", and OUT_DIR ends with it — resolve against
+        # the parent so the path isn't doubled. (The pre-relocation version
+        # wrote into the frontend's src/pub; LINGO_FE no longer exists.)
+        out = OUT_DIR.parent / rel
         if not refresh and manifest.get(key) == rel and out.exists():
             skipped += 1
             continue
