@@ -36,16 +36,19 @@ Two classes of entry can't be derived:
    client would have to know the exact voice ID string to re-derive it, which
    couples the app to pipeline voice config. Cheaper to list them (67 today).
 
-2. **`ja-keita:` dialogue lines (679 today).** These were produced by
-   `gen_keita_dialogue.py`, a script that no longer exists in any repo. Their
-   hashes do not match `sha256("ja-keita:<text>")` — nor any obvious variant
-   we could reconstruct — so the mapping is only recoverable from the legacy
-   manifest. They are carried forward verbatim as overrides.
+2. **`ja-keita:` dialogue lines (679 today).** Produced by
+   `gen_dialogue_voices.py`, which hashes with **SHA-1**, not SHA-256, and
+   hardcodes its output directory to `tts/ja/` regardless of the key's
+   language prefix. It is the only producer in the pipeline that does either.
 
-   These become derivable the moment they are regenerated through the normal
-   `generate.py` path (`ja-keita` is a first-class language there now), at
-   which point this override block shrinks to just class 1. Regenerating is
-   ~679 Edge-TTS calls; the old files simply become orphans for the sweep.
+   Since the app's resolver computes SHA-256, these are not client-derivable
+   and are carried as explicit overrides. Confirmed:
+   `sha1("ja-keita:<text>")[:16]` reproduces all 679 published paths exactly.
+
+   To retire the block: regenerate under the standard scheme
+   (`generate.py --lang ja-keita` — ja-keita is a first-class language there
+   now), publish, re-emit, then drop the overrides. The old SHA-1 files become
+   orphans for the sweep. Until then the overrides work and audio plays.
 
 ## Output
 
