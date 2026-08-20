@@ -174,11 +174,32 @@ SAMPLE_PHRASES: dict[str, str] = {
 }
 
 
+# Learner-visible text → synthesizer input, per language. The hash and the
+# manifest key on the VISIBLE text always; overrides change only what the
+# voice is fed. Exists because punctuation-stripped kana defeats the TTS
+# front-end's segmentation (sentence-initial ははは → laughter; see
+# lingo/docs/issues/tts-topic-wa-mispronounced-2026-08-18.md, 2026-08-20).
+_OVERRIDES_DIR = Path(__file__).parent
+def _speech_overrides(lang: str) -> dict[str, str]:
+    p = _OVERRIDES_DIR / f"speech_overrides_{lang}.json"
+    if not p.exists():
+        return {}
+    data = json.loads(p.read_text(encoding="utf-8"))
+    return {k: v for k, v in data.items() if not k.startswith("_")}
+SPEECH_OVERRIDES: dict[str, dict[str, str]] = {}
+
+
 @dataclass(frozen=True)
 class Job:
     lang: str
     text: str
     source: str  # "deck:<deckName>:<cardId>" — for logging only
+
+    @property
+    def speech(self) -> str:
+        if self.lang not in SPEECH_OVERRIDES:
+            SPEECH_OVERRIDES[self.lang] = _speech_overrides(self.lang)
+        return SPEECH_OVERRIDES[self.lang].get(self.text, self.text)
 
     @property
     def cache_key(self) -> str:
@@ -291,7 +312,7 @@ def generate_content(provider_name: str, only_lang: str | None, voice: str | Non
             job.out_path.parent.mkdir(parents=True, exist_ok=True)
             try:
                 t1 = time.perf_counter()
-                sec = provider.synthesize(job.text, lang, v, job.out_path)
+                sec = provider.synthesize(job.speech, lang, v, job.out_path)
                 dt = time.perf_counter() - t1
                 print(f"  [{i+1}/{len(ljobs)}] {job.text!r:40} → {job.out_path.name}  "
                       f"({sec:.2f}s in {dt:.2f}s)")

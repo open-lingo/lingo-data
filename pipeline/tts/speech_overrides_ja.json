@@ -1,0 +1,19 @@
+{
+  "_comment": "Learner-visible text → what the synthesizer is fed. The hash/cache key stays on the visible text (Job.text); only synthesis input changes. Class: sentence-initial ははは without punctuation reads as laughter (ha-ha-ha) — whisper-audited 2026-08-20, 5 of 16 shipped clips failed. All 16 are pinned so a forced regen can never re-roll the dice. Kanji 母 disambiguates (Spencer's pick, R17: kanji-fed generation, forced わ rejected).",
+  "ははは せんせいだ": "母は 先生だ。",
+  "うんははは がっこうで はたらく": "うん、母は がっこうで はたらく",
+  "ははは くるまが すきだから よく かいものに いく": "母は くるまが すきだから よく かいものに いく",
+  "ははは せんせいに はなを あげる": "母は 先生に 花を あげる。",
+  "ははは よんじゅうごさいだから いそがしい": "母は よんじゅうごさいだから いそがしい",
+  "うん。ははは がっこうで はたらく": "うん。母は がっこうで はたらく",
+  "ははは よく かいものに いく": "母は よく かいものに いく",
+  "はなたばを あげたから ははは よろこぶ": "はなたばを あげたから 母は よろこぶ",
+  "ちちは かいしゃで はたらくけど ははは うちに いる": "ちちは かいしゃで はたらくけど 母は うちに いる",
+  "ははは しんせつだから こどもに おかしを あげる": "母は しんせつだから こどもに おかしを あげる",
+  "ははは よんじゅうごさいだけど げんきだ": "母は よんじゅうごさいだけど げんきだ",
+  "ミカの ははは せんせいだ": "ミカの 母は せんせいだ",
+  "ちちは からだが おおきいけど ははは ちいさい": "ちちは からだが おおきいけど 母は ちいさい",
+  "ははは せんせいだから じゅぎょうが ある": "母は せんせいだから じゅぎょうが ある",
+  "ちちは おさけが すきだけど ははは ちゃが すきだ": "ちちは おさけが すきだけど 母は ちゃが すきだ",
+  "ははは がっこうで はたらく": "母は がっこうで はたらく"
+}
