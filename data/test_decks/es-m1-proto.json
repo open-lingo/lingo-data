@@ -1,0 +1,167 @@
+{
+  "name": "es-m1-proto",
+  "languageId": "es",
+  "_note": "Supplementary deck for the 2026-08-20 m1 inline-author prototype (lingo src/features/lesson/dev/esM1Lessons.ts NEW_TTS_TEXTS). These become real m1 content in the IR re-author; until then the dev QA pages need the clips. Additive only.",
+  "cards": [
+    {
+      "id": "es-m1p-0001",
+      "front": "sí por favor"
+    },
+    {
+      "id": "es-m1p-0002",
+      "front": "uno dos tres"
+    },
+    {
+      "id": "es-m1p-0003",
+      "front": "ocho y nueve"
+    },
+    {
+      "id": "es-m1p-0004",
+      "front": "¿sí o no?"
+    },
+    {
+      "id": "es-m1p-0005",
+      "front": "buenos"
+    },
+    {
+      "id": "es-m1p-0006",
+      "front": "buenas"
+    },
+    {
+      "id": "es-m1p-0007",
+      "front": "días"
+    },
+    {
+      "id": "es-m1p-0008",
+      "front": "tardes"
+    },
+    {
+      "id": "es-m1p-0009",
+      "front": "noches"
+    },
+    {
+      "id": "es-m1p-0010",
+      "front": "¿café?"
+    },
+    {
+      "id": "es-m1p-0011",
+      "front": "¡ay!"
+    },
+    {
+      "id": "es-m1p-0012",
+      "front": "uno dos tres cuatro cinco"
+    },
+    {
+      "id": "es-m1p-0013",
+      "front": "seis siete ocho nueve diez"
+    },
+    {
+      "id": "es-m1p-0014",
+      "front": "ocho o nueve"
+    },
+    {
+      "id": "es-m1p-0015",
+      "front": "¿café? ¿sí o no?"
+    },
+    {
+      "id": "es-m1p-0016",
+      "front": "adiós hasta luego"
+    },
+    {
+      "id": "es-m1p-0017",
+      "front": "uno dos tres cuatro"
+    },
+    {
+      "id": "es-m1p-0018",
+      "front": "bien gracias"
+    },
+    {
+      "id": "es-m1p-0019",
+      "front": "bien gracias ¿y tú?"
+    },
+    {
+      "id": "es-m1p-0020",
+      "front": "buenos días señora"
+    },
+    {
+      "id": "es-m1p-0021",
+      "front": "ella es Ana"
+    },
+    {
+      "id": "es-m1p-0022",
+      "front": "soy Diego"
+    },
+    {
+      "id": "es-m1p-0023",
+      "front": "sí es estudiante"
+    },
+    {
+      "id": "es-m1p-0024",
+      "front": "sí soy Diego"
+    },
+    {
+      "id": "es-m1p-0025",
+      "front": "tú eres Ana"
+    },
+    {
+      "id": "es-m1p-0026",
+      "front": "¿cómo estás?"
+    },
+    {
+      "id": "es-m1p-0027",
+      "front": "¿eres Diego?"
+    },
+    {
+      "id": "es-m1p-0028",
+      "front": "¿es estudiante?"
+    },
+    {
+      "id": "es-m1p-0029",
+      "front": "¿quieres ir al cine mañana?"
+    },
+    {
+      "id": "es-m1p-0030",
+      "front": "¿tiene la hora?"
+    },
+    {
+      "id": "es-m1p-0031",
+      "front": "¿y tú?"
+    },
+    {
+      "id": "es-m1p-0032",
+      "front": "España y México"
+    },
+    {
+      "id": "es-m1p-0033",
+      "front": "me llamo Sam"
+    },
+    {
+      "id": "es-m1p-0034",
+      "front": "sí soy Sam"
+    },
+    {
+      "id": "es-m1p-0035",
+      "front": "¿eres Sam?"
+    },
+    {
+      "id": "es-p-0036",
+      "front": "uno, dos, tres"
+    },
+    {
+      "id": "es-p-0037",
+      "front": "uno, dos, tres, cuatro"
+    },
+    {
+      "id": "es-p-0038",
+      "front": "cero, tres, cinco"
+    },
+    {
+      "id": "es-p-0039",
+      "front": "uno, dos, tres, cuatro, cinco"
+    },
+    {
+      "id": "es-p-0040",
+      "front": "seis, siete, ocho, nueve, diez"
+    }
+  ]
+}

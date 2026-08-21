@@ -1,0 +1,511 @@
+{
+  "name": "fr-course",
+  "languageId": "fr",
+  "_note": "Auto-emitted by src/features/languages/fr/__tests__/emitTtsDeck.test.ts (EMIT_FR_TTS_DECK=1). Edit the curriculum, re-emit, then run the TTS generator.",
+  "cards": [
+    {
+      "id": "fr-0000",
+      "front": "Au revoir !"
+    },
+    {
+      "id": "fr-0001",
+      "front": "Au revoir."
+    },
+    {
+      "id": "fr-0002",
+      "front": "Au revoir. À bientôt."
+    },
+    {
+      "id": "fr-0003",
+      "front": "Aïe !"
+    },
+    {
+      "id": "fr-0004",
+      "front": "Bonjour !"
+    },
+    {
+      "id": "fr-0005",
+      "front": "Bonne nuit."
+    },
+    {
+      "id": "fr-0006",
+      "front": "Comment tu t'appelles ?"
+    },
+    {
+      "id": "fr-0007",
+      "front": "Elle est étudiante."
+    },
+    {
+      "id": "fr-0008",
+      "front": "Enchanté."
+    },
+    {
+      "id": "fr-0009",
+      "front": "Enchantée."
+    },
+    {
+      "id": "fr-0010",
+      "front": "Enchantée. Tu es d'où ?"
+    },
+    {
+      "id": "fr-0011",
+      "front": "Il est étudiant ?"
+    },
+    {
+      "id": "fr-0012",
+      "front": "Léa"
+    },
+    {
+      "id": "fr-0013",
+      "front": "Montréal"
+    },
+    {
+      "id": "fr-0014",
+      "front": "New York"
+    },
+    {
+      "id": "fr-0015",
+      "front": "On va au cinéma demain ?"
+    },
+    {
+      "id": "fr-0016",
+      "front": "Paris"
+    },
+    {
+      "id": "fr-0017",
+      "front": "Quelle heure est-il ?"
+    },
+    {
+      "id": "fr-0018",
+      "front": "Salut ! Comment tu t'appelles ?"
+    },
+    {
+      "id": "fr-0019",
+      "front": "Salut ! Ça va ?"
+    },
+    {
+      "id": "fr-0020",
+      "front": "Sam"
+    },
+    {
+      "id": "fr-0021",
+      "front": "Tu es Sam ?"
+    },
+    {
+      "id": "fr-0022",
+      "front": "Tu es d'où ?"
+    },
+    {
+      "id": "fr-0023",
+      "front": "Un café ?"
+    },
+    {
+      "id": "fr-0024",
+      "front": "Un café ? Ou deux ?"
+    },
+    {
+      "id": "fr-0025",
+      "front": "Vous avez l'heure ?"
+    },
+    {
+      "id": "fr-0026",
+      "front": "au revoir"
+    },
+    {
+      "id": "fr-0027",
+      "front": "au revoir à bientôt"
+    },
+    {
+      "id": "fr-0028",
+      "front": "aïe"
+    },
+    {
+      "id": "fr-0029",
+      "front": "beaucoup"
+    },
+    {
+      "id": "fr-0030",
+      "front": "bien"
+    },
+    {
+      "id": "fr-0031",
+      "front": "bon"
+    },
+    {
+      "id": "fr-0032",
+      "front": "bonjour"
+    },
+    {
+      "id": "fr-0033",
+      "front": "bonjour madame"
+    },
+    {
+      "id": "fr-0034",
+      "front": "bonjour monsieur"
+    },
+    {
+      "id": "fr-0035",
+      "front": "bonne"
+    },
+    {
+      "id": "fr-0036",
+      "front": "bonne nuit"
+    },
+    {
+      "id": "fr-0037",
+      "front": "bonsoir"
+    },
+    {
+      "id": "fr-0038",
+      "front": "café"
+    },
+    {
+      "id": "fr-0039",
+      "front": "cinq"
+    },
+    {
+      "id": "fr-0040",
+      "front": "comment"
+    },
+    {
+      "id": "fr-0041",
+      "front": "comment tu t'appelles ?"
+    },
+    {
+      "id": "fr-0042",
+      "front": "comprends"
+    },
+    {
+      "id": "fr-0043",
+      "front": "d'où"
+    },
+    {
+      "id": "fr-0044",
+      "front": "de"
+    },
+    {
+      "id": "fr-0045",
+      "front": "deux"
+    },
+    {
+      "id": "fr-0046",
+      "front": "dix"
+    },
+    {
+      "id": "fr-0047",
+      "front": "elle"
+    },
+    {
+      "id": "fr-0048",
+      "front": "elle est Léa"
+    },
+    {
+      "id": "fr-0049",
+      "front": "elle est étudiante"
+    },
+    {
+      "id": "fr-0050",
+      "front": "enchanté"
+    },
+    {
+      "id": "fr-0051",
+      "front": "es"
+    },
+    {
+      "id": "fr-0052",
+      "front": "est"
+    },
+    {
+      "id": "fr-0053",
+      "front": "et"
+    },
+    {
+      "id": "fr-0054",
+      "front": "et toi ?"
+    },
+    {
+      "id": "fr-0055",
+      "front": "huit"
+    },
+    {
+      "id": "fr-0056",
+      "front": "huit et neuf"
+    },
+    {
+      "id": "fr-0057",
+      "front": "huit ou neuf"
+    },
+    {
+      "id": "fr-0058",
+      "front": "il"
+    },
+    {
+      "id": "fr-0059",
+      "front": "il est étudiant"
+    },
+    {
+      "id": "fr-0060",
+      "front": "il est étudiant ?"
+    },
+    {
+      "id": "fr-0061",
+      "front": "je"
+    },
+    {
+      "id": "fr-0062",
+      "front": "je m'appelle"
+    },
+    {
+      "id": "fr-0063",
+      "front": "je m'appelle Hugo"
+    },
+    {
+      "id": "fr-0064",
+      "front": "je m'appelle Léa"
+    },
+    {
+      "id": "fr-0065",
+      "front": "je m'appelle Sam"
+    },
+    {
+      "id": "fr-0066",
+      "front": "je ne comprends pas"
+    },
+    {
+      "id": "fr-0067",
+      "front": "je suis Hugo"
+    },
+    {
+      "id": "fr-0068",
+      "front": "je suis Léa"
+    },
+    {
+      "id": "fr-0069",
+      "front": "je suis de Montréal"
+    },
+    {
+      "id": "fr-0070",
+      "front": "je suis de New York"
+    },
+    {
+      "id": "fr-0071",
+      "front": "je suis de Paris"
+    },
+    {
+      "id": "fr-0072",
+      "front": "m'appelle"
+    },
+    {
+      "id": "fr-0073",
+      "front": "madame"
+    },
+    {
+      "id": "fr-0074",
+      "front": "merci"
+    },
+    {
+      "id": "fr-0075",
+      "front": "merci beaucoup"
+    },
+    {
+      "id": "fr-0076",
+      "front": "monsieur"
+    },
+    {
+      "id": "fr-0077",
+      "front": "ne"
+    },
+    {
+      "id": "fr-0078",
+      "front": "neuf"
+    },
+    {
+      "id": "fr-0079",
+      "front": "non"
+    },
+    {
+      "id": "fr-0080",
+      "front": "non merci"
+    },
+    {
+      "id": "fr-0081",
+      "front": "nuit"
+    },
+    {
+      "id": "fr-0082",
+      "front": "on va au cinéma demain ?"
+    },
+    {
+      "id": "fr-0083",
+      "front": "ou"
+    },
+    {
+      "id": "fr-0084",
+      "front": "oui"
+    },
+    {
+      "id": "fr-0085",
+      "front": "oui il est étudiant"
+    },
+    {
+      "id": "fr-0086",
+      "front": "oui je suis Sam"
+    },
+    {
+      "id": "fr-0087",
+      "front": "oui s'il vous plaît"
+    },
+    {
+      "id": "fr-0088",
+      "front": "pardon"
+    },
+    {
+      "id": "fr-0089",
+      "front": "pas"
+    },
+    {
+      "id": "fr-0090",
+      "front": "quatre"
+    },
+    {
+      "id": "fr-0091",
+      "front": "quatre ou cinq"
+    },
+    {
+      "id": "fr-0092",
+      "front": "quelle heure est-il ?"
+    },
+    {
+      "id": "fr-0093",
+      "front": "s'il vous plaît"
+    },
+    {
+      "id": "fr-0094",
+      "front": "salut"
+    },
+    {
+      "id": "fr-0095",
+      "front": "sept"
+    },
+    {
+      "id": "fr-0096",
+      "front": "six"
+    },
+    {
+      "id": "fr-0097",
+      "front": "six et sept"
+    },
+    {
+      "id": "fr-0098",
+      "front": "six, sept, huit, neuf, dix"
+    },
+    {
+      "id": "fr-0099",
+      "front": "soir"
+    },
+    {
+      "id": "fr-0100",
+      "front": "suis"
+    },
+    {
+      "id": "fr-0101",
+      "front": "t'appelles"
+    },
+    {
+      "id": "fr-0102",
+      "front": "t'appelles ?"
+    },
+    {
+      "id": "fr-0103",
+      "front": "trois"
+    },
+    {
+      "id": "fr-0104",
+      "front": "tu"
+    },
+    {
+      "id": "fr-0105",
+      "front": "tu es Léa"
+    },
+    {
+      "id": "fr-0106",
+      "front": "tu es Sam ?"
+    },
+    {
+      "id": "fr-0107",
+      "front": "tu es d'où ?"
+    },
+    {
+      "id": "fr-0108",
+      "front": "tu t'appelles"
+    },
+    {
+      "id": "fr-0109",
+      "front": "un"
+    },
+    {
+      "id": "fr-0110",
+      "front": "un café ?"
+    },
+    {
+      "id": "fr-0111",
+      "front": "un café ? ou deux ?"
+    },
+    {
+      "id": "fr-0112",
+      "front": "un, deux, trois"
+    },
+    {
+      "id": "fr-0113",
+      "front": "un, deux, trois, quatre"
+    },
+    {
+      "id": "fr-0114",
+      "front": "un, deux, trois, quatre, cinq"
+    },
+    {
+      "id": "fr-0115",
+      "front": "vous avez l'heure ?"
+    },
+    {
+      "id": "fr-0116",
+      "front": "zéro"
+    },
+    {
+      "id": "fr-0117",
+      "front": "zéro, trois, cinq"
+    },
+    {
+      "id": "fr-0118",
+      "front": "Ça va ?"
+    },
+    {
+      "id": "fr-0119",
+      "front": "Ça — va ?"
+    },
+    {
+      "id": "fr-0120",
+      "front": "à bientôt"
+    },
+    {
+      "id": "fr-0121",
+      "front": "ça va"
+    },
+    {
+      "id": "fr-0122",
+      "front": "ça va bien"
+    },
+    {
+      "id": "fr-0123",
+      "front": "ça va bien et toi ?"
+    },
+    {
+      "id": "fr-0124",
+      "front": "étudiant"
+    },
+    {
+      "id": "fr-0125",
+      "front": "étudiante"
+    }
+  ]
+}

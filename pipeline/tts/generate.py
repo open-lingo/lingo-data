@@ -109,6 +109,9 @@ class EdgeTtsProvider(TtsProvider):
     LANG_CONFIG: dict[str, dict[str, str]] = {
         "ja": {"default_voice": "ja-JP-NanamiNeural"},
         "es": {"default_voice": "es-MX-DaliaNeural"},
+        # Kokoro's fr voice failed human audition (h-aspiré misses) — edge
+        # Denise is the course voice; see docs/fr-authoring-invariants-pinned.md.
+        "fr": {"default_voice": "fr-FR-DeniseNeural"},
         "ko": {"default_voice": "ko-KR-SunHiNeural"},
         # A VOICE masquerading as a language, so dialogue decks can route a
         # second speaker through the ordinary generation path. The 679
@@ -132,6 +135,10 @@ class EdgeTtsProvider(TtsProvider):
         "es": [
             "es-MX-DaliaNeural",    # Female
             "es-MX-JorgeNeural",    # Male
+        ],
+        "fr": [
+            "fr-FR-DeniseNeural",   # Female (course default)
+            "fr-FR-HenriNeural",    # Male
         ],
         "ko": [
             "ko-KR-SunHiNeural",    # Female (course default)
@@ -170,6 +177,9 @@ PROVIDERS: dict[str, type[TtsProvider]] = {
 SAMPLE_PHRASES: dict[str, str] = {
     "ja": "今日はいい天気ですね。一緒に散歩に行きませんか?",
     "es": "Hola, ¿cómo estás? Vamos a aprender español juntos.",
+    # Liaison + elision + h aspiré in one line — the phonemes the fr course
+    # hinges on, so a voice audition hears them immediately.
+    "fr": "Bonjour, c'est un plaisir. Les amis arrivent en haut à huit heures.",
     "ko": "안녕하세요. 오늘 날씨가 좋네요. 같이 산책하러 갈까요?",
 }
 

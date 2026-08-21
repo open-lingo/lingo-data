@@ -1,0 +1,251 @@
+{
+  "name": "fr-proto",
+  "languageId": "fr",
+  "_note": "Supplementary deck for the 2026-08-21 fr m1v2/m2 inline-author prototypes (lingo src/features/lesson/dev/frM*Lessons.ts NEW_TTS_TEXTS). These become real fr content in the IR author; until then the dev QA pages need the clips. Additive only. Denise voice — audition still owed to Spencer.",
+  "cards": [
+    {
+      "id": "fr-p-0001",
+      "front": "Léa"
+    },
+    {
+      "id": "fr-p-0002",
+      "front": "Montréal"
+    },
+    {
+      "id": "fr-p-0003",
+      "front": "New York"
+    },
+    {
+      "id": "fr-p-0004",
+      "front": "Paris"
+    },
+    {
+      "id": "fr-p-0005",
+      "front": "aïe"
+    },
+    {
+      "id": "fr-p-0006",
+      "front": "bien"
+    },
+    {
+      "id": "fr-p-0007",
+      "front": "bonjour madame"
+    },
+    {
+      "id": "fr-p-0008",
+      "front": "bonjour monsieur"
+    },
+    {
+      "id": "fr-p-0009",
+      "front": "bonne"
+    },
+    {
+      "id": "fr-p-0010",
+      "front": "comment tu t'appelles ?"
+    },
+    {
+      "id": "fr-p-0011",
+      "front": "de"
+    },
+    {
+      "id": "fr-p-0012",
+      "front": "elle"
+    },
+    {
+      "id": "fr-p-0013",
+      "front": "elle est Léa"
+    },
+    {
+      "id": "fr-p-0014",
+      "front": "elle est étudiante"
+    },
+    {
+      "id": "fr-p-0015",
+      "front": "est"
+    },
+    {
+      "id": "fr-p-0016",
+      "front": "et toi ?"
+    },
+    {
+      "id": "fr-p-0017",
+      "front": "huit et neuf"
+    },
+    {
+      "id": "fr-p-0018",
+      "front": "huit ou neuf"
+    },
+    {
+      "id": "fr-p-0019",
+      "front": "il"
+    },
+    {
+      "id": "fr-p-0020",
+      "front": "il est étudiant"
+    },
+    {
+      "id": "fr-p-0021",
+      "front": "il est étudiant ?"
+    },
+    {
+      "id": "fr-p-0022",
+      "front": "je"
+    },
+    {
+      "id": "fr-p-0023",
+      "front": "je m'appelle"
+    },
+    {
+      "id": "fr-p-0024",
+      "front": "je m'appelle Hugo"
+    },
+    {
+      "id": "fr-p-0025",
+      "front": "je m'appelle Léa"
+    },
+    {
+      "id": "fr-p-0026",
+      "front": "je ne comprends pas"
+    },
+    {
+      "id": "fr-p-0027",
+      "front": "je suis Hugo"
+    },
+    {
+      "id": "fr-p-0028",
+      "front": "je suis Léa"
+    },
+    {
+      "id": "fr-p-0029",
+      "front": "je suis de Montréal"
+    },
+    {
+      "id": "fr-p-0030",
+      "front": "je suis de New York"
+    },
+    {
+      "id": "fr-p-0031",
+      "front": "je suis de Paris"
+    },
+    {
+      "id": "fr-p-0032",
+      "front": "madame"
+    },
+    {
+      "id": "fr-p-0033",
+      "front": "monsieur"
+    },
+    {
+      "id": "fr-p-0034",
+      "front": "on va au cinéma demain ?"
+    },
+    {
+      "id": "fr-p-0035",
+      "front": "oui il est étudiant"
+    },
+    {
+      "id": "fr-p-0036",
+      "front": "oui je suis Hugo"
+    },
+    {
+      "id": "fr-p-0037",
+      "front": "oui s'il vous plaît"
+    },
+    {
+      "id": "fr-p-0038",
+      "front": "quelle heure est-il ?"
+    },
+    {
+      "id": "fr-p-0039",
+      "front": "six sept huit neuf dix"
+    },
+    {
+      "id": "fr-p-0040",
+      "front": "suis"
+    },
+    {
+      "id": "fr-p-0041",
+      "front": "tu es Hugo ?"
+    },
+    {
+      "id": "fr-p-0042",
+      "front": "tu es Léa"
+    },
+    {
+      "id": "fr-p-0043",
+      "front": "tu es d'où ?"
+    },
+    {
+      "id": "fr-p-0044",
+      "front": "un café ?"
+    },
+    {
+      "id": "fr-p-0045",
+      "front": "un café ? oui ou non ?"
+    },
+    {
+      "id": "fr-p-0046",
+      "front": "un deux trois quatre"
+    },
+    {
+      "id": "fr-p-0047",
+      "front": "vous avez l'heure ?"
+    },
+    {
+      "id": "fr-p-0048",
+      "front": "zéro trois cinq"
+    },
+    {
+      "id": "fr-p-0049",
+      "front": "ça va bien"
+    },
+    {
+      "id": "fr-p-0050",
+      "front": "ça va bien et toi ?"
+    },
+    {
+      "id": "fr-p-0051",
+      "front": "étudiant"
+    },
+    {
+      "id": "fr-p-0052",
+      "front": "étudiante"
+    },
+    {
+      "id": "fr-p-0053",
+      "front": "je m'appelle Sam"
+    },
+    {
+      "id": "fr-p-0054",
+      "front": "oui je suis Sam"
+    },
+    {
+      "id": "fr-p-0055",
+      "front": "tu es Sam ?"
+    },
+    {
+      "id": "fr-p-0056",
+      "front": "un café ? ou deux ?"
+    },
+    {
+      "id": "fr-p-0057",
+      "front": "un, deux, trois"
+    },
+    {
+      "id": "fr-p-0058",
+      "front": "un, deux, trois, quatre"
+    },
+    {
+      "id": "fr-p-0059",
+      "front": "zéro, trois, cinq"
+    },
+    {
+      "id": "fr-p-0060",
+      "front": "un, deux, trois, quatre, cinq"
+    },
+    {
+      "id": "fr-p-0061",
+      "front": "six, sept, huit, neuf, dix"
+    }
+  ]
+}
