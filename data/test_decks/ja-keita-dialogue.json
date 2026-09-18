@@ -4,3051 +4,4484 @@
   "_note": "Male dialogue speakers' lines — synthesized with ja-JP-KeitaNeural under ja-keita: keys by lingo-data's pipeline.tts.generate. Auto-emitted.",
   "cards": [
     {
-      "id": "ja-keita-dialogue-000-あき",
-      "front": "あき"
+      "id": "ja-keita-dialogue-000-あ、ほんが おちた",
+      "front": "あ、ほんが おちた"
     },
     {
-      "id": "ja-keita-dialogue-001-あき。すずしいから さんぽを する",
+      "id": "ja-keita-dialogue-001-あき",
+      "front": "あき",
+      "speech": "秋"
+    },
+    {
+      "id": "ja-keita-dialogue-002-あき。すずしいから さんぽを する",
       "front": "あき。すずしいから さんぽを する"
     },
     {
-      "id": "ja-keita-dialogue-002-あきの さんぽに いくんです",
+      "id": "ja-keita-dialogue-003-あきの さんぽに いくんです",
       "front": "あきの さんぽに いくんです"
     },
     {
-      "id": "ja-keita-dialogue-003-あきの てんきは いいですね",
+      "id": "ja-keita-dialogue-004-あきの てんきは いいですね",
       "front": "あきの てんきは いいですね"
     },
     {
-      "id": "ja-keita-dialogue-004-あさ かいしゃに いかなきゃ",
+      "id": "ja-keita-dialogue-005-あさ かいしゃに いかなきゃ",
       "front": "あさ かいしゃに いかなきゃ"
     },
     {
-      "id": "ja-keita-dialogue-005-あさから ばんまで はたらく？",
+      "id": "ja-keita-dialogue-006-あさから ばんまで はたらく？",
       "front": "あさから ばんまで はたらく？"
     },
     {
-      "id": "ja-keita-dialogue-006-あさは さんばい のむ",
+      "id": "ja-keita-dialogue-007-あさっても いく",
+      "front": "あさっても いく"
+    },
+    {
+      "id": "ja-keita-dialogue-008-あさは さんばい のむ",
       "front": "あさは さんばい のむ"
     },
     {
-      "id": "ja-keita-dialogue-007-あしが いたいけど うみで およいでも いい？",
+      "id": "ja-keita-dialogue-009-あしが いたいけど うみで およいでも いい？",
       "front": "あしが いたいけど うみで およいでも いい？"
     },
     {
-      "id": "ja-keita-dialogue-008-あした あげる",
+      "id": "ja-keita-dialogue-010-あした あげる",
       "front": "あした あげる"
     },
     {
-      "id": "ja-keita-dialogue-009-あした あめかな",
+      "id": "ja-keita-dialogue-011-あした あめかな",
       "front": "あした あめかな"
     },
     {
-      "id": "ja-keita-dialogue-010-あした いっしょに かわで およがない？",
+      "id": "ja-keita-dialogue-012-あした いっしょに かわで およがない？",
       "front": "あした いっしょに かわで およがない？"
     },
     {
-      "id": "ja-keita-dialogue-011-あした えいがを みる つもり？",
+      "id": "ja-keita-dialogue-013-あした うちに だれが くる？",
+      "front": "あした うちに だれが くる？"
+    },
+    {
+      "id": "ja-keita-dialogue-014-あした えいがを みる つもり？",
       "front": "あした えいがを みる つもり？"
     },
     {
-      "id": "ja-keita-dialogue-012-あした かいしゃに いかなければ ならない",
+      "id": "ja-keita-dialogue-015-あした えきまで むかえに きてくれる？",
+      "front": "あした えきまで むかえに きてくれる？"
+    },
+    {
+      "id": "ja-keita-dialogue-016-あした かいしゃに いかなければ ならない",
       "front": "あした かいしゃに いかなければ ならない"
     },
     {
-      "id": "ja-keita-dialogue-013-あした かわで あそぶ？",
+      "id": "ja-keita-dialogue-017-あした かわで あそぶ？",
       "front": "あした かわで あそぶ？"
     },
     {
-      "id": "ja-keita-dialogue-014-あした きます",
+      "id": "ja-keita-dialogue-018-あした きます",
       "front": "あした きます"
     },
     {
-      "id": "ja-keita-dialogue-015-あした くる？",
+      "id": "ja-keita-dialogue-019-あした くる？",
       "front": "あした くる？"
     },
     {
-      "id": "ja-keita-dialogue-016-あした じゅぎょうが ある？",
+      "id": "ja-keita-dialogue-020-あした じゅぎょうが ある？",
       "front": "あした じゅぎょうが ある？"
     },
     {
-      "id": "ja-keita-dialogue-017-あした じゅぎょうに きますか",
+      "id": "ja-keita-dialogue-021-あした じゅぎょうに きますか",
       "front": "あした じゅぎょうに きますか"
     },
     {
-      "id": "ja-keita-dialogue-018-あした だれが くる？",
-      "front": "あした だれが くる？"
-    },
-    {
-      "id": "ja-keita-dialogue-019-あした としょかんに いける？",
+      "id": "ja-keita-dialogue-022-あした としょかんに いける？",
       "front": "あした としょかんに いける？"
     },
     {
-      "id": "ja-keita-dialogue-020-あした はなす",
+      "id": "ja-keita-dialogue-023-あした はなす",
       "front": "あした はなす"
     },
     {
-      "id": "ja-keita-dialogue-021-あした やまに いく？",
+      "id": "ja-keita-dialogue-024-あした やまに いく？",
       "front": "あした やまに いく？"
     },
     {
-      "id": "ja-keita-dialogue-022-あした りょこうに いくから じゅんびを しておく",
+      "id": "ja-keita-dialogue-025-あした りょこうに いくから じゅんびを しておく",
       "front": "あした りょこうに いくから じゅんびを しておく"
     },
     {
-      "id": "ja-keita-dialogue-023-あした りょこうに いく？",
+      "id": "ja-keita-dialogue-026-あした りょこうに いく？",
       "front": "あした りょこうに いく？"
     },
     {
-      "id": "ja-keita-dialogue-024-あした クラスが あるから",
+      "id": "ja-keita-dialogue-027-あした クラスが あるから",
       "front": "あした クラスが あるから"
     },
     {
-      "id": "ja-keita-dialogue-025-あしたの えいがに いく？",
+      "id": "ja-keita-dialogue-028-あしたの えいがに いく？",
       "front": "あしたの えいがに いく？"
     },
     {
-      "id": "ja-keita-dialogue-026-あしたの てんきは どう おもう？",
+      "id": "ja-keita-dialogue-029-あしたの てんきは どう おもう？",
       "front": "あしたの てんきは どう おもう？"
     },
     {
-      "id": "ja-keita-dialogue-027-あしたの てんきは？",
+      "id": "ja-keita-dialogue-030-あしたの てんきは？",
       "front": "あしたの てんきは？"
     },
     {
-      "id": "ja-keita-dialogue-028-あしたは がっこうへ きますか",
+      "id": "ja-keita-dialogue-031-あしたは がっこうへ きますか",
       "front": "あしたは がっこうへ きますか"
     },
     {
-      "id": "ja-keita-dialogue-029-あしたは しごとが あるんだ",
+      "id": "ja-keita-dialogue-032-あしたは しごとが あるんだ",
       "front": "あしたは しごとが あるんだ"
     },
     {
-      "id": "ja-keita-dialogue-030-あしたは しごとが あるんだ。あさ かいしゃに いかなきゃ",
+      "id": "ja-keita-dialogue-033-あしたは しごとが あるんだ。あさ かいしゃに いかなきゃ",
       "front": "あしたは しごとが あるんだ。あさ かいしゃに いかなきゃ"
     },
     {
-      "id": "ja-keita-dialogue-031-あしたは なにで がっこうに いく？",
+      "id": "ja-keita-dialogue-034-あしたは なにで がっこうに いく？",
       "front": "あしたは なにで がっこうに いく？"
     },
     {
-      "id": "ja-keita-dialogue-032-あしたは なにを する？",
+      "id": "ja-keita-dialogue-035-あしたは なにを する？",
       "front": "あしたは なにを する？"
     },
     {
-      "id": "ja-keita-dialogue-033-あしたは なんじに がっこうへ きますか",
+      "id": "ja-keita-dialogue-036-あしたは なんじに がっこうへ きますか",
       "front": "あしたは なんじに がっこうへ きますか"
     },
     {
-      "id": "ja-keita-dialogue-034-あしたまでに かいます",
+      "id": "ja-keita-dialogue-037-あしたまでに かいます",
       "front": "あしたまでに かいます"
     },
     {
-      "id": "ja-keita-dialogue-035-あしたまでに かいます。ごじまでに えきへ いきます",
+      "id": "ja-keita-dialogue-038-あしたまでに かいます。ごじまでに えきへ いきます",
       "front": "あしたまでに かいます。ごじまでに えきへ いきます"
     },
     {
-      "id": "ja-keita-dialogue-036-あしたも あついでしょう",
+      "id": "ja-keita-dialogue-039-あしたも あついでしょう",
       "front": "あしたも あついでしょう"
     },
     {
-      "id": "ja-keita-dialogue-037-あしたも あついでしょ？",
+      "id": "ja-keita-dialogue-040-あしたも あついでしょ？",
       "front": "あしたも あついでしょ？"
     },
     {
-      "id": "ja-keita-dialogue-038-あそこだ",
+      "id": "ja-keita-dialogue-041-あそこだ",
       "front": "あそこだ"
     },
     {
-      "id": "ja-keita-dialogue-039-あそこです",
+      "id": "ja-keita-dialogue-042-あそこです",
       "front": "あそこです"
     },
     {
-      "id": "ja-keita-dialogue-040-あそこです。バスで じゅっぷんです",
+      "id": "ja-keita-dialogue-043-あそこです。バスで じゅっぷんです",
       "front": "あそこです。バスで じゅっぷんです"
     },
     {
-      "id": "ja-keita-dialogue-041-あそこですよ",
+      "id": "ja-keita-dialogue-044-あそこですよ",
       "front": "あそこですよ"
     },
     {
-      "id": "ja-keita-dialogue-042-あそびたいけど かいしゃに いかなきゃ",
+      "id": "ja-keita-dialogue-045-あそこの コーヒー やすかったっけ？",
+      "front": "あそこの コーヒー やすかったっけ？"
+    },
+    {
+      "id": "ja-keita-dialogue-046-あそびたいけど かいしゃに いかなきゃ",
       "front": "あそびたいけど かいしゃに いかなきゃ"
     },
     {
-      "id": "ja-keita-dialogue-043-あたまが いたい",
+      "id": "ja-keita-dialogue-047-あたまが いたい",
       "front": "あたまが いたい"
     },
     {
-      "id": "ja-keita-dialogue-044-あたらしい じてんしゃが ほしい",
+      "id": "ja-keita-dialogue-048-あたらしい じてんしゃが ほしい",
       "front": "あたらしい じてんしゃが ほしい"
     },
     {
-      "id": "ja-keita-dialogue-045-あたらしい ふくが ほしい",
+      "id": "ja-keita-dialogue-049-あたらしい ふくが ほしい",
       "front": "あたらしい ふくが ほしい"
     },
     {
-      "id": "ja-keita-dialogue-046-あたらしい ふくが ほしい。おおきい かばんも ほしい",
+      "id": "ja-keita-dialogue-050-あたらしい ふくが ほしい。おおきい かばんも ほしい",
       "front": "あたらしい ふくが ほしい。おおきい かばんも ほしい"
     },
     {
-      "id": "ja-keita-dialogue-047-あにです",
+      "id": "ja-keita-dialogue-051-あにです",
       "front": "あにです"
     },
     {
-      "id": "ja-keita-dialogue-048-あにです。じゅうななさいです。あの ひとは ははです",
+      "id": "ja-keita-dialogue-052-あにです。じゅうななさいです。あの ひとは ははです",
       "front": "あにです。じゅうななさいです。あの ひとは ははです"
     },
     {
-      "id": "ja-keita-dialogue-049-あにのだ",
+      "id": "ja-keita-dialogue-053-あにのだ",
       "front": "あにのだ"
     },
     {
-      "id": "ja-keita-dialogue-050-あにのだ。あには だいがくの がくせいだ",
+      "id": "ja-keita-dialogue-054-あにのだ。あには だいがくの がくせいだ",
       "front": "あにのだ。あには だいがくの がくせいだ"
     },
     {
-      "id": "ja-keita-dialogue-051-あには じゅうななさいです",
+      "id": "ja-keita-dialogue-055-あには じゅうななさいです",
       "front": "あには じゅうななさいです"
     },
     {
-      "id": "ja-keita-dialogue-052-あには だいがくの がくせいだ",
+      "id": "ja-keita-dialogue-056-あには だいがくの がくせいだ",
       "front": "あには だいがくの がくせいだ"
     },
     {
-      "id": "ja-keita-dialogue-053-あねが くれた",
+      "id": "ja-keita-dialogue-057-あねが くれた",
       "front": "あねが くれた"
     },
     {
-      "id": "ja-keita-dialogue-054-あねは びょういんで はたらくんだ",
+      "id": "ja-keita-dialogue-058-あねは びょういんで はたらくんだ",
       "front": "あねは びょういんで はたらくんだ"
     },
     {
-      "id": "ja-keita-dialogue-055-あの あたらしい かばんだ",
+      "id": "ja-keita-dialogue-059-あの あたらしい かばんだ",
       "front": "あの あたらしい かばんだ"
     },
     {
-      "id": "ja-keita-dialogue-056-あの かばんの ほうが やすい",
+      "id": "ja-keita-dialogue-060-あの おじいさんは どなたですか",
+      "front": "あの おじいさんは どなたですか"
+    },
+    {
+      "id": "ja-keita-dialogue-061-あの かばんの ほうが やすい",
       "front": "あの かばんの ほうが やすい"
     },
     {
-      "id": "ja-keita-dialogue-057-あの かばんの ほうが やすい。さんびゃくえんだ",
+      "id": "ja-keita-dialogue-062-あの かばんの ほうが やすい。さんびゃくえんだ",
       "front": "あの かばんの ほうが やすい。さんびゃくえんだ"
     },
     {
-      "id": "ja-keita-dialogue-058-あの ひとは だれ？",
+      "id": "ja-keita-dialogue-063-あの とけいも たかそう",
+      "front": "あの とけいも たかそう"
+    },
+    {
+      "id": "ja-keita-dialogue-064-あの ばんぐみは おもしろいそうですよ",
+      "front": "あの ばんぐみは おもしろいそうですよ"
+    },
+    {
+      "id": "ja-keita-dialogue-065-あの ひとは だれ？",
       "front": "あの ひとは だれ？"
     },
     {
-      "id": "ja-keita-dialogue-059-あの ひとは なんと いう なまえ？",
+      "id": "ja-keita-dialogue-066-あの ひとは なんと いう なまえ？",
       "front": "あの ひとは なんと いう なまえ？"
     },
     {
-      "id": "ja-keita-dialogue-060-あの ひとは ははです",
+      "id": "ja-keita-dialogue-067-あの ひとは ははです",
       "front": "あの ひとは ははです"
     },
     {
-      "id": "ja-keita-dialogue-061-あの りょうりは どう？",
+      "id": "ja-keita-dialogue-068-あの りょうりは どう？",
       "front": "あの りょうりは どう？"
     },
     {
-      "id": "ja-keita-dialogue-062-あめが ふったら、いえに いる",
+      "id": "ja-keita-dialogue-069-あめが ふったら、いえに いる",
       "front": "あめが ふったら、いえに いる"
     },
     {
-      "id": "ja-keita-dialogue-063-あめが ふったら？",
+      "id": "ja-keita-dialogue-070-あめが ふったら、どう する？",
+      "front": "あめが ふったら、どう する？"
+    },
+    {
+      "id": "ja-keita-dialogue-071-あめが ふったら？",
       "front": "あめが ふったら？"
     },
     {
-      "id": "ja-keita-dialogue-064-あめが ふると おもう",
+      "id": "ja-keita-dialogue-072-あめが ふりそうだから、うちで みよう",
+      "front": "あめが ふりそうだから、うちで みよう"
+    },
+    {
+      "id": "ja-keita-dialogue-073-あめが ふりそうだから、もっていくよ",
+      "front": "あめが ふりそうだから、もっていくよ"
+    },
+    {
+      "id": "ja-keita-dialogue-074-あめが ふりそうだね",
+      "front": "あめが ふりそうだね"
+    },
+    {
+      "id": "ja-keita-dialogue-075-あめが ふる きざしが あるよ",
+      "front": "あめが ふる きざしが あるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-076-あめが ふると おもう",
       "front": "あめが ふると おもう"
     },
     {
-      "id": "ja-keita-dialogue-065-ありがとう！",
+      "id": "ja-keita-dialogue-077-あめに ふられたんだ",
+      "front": "あめに ふられたんだ"
+    },
+    {
+      "id": "ja-keita-dialogue-078-ありがとう",
+      "front": "ありがとう"
+    },
+    {
+      "id": "ja-keita-dialogue-079-ありがとう。ドアも あけておくね",
+      "front": "ありがとう。ドアも あけておくね"
+    },
+    {
+      "id": "ja-keita-dialogue-080-ありがとうございます",
+      "front": "ありがとうございます"
+    },
+    {
+      "id": "ja-keita-dialogue-081-ありがとうございます。この ほんを はこんでもらえますか",
+      "front": "ありがとうございます。この ほんを はこんでもらえますか"
+    },
+    {
+      "id": "ja-keita-dialogue-082-ありがとう！",
       "front": "ありがとう！"
     },
     {
-      "id": "ja-keita-dialogue-066-あるく",
-      "front": "あるく"
+      "id": "ja-keita-dialogue-083-あるく",
+      "front": "あるく",
+      "speech": "歩く"
     },
     {
-      "id": "ja-keita-dialogue-067-あれ、ほし？",
+      "id": "ja-keita-dialogue-084-あれ、ほし？",
       "front": "あれ、ほし？"
     },
     {
-      "id": "ja-keita-dialogue-068-あれ、やま？",
+      "id": "ja-keita-dialogue-085-あれ、やま？",
       "front": "あれ、やま？"
     },
     {
-      "id": "ja-keita-dialogue-069-あれだ",
+      "id": "ja-keita-dialogue-086-あれだ",
       "front": "あれだ"
     },
     {
-      "id": "ja-keita-dialogue-070-あれだ。あの あたらしい かばんだ",
+      "id": "ja-keita-dialogue-087-あれだ。あの あたらしい かばんだ",
       "front": "あれだ。あの あたらしい かばんだ"
     },
     {
-      "id": "ja-keita-dialogue-071-あれは えきだ",
+      "id": "ja-keita-dialogue-088-あれは えきだ",
       "front": "あれは えきだ"
     },
     {
-      "id": "ja-keita-dialogue-072-あれは だれの かさ？",
+      "id": "ja-keita-dialogue-089-あれは だれの かさ？",
       "front": "あれは だれの かさ？"
     },
     {
-      "id": "ja-keita-dialogue-073-あれは なんと いう はな？",
+      "id": "ja-keita-dialogue-090-あれは なんと いう はな？",
       "front": "あれは なんと いう はな？"
     },
     {
-      "id": "ja-keita-dialogue-074-あれは にほんの くるまだ",
+      "id": "ja-keita-dialogue-091-あれは にほんの くるまだ",
       "front": "あれは にほんの くるまだ"
     },
     {
-      "id": "ja-keita-dialogue-075-あれは？",
+      "id": "ja-keita-dialogue-092-あれは？",
       "front": "あれは？"
     },
     {
-      "id": "ja-keita-dialogue-076-いいえ",
+      "id": "ja-keita-dialogue-093-あんしんだね",
+      "front": "あんしんだね"
+    },
+    {
+      "id": "ja-keita-dialogue-094-いいえ",
       "front": "いいえ"
     },
     {
-      "id": "ja-keita-dialogue-077-いいえ しませんでした",
+      "id": "ja-keita-dialogue-095-いいえ しませんでした",
       "front": "いいえ しませんでした"
     },
     {
-      "id": "ja-keita-dialogue-078-いいえ しませんでした。じかんが なかったんです",
+      "id": "ja-keita-dialogue-096-いいえ しませんでした。じかんが なかったんです",
       "front": "いいえ しませんでした。じかんが なかったんです"
     },
     {
-      "id": "ja-keita-dialogue-079-いいえ、きょうは ありません",
+      "id": "ja-keita-dialogue-097-いいえ、きょうは ありません",
       "front": "いいえ、きょうは ありません"
     },
     {
-      "id": "ja-keita-dialogue-080-いいえ、きょうは はたらきません",
+      "id": "ja-keita-dialogue-098-いいえ、きょうは はたらきません",
       "front": "いいえ、きょうは はたらきません"
     },
     {
-      "id": "ja-keita-dialogue-081-いいえ、きょうは はたらきません。ともだちと あそびます",
+      "id": "ja-keita-dialogue-099-いいえ、きょうは はたらきません。ともだちと あそびます",
       "front": "いいえ、きょうは はたらきません。ともだちと あそびます"
     },
     {
-      "id": "ja-keita-dialogue-082-いいえ、けっこうです",
+      "id": "ja-keita-dialogue-100-いいえ、けっこうです",
       "front": "いいえ、けっこうです"
     },
     {
-      "id": "ja-keita-dialogue-083-いいえ、けっこうです。みずを ください",
+      "id": "ja-keita-dialogue-101-いいえ、けっこうです。みずを ください",
       "front": "いいえ、けっこうです。みずを ください"
     },
     {
-      "id": "ja-keita-dialogue-084-いいえ、ここで たべては いけません",
+      "id": "ja-keita-dialogue-102-いいえ、ここで たべては いけません",
       "front": "いいえ、ここで たべては いけません"
     },
     {
-      "id": "ja-keita-dialogue-085-いいえ、ここで のんでは いけません",
+      "id": "ja-keita-dialogue-103-いいえ、ここで のんでは いけません",
       "front": "いいえ、ここで のんでは いけません"
     },
     {
-      "id": "ja-keita-dialogue-086-いいえ、ケンさんの ぼうしです",
+      "id": "ja-keita-dialogue-104-いいえ、ケンさんの ぼうしです",
       "front": "いいえ、ケンさんの ぼうしです"
     },
     {
-      "id": "ja-keita-dialogue-087-いいえ。おわったら、その ボタンを おして ください",
+      "id": "ja-keita-dialogue-105-いいえ。おわったら、その ボタンを おして ください",
       "front": "いいえ。おわったら、その ボタンを おして ください"
     },
     {
-      "id": "ja-keita-dialogue-088-いいね",
+      "id": "ja-keita-dialogue-106-いいね",
       "front": "いいね"
     },
     {
-      "id": "ja-keita-dialogue-089-いいね。せんせいが ぼくにも くれる？",
+      "id": "ja-keita-dialogue-107-いいね。せんせいが ぼくにも くれる？",
       "front": "いいね。せんせいが ぼくにも くれる？"
     },
     {
-      "id": "ja-keita-dialogue-090-いいね。ちかてつで いきましょう",
+      "id": "ja-keita-dialogue-108-いいね。ちかてつで いきましょう",
       "front": "いいね。ちかてつで いきましょう"
     },
     {
-      "id": "ja-keita-dialogue-091-いえで する",
+      "id": "ja-keita-dialogue-109-いいね。どこで みる？",
+      "front": "いいね。どこで みる？"
+    },
+    {
+      "id": "ja-keita-dialogue-110-いいね。テレビを みよう",
+      "front": "いいね。テレビを みよう"
+    },
+    {
+      "id": "ja-keita-dialogue-111-いいね。ポスターを かべに はる",
+      "front": "いいね。ポスターを かべに はる"
+    },
+    {
+      "id": "ja-keita-dialogue-112-いいよ",
+      "front": "いいよ"
+    },
+    {
+      "id": "ja-keita-dialogue-113-いいよ。ぼくの テレビも はこんでくれる？",
+      "front": "いいよ。ぼくの テレビも はこんでくれる？"
+    },
+    {
+      "id": "ja-keita-dialogue-114-いえで する",
       "front": "いえで する"
     },
     {
-      "id": "ja-keita-dialogue-092-いえで たべる",
+      "id": "ja-keita-dialogue-115-いえで たべる",
       "front": "いえで たべる"
     },
     {
-      "id": "ja-keita-dialogue-093-いく",
-      "front": "いく"
+      "id": "ja-keita-dialogue-116-いえの ひがいは？",
+      "front": "いえの ひがいは？"
     },
     {
-      "id": "ja-keita-dialogue-094-いけより かわの ほうが すきだ",
+      "id": "ja-keita-dialogue-117-いく",
+      "front": "いく",
+      "speech": "行く"
+    },
+    {
+      "id": "ja-keita-dialogue-118-いくなら、きっぷを かっておいた ほうが いい",
+      "front": "いくなら、きっぷを かっておいた ほうが いい"
+    },
+    {
+      "id": "ja-keita-dialogue-119-いくなら、ホテルを よやくした ほうが いい",
+      "front": "いくなら、ホテルを よやくした ほうが いい"
+    },
+    {
+      "id": "ja-keita-dialogue-120-いけより かわの ほうが すきだ",
       "front": "いけより かわの ほうが すきだ"
     },
     {
-      "id": "ja-keita-dialogue-095-いしゃじゃないよ",
+      "id": "ja-keita-dialogue-121-いしゃじゃないよ",
       "front": "いしゃじゃないよ"
     },
     {
-      "id": "ja-keita-dialogue-096-いしゃじゃないよ。せんせいだ",
+      "id": "ja-keita-dialogue-122-いしゃじゃないよ。せんせいだ",
       "front": "いしゃじゃないよ。せんせいだ"
     },
     {
-      "id": "ja-keita-dialogue-097-いしゃに いったら いいですよ",
+      "id": "ja-keita-dialogue-123-いしゃに いったら いいですよ",
       "front": "いしゃに いったら いいですよ"
     },
     {
-      "id": "ja-keita-dialogue-098-いっしょに きっさてんに いきませんか",
+      "id": "ja-keita-dialogue-124-いそいで！",
+      "front": "いそいで！"
+    },
+    {
+      "id": "ja-keita-dialogue-125-いそげば、まにあう",
+      "front": "いそげば、まにあう"
+    },
+    {
+      "id": "ja-keita-dialogue-126-いそげば、まにあうよ",
+      "front": "いそげば、まにあうよ"
+    },
+    {
+      "id": "ja-keita-dialogue-127-いっしょに きっさてんに いきませんか",
       "front": "いっしょに きっさてんに いきませんか"
     },
     {
-      "id": "ja-keita-dialogue-099-いった ことが あると おもう",
+      "id": "ja-keita-dialogue-128-いった ことが あると おもう",
       "front": "いった ことが あると おもう"
     },
     {
-      "id": "ja-keita-dialogue-100-いった ことが あると おもう。しゃしんを みた",
+      "id": "ja-keita-dialogue-129-いった ことが あると おもう。しゃしんを みた",
       "front": "いった ことが あると おもう。しゃしんを みた"
     },
     {
-      "id": "ja-keita-dialogue-101-いぬ、いる？",
+      "id": "ja-keita-dialogue-130-いぬ、いる？",
       "front": "いぬ、いる？"
     },
     {
-      "id": "ja-keita-dialogue-102-いぬと ねこと ぞうの なかで どれが いちばん おおきい？",
+      "id": "ja-keita-dialogue-131-いぬと ねこと ぞうの なかで どれが いちばん おおきい？",
       "front": "いぬと ねこと ぞうの なかで どれが いちばん おおきい？"
     },
     {
-      "id": "ja-keita-dialogue-103-いまは たべない",
+      "id": "ja-keita-dialogue-132-いぬを つれていく",
+      "front": "いぬを つれていく"
+    },
+    {
+      "id": "ja-keita-dialogue-133-いま ごはんを たべはじめる ところだよ",
+      "front": "いま ごはんを たべはじめる ところだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-134-いまは たべない",
       "front": "いまは たべない"
     },
     {
-      "id": "ja-keita-dialogue-104-いもうとは なんさい？",
+      "id": "ja-keita-dialogue-135-いもうとの たんじょうびに なにを あげた？",
+      "front": "いもうとの たんじょうびに なにを あげた？"
+    },
+    {
+      "id": "ja-keita-dialogue-136-いもうとは なんさい？",
       "front": "いもうとは なんさい？"
     },
     {
-      "id": "ja-keita-dialogue-105-いもうとは ろくさいだ",
+      "id": "ja-keita-dialogue-137-いもうとは ろくさいだ",
       "front": "いもうとは ろくさいだ"
     },
     {
-      "id": "ja-keita-dialogue-106-ううん",
+      "id": "ja-keita-dialogue-138-ううん",
       "front": "ううん"
     },
     {
-      "id": "ja-keita-dialogue-107-ううん がっこうより ちかい",
+      "id": "ja-keita-dialogue-139-ううん がっこうより ちかい",
       "front": "ううん がっこうより ちかい"
     },
     {
-      "id": "ja-keita-dialogue-108-ううん がっこうより ちかい。あるく",
+      "id": "ja-keita-dialogue-140-ううん がっこうより ちかい。あるく",
       "front": "ううん がっこうより ちかい。あるく"
     },
     {
-      "id": "ja-keita-dialogue-109-ううん たべないよ",
+      "id": "ja-keita-dialogue-141-ううん たべないよ",
       "front": "ううん たべないよ"
     },
     {
-      "id": "ja-keita-dialogue-110-ううん たべないよ。やさいの ほうが すきなんだ",
+      "id": "ja-keita-dialogue-142-ううん たべないよ。やさいの ほうが すきなんだ",
       "front": "ううん たべないよ。やさいの ほうが すきなんだ"
     },
     {
-      "id": "ja-keita-dialogue-111-ううん ケンのじゃないよ",
+      "id": "ja-keita-dialogue-143-ううん ケンのじゃないよ",
       "front": "ううん ケンのじゃないよ"
     },
     {
-      "id": "ja-keita-dialogue-112-ううん ケンのじゃないよ。ミカのだ",
+      "id": "ja-keita-dialogue-144-ううん ケンのじゃないよ。ミカのだ",
       "front": "ううん ケンのじゃないよ。ミカのだ"
     },
     {
-      "id": "ja-keita-dialogue-113-ううん、えいがを みてから たべる",
+      "id": "ja-keita-dialogue-145-ううん、えいがを みてから たべる",
       "front": "ううん、えいがを みてから たべる"
     },
     {
-      "id": "ja-keita-dialogue-114-ううん、およがないで ください",
+      "id": "ja-keita-dialogue-146-ううん、およがないで ください",
       "front": "ううん、およがないで ください"
     },
     {
-      "id": "ja-keita-dialogue-115-ううん、およがないで ください。ここは かわだ",
+      "id": "ja-keita-dialogue-147-ううん、およがないで ください。ここは かわだ",
       "front": "ううん、およがないで ください。ここは かわだ"
     },
     {
-      "id": "ja-keita-dialogue-116-ううん、さむいから うちに いる",
+      "id": "ja-keita-dialogue-148-ううん、さむいから うちに いる",
       "front": "ううん、さむいから うちに いる"
     },
     {
-      "id": "ja-keita-dialogue-117-ううん、たかくない",
+      "id": "ja-keita-dialogue-149-ううん、すきじゃないから、むりやり たべさせるよ",
+      "front": "ううん、すきじゃないから、むりやり たべさせるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-150-ううん、たかくない",
       "front": "ううん、たかくない"
     },
     {
-      "id": "ja-keita-dialogue-118-ううん、たかくない。おもしろくない",
+      "id": "ja-keita-dialogue-151-ううん、たかくない。おもしろくない",
       "front": "ううん、たかくない。おもしろくない"
     },
     {
-      "id": "ja-keita-dialogue-119-ううん、たべられない",
+      "id": "ja-keita-dialogue-152-ううん、たべられない",
       "front": "ううん、たべられない"
     },
     {
-      "id": "ja-keita-dialogue-120-ううん、たべられない。とりにくは たべられる",
+      "id": "ja-keita-dialogue-153-ううん、たべられない。とりにくは たべられる",
       "front": "ううん、たべられない。とりにくは たべられる"
     },
     {
-      "id": "ja-keita-dialogue-121-ううん、ちちも ははも アメリカに いる",
+      "id": "ja-keita-dialogue-154-ううん、ちちも ははも アメリカに いる",
       "front": "ううん、ちちも ははも アメリカに いる"
     },
     {
-      "id": "ja-keita-dialogue-122-ううん、ない",
+      "id": "ja-keita-dialogue-155-ううん、どろぼうが そうさされたよ",
+      "front": "ううん、どろぼうが そうさされたよ"
+    },
+    {
+      "id": "ja-keita-dialogue-156-ううん、ない",
       "front": "ううん、ない"
     },
     {
-      "id": "ja-keita-dialogue-123-ううん、ない。なつやすみに いく つもりだ",
+      "id": "ja-keita-dialogue-157-ううん、ない。なつやすみに いく つもりだ",
       "front": "ううん、ない。なつやすみに いく つもりだ"
     },
     {
-      "id": "ja-keita-dialogue-124-ううん、まだ たべていない",
+      "id": "ja-keita-dialogue-158-ううん、まだ たべていない",
       "front": "ううん、まだ たべていない"
     },
     {
-      "id": "ja-keita-dialogue-125-ううん、まだ たべていない。きっさてんに いく",
+      "id": "ja-keita-dialogue-159-ううん、まだ たべていない。きっさてんに いく",
       "front": "ううん、まだ たべていない。きっさてんに いく"
     },
     {
-      "id": "ja-keita-dialogue-126-ううん。あたまが いたい。きょうは かえる",
+      "id": "ja-keita-dialogue-160-ううん、みてない",
+      "front": "ううん、みてない"
+    },
+    {
+      "id": "ja-keita-dialogue-161-ううん、みてない。たいふうも くるって ニュースに あった",
+      "front": "ううん、みてない。たいふうも くるって ニュースに あった"
+    },
+    {
+      "id": "ja-keita-dialogue-162-ううん、わたしが する",
+      "front": "ううん、わたしが する"
+    },
+    {
+      "id": "ja-keita-dialogue-163-ううん。あたまが いたい。きょうは かえる",
       "front": "ううん。あたまが いたい。きょうは かえる"
     },
     {
-      "id": "ja-keita-dialogue-127-ううん。あめが ふると おもう",
+      "id": "ja-keita-dialogue-164-ううん。あめが ふると おもう",
       "front": "ううん。あめが ふると おもう"
     },
     {
-      "id": "ja-keita-dialogue-128-ううん。じしょで しらべてみる",
+      "id": "ja-keita-dialogue-165-ううん。じしょで しらべてみる",
       "front": "ううん。じしょで しらべてみる"
     },
     {
-      "id": "ja-keita-dialogue-129-ううん。だいがくに いきたくなかった",
+      "id": "ja-keita-dialogue-166-ううん。だいがくに いきたくなかった",
       "front": "ううん。だいがくに いきたくなかった"
     },
     {
-      "id": "ja-keita-dialogue-130-ううん。ねつが あるから うちに いる",
+      "id": "ja-keita-dialogue-167-ううん。ねつが あるから うちに いる",
       "front": "ううん。ねつが あるから うちに いる"
     },
     {
-      "id": "ja-keita-dialogue-131-ううん。ぼくは へただ。きっさてんに いく",
+      "id": "ja-keita-dialogue-168-ううん。ぼくは へただ。きっさてんに いく",
       "front": "ううん。ぼくは へただ。きっさてんに いく"
     },
     {
-      "id": "ja-keita-dialogue-132-ううん。みない つもりだ。すしを たべに いく",
+      "id": "ja-keita-dialogue-169-ううん。みない つもりだ。すしを たべに いく",
       "front": "ううん。みない つもりだ。すしを たべに いく"
     },
     {
-      "id": "ja-keita-dialogue-133-ううん。むずかしいから せんせいに きいてみる",
+      "id": "ja-keita-dialogue-170-ううん。むずかしいから せんせいに きいてみる",
       "front": "ううん。むずかしいから せんせいに きいてみる"
     },
     {
-      "id": "ja-keita-dialogue-134-うごくと、おとが きこえる",
-      "front": "うごくと、おとが きこえる"
+      "id": "ja-keita-dialogue-171-うごくと おとが きこえる",
+      "front": "うごくと おとが きこえる"
     },
     {
-      "id": "ja-keita-dialogue-135-うた、わかる？",
+      "id": "ja-keita-dialogue-172-うた、わかる？",
       "front": "うた、わかる？"
     },
     {
-      "id": "ja-keita-dialogue-136-うちで はたらくと おもう",
+      "id": "ja-keita-dialogue-173-うちで はたらくと おもう",
       "front": "うちで はたらくと おもう"
     },
     {
-      "id": "ja-keita-dialogue-137-うみで およぐ つもり？",
+      "id": "ja-keita-dialogue-174-うちに ある",
+      "front": "うちに ある"
+    },
+    {
+      "id": "ja-keita-dialogue-175-うみで およぐ つもり？",
       "front": "うみで およぐ つもり？"
     },
     {
-      "id": "ja-keita-dialogue-138-うみに いきます",
+      "id": "ja-keita-dialogue-176-うみに いきます",
       "front": "うみに いきます"
     },
     {
-      "id": "ja-keita-dialogue-139-うみに いく？",
+      "id": "ja-keita-dialogue-177-うみに いく？",
       "front": "うみに いく？"
     },
     {
-      "id": "ja-keita-dialogue-140-うみには いった ことが ある",
+      "id": "ja-keita-dialogue-178-うみには いった ことが ある",
       "front": "うみには いった ことが ある"
     },
     {
-      "id": "ja-keita-dialogue-141-うみへ いく",
+      "id": "ja-keita-dialogue-179-うみへ いく",
       "front": "うみへ いく"
     },
     {
-      "id": "ja-keita-dialogue-142-うみへ いく。ミカも いくと おもう",
+      "id": "ja-keita-dialogue-180-うみへ いく。ミカも いくと おもう",
       "front": "うみへ いく。ミカも いくと おもう"
     },
     {
-      "id": "ja-keita-dialogue-143-うみや やまが すきだ",
+      "id": "ja-keita-dialogue-181-うみや やまが すきだ",
       "front": "うみや やまが すきだ"
     },
     {
-      "id": "ja-keita-dialogue-144-うみや やまが すきだ。りょこうが すきだから",
+      "id": "ja-keita-dialogue-182-うみや やまが すきだ。りょこうが すきだから",
       "front": "うみや やまが すきだ。りょこうが すきだから"
     },
     {
-      "id": "ja-keita-dialogue-145-うん",
+      "id": "ja-keita-dialogue-183-うわさで きいたんだけど、たいふうが くるって",
+      "front": "うわさで きいたんだけど、たいふうが くるって"
+    },
+    {
+      "id": "ja-keita-dialogue-184-うん",
       "front": "うん"
     },
     {
-      "id": "ja-keita-dialogue-146-うん さんこ ある",
+      "id": "ja-keita-dialogue-185-うん さんこ ある",
       "front": "うん さんこ ある"
     },
     {
-      "id": "ja-keita-dialogue-147-うん さんこ ある。きゅうりも よんこ ある",
+      "id": "ja-keita-dialogue-186-うん さんこ ある。きゅうりも よんこ ある",
       "front": "うん さんこ ある。きゅうりも よんこ ある"
     },
     {
-      "id": "ja-keita-dialogue-148-うん、あたらしい",
+      "id": "ja-keita-dialogue-187-うん、あたらしい",
       "front": "うん、あたらしい"
     },
     {
-      "id": "ja-keita-dialogue-149-うん、あたらしい。ちょっと たかい",
+      "id": "ja-keita-dialogue-188-うん、あたらしい。ちょっと たかい",
       "front": "うん、あたらしい。ちょっと たかい"
     },
     {
-      "id": "ja-keita-dialogue-150-うん、あにが いる",
+      "id": "ja-keita-dialogue-189-うん、あつい うちに かえるから",
+      "front": "うん、あつい うちに かえるから"
+    },
+    {
+      "id": "ja-keita-dialogue-190-うん、あにが いる",
       "front": "うん、あにが いる"
     },
     {
-      "id": "ja-keita-dialogue-151-うん、あにが いる。おとうとは いない",
+      "id": "ja-keita-dialogue-191-うん、あにが いる。おとうとは いない",
       "front": "うん、あにが いる。おとうとは いない"
     },
     {
-      "id": "ja-keita-dialogue-152-うん、いく",
+      "id": "ja-keita-dialogue-192-うん、あるきながら はなしてた",
+      "front": "うん、あるきながら はなしてた"
+    },
+    {
+      "id": "ja-keita-dialogue-193-うん、いいよ",
+      "front": "うん、いいよ"
+    },
+    {
+      "id": "ja-keita-dialogue-194-うん、いいよ。でも ないしょだよ",
+      "front": "うん、いいよ。でも ないしょだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-195-うん、いく",
       "front": "うん、いく"
     },
     {
-      "id": "ja-keita-dialogue-153-うん、いく！",
+      "id": "ja-keita-dialogue-196-うん、いく！",
       "front": "うん、いく！"
     },
     {
-      "id": "ja-keita-dialogue-154-うん、きく",
+      "id": "ja-keita-dialogue-197-うん、いそげば、まにあうよ",
+      "front": "うん、いそげば、まにあうよ"
+    },
+    {
+      "id": "ja-keita-dialogue-198-うん、いそごう",
+      "front": "うん、いそごう"
+    },
+    {
+      "id": "ja-keita-dialogue-199-うん、いっしゅんで たべおわったよ",
+      "front": "うん、いっしゅんで たべおわったよ"
+    },
+    {
+      "id": "ja-keita-dialogue-200-うん、いつも ききながら する",
+      "front": "うん、いつも ききながら する"
+    },
+    {
+      "id": "ja-keita-dialogue-201-うん、いま しゅくだいを している ところだよ",
+      "front": "うん、いま しゅくだいを している ところだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-202-うん、うちに かえったら、でんわする",
+      "front": "うん、うちに かえったら、でんわする"
+    },
+    {
+      "id": "ja-keita-dialogue-203-うん、きく",
       "front": "うん、きく"
     },
     {
-      "id": "ja-keita-dialogue-155-うん、きのう みせで かった",
+      "id": "ja-keita-dialogue-204-うん、きしゃが つたえたね",
+      "front": "うん、きしゃが つたえたね"
+    },
+    {
+      "id": "ja-keita-dialogue-205-うん、きしゃが つたえたね。たいふうも くるそうだよ",
+      "front": "うん、きしゃが つたえたね。たいふうも くるそうだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-206-うん、きずだけ",
+      "front": "うん、きずだけ"
+    },
+    {
+      "id": "ja-keita-dialogue-207-うん、きのう みせで かった",
       "front": "うん、きのう みせで かった"
     },
     {
-      "id": "ja-keita-dialogue-156-うん、きのう みた",
+      "id": "ja-keita-dialogue-208-うん、きのう みた",
       "front": "うん、きのう みた"
     },
     {
-      "id": "ja-keita-dialogue-157-うん、きのう みた。おもしろかった",
+      "id": "ja-keita-dialogue-209-うん、きのう みた。おもしろかった",
       "front": "うん、きのう みた。おもしろかった"
     },
     {
-      "id": "ja-keita-dialogue-158-うん、そう おもう",
+      "id": "ja-keita-dialogue-210-うん、きゅうに つめたい からね",
+      "front": "うん、きゅうに つめたい からね"
+    },
+    {
+      "id": "ja-keita-dialogue-211-うん、けど テストで まちがえちゃった",
+      "front": "うん、けど テストで まちがえちゃった"
+    },
+    {
+      "id": "ja-keita-dialogue-212-うん、げんき",
+      "front": "うん、げんき"
+    },
+    {
+      "id": "ja-keita-dialogue-213-うん、げんき。いま ごはんを たべはじめる ところだよ",
+      "front": "うん、げんき。いま ごはんを たべはじめる ところだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-214-うん、げんき。ほんを かったばかりだよ",
+      "front": "うん、げんき。ほんを かったばかりだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-215-うん、こどもも いぬが すきだから",
+      "front": "うん、こどもも いぬが すきだから"
+    },
+    {
+      "id": "ja-keita-dialogue-216-うん、ざんぎょうだよ",
+      "front": "うん、ざんぎょうだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-217-うん、しつけが むずかしいよ",
+      "front": "うん、しつけが むずかしいよ"
+    },
+    {
+      "id": "ja-keita-dialogue-218-うん、しつけは こどもに まかせる",
+      "front": "うん、しつけは こどもに まかせる"
+    },
+    {
+      "id": "ja-keita-dialogue-219-うん、しんじよう",
+      "front": "うん、しんじよう"
+    },
+    {
+      "id": "ja-keita-dialogue-220-うん、せんせいのようだね",
+      "front": "うん、せんせいのようだね"
+    },
+    {
+      "id": "ja-keita-dialogue-221-うん、ぜんぶ かざってあるよ",
+      "front": "うん、ぜんぶ かざってあるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-222-うん、そう おもう",
       "front": "うん、そう おもう"
     },
     {
-      "id": "ja-keita-dialogue-159-うん、たべる",
+      "id": "ja-keita-dialogue-223-うん、そう する",
+      "front": "うん、そう する"
+    },
+    {
+      "id": "ja-keita-dialogue-224-うん、そうだね",
+      "front": "うん、そうだね"
+    },
+    {
+      "id": "ja-keita-dialogue-225-うん、たべる",
       "front": "うん、たべる"
     },
     {
-      "id": "ja-keita-dialogue-160-うん、たべる。ももだ",
+      "id": "ja-keita-dialogue-226-うん、たべる。ももだ",
       "front": "うん、たべる。ももだ"
     },
     {
-      "id": "ja-keita-dialogue-161-うん、たべる！",
+      "id": "ja-keita-dialogue-227-うん、たべる！",
       "front": "うん、たべる！"
     },
     {
-      "id": "ja-keita-dialogue-162-うん、たべれる",
+      "id": "ja-keita-dialogue-228-うん、たべれる",
       "front": "うん、たべれる"
     },
     {
-      "id": "ja-keita-dialogue-163-うん、たべれる。ホテルで たべた",
+      "id": "ja-keita-dialogue-229-うん、たべれる。ホテルで たべた",
       "front": "うん、たべれる。ホテルで たべた"
     },
     {
-      "id": "ja-keita-dialogue-164-うん、のみものだ",
+      "id": "ja-keita-dialogue-230-うん、だいじょうぶ",
+      "front": "うん、だいじょうぶ"
+    },
+    {
+      "id": "ja-keita-dialogue-231-うん、だいじょうぶ。おやは しゅくだいを させるよ",
+      "front": "うん、だいじょうぶ。おやは しゅくだいを させるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-232-うん、ちちに よって たてられたんだ",
+      "front": "うん、ちちに よって たてられたんだ"
+    },
+    {
+      "id": "ja-keita-dialogue-233-うん、つかいやすい",
+      "front": "うん、つかいやすい"
+    },
+    {
+      "id": "ja-keita-dialogue-234-うん、てつだうよ",
+      "front": "うん、てつだうよ"
+    },
+    {
+      "id": "ja-keita-dialogue-235-うん、でも ねつが あるのに がっこうに いった",
+      "front": "うん、でも ねつが あるのに がっこうに いった"
+    },
+    {
+      "id": "ja-keita-dialogue-236-うん、ともだちが てつだってくれた",
+      "front": "うん、ともだちが てつだってくれた"
+    },
+    {
+      "id": "ja-keita-dialogue-237-うん、のみものだ",
       "front": "うん、のみものだ"
     },
     {
-      "id": "ja-keita-dialogue-165-うん、のみものだ。ぎゅうにゅうだ",
+      "id": "ja-keita-dialogue-238-うん、のみものだ。ぎゅうにゅうだ",
       "front": "うん、のみものだ。ぎゅうにゅうだ"
     },
     {
-      "id": "ja-keita-dialogue-166-うん、のむ",
+      "id": "ja-keita-dialogue-239-うん、のみものを かってくる",
+      "front": "うん、のみものを かってくる"
+    },
+    {
+      "id": "ja-keita-dialogue-240-うん、のむ",
       "front": "うん、のむ"
     },
     {
-      "id": "ja-keita-dialogue-167-うん、みる",
+      "id": "ja-keita-dialogue-241-うん、はじめから いそがしいよ",
+      "front": "うん、はじめから いそがしいよ"
+    },
+    {
+      "id": "ja-keita-dialogue-242-うん、ひま",
+      "front": "うん、ひま"
+    },
+    {
+      "id": "ja-keita-dialogue-243-うん、ひま。としょかんに いこう？",
+      "front": "うん、ひま。としょかんに いこう？"
+    },
+    {
+      "id": "ja-keita-dialogue-244-うん、ひま。なにを する？",
+      "front": "うん、ひま。なにを する？"
+    },
+    {
+      "id": "ja-keita-dialogue-245-うん、みずを もってきて",
+      "front": "うん、みずを もってきて"
+    },
+    {
+      "id": "ja-keita-dialogue-246-うん、みる",
       "front": "うん、みる"
     },
     {
-      "id": "ja-keita-dialogue-168-うん、みる！",
+      "id": "ja-keita-dialogue-247-うん、みる！",
       "front": "うん、みる！"
     },
     {
-      "id": "ja-keita-dialogue-169-うん、やる",
+      "id": "ja-keita-dialogue-248-うん、もう ふゆだね",
+      "front": "うん、もう ふゆだね"
+    },
+    {
+      "id": "ja-keita-dialogue-249-うん、やる",
       "front": "うん、やる"
     },
     {
-      "id": "ja-keita-dialogue-170-うん、わかる！",
+      "id": "ja-keita-dialogue-250-うん、よく よませるよ",
+      "front": "うん、よく よませるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-251-うん、わかる！",
       "front": "うん、わかる！"
     },
     {
-      "id": "ja-keita-dialogue-171-うん、わたしのだ",
+      "id": "ja-keita-dialogue-252-うん、わたしのだ",
       "front": "うん、わたしのだ"
     },
     {
-      "id": "ja-keita-dialogue-172-うん、ミカのだ",
+      "id": "ja-keita-dialogue-253-うん、テストの あいだ、れんしゅうしている",
+      "front": "うん、テストの あいだ、れんしゅうしている"
+    },
+    {
+      "id": "ja-keita-dialogue-254-うん、ミカのだ",
       "front": "うん、ミカのだ"
     },
     {
-      "id": "ja-keita-dialogue-173-うん、ミカも くる",
+      "id": "ja-keita-dialogue-255-うん、ミカも くる",
       "front": "うん、ミカも くる"
     },
     {
-      "id": "ja-keita-dialogue-174-うん。あさは さんばい のむ",
+      "id": "ja-keita-dialogue-256-うん。あさは さんばい のむ",
       "front": "うん。あさは さんばい のむ"
     },
     {
-      "id": "ja-keita-dialogue-175-うん。あねが くれた",
+      "id": "ja-keita-dialogue-257-うん。あねが くれた",
       "front": "うん。あねが くれた"
     },
     {
-      "id": "ja-keita-dialogue-176-うん。うごくと、おとが きこえる",
-      "front": "うん。うごくと、おとが きこえる"
+      "id": "ja-keita-dialogue-258-うん。あの とけいも たかそう",
+      "front": "うん。あの とけいも たかそう"
     },
     {
-      "id": "ja-keita-dialogue-177-うん。かえる まえに ことばを おぼえておく",
+      "id": "ja-keita-dialogue-259-うん。いぬを つれていく",
+      "front": "うん。いぬを つれていく"
+    },
+    {
+      "id": "ja-keita-dialogue-260-うん。うごくと おとが きこえる",
+      "front": "うん。うごくと おとが きこえる"
+    },
+    {
+      "id": "ja-keita-dialogue-261-うん。かえる まえに ことばを おぼえておく",
       "front": "うん。かえる まえに ことばを おぼえておく"
     },
     {
-      "id": "ja-keita-dialogue-178-うん。かわない",
+      "id": "ja-keita-dialogue-262-うん。かさが なさそう",
+      "front": "うん。かさが なさそう"
+    },
+    {
+      "id": "ja-keita-dialogue-263-うん。かわない",
       "front": "うん。かわない"
     },
     {
-      "id": "ja-keita-dialogue-179-うん。がくせいの とき はたらいた。なつやすみに いく つもりだ",
+      "id": "ja-keita-dialogue-264-うん。がくせいの とき はたらいた。なつやすみに いく つもりだ",
       "front": "うん。がくせいの とき はたらいた。なつやすみに いく つもりだ"
     },
     {
-      "id": "ja-keita-dialogue-180-うん。がっこうの りょこうで いった",
+      "id": "ja-keita-dialogue-265-うん。がっこうの りょこうで いった",
       "front": "うん。がっこうの りょこうで いった"
     },
     {
-      "id": "ja-keita-dialogue-181-うん。たぶん あしたも あついでしょう",
+      "id": "ja-keita-dialogue-266-うん。こうえんは やめて、うちで おんがくを ききながら しゅくだいを しよう",
+      "front": "うん。こうえんは やめて、うちで おんがくを ききながら しゅくだいを しよう"
+    },
+    {
+      "id": "ja-keita-dialogue-267-うん。この じしょは わかりやすいよ",
+      "front": "うん。この じしょは わかりやすいよ"
+    },
+    {
+      "id": "ja-keita-dialogue-268-うん。たぶん あしたも あついでしょう",
       "front": "うん。たぶん あしたも あついでしょう"
     },
     {
-      "id": "ja-keita-dialogue-182-うん。たまごが たべられない",
+      "id": "ja-keita-dialogue-269-うん。たまごが たべられない",
       "front": "うん。たまごが たべられない"
     },
     {
-      "id": "ja-keita-dialogue-183-うん。ちゃを かう",
+      "id": "ja-keita-dialogue-270-うん。ちゃを かう",
       "front": "うん。ちゃを かう"
     },
     {
-      "id": "ja-keita-dialogue-184-うん。なつやすみに よく かわに いく",
+      "id": "ja-keita-dialogue-271-うん。でも そらの ようすを みて。あめが ふる きざしが あるよ",
+      "front": "うん。でも そらの ようすを みて。あめが ふる きざしが あるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-272-うん。なつやすみに よく かわに いく",
       "front": "うん。なつやすみに よく かわに いく"
     },
     {
-      "id": "ja-keita-dialogue-185-うん。ねつは ない。でも のどが いたい",
+      "id": "ja-keita-dialogue-273-うん。ねつが あるのに がんばった",
+      "front": "うん。ねつが あるのに がんばった"
+    },
+    {
+      "id": "ja-keita-dialogue-274-うん。ねつは ない。でも のどが いたい",
       "front": "うん。ねつは ない。でも のどが いたい"
     },
     {
-      "id": "ja-keita-dialogue-186-うん。はたちだから のめる",
+      "id": "ja-keita-dialogue-275-うん。はたちだから のめる",
       "front": "うん。はたちだから のめる"
     },
     {
-      "id": "ja-keita-dialogue-187-うん。ばんは ひまだから いける",
+      "id": "ja-keita-dialogue-276-うん。ばんは ひまだから いける",
       "front": "うん。ばんは ひまだから いける"
     },
     {
-      "id": "ja-keita-dialogue-188-うん。ひまな とき うちで する",
+      "id": "ja-keita-dialogue-277-うん。ひまな とき うちで する",
       "front": "うん。ひまな とき うちで する"
     },
     {
-      "id": "ja-keita-dialogue-189-うん。やまは すずしいでしょう",
+      "id": "ja-keita-dialogue-278-うん。まいにち いぬの しゃしんを みている",
+      "front": "うん。まいにち いぬの しゃしんを みている"
+    },
+    {
+      "id": "ja-keita-dialogue-279-うん。やすいし、べんりだし、すきだよ",
+      "front": "うん。やすいし、べんりだし、すきだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-280-うん。やまは すずしいでしょう",
       "front": "うん。やまは すずしいでしょう"
     },
     {
-      "id": "ja-keita-dialogue-190-うん。よく うみまで はしる",
+      "id": "ja-keita-dialogue-281-うん。よく うみまで はしる",
       "front": "うん。よく うみまで はしる"
     },
     {
-      "id": "ja-keita-dialogue-191-うん。テレビも けして",
+      "id": "ja-keita-dialogue-282-うん。らいねん そつぎょうすることになった",
+      "front": "うん。らいねん そつぎょうすることになった"
+    },
+    {
+      "id": "ja-keita-dialogue-283-うん。テストが こわいから",
+      "front": "うん。テストが こわいから"
+    },
+    {
+      "id": "ja-keita-dialogue-284-うん。テレビも けして",
       "front": "うん。テレビも けして"
     },
     {
-      "id": "ja-keita-dialogue-192-うん。パンを かう",
+      "id": "ja-keita-dialogue-285-うん。パンを かう",
       "front": "うん。パンを かう"
     },
     {
-      "id": "ja-keita-dialogue-193-うん。パンを みっつ かう",
+      "id": "ja-keita-dialogue-286-うん。パンを みっつ かう",
       "front": "うん。パンを みっつ かう"
     },
     {
-      "id": "ja-keita-dialogue-194-うん。ミカも くる？",
+      "id": "ja-keita-dialogue-287-うん。ミカも くる？",
       "front": "うん。ミカも くる？"
     },
     {
-      "id": "ja-keita-dialogue-195-えいがを みてから ミカと ごはんを たべた",
+      "id": "ja-keita-dialogue-288-え、そう？",
+      "front": "え、そう？"
+    },
+    {
+      "id": "ja-keita-dialogue-289-え、そう？いいね",
+      "front": "え、そう？いいね"
+    },
+    {
+      "id": "ja-keita-dialogue-290-え、どうして？",
+      "front": "え、どうして？"
+    },
+    {
+      "id": "ja-keita-dialogue-291-えいがを みてから ミカと ごはんを たべた",
       "front": "えいがを みてから ミカと ごはんを たべた"
     },
     {
-      "id": "ja-keita-dialogue-196-えいがを みに いく",
+      "id": "ja-keita-dialogue-292-えいがを みに いく",
       "front": "えいがを みに いく"
     },
     {
-      "id": "ja-keita-dialogue-197-えいがを みに いく。ばんは ごはんを たべに いく",
+      "id": "ja-keita-dialogue-293-えいがを みに いく。ばんは ごはんを たべに いく",
       "front": "えいがを みに いく。ばんは ごはんを たべに いく"
     },
     {
-      "id": "ja-keita-dialogue-198-えいごです",
+      "id": "ja-keita-dialogue-294-えいごです",
       "front": "えいごです"
     },
     {
-      "id": "ja-keita-dialogue-199-えいごです。ことばの じゅぎょうは どれも むずかしいです",
+      "id": "ja-keita-dialogue-295-えいごです。ことばの じゅぎょうは どれも むずかしいです",
       "front": "えいごです。ことばの じゅぎょうは どれも むずかしいです"
     },
     {
-      "id": "ja-keita-dialogue-200-えいごの じゅぎょうは たのしいんですけど",
+      "id": "ja-keita-dialogue-296-えいごの じゅぎょうは たのしいんですけど",
       "front": "えいごの じゅぎょうは たのしいんですけど"
     },
     {
-      "id": "ja-keita-dialogue-201-えいごの じゅぎょうは どうですか",
+      "id": "ja-keita-dialogue-297-えいごの じゅぎょうは どうですか",
       "front": "えいごの じゅぎょうは どうですか"
     },
     {
-      "id": "ja-keita-dialogue-202-ええ かぜが つよいですよ",
+      "id": "ja-keita-dialogue-298-えいごの ほんを かってあげた",
+      "front": "えいごの ほんを かってあげた"
+    },
+    {
+      "id": "ja-keita-dialogue-299-ええ かぜが つよいですよ",
       "front": "ええ かぜが つよいですよ"
     },
     {
-      "id": "ja-keita-dialogue-203-ええ、きます",
+      "id": "ja-keita-dialogue-300-ええ、きます",
       "front": "ええ、きます"
     },
     {
-      "id": "ja-keita-dialogue-204-えきに いって、ミカと あそんだ",
+      "id": "ja-keita-dialogue-301-えきに いって、ミカと あそんだ",
       "front": "えきに いって、ミカと あそんだ"
     },
     {
-      "id": "ja-keita-dialogue-205-えきは しずか？",
+      "id": "ja-keita-dialogue-302-えきは しずか？",
       "front": "えきは しずか？"
     },
     {
-      "id": "ja-keita-dialogue-206-えきは とおい？",
+      "id": "ja-keita-dialogue-303-えきは とおい？",
       "front": "えきは とおい？"
     },
     {
-      "id": "ja-keita-dialogue-207-えきは どこですか",
+      "id": "ja-keita-dialogue-304-えきは どこですか",
       "front": "えきは どこですか"
     },
     {
-      "id": "ja-keita-dialogue-208-えきまで あるく",
+      "id": "ja-keita-dialogue-305-えきは どこ？",
+      "front": "えきは どこ？"
+    },
+    {
+      "id": "ja-keita-dialogue-306-えきまで あるく",
       "front": "えきまで あるく"
     },
     {
-      "id": "ja-keita-dialogue-209-えきまで どのぐらい かかる？",
+      "id": "ja-keita-dialogue-307-えきまで どのぐらい かかる？",
       "front": "えきまで どのぐらい かかる？"
     },
     {
-      "id": "ja-keita-dialogue-210-えんぴつを かして",
+      "id": "ja-keita-dialogue-308-えっ、けいさつに でんわして！",
+      "front": "えっ、けいさつに でんわして！"
+    },
+    {
+      "id": "ja-keita-dialogue-309-えんぴつを かして",
       "front": "えんぴつを かして"
     },
     {
-      "id": "ja-keita-dialogue-211-えんぴつ？",
+      "id": "ja-keita-dialogue-310-えんぴつ？",
       "front": "えんぴつ？"
     },
     {
-      "id": "ja-keita-dialogue-212-おいしい ごはんが たべたかった",
+      "id": "ja-keita-dialogue-311-おいしい ごはんが たべたかった",
       "front": "おいしい ごはんが たべたかった"
     },
     {
-      "id": "ja-keita-dialogue-213-おいしい すしが たべたい",
+      "id": "ja-keita-dialogue-312-おいしい すしが たべたい",
       "front": "おいしい すしが たべたい"
     },
     {
-      "id": "ja-keita-dialogue-214-おいしい すしが たべたい。ミカと いきたい",
+      "id": "ja-keita-dialogue-313-おいしい すしが たべたい。ミカと いきたい",
       "front": "おいしい すしが たべたい。ミカと いきたい"
     },
     {
-      "id": "ja-keita-dialogue-215-おいしい ちゃが のみたい",
+      "id": "ja-keita-dialogue-314-おいしい ちゃが のみたい",
       "front": "おいしい ちゃが のみたい"
     },
     {
-      "id": "ja-keita-dialogue-216-おいしい りょうりが たべたいです",
+      "id": "ja-keita-dialogue-315-おいしい りょうりが たべたいです",
       "front": "おいしい りょうりが たべたいです"
     },
     {
-      "id": "ja-keita-dialogue-217-おおきい かばんも ほしい",
+      "id": "ja-keita-dialogue-316-おおきい かばんも ほしい",
       "front": "おおきい かばんも ほしい"
     },
     {
-      "id": "ja-keita-dialogue-218-おかねも ないんだ",
+      "id": "ja-keita-dialogue-317-おかねが ある？",
+      "front": "おかねが ある？"
+    },
+    {
+      "id": "ja-keita-dialogue-318-おかねも ないんだ",
       "front": "おかねも ないんだ"
     },
     {
-      "id": "ja-keita-dialogue-219-おさけは いっぽん かう",
+      "id": "ja-keita-dialogue-319-おくれるよ！",
+      "front": "おくれるよ！"
+    },
+    {
+      "id": "ja-keita-dialogue-320-おくれるよ！いそいで！",
+      "front": "おくれるよ！いそいで！"
+    },
+    {
+      "id": "ja-keita-dialogue-321-おさけは いっぽん かう",
       "front": "おさけは いっぽん かう"
     },
     {
-      "id": "ja-keita-dialogue-220-おすと、きかいが とまる",
-      "front": "おすと、きかいが とまる"
+      "id": "ja-keita-dialogue-322-おすと きかいが とまる",
+      "front": "おすと きかいが とまる"
     },
     {
-      "id": "ja-keita-dialogue-221-おとうとは いない",
+      "id": "ja-keita-dialogue-323-おとうとは いない",
       "front": "おとうとは いない"
     },
     {
-      "id": "ja-keita-dialogue-222-おとうとは きゅうさいだ",
+      "id": "ja-keita-dialogue-324-おとうとは いぬを かいたがっている",
+      "front": "おとうとは いぬを かいたがっている"
+    },
+    {
+      "id": "ja-keita-dialogue-325-おとうとは きゅうさいだ",
       "front": "おとうとは きゅうさいだ"
     },
     {
-      "id": "ja-keita-dialogue-223-おとが きこえる？",
+      "id": "ja-keita-dialogue-326-おとが きこえる？",
       "front": "おとが きこえる？"
     },
     {
-      "id": "ja-keita-dialogue-224-おもしろかった",
+      "id": "ja-keita-dialogue-327-おめでとう！",
+      "front": "おめでとう！"
+    },
+    {
+      "id": "ja-keita-dialogue-328-おもしろかった",
       "front": "おもしろかった"
     },
     {
-      "id": "ja-keita-dialogue-225-おもしろくない",
+      "id": "ja-keita-dialogue-329-おもしろくない",
       "front": "おもしろくない"
     },
     {
-      "id": "ja-keita-dialogue-226-おわったら、その ボタンを おして ください",
+      "id": "ja-keita-dialogue-330-おやが むりやり いぬの せわを させるから",
+      "front": "おやが むりやり いぬの せわを させるから"
+    },
+    {
+      "id": "ja-keita-dialogue-331-おやは しゅくだいを させるよ",
+      "front": "おやは しゅくだいを させるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-332-おわったら、その ボタンを おして ください",
       "front": "おわったら、その ボタンを おして ください"
     },
     {
-      "id": "ja-keita-dialogue-227-かいぎの じかんは きまる？",
+      "id": "ja-keita-dialogue-333-おんがくを ききながら、しゅくだいを する？",
+      "front": "おんがくを ききながら、しゅくだいを する？"
+    },
+    {
+      "id": "ja-keita-dialogue-334-かいぎの じかんは きまる？",
       "front": "かいぎの じかんは きまる？"
     },
     {
-      "id": "ja-keita-dialogue-228-かいぎは なんじに はじまる？",
+      "id": "ja-keita-dialogue-335-かいぎは なんじに はじまる？",
       "front": "かいぎは なんじに はじまる？"
     },
     {
-      "id": "ja-keita-dialogue-229-かいしゃで はたらきます",
+      "id": "ja-keita-dialogue-336-かいしゃで はたらきます",
       "front": "かいしゃで はたらきます"
     },
     {
-      "id": "ja-keita-dialogue-230-かえる まえに うちに でんわを しなきゃ",
+      "id": "ja-keita-dialogue-337-かいしゃで はたらこうと おもう",
+      "front": "かいしゃで はたらこうと おもう"
+    },
+    {
+      "id": "ja-keita-dialogue-338-かいしゃで はたらこうと おもう。ミカは？",
+      "front": "かいしゃで はたらこうと おもう。ミカは？"
+    },
+    {
+      "id": "ja-keita-dialogue-339-かいしゃへ いく とちゅうで、みちで せんせいを みた",
+      "front": "かいしゃへ いく とちゅうで、みちで せんせいを みた"
+    },
+    {
+      "id": "ja-keita-dialogue-340-かえる まえに うちに でんわを しなきゃ",
       "front": "かえる まえに うちに でんわを しなきゃ"
     },
     {
-      "id": "ja-keita-dialogue-231-かえる まえに ことばを おぼえておく",
+      "id": "ja-keita-dialogue-341-かえる まえに ことばを おぼえておく",
       "front": "かえる まえに ことばを おぼえておく"
     },
     {
-      "id": "ja-keita-dialogue-232-かぎ、ある？",
+      "id": "ja-keita-dialogue-342-かおが あかい",
+      "front": "かおが あかい"
+    },
+    {
+      "id": "ja-keita-dialogue-343-かおが あかいよ",
+      "front": "かおが あかいよ"
+    },
+    {
+      "id": "ja-keita-dialogue-344-かおが にんぎょうのようだよ",
+      "front": "かおが にんぎょうのようだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-345-かぎ、ある？",
       "front": "かぎ、ある？"
     },
     {
-      "id": "ja-keita-dialogue-233-かぎは どこ？",
+      "id": "ja-keita-dialogue-346-かぎは どこ？",
       "front": "かぎは どこ？"
     },
     {
-      "id": "ja-keita-dialogue-234-かぜが つよいですよ",
+      "id": "ja-keita-dialogue-347-かさが なさそう",
+      "front": "かさが なさそう"
+    },
+    {
+      "id": "ja-keita-dialogue-348-かさを もっていく？",
+      "front": "かさを もっていく？"
+    },
+    {
+      "id": "ja-keita-dialogue-349-かぜが つよいですよ",
       "front": "かぜが つよいですよ"
     },
     {
-      "id": "ja-keita-dialogue-235-かぞくが けいたいを くれた",
+      "id": "ja-keita-dialogue-350-かぜを ひいたみたい",
+      "front": "かぜを ひいたみたい"
+    },
+    {
+      "id": "ja-keita-dialogue-351-かぜを ひいたみたい。かおが あかいよ",
+      "front": "かぜを ひいたみたい。かおが あかいよ"
+    },
+    {
+      "id": "ja-keita-dialogue-352-かぜを ひいたようだけど、だいじょうぶかな",
+      "front": "かぜを ひいたようだけど、だいじょうぶかな"
+    },
+    {
+      "id": "ja-keita-dialogue-353-かぜを ひいたようだよ",
+      "front": "かぜを ひいたようだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-354-かぜを ひいたようだよ。かおが あかい",
+      "front": "かぜを ひいたようだよ。かおが あかい"
+    },
+    {
+      "id": "ja-keita-dialogue-355-かぞくが けいたいを くれた",
       "front": "かぞくが けいたいを くれた"
     },
     {
-      "id": "ja-keita-dialogue-236-かぞくが けいたいを くれた。よろこんだ",
+      "id": "ja-keita-dialogue-356-かぞくが けいたいを くれた。よろこんだ",
       "front": "かぞくが けいたいを くれた。よろこんだ"
     },
     {
-      "id": "ja-keita-dialogue-237-かぞくの なかで だれが いちばん はたらく？",
+      "id": "ja-keita-dialogue-357-かぞくの なかで だれが いちばん はたらく？",
       "front": "かぞくの なかで だれが いちばん はたらく？"
     },
     {
-      "id": "ja-keita-dialogue-238-かぞくは なんにんですか",
+      "id": "ja-keita-dialogue-358-かぞくは なんにんですか",
       "front": "かぞくは なんにんですか"
     },
     {
-      "id": "ja-keita-dialogue-239-かぞくは なんにん？",
+      "id": "ja-keita-dialogue-359-かぞくは なんにん？",
       "front": "かぞくは なんにん？"
     },
     {
-      "id": "ja-keita-dialogue-240-かばんだ",
+      "id": "ja-keita-dialogue-360-かならず いく？",
+      "front": "かならず いく？"
+    },
+    {
+      "id": "ja-keita-dialogue-361-かばんから おちたと おもう",
+      "front": "かばんから おちたと おもう"
+    },
+    {
+      "id": "ja-keita-dialogue-362-かばんだ",
       "front": "かばんだ"
     },
     {
-      "id": "ja-keita-dialogue-241-かばんに なにが ある？",
+      "id": "ja-keita-dialogue-363-かばんに なにが ある？",
       "front": "かばんに なにが ある？"
     },
     {
-      "id": "ja-keita-dialogue-242-かわで およぐの",
+      "id": "ja-keita-dialogue-364-かわで およぐの",
       "front": "かわで およぐの"
     },
     {
-      "id": "ja-keita-dialogue-243-かわで およぐの。いけより かわの ほうが すきだ",
+      "id": "ja-keita-dialogue-365-かわで およぐの。いけより かわの ほうが すきだ",
       "front": "かわで およぐの。いけより かわの ほうが すきだ"
     },
     {
-      "id": "ja-keita-dialogue-244-かわない",
+      "id": "ja-keita-dialogue-366-かわない",
       "front": "かわない"
     },
     {
-      "id": "ja-keita-dialogue-245-がいこくに いった ことが ある？",
+      "id": "ja-keita-dialogue-367-がいこくに いった ことが ある？",
       "front": "がいこくに いった ことが ある？"
     },
     {
-      "id": "ja-keita-dialogue-246-がくせいだ",
+      "id": "ja-keita-dialogue-368-がくせいだ",
       "front": "がくせいだ"
     },
     {
-      "id": "ja-keita-dialogue-247-がくせいの とき はたらいた",
+      "id": "ja-keita-dialogue-369-がくせいの とき はたらいた",
       "front": "がくせいの とき はたらいた"
     },
     {
-      "id": "ja-keita-dialogue-248-がっこうの なかで どこが いちばん しずか？",
+      "id": "ja-keita-dialogue-370-がっこうから もどってくる？",
+      "front": "がっこうから もどってくる？"
+    },
+    {
+      "id": "ja-keita-dialogue-371-がっこうの なかで どこが いちばん しずか？",
       "front": "がっこうの なかで どこが いちばん しずか？"
     },
     {
-      "id": "ja-keita-dialogue-249-がっこうの りょこうで いった",
+      "id": "ja-keita-dialogue-372-がっこうの りょこうで いった",
       "front": "がっこうの りょこうで いった"
     },
     {
-      "id": "ja-keita-dialogue-250-きっさてんで ちゃを のんでいる",
+      "id": "ja-keita-dialogue-373-がんばったね",
+      "front": "がんばったね"
+    },
+    {
+      "id": "ja-keita-dialogue-374-がんばったのに おちた",
+      "front": "がんばったのに おちた"
+    },
+    {
+      "id": "ja-keita-dialogue-375-がんばろう！",
+      "front": "がんばろう！"
+    },
+    {
+      "id": "ja-keita-dialogue-376-きいた？",
+      "front": "きいた？"
+    },
+    {
+      "id": "ja-keita-dialogue-377-きいた？ミカが らいげつ けっこんすることになった",
+      "front": "きいた？ミカが らいげつ けっこんすることになった"
+    },
+    {
+      "id": "ja-keita-dialogue-378-きざしを みると、あめが ふるようだよ",
+      "front": "きざしを みると、あめが ふるようだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-379-きしゃは なんて いってた？",
+      "front": "きしゃは なんて いってた？"
+    },
+    {
+      "id": "ja-keita-dialogue-380-きしゃは びょうきらしいですね",
+      "front": "きしゃは びょうきらしいですね"
+    },
+    {
+      "id": "ja-keita-dialogue-381-きずは だいじょうぶ？",
+      "front": "きずは だいじょうぶ？"
+    },
+    {
+      "id": "ja-keita-dialogue-382-きそくが それを ゆるさないよ",
+      "front": "きそくが それを ゆるさないよ"
+    },
+    {
+      "id": "ja-keita-dialogue-383-きっさてんで ちゃを のんでいる",
       "front": "きっさてんで ちゃを のんでいる"
     },
     {
-      "id": "ja-keita-dialogue-251-きっさてんと としょかんと どっちが しずか？",
+      "id": "ja-keita-dialogue-384-きっさてんと としょかんと どっちが しずか？",
       "front": "きっさてんと としょかんと どっちが しずか？"
     },
     {
-      "id": "ja-keita-dialogue-252-きっさてんに いきたい",
+      "id": "ja-keita-dialogue-385-きっさてんに いきたい",
       "front": "きっさてんに いきたい"
     },
     {
-      "id": "ja-keita-dialogue-253-きっさてんに いきたい。おいしい ちゃが のみたい",
+      "id": "ja-keita-dialogue-386-きっさてんに いきたい。おいしい ちゃが のみたい",
       "front": "きっさてんに いきたい。おいしい ちゃが のみたい"
     },
     {
-      "id": "ja-keita-dialogue-254-きっさてんに いきましょう",
+      "id": "ja-keita-dialogue-387-きっさてんに いきましょう",
       "front": "きっさてんに いきましょう"
     },
     {
-      "id": "ja-keita-dialogue-255-きっさてんに いく",
+      "id": "ja-keita-dialogue-388-きっさてんに いく",
       "front": "きっさてんに いく"
     },
     {
-      "id": "ja-keita-dialogue-256-きっさてんに いったと おもう",
+      "id": "ja-keita-dialogue-389-きっさてんに いったと おもう",
       "front": "きっさてんに いったと おもう"
     },
     {
-      "id": "ja-keita-dialogue-257-きっぷは いつ かいますか",
+      "id": "ja-keita-dialogue-390-きっぷは いつ かいますか",
       "front": "きっぷは いつ かいますか"
     },
     {
-      "id": "ja-keita-dialogue-258-きっぷは たかい？",
+      "id": "ja-keita-dialogue-391-きっぷは たかい？",
       "front": "きっぷは たかい？"
     },
     {
-      "id": "ja-keita-dialogue-259-きっぷを かってから コーヒーを のむ",
+      "id": "ja-keita-dialogue-392-きっぷは？",
+      "front": "きっぷは？"
+    },
+    {
+      "id": "ja-keita-dialogue-393-きっぷを かってから コーヒーを のむ",
       "front": "きっぷを かってから コーヒーを のむ"
     },
     {
-      "id": "ja-keita-dialogue-260-きのう いった",
+      "id": "ja-keita-dialogue-394-きのう いった",
       "front": "きのう いった"
     },
     {
-      "id": "ja-keita-dialogue-261-きのう いった。ごご さんじだった",
+      "id": "ja-keita-dialogue-395-きのう いった。ごご さんじだった",
       "front": "きのう いった。ごご さんじだった"
     },
     {
-      "id": "ja-keita-dialogue-262-きのう えいがを みた？",
+      "id": "ja-keita-dialogue-396-きのう えいがを みた？",
       "front": "きのう えいがを みた？"
     },
     {
-      "id": "ja-keita-dialogue-263-きのう ごはんは おいしかった？",
+      "id": "ja-keita-dialogue-397-きのう ごはんは おいしかった？",
       "front": "きのう ごはんは おいしかった？"
     },
     {
-      "id": "ja-keita-dialogue-264-きのう じゅぎょうに きませんでした",
+      "id": "ja-keita-dialogue-398-きのう じゅぎょうに きませんでした",
       "front": "きのう じゅぎょうに きませんでした"
     },
     {
-      "id": "ja-keita-dialogue-265-きのう なにを した？",
+      "id": "ja-keita-dialogue-399-きのう たいへんだったよ",
+      "front": "きのう たいへんだったよ"
+    },
+    {
+      "id": "ja-keita-dialogue-400-きのう なにを した？",
       "front": "きのう なにを した？"
     },
     {
-      "id": "ja-keita-dialogue-266-きのう みせに いきましたか",
+      "id": "ja-keita-dialogue-401-きのう みせに いきましたか",
       "front": "きのう みせに いきましたか"
     },
     {
-      "id": "ja-keita-dialogue-267-きのう みた えいがは どうだった？",
+      "id": "ja-keita-dialogue-402-きのう みた えいがは どうだった？",
       "front": "きのう みた えいがは どうだった？"
     },
     {
-      "id": "ja-keita-dialogue-268-きのうの うみは どうだった？",
+      "id": "ja-keita-dialogue-403-きのうの うみは どうだった？",
       "front": "きのうの うみは どうだった？"
     },
     {
-      "id": "ja-keita-dialogue-269-きのうの じゅぎょうは よかったですか",
+      "id": "ja-keita-dialogue-404-きのうの じゅぎょうは よかったですか",
       "front": "きのうの じゅぎょうは よかったですか"
     },
     {
-      "id": "ja-keita-dialogue-270-きのうは なにが したかった？",
+      "id": "ja-keita-dialogue-405-きのうは なにが したかった？",
       "front": "きのうは なにが したかった？"
     },
     {
-      "id": "ja-keita-dialogue-271-きのうは なにを した？",
+      "id": "ja-keita-dialogue-406-きのうは なにを した？",
       "front": "きのうは なにを した？"
     },
     {
-      "id": "ja-keita-dialogue-272-きゅうり",
+      "id": "ja-keita-dialogue-407-きゅうり",
       "front": "きゅうり"
     },
     {
-      "id": "ja-keita-dialogue-273-きゅうり。やすいから よく たべる",
+      "id": "ja-keita-dialogue-408-きゅうり。やすいから よく たべる",
       "front": "きゅうり。やすいから よく たべる"
     },
     {
-      "id": "ja-keita-dialogue-274-きゅうりの ほうが やすい",
+      "id": "ja-keita-dialogue-409-きゅうりの ほうが やすい",
       "front": "きゅうりの ほうが やすい"
     },
     {
-      "id": "ja-keita-dialogue-275-きゅうりは いくら？",
+      "id": "ja-keita-dialogue-410-きゅうりは いくら？",
       "front": "きゅうりは いくら？"
     },
     {
-      "id": "ja-keita-dialogue-276-きゅうりも よんこ ある",
+      "id": "ja-keita-dialogue-411-きゅうりも よんこ ある",
       "front": "きゅうりも よんこ ある"
     },
     {
-      "id": "ja-keita-dialogue-277-きょう いえに きて",
+      "id": "ja-keita-dialogue-412-きょう いえに きて",
       "front": "きょう いえに きて"
     },
     {
-      "id": "ja-keita-dialogue-278-きょう なにを しますか",
+      "id": "ja-keita-dialogue-413-きょう きしゃが いないね",
+      "front": "きょう きしゃが いないね"
+    },
+    {
+      "id": "ja-keita-dialogue-414-きょう なにを しますか",
       "front": "きょう なにを しますか"
     },
     {
-      "id": "ja-keita-dialogue-279-きょう みせに いく？",
+      "id": "ja-keita-dialogue-415-きょう みせに いく？",
       "front": "きょう みせに いく？"
     },
     {
-      "id": "ja-keita-dialogue-280-きょうしつの まどが あいている",
+      "id": "ja-keita-dialogue-416-きょうしつに だれか いる？",
+      "front": "きょうしつに だれか いる？"
+    },
+    {
+      "id": "ja-keita-dialogue-417-きょうしつの まどが あいている",
       "front": "きょうしつの まどが あいている"
     },
     {
-      "id": "ja-keita-dialogue-281-きょうだいは いる？",
+      "id": "ja-keita-dialogue-418-きょうだいは いる？",
       "front": "きょうだいは いる？"
     },
     {
-      "id": "ja-keita-dialogue-282-きょうの てんきは？",
+      "id": "ja-keita-dialogue-419-きょうの てんきは？",
       "front": "きょうの てんきは？"
     },
     {
-      "id": "ja-keita-dialogue-283-きょうは あついでしょ？",
+      "id": "ja-keita-dialogue-420-きょうの ニュース、きいた？",
+      "front": "きょうの ニュース、きいた？"
+    },
+    {
+      "id": "ja-keita-dialogue-421-きょうは あついでしょ？",
       "front": "きょうは あついでしょ？"
     },
     {
-      "id": "ja-keita-dialogue-284-きょうは いく？",
+      "id": "ja-keita-dialogue-422-きょうは いく？",
       "front": "きょうは いく？"
     },
     {
-      "id": "ja-keita-dialogue-285-きょうは かえる",
+      "id": "ja-keita-dialogue-423-きょうは かえる",
       "front": "きょうは かえる"
     },
     {
-      "id": "ja-keita-dialogue-286-きょうは げんきですか",
+      "id": "ja-keita-dialogue-424-きょうは げんきですか",
       "front": "きょうは げんきですか"
     },
     {
-      "id": "ja-keita-dialogue-287-きょうは じゅぎょうに いく？",
+      "id": "ja-keita-dialogue-425-きょうは じゅぎょうに いく？",
       "front": "きょうは じゅぎょうに いく？"
     },
     {
-      "id": "ja-keita-dialogue-288-きょうは だいがくに いきたい？",
+      "id": "ja-keita-dialogue-426-きょうは だいがくに いきたい？",
       "front": "きょうは だいがくに いきたい？"
     },
     {
-      "id": "ja-keita-dialogue-289-きょうは どうしましたか",
+      "id": "ja-keita-dialogue-427-きょうは どうしましたか",
       "front": "きょうは どうしましたか"
     },
     {
-      "id": "ja-keita-dialogue-290-きょうは どこに いく？",
+      "id": "ja-keita-dialogue-428-きょうは どうだった？",
+      "front": "きょうは どうだった？"
+    },
+    {
+      "id": "ja-keita-dialogue-429-きょうは どこに いく？",
       "front": "きょうは どこに いく？"
     },
     {
-      "id": "ja-keita-dialogue-291-ぎゅうにゅうだ",
+      "id": "ja-keita-dialogue-430-きれいな へやだね",
+      "front": "きれいな へやだね"
+    },
+    {
+      "id": "ja-keita-dialogue-431-ぎゅうにゅうだ",
       "front": "ぎゅうにゅうだ"
     },
     {
-      "id": "ja-keita-dialogue-292-ぎゅうにゅうだ。のむ？",
+      "id": "ja-keita-dialogue-432-ぎゅうにゅうだ。のむ？",
       "front": "ぎゅうにゅうだ。のむ？"
     },
     {
-      "id": "ja-keita-dialogue-293-ぎゅうにゅうを のみますか",
+      "id": "ja-keita-dialogue-433-ぎゅうにゅうを のみますか",
       "front": "ぎゅうにゅうを のみますか"
     },
     {
-      "id": "ja-keita-dialogue-294-くうこうに つく まえに なにを かう つもり？",
+      "id": "ja-keita-dialogue-434-くうこうに つく まえに なにを かう つもり？",
       "front": "くうこうに つく まえに なにを かう つもり？"
     },
     {
-      "id": "ja-keita-dialogue-295-くうこうに つく まえに なにを する？",
+      "id": "ja-keita-dialogue-435-くうこうに つく まえに なにを する？",
       "front": "くうこうに つく まえに なにを する？"
     },
     {
-      "id": "ja-keita-dialogue-296-くがつまで にほんに いる",
+      "id": "ja-keita-dialogue-436-くがつまで にほんに いる",
       "front": "くがつまで にほんに いる"
     },
     {
-      "id": "ja-keita-dialogue-297-くじだ",
+      "id": "ja-keita-dialogue-437-くじだ",
       "front": "くじだ"
     },
     {
-      "id": "ja-keita-dialogue-298-くじまでに いきます",
+      "id": "ja-keita-dialogue-438-くじまでに いきます",
       "front": "くじまでに いきます"
     },
     {
-      "id": "ja-keita-dialogue-299-くじまでに いきます。でんしゃで じゅっぷんですから はちじ ごふんに うちから いきます",
+      "id": "ja-keita-dialogue-439-くじまでに いきます。でんしゃで じゅっぷんですから はちじ ごふんに うちから いきます",
       "front": "くじまでに いきます。でんしゃで じゅっぷんですから はちじ ごふんに うちから いきます"
     },
     {
-      "id": "ja-keita-dialogue-300-くすりを ください",
+      "id": "ja-keita-dialogue-440-くすりを ください",
       "front": "くすりを ください"
     },
     {
-      "id": "ja-keita-dialogue-301-くすりを のんだら どうですか",
+      "id": "ja-keita-dialogue-441-くすりを のんだら どうですか",
       "front": "くすりを のんだら どうですか"
     },
     {
-      "id": "ja-keita-dialogue-302-くすりを のんだんだ？",
+      "id": "ja-keita-dialogue-442-くすりを のんだんだ？",
       "front": "くすりを のんだんだ？"
     },
     {
-      "id": "ja-keita-dialogue-303-くつ",
-      "front": "くつ"
+      "id": "ja-keita-dialogue-443-くつ",
+      "front": "くつ",
+      "speech": "靴"
     },
     {
-      "id": "ja-keita-dialogue-304-くつ。ふくが いちばん やすいけど",
+      "id": "ja-keita-dialogue-444-くつ。ふくが いちばん やすいけど",
       "front": "くつ。ふくが いちばん やすいけど"
     },
     {
-      "id": "ja-keita-dialogue-305-くもりでしょう",
+      "id": "ja-keita-dialogue-445-くもりでしょう",
       "front": "くもりでしょう"
     },
     {
-      "id": "ja-keita-dialogue-306-くもりでしょう。ばんに あめが ふるでしょう",
+      "id": "ja-keita-dialogue-446-くもりでしょう。ばんに あめが ふるでしょう",
       "front": "くもりでしょう。ばんに あめが ふるでしょう"
     },
     {
-      "id": "ja-keita-dialogue-307-くると おもう",
+      "id": "ja-keita-dialogue-447-くると おもう",
       "front": "くると おもう"
     },
     {
-      "id": "ja-keita-dialogue-308-くると おもう。じてんしゃで くると おもう",
+      "id": "ja-keita-dialogue-448-くると おもう。じてんしゃで くると おもう",
       "front": "くると おもう。じてんしゃで くると おもう"
     },
     {
-      "id": "ja-keita-dialogue-309-くると おもう。じゅぎょうが あるから くると おもう",
+      "id": "ja-keita-dialogue-449-くると おもう。じゅぎょうが あるから くると おもう",
       "front": "くると おもう。じゅぎょうが あるから くると おもう"
     },
     {
-      "id": "ja-keita-dialogue-310-くるまだ",
+      "id": "ja-keita-dialogue-450-くるまだ",
       "front": "くるまだ"
     },
     {
-      "id": "ja-keita-dialogue-311-くるまは みせの まえに とめる",
+      "id": "ja-keita-dialogue-451-くるまは みせの まえに とめる",
       "front": "くるまは みせの まえに とめる"
     },
     {
-      "id": "ja-keita-dialogue-312-けさ なんじに おきた？",
+      "id": "ja-keita-dialogue-452-けいたいは？",
+      "front": "けいたいは？"
+    },
+    {
+      "id": "ja-keita-dialogue-453-けさ なんじに おきた？",
       "front": "けさ なんじに おきた？"
     },
     {
-      "id": "ja-keita-dialogue-313-ここで けいたいを みても いい？",
+      "id": "ja-keita-dialogue-454-こうえんに いく？",
+      "front": "こうえんに いく？"
+    },
+    {
+      "id": "ja-keita-dialogue-455-こうえんは やめて、うちで おんがくを ききながら しゅくだいを しよう",
+      "front": "こうえんは やめて、うちで おんがくを ききながら しゅくだいを しよう"
+    },
+    {
+      "id": "ja-keita-dialogue-456-こうえんは やめる？",
+      "front": "こうえんは やめる？"
+    },
+    {
+      "id": "ja-keita-dialogue-457-こえが かぜを ひいたみたいだね",
+      "front": "こえが かぜを ひいたみたいだね"
+    },
+    {
+      "id": "ja-keita-dialogue-458-ここで けいたいを みても いい？",
       "front": "ここで けいたいを みても いい？"
     },
     {
-      "id": "ja-keita-dialogue-314-ここで ごはんを たべても いい？",
+      "id": "ja-keita-dialogue-459-ここで ごはんを たべても いい？",
       "front": "ここで ごはんを たべても いい？"
     },
     {
-      "id": "ja-keita-dialogue-315-ここで ちゃを のんでも いい？",
+      "id": "ja-keita-dialogue-460-ここで ちゃを のんでも いい？",
       "front": "ここで ちゃを のんでも いい？"
     },
     {
-      "id": "ja-keita-dialogue-316-ここは かわだ",
+      "id": "ja-keita-dialogue-461-ここは かわだ",
       "front": "ここは かわだ"
     },
     {
-      "id": "ja-keita-dialogue-317-こちらの ほうが やすいです",
+      "id": "ja-keita-dialogue-462-こちらの ほうが やすいです",
       "front": "こちらの ほうが やすいです"
     },
     {
-      "id": "ja-keita-dialogue-318-こちらの ほうが やすいです。ごひゃくえんです",
+      "id": "ja-keita-dialogue-463-こちらの ほうが やすいです。ごひゃくえんです",
       "front": "こちらの ほうが やすいです。ごひゃくえんです"
     },
     {
-      "id": "ja-keita-dialogue-319-ことばの じゅぎょうは どれも むずかしいです",
+      "id": "ja-keita-dialogue-464-ことしの もくひょうは？",
+      "front": "ことしの もくひょうは？"
+    },
+    {
+      "id": "ja-keita-dialogue-465-ことばの じゅぎょうは どれも むずかしいです",
       "front": "ことばの じゅぎょうは どれも むずかしいです"
     },
     {
-      "id": "ja-keita-dialogue-320-こない",
+      "id": "ja-keita-dialogue-466-こどもに まかせるよ",
+      "front": "こどもに まかせるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-467-こない",
       "front": "こない"
     },
     {
-      "id": "ja-keita-dialogue-321-こない。いえで する",
+      "id": "ja-keita-dialogue-468-こない。いえで する",
       "front": "こない。いえで する"
     },
     {
-      "id": "ja-keita-dialogue-322-こないと おもう",
+      "id": "ja-keita-dialogue-469-こないと おもう",
       "front": "こないと おもう"
     },
     {
-      "id": "ja-keita-dialogue-323-こないと おもう。うちで はたらくと おもう",
+      "id": "ja-keita-dialogue-470-こないと おもう。うちで はたらくと おもう",
       "front": "こないと おもう。うちで はたらくと おもう"
     },
     {
-      "id": "ja-keita-dialogue-324-こないと おもう。りょこうに いくから こないと おもう",
+      "id": "ja-keita-dialogue-471-こないと おもう。りょこうに いくから こないと おもう",
       "front": "こないと おもう。りょこうに いくから こないと おもう"
     },
     {
-      "id": "ja-keita-dialogue-325-この えいがは どう おもう？",
+      "id": "ja-keita-dialogue-472-この いえ すてきだね",
+      "front": "この いえ すてきだね"
+    },
+    {
+      "id": "ja-keita-dialogue-473-この えいが どう？",
+      "front": "この えいが どう？"
+    },
+    {
+      "id": "ja-keita-dialogue-474-この えいがは おもしろそう",
+      "front": "この えいがは おもしろそう"
+    },
+    {
+      "id": "ja-keita-dialogue-475-この えいがは どう おもう？",
       "front": "この えいがは どう おもう？"
     },
     {
-      "id": "ja-keita-dialogue-326-この おおきい ボタンは なに？",
+      "id": "ja-keita-dialogue-476-この おおきい ボタンは なに？",
       "front": "この おおきい ボタンは なに？"
     },
     {
-      "id": "ja-keita-dialogue-327-この おみやげは だれから？",
+      "id": "ja-keita-dialogue-477-この おみやげは だれから？",
       "front": "この おみやげは だれから？"
     },
     {
-      "id": "ja-keita-dialogue-328-この かさの ほうが あたらしい",
+      "id": "ja-keita-dialogue-478-この かさの ほうが あたらしい",
       "front": "この かさの ほうが あたらしい"
     },
     {
-      "id": "ja-keita-dialogue-329-この かさの ほうが あたらしい。でも あの かさの ほうが やすい",
+      "id": "ja-keita-dialogue-479-この かさの ほうが あたらしい。でも あの かさの ほうが やすい",
       "front": "この かさの ほうが あたらしい。でも あの かさの ほうが やすい"
     },
     {
-      "id": "ja-keita-dialogue-330-この きかいは どう つかう？",
+      "id": "ja-keita-dialogue-480-この かばん、おもいね",
+      "front": "この かばん、おもいね"
+    },
+    {
+      "id": "ja-keita-dialogue-481-この きかいは どう つかう？",
       "front": "この きかいは どう つかう？"
     },
     {
-      "id": "ja-keita-dialogue-331-この きかいは ボタンを おすと うごく",
+      "id": "ja-keita-dialogue-482-この きかいは ボタンを おすと うごく",
       "front": "この きかいは ボタンを おすと うごく"
     },
     {
-      "id": "ja-keita-dialogue-332-この くつと あの くつと どっちが やすい？",
+      "id": "ja-keita-dialogue-483-この くつと あの くつと どっちが やすい？",
       "front": "この くつと あの くつと どっちが やすい？"
     },
     {
-      "id": "ja-keita-dialogue-333-この くつを かうんだ？",
+      "id": "ja-keita-dialogue-484-この くつを かうんだ？",
       "front": "この くつを かうんだ？"
     },
     {
-      "id": "ja-keita-dialogue-334-この ことばの いみは？",
+      "id": "ja-keita-dialogue-485-この ことばの いみは？",
       "front": "この ことばの いみは？"
     },
     {
-      "id": "ja-keita-dialogue-335-この さかなは たかいんだ",
+      "id": "ja-keita-dialogue-486-この さかなは たかいんだ",
       "front": "この さかなは たかいんだ"
     },
     {
-      "id": "ja-keita-dialogue-336-この しつもんの こたえは わかった？",
+      "id": "ja-keita-dialogue-487-この しつもんの こたえは わかった？",
       "front": "この しつもんの こたえは わかった？"
     },
     {
-      "id": "ja-keita-dialogue-337-この しゃしんの ひとは だれですか",
+      "id": "ja-keita-dialogue-488-この しゃしんの ひとは だれですか",
       "front": "この しゃしんの ひとは だれですか"
     },
     {
-      "id": "ja-keita-dialogue-338-この じしょを あげる",
+      "id": "ja-keita-dialogue-489-この じしょは わかりやすいよ",
+      "front": "この じしょは わかりやすいよ"
+    },
+    {
+      "id": "ja-keita-dialogue-490-この じしょを あげる",
       "front": "この じしょを あげる"
     },
     {
-      "id": "ja-keita-dialogue-339-この じゅぎょうは どうですか",
+      "id": "ja-keita-dialogue-491-この じゅぎょうは どうですか",
       "front": "この じゅぎょうは どうですか"
     },
     {
-      "id": "ja-keita-dialogue-340-この じゅぎょうは どう？",
+      "id": "ja-keita-dialogue-492-この じゅぎょうは どう？",
       "front": "この じゅぎょうは どう？"
     },
     {
-      "id": "ja-keita-dialogue-341-この でんしゃは えきに とまる？",
+      "id": "ja-keita-dialogue-493-この でんしゃは えきに とまる？",
       "front": "この でんしゃは えきに とまる？"
     },
     {
-      "id": "ja-keita-dialogue-342-この ぼうしは いくら？",
+      "id": "ja-keita-dialogue-494-この としょかんは なんじから？",
+      "front": "この としょかんは なんじから？"
+    },
+    {
+      "id": "ja-keita-dialogue-495-この にんぎょう、いもうとさんに そっくりだね",
+      "front": "この にんぎょう、いもうとさんに そっくりだね"
+    },
+    {
+      "id": "ja-keita-dialogue-496-この へや、きれいだね",
+      "front": "この へや、きれいだね"
+    },
+    {
+      "id": "ja-keita-dialogue-497-この ほんを はこんでもらえますか",
+      "front": "この ほんを はこんでもらえますか"
+    },
+    {
+      "id": "ja-keita-dialogue-498-この ぼうしは いくら？",
       "front": "この ぼうしは いくら？"
     },
     {
-      "id": "ja-keita-dialogue-343-この りょうりは からいんだ",
+      "id": "ja-keita-dialogue-499-この みせ どう？",
+      "front": "この みせ どう？"
+    },
+    {
+      "id": "ja-keita-dialogue-500-この りょうりは からいんだ",
       "front": "この りょうりは からいんだ"
     },
     {
-      "id": "ja-keita-dialogue-344-この ボタンを おすと、うごく",
+      "id": "ja-keita-dialogue-501-この ボタンを おすと、うごく",
       "front": "この ボタンを おすと、うごく"
     },
     {
-      "id": "ja-keita-dialogue-345-これ、いくら？",
+      "id": "ja-keita-dialogue-502-これ、いくら？",
       "front": "これ、いくら？"
     },
     {
-      "id": "ja-keita-dialogue-346-これ、きく？",
+      "id": "ja-keita-dialogue-503-これ、きく？",
       "front": "これ、きく？"
     },
     {
-      "id": "ja-keita-dialogue-347-これ、だれの かばん？",
+      "id": "ja-keita-dialogue-504-これ、だれの かばん？",
       "front": "これ、だれの かばん？"
     },
     {
-      "id": "ja-keita-dialogue-348-これ、だれ？",
+      "id": "ja-keita-dialogue-505-これ、だれ？",
       "front": "これ、だれ？"
     },
     {
-      "id": "ja-keita-dialogue-349-これ、なに？",
+      "id": "ja-keita-dialogue-506-これ、なに？",
       "front": "これ、なに？"
     },
     {
-      "id": "ja-keita-dialogue-350-これ、ケンの かばん？",
+      "id": "ja-keita-dialogue-507-これ、ケンの かばん？",
       "front": "これ、ケンの かばん？"
     },
     {
-      "id": "ja-keita-dialogue-351-これは いくらですか",
+      "id": "ja-keita-dialogue-508-これは いくらですか",
       "front": "これは いくらですか"
     },
     {
-      "id": "ja-keita-dialogue-352-これは だれの しゃしん？",
+      "id": "ja-keita-dialogue-509-これは だれの しゃしん？",
       "front": "これは だれの しゃしん？"
     },
     {
-      "id": "ja-keita-dialogue-353-これは だれの じてんしゃ？",
+      "id": "ja-keita-dialogue-510-これは だれの じてんしゃ？",
       "front": "これは だれの じてんしゃ？"
     },
     {
-      "id": "ja-keita-dialogue-354-これは てがみだ",
+      "id": "ja-keita-dialogue-511-これは てがみだ",
       "front": "これは てがみだ"
     },
     {
-      "id": "ja-keita-dialogue-355-これは なんだろう",
+      "id": "ja-keita-dialogue-512-これは なんだろう",
       "front": "これは なんだろう"
     },
     {
-      "id": "ja-keita-dialogue-356-これも ごはん？",
+      "id": "ja-keita-dialogue-513-これも ごはん？",
       "front": "これも ごはん？"
     },
     {
-      "id": "ja-keita-dialogue-357-これも ミカの？",
+      "id": "ja-keita-dialogue-514-これも ミカの？",
       "front": "これも ミカの？"
     },
     {
-      "id": "ja-keita-dialogue-358-これを する",
+      "id": "ja-keita-dialogue-515-これを する",
       "front": "これを する"
     },
     {
-      "id": "ja-keita-dialogue-359-これ？",
+      "id": "ja-keita-dialogue-516-これ？",
       "front": "これ？"
     },
     {
-      "id": "ja-keita-dialogue-360-ごご ごじから ひまだ",
+      "id": "ja-keita-dialogue-517-ごご ごじから ひまだ",
       "front": "ごご ごじから ひまだ"
     },
     {
-      "id": "ja-keita-dialogue-361-ごご ごじから ひまだ。ごはんを たべに いく？",
+      "id": "ja-keita-dialogue-518-ごご ごじから ひまだ。ごはんを たべに いく？",
       "front": "ごご ごじから ひまだ。ごはんを たべに いく？"
     },
     {
-      "id": "ja-keita-dialogue-362-ごご さんじだった",
+      "id": "ja-keita-dialogue-519-ごご さんじだった",
       "front": "ごご さんじだった"
     },
     {
-      "id": "ja-keita-dialogue-363-ごご さんじまでです",
+      "id": "ja-keita-dialogue-520-ごご さんじまでです",
       "front": "ごご さんじまでです"
     },
     {
-      "id": "ja-keita-dialogue-364-ごごから いっしょに いけに いきませんか",
+      "id": "ja-keita-dialogue-521-ごごから いっしょに いけに いきませんか",
       "front": "ごごから いっしょに いけに いきませんか"
     },
     {
-      "id": "ja-keita-dialogue-365-ごごから いっしょに かいものに いきませんか",
+      "id": "ja-keita-dialogue-522-ごごから いっしょに かいものに いきませんか",
       "front": "ごごから いっしょに かいものに いきませんか"
     },
     {
-      "id": "ja-keita-dialogue-366-ごごに いきます",
+      "id": "ja-keita-dialogue-523-ごごに いきます",
       "front": "ごごに いきます"
     },
     {
-      "id": "ja-keita-dialogue-367-ごじに ドアを しめる",
+      "id": "ja-keita-dialogue-524-ごじ",
+      "front": "ごじ"
+    },
+    {
+      "id": "ja-keita-dialogue-525-ごじに ドアを しめる",
       "front": "ごじに ドアを しめる"
     },
     {
-      "id": "ja-keita-dialogue-368-ごじまでに えきへ いきます",
+      "id": "ja-keita-dialogue-526-ごじまでに えきへ いきます",
       "front": "ごじまでに えきへ いきます"
     },
     {
-      "id": "ja-keita-dialogue-369-ごぜん くじに つく つもりだ",
+      "id": "ja-keita-dialogue-527-ごぜん くじに つく つもりだ",
       "front": "ごぜん くじに つく つもりだ"
     },
     {
-      "id": "ja-keita-dialogue-370-ごぜん くじに つく つもりだ。バスで いく",
+      "id": "ja-keita-dialogue-528-ごぜん くじに つく つもりだ。バスで いく",
       "front": "ごぜん くじに つく つもりだ。バスで いく"
     },
     {
-      "id": "ja-keita-dialogue-371-ごぜん じゅうじに した",
+      "id": "ja-keita-dialogue-529-ごぜん じゅうじに した",
       "front": "ごぜん じゅうじに した"
     },
     {
-      "id": "ja-keita-dialogue-372-ごぜん じゅうじに した。パンを かった",
+      "id": "ja-keita-dialogue-530-ごぜん じゅうじに した。パンを かった",
       "front": "ごぜん じゅうじに した。パンを かった"
     },
     {
-      "id": "ja-keita-dialogue-373-ごぜんに えきに いく",
+      "id": "ja-keita-dialogue-531-ごぜんに えきに いく",
       "front": "ごぜんに えきに いく"
     },
     {
-      "id": "ja-keita-dialogue-374-ごぜんに でんわを しましたか",
+      "id": "ja-keita-dialogue-532-ごぜんに でんわを しましたか",
       "front": "ごぜんに でんわを しましたか"
     },
     {
-      "id": "ja-keita-dialogue-375-ごはんも おいしかった",
+      "id": "ja-keita-dialogue-533-ごはんも おいしかった",
       "front": "ごはんも おいしかった"
     },
     {
-      "id": "ja-keita-dialogue-376-ごはんを たべに いく？",
+      "id": "ja-keita-dialogue-534-ごはんを たべに いく？",
       "front": "ごはんを たべに いく？"
     },
     {
-      "id": "ja-keita-dialogue-377-ごはんを たべますか",
+      "id": "ja-keita-dialogue-535-ごはんを たべますか",
       "front": "ごはんを たべますか"
     },
     {
-      "id": "ja-keita-dialogue-378-ごひゃくえんです",
+      "id": "ja-keita-dialogue-536-ごひゃくえんです",
       "front": "ごひゃくえんです"
     },
     {
-      "id": "ja-keita-dialogue-379-ごめんなさい！",
+      "id": "ja-keita-dialogue-537-ごめんなさい",
+      "front": "ごめんなさい"
+    },
+    {
+      "id": "ja-keita-dialogue-538-ごめんなさい！",
       "front": "ごめんなさい！"
     },
     {
-      "id": "ja-keita-dialogue-380-さいふが ない",
+      "id": "ja-keita-dialogue-539-さいふが ない",
       "front": "さいふが ない"
     },
     {
-      "id": "ja-keita-dialogue-381-さくらと いう きっさてんは どう？",
+      "id": "ja-keita-dialogue-540-さいふが ない！",
+      "front": "さいふが ない！"
+    },
+    {
+      "id": "ja-keita-dialogue-541-さいふは どう なった？",
+      "front": "さいふは どう なった？"
+    },
+    {
+      "id": "ja-keita-dialogue-542-さいふを さがす",
+      "front": "さいふを さがす"
+    },
+    {
+      "id": "ja-keita-dialogue-543-さくらと いう きっさてんは どう？",
       "front": "さくらと いう きっさてんは どう？"
     },
     {
-      "id": "ja-keita-dialogue-382-さむいね",
+      "id": "ja-keita-dialogue-544-さむいね",
       "front": "さむいね"
     },
     {
-      "id": "ja-keita-dialogue-383-さむかったので いきませんでした",
+      "id": "ja-keita-dialogue-545-さむかったので いきませんでした",
       "front": "さむかったので いきませんでした"
     },
     {
-      "id": "ja-keita-dialogue-384-さんじ",
+      "id": "ja-keita-dialogue-546-さむく なってきたね",
+      "front": "さむく なってきたね"
+    },
+    {
+      "id": "ja-keita-dialogue-547-さんじ",
       "front": "さんじ"
     },
     {
-      "id": "ja-keita-dialogue-385-さんびゃくえんだ",
+      "id": "ja-keita-dialogue-548-さんびゃくえんだ",
       "front": "さんびゃくえんだ"
     },
     {
-      "id": "ja-keita-dialogue-386-さんぽに いく",
+      "id": "ja-keita-dialogue-549-さんぽに いく",
       "front": "さんぽに いく"
     },
     {
-      "id": "ja-keita-dialogue-387-さんまい",
+      "id": "ja-keita-dialogue-550-さんまい",
       "front": "さんまい"
     },
     {
-      "id": "ja-keita-dialogue-388-さんまい。ケンが くるから",
+      "id": "ja-keita-dialogue-551-さんまい。ケンが くるから",
       "front": "さんまい。ケンが くるから"
     },
     {
-      "id": "ja-keita-dialogue-389-しごとが おわったら、きかいは とまる？",
+      "id": "ja-keita-dialogue-552-ざんねんだね",
+      "front": "ざんねんだね"
+    },
+    {
+      "id": "ja-keita-dialogue-553-しごとが おわったら、きかいは とまる？",
       "front": "しごとが おわったら、きかいは とまる？"
     },
     {
-      "id": "ja-keita-dialogue-390-しごとが おわったら、それを おす",
+      "id": "ja-keita-dialogue-554-しごとが おわったら、それを おす",
       "front": "しごとが おわったら、それを おす"
     },
     {
-      "id": "ja-keita-dialogue-391-しゃしんを みた",
+      "id": "ja-keita-dialogue-555-しごとを さがそうと おもう",
+      "front": "しごとを さがそうと おもう"
+    },
+    {
+      "id": "ja-keita-dialogue-556-しごとを さがそうと おもう。ミカは？",
+      "front": "しごとを さがそうと おもう。ミカは？"
+    },
+    {
+      "id": "ja-keita-dialogue-557-しごとを やめることにした",
+      "front": "しごとを やめることにした"
+    },
+    {
+      "id": "ja-keita-dialogue-558-しずかだね",
+      "front": "しずかだね"
+    },
+    {
+      "id": "ja-keita-dialogue-559-しゃしんを とってくれませんか",
+      "front": "しゃしんを とってくれませんか"
+    },
+    {
+      "id": "ja-keita-dialogue-560-しゃしんを みた",
       "front": "しゃしんを みた"
     },
     {
-      "id": "ja-keita-dialogue-392-しょくじを たべますか",
+      "id": "ja-keita-dialogue-561-しゅくだいで こまったんだ",
+      "front": "しゅくだいで こまったんだ"
+    },
+    {
+      "id": "ja-keita-dialogue-562-しゅくだいで こまったんだ。せんせいが よませる ほんが むずかしい",
+      "front": "しゅくだいで こまったんだ。せんせいが よませる ほんが むずかしい"
+    },
+    {
+      "id": "ja-keita-dialogue-563-しゅくだいは？",
+      "front": "しゅくだいは？"
+    },
+    {
+      "id": "ja-keita-dialogue-564-しゅくだいを している ところだよ",
+      "front": "しゅくだいを している ところだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-565-しゅくだいを はじめよう",
+      "front": "しゅくだいを はじめよう"
+    },
+    {
+      "id": "ja-keita-dialogue-566-しょくじを たべますか",
       "front": "しょくじを たべますか"
     },
     {
-      "id": "ja-keita-dialogue-393-じかんが あるから かいものを しましょう",
+      "id": "ja-keita-dialogue-567-しんじよう",
+      "front": "しんじよう"
+    },
+    {
+      "id": "ja-keita-dialogue-568-じかんが あるから かいものを しましょう",
       "front": "じかんが あるから かいものを しましょう"
     },
     {
-      "id": "ja-keita-dialogue-394-じかんが ないんだ",
+      "id": "ja-keita-dialogue-569-じかんが あれば、てつだって",
+      "front": "じかんが あれば、てつだって"
+    },
+    {
+      "id": "ja-keita-dialogue-570-じかんが ないよ",
+      "front": "じかんが ないよ"
+    },
+    {
+      "id": "ja-keita-dialogue-571-じかんが ないんだ",
       "front": "じかんが ないんだ"
     },
     {
-      "id": "ja-keita-dialogue-395-じかんが ないんだ。あした かいしゃに いかなければ ならない",
+      "id": "ja-keita-dialogue-572-じかんが ないんだ。あした かいしゃに いかなければ ならない",
       "front": "じかんが ないんだ。あした かいしゃに いかなければ ならない"
     },
     {
-      "id": "ja-keita-dialogue-396-じかんが なかったんです",
+      "id": "ja-keita-dialogue-573-じかんが なかったので、やらなかった",
+      "front": "じかんが なかったので、やらなかった"
+    },
+    {
+      "id": "ja-keita-dialogue-574-じかんが なかったんです",
       "front": "じかんが なかったんです"
     },
     {
-      "id": "ja-keita-dialogue-397-じしょで しらべてみる",
+      "id": "ja-keita-dialogue-575-じしょで しらべてみる",
       "front": "じしょで しらべてみる"
     },
     {
-      "id": "ja-keita-dialogue-398-じてんしゃが いちばん やすいけど",
+      "id": "ja-keita-dialogue-576-じてんしゃが いちばん やすいけど",
       "front": "じてんしゃが いちばん やすいけど"
     },
     {
-      "id": "ja-keita-dialogue-399-じてんしゃで くると おもう",
+      "id": "ja-keita-dialogue-577-じてんしゃで くると おもう",
       "front": "じてんしゃで くると おもう"
     },
     {
-      "id": "ja-keita-dialogue-400-じてんしゃと でんしゃと どっちが やすい？",
+      "id": "ja-keita-dialogue-578-じてんしゃと でんしゃと どっちが やすい？",
       "front": "じてんしゃと でんしゃと どっちが やすい？"
     },
     {
-      "id": "ja-keita-dialogue-401-じゅうごえんでした",
+      "id": "ja-keita-dialogue-579-じゃあ、いまは ならべてあるんだね",
+      "front": "じゃあ、いまは ならべてあるんだね"
+    },
+    {
+      "id": "ja-keita-dialogue-580-じゃあ、いまは もう かざってあるんだね",
+      "front": "じゃあ、いまは もう かざってあるんだね"
+    },
+    {
+      "id": "ja-keita-dialogue-581-じゃあ、きょうは うちに いるね",
+      "front": "じゃあ、きょうは うちに いるね"
+    },
+    {
+      "id": "ja-keita-dialogue-582-じゃあ、もう かざってあるんだね",
+      "front": "じゃあ、もう かざってあるんだね"
+    },
+    {
+      "id": "ja-keita-dialogue-583-じゅうごえんでした",
       "front": "じゅうごえんでした"
     },
     {
-      "id": "ja-keita-dialogue-402-じゅうごえんでした。やすいですよ",
+      "id": "ja-keita-dialogue-584-じゅうごえんでした。やすいですよ",
       "front": "じゅうごえんでした。やすいですよ"
     },
     {
-      "id": "ja-keita-dialogue-403-じゅうじ ごふんからです",
+      "id": "ja-keita-dialogue-585-じゅうじ ごふんからです",
       "front": "じゅうじ ごふんからです"
     },
     {
-      "id": "ja-keita-dialogue-404-じゅうじ ごふんからです。ごご さんじまでです",
+      "id": "ja-keita-dialogue-586-じゅうじ ごふんからです。ごご さんじまでです",
       "front": "じゅうじ ごふんからです。ごご さんじまでです"
     },
     {
-      "id": "ja-keita-dialogue-405-じゅうななさいです",
+      "id": "ja-keita-dialogue-587-じゅうななさいです",
       "front": "じゅうななさいです"
     },
     {
-      "id": "ja-keita-dialogue-406-じゅぎょうが あるから くると おもう",
+      "id": "ja-keita-dialogue-588-じゅぎょうが あるから くると おもう",
       "front": "じゅぎょうが あるから くると おもう"
     },
     {
-      "id": "ja-keita-dialogue-407-じゅぎょうが あるので あさは いきません",
+      "id": "ja-keita-dialogue-589-じゅぎょうが あるので あさは いきません",
       "front": "じゅぎょうが あるので あさは いきません"
     },
     {
-      "id": "ja-keita-dialogue-408-じゅぎょうが あるので あさは いきません。ごごに いきます",
+      "id": "ja-keita-dialogue-590-じゅぎょうが あるので あさは いきません。ごごに いきます",
       "front": "じゅぎょうが あるので あさは いきません。ごごに いきます"
     },
     {
-      "id": "ja-keita-dialogue-409-じゅぎょうの なかで どれが いちばん むずかしいですか",
+      "id": "ja-keita-dialogue-591-じゅぎょうの なかで どれが いちばん むずかしいですか",
       "front": "じゅぎょうの なかで どれが いちばん むずかしいですか"
     },
     {
-      "id": "ja-keita-dialogue-410-じゅぎょうの なかで どれが いちばん むずかしい？",
+      "id": "ja-keita-dialogue-592-じゅぎょうの なかで どれが いちばん むずかしい？",
       "front": "じゅぎょうの なかで どれが いちばん むずかしい？"
     },
     {
-      "id": "ja-keita-dialogue-411-じゅぎょうの まえに なにを した？",
+      "id": "ja-keita-dialogue-593-じゅぎょうの まえに なにを した？",
       "front": "じゅぎょうの まえに なにを した？"
     },
     {
-      "id": "ja-keita-dialogue-412-じゅぎょうは なんじからですか",
+      "id": "ja-keita-dialogue-594-じゅぎょうは なんじからですか",
       "front": "じゅぎょうは なんじからですか"
     },
     {
-      "id": "ja-keita-dialogue-413-すしが たべられる？",
+      "id": "ja-keita-dialogue-595-すしが たべられる？",
       "front": "すしが たべられる？"
     },
     {
-      "id": "ja-keita-dialogue-414-すしを たべに いく",
+      "id": "ja-keita-dialogue-596-すしを たべに いく",
       "front": "すしを たべに いく"
     },
     {
-      "id": "ja-keita-dialogue-415-すずしいから さんぽを する",
+      "id": "ja-keita-dialogue-597-すずしいから さんぽを する",
       "front": "すずしいから さんぽを する"
     },
     {
-      "id": "ja-keita-dialogue-416-すみません",
+      "id": "ja-keita-dialogue-598-すみません",
       "front": "すみません"
     },
     {
-      "id": "ja-keita-dialogue-417-すみません あたまが いたいです",
+      "id": "ja-keita-dialogue-599-すみません あたまが いたいです",
       "front": "すみません あたまが いたいです"
     },
     {
-      "id": "ja-keita-dialogue-418-すみません あたまが いたいです。くすりを ください",
+      "id": "ja-keita-dialogue-600-すみません あたまが いたいです。くすりを ください",
       "front": "すみません あたまが いたいです。くすりを ください"
     },
     {
-      "id": "ja-keita-dialogue-419-すみません この かさと あの かさと どちらが やすいですか",
+      "id": "ja-keita-dialogue-601-すみません この かさと あの かさと どちらが やすいですか",
       "front": "すみません この かさと あの かさと どちらが やすいですか"
     },
     {
-      "id": "ja-keita-dialogue-420-すみません ごごは ちょっと",
+      "id": "ja-keita-dialogue-602-すみません ごごは ちょっと",
       "front": "すみません ごごは ちょっと"
     },
     {
-      "id": "ja-keita-dialogue-421-すみません ごごは ちょっと。あきの さんぽに いくんです",
+      "id": "ja-keita-dialogue-603-すみません ごごは ちょっと。あきの さんぽに いくんです",
       "front": "すみません ごごは ちょっと。あきの さんぽに いくんです"
     },
     {
-      "id": "ja-keita-dialogue-422-すみません びょういんに いかなければ なりません",
+      "id": "ja-keita-dialogue-604-すみません びょういんに いかなければ なりません",
       "front": "すみません びょういんに いかなければ なりません"
     },
     {
-      "id": "ja-keita-dialogue-423-すみません びょういんは どこですか",
+      "id": "ja-keita-dialogue-605-すみません びょういんは どこですか",
       "front": "すみません びょういんは どこですか"
     },
     {
-      "id": "ja-keita-dialogue-424-すみません コーヒーを さんばい ください",
+      "id": "ja-keita-dialogue-606-すみません コーヒーを さんばい ください",
       "front": "すみません コーヒーを さんばい ください"
     },
     {
-      "id": "ja-keita-dialogue-425-すみません。さむかったので いきませんでした",
+      "id": "ja-keita-dialogue-607-すみません、しゃしんを とってもらえますか",
+      "front": "すみません、しゃしんを とってもらえますか"
+    },
+    {
+      "id": "ja-keita-dialogue-608-すみません。さむかったので いきませんでした",
       "front": "すみません。さむかったので いきませんでした"
     },
     {
-      "id": "ja-keita-dialogue-426-すみません。ちゃは いくらですか",
+      "id": "ja-keita-dialogue-609-すみません。ちゃは いくらですか",
       "front": "すみません。ちゃは いくらですか"
     },
     {
-      "id": "ja-keita-dialogue-427-すみません。ぼうしは いくらですか",
+      "id": "ja-keita-dialogue-610-すみません。ぼうしは いくらですか",
       "front": "すみません。ぼうしは いくらですか"
     },
     {
-      "id": "ja-keita-dialogue-428-せんげつ かった",
+      "id": "ja-keita-dialogue-611-せんえんしか ない",
+      "front": "せんえんしか ない"
+    },
+    {
+      "id": "ja-keita-dialogue-612-せんげつ かった",
       "front": "せんげつ かった"
     },
     {
-      "id": "ja-keita-dialogue-429-せんせいが ぼくにも くれる？",
+      "id": "ja-keita-dialogue-613-せんせい、しゃしんを とってもらえますか",
+      "front": "せんせい、しゃしんを とってもらえますか"
+    },
+    {
+      "id": "ja-keita-dialogue-614-せんせいが こまっているよ",
+      "front": "せんせいが こまっているよ"
+    },
+    {
+      "id": "ja-keita-dialogue-615-せんせいが ぼくにも くれる？",
       "front": "せんせいが ぼくにも くれる？"
     },
     {
-      "id": "ja-keita-dialogue-430-せんせいだ",
+      "id": "ja-keita-dialogue-616-せんせいが よませる ほんが むずかしい",
+      "front": "せんせいが よませる ほんが むずかしい"
+    },
+    {
+      "id": "ja-keita-dialogue-617-せんせいだ",
       "front": "せんせいだ"
     },
     {
-      "id": "ja-keita-dialogue-431-せんせいです",
+      "id": "ja-keita-dialogue-618-せんせいです",
       "front": "せんせいです"
     },
     {
-      "id": "ja-keita-dialogue-432-せんせいに もらう",
+      "id": "ja-keita-dialogue-619-せんせいに しかられたよ",
+      "front": "せんせいに しかられたよ"
+    },
+    {
+      "id": "ja-keita-dialogue-620-せんせいに しかられたんだ",
+      "front": "せんせいに しかられたんだ"
+    },
+    {
+      "id": "ja-keita-dialogue-621-せんせいに しかられたんだ。おやが むりやり いぬの せわを させるから",
+      "front": "せんせいに しかられたんだ。おやが むりやり いぬの せわを させるから"
+    },
+    {
+      "id": "ja-keita-dialogue-622-せんせいに ほめられたよ！",
+      "front": "せんせいに ほめられたよ！"
+    },
+    {
+      "id": "ja-keita-dialogue-623-せんせいに もらう",
       "front": "せんせいに もらう"
     },
     {
-      "id": "ja-keita-dialogue-433-そう",
+      "id": "ja-keita-dialogue-624-せんせいは いつも いい プレゼントを くださる",
+      "front": "せんせいは いつも いい プレゼントを くださる"
+    },
+    {
+      "id": "ja-keita-dialogue-625-せんせいは どう だった？",
+      "front": "せんせいは どう だった？"
+    },
+    {
+      "id": "ja-keita-dialogue-626-そう",
       "front": "そう"
     },
     {
-      "id": "ja-keita-dialogue-434-そうですか",
+      "id": "ja-keita-dialogue-627-そう だね",
+      "front": "そう だね"
+    },
+    {
+      "id": "ja-keita-dialogue-628-そう だね。たかいけど いい ぼうしだよ",
+      "front": "そう だね。たかいけど いい ぼうしだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-629-そう、ねむそうね",
+      "front": "そう、ねむそうね"
+    },
+    {
+      "id": "ja-keita-dialogue-630-そう、また こよう",
+      "front": "そう、また こよう"
+    },
+    {
+      "id": "ja-keita-dialogue-631-そう。あんしんだね",
+      "front": "そう。あんしんだね"
+    },
+    {
+      "id": "ja-keita-dialogue-632-そう。かさを もっていく？",
+      "front": "そう。かさを もっていく？"
+    },
+    {
+      "id": "ja-keita-dialogue-633-そう。かならず いく？",
+      "front": "そう。かならず いく？"
+    },
+    {
+      "id": "ja-keita-dialogue-634-そう。がんばろう！",
+      "front": "そう。がんばろう！"
+    },
+    {
+      "id": "ja-keita-dialogue-635-そう。しずかだね",
+      "front": "そう。しずかだね"
+    },
+    {
+      "id": "ja-keita-dialogue-636-そうか",
+      "front": "そうか"
+    },
+    {
+      "id": "ja-keita-dialogue-637-そうか。わかった",
+      "front": "そうか。わかった"
+    },
+    {
+      "id": "ja-keita-dialogue-638-そうだね",
+      "front": "そうだね"
+    },
+    {
+      "id": "ja-keita-dialogue-639-そうだね。しんじよう",
+      "front": "そうだね。しんじよう"
+    },
+    {
+      "id": "ja-keita-dialogue-640-そうですか",
       "front": "そうですか"
     },
     {
-      "id": "ja-keita-dialogue-435-そうですか。かぜが つよいですよ",
+      "id": "ja-keita-dialogue-641-そうですか。かぜが つよいですよ",
       "front": "そうですか。かぜが つよいですよ"
     },
     {
-      "id": "ja-keita-dialogue-436-そう？",
+      "id": "ja-keita-dialogue-642-そう？",
       "front": "そう？"
     },
     {
-      "id": "ja-keita-dialogue-437-その けいたい、あたらしい？",
+      "id": "ja-keita-dialogue-643-そう？ わたしは ちがうよ",
+      "front": "そう？ わたしは ちがうよ"
+    },
+    {
+      "id": "ja-keita-dialogue-644-その けいたい、あたらしい？",
       "front": "その けいたい、あたらしい？"
     },
     {
-      "id": "ja-keita-dialogue-438-その さいふは きれいだね",
+      "id": "ja-keita-dialogue-645-その さいふは きれいだね",
       "front": "その さいふは きれいだね"
     },
     {
-      "id": "ja-keita-dialogue-439-その じしょは たかい？",
+      "id": "ja-keita-dialogue-646-その じしょは たかい？",
       "front": "その じしょは たかい？"
     },
     {
-      "id": "ja-keita-dialogue-440-その ひきだしが あく？",
+      "id": "ja-keita-dialogue-647-その ひきだしが あく？",
       "front": "その ひきだしが あく？"
     },
     {
-      "id": "ja-keita-dialogue-441-その カメラは いくら？",
+      "id": "ja-keita-dialogue-648-その カメラは いくら？",
       "front": "その カメラは いくら？"
     },
     {
-      "id": "ja-keita-dialogue-442-それ、だれの じてんしゃ？",
+      "id": "ja-keita-dialogue-649-そらが きれいじゃないね",
+      "front": "そらが きれいじゃないね"
+    },
+    {
+      "id": "ja-keita-dialogue-650-そらの ようすが ちがうかな",
+      "front": "そらの ようすが ちがうかな"
+    },
+    {
+      "id": "ja-keita-dialogue-651-それ、だれの じてんしゃ？",
       "front": "それ、だれの じてんしゃ？"
     },
     {
-      "id": "ja-keita-dialogue-443-それ、なに？",
+      "id": "ja-keita-dialogue-652-それ、なに？",
       "front": "それ、なに？"
     },
     {
-      "id": "ja-keita-dialogue-444-それは わたしの ごはんです",
+      "id": "ja-keita-dialogue-653-それは よかったね",
+      "front": "それは よかったね"
+    },
+    {
+      "id": "ja-keita-dialogue-654-それは わたしの ごはんです",
       "front": "それは わたしの ごはんです"
     },
     {
-      "id": "ja-keita-dialogue-445-それは わたしの じしょです",
+      "id": "ja-keita-dialogue-655-それは わたしの じしょです",
       "front": "それは わたしの じしょです"
     },
     {
-      "id": "ja-keita-dialogue-446-たかいから かわない ほうが いい",
+      "id": "ja-keita-dialogue-656-たいふうは くるの？",
+      "front": "たいふうは くるの？"
+    },
+    {
+      "id": "ja-keita-dialogue-657-たいふうは くるんですか",
+      "front": "たいふうは くるんですか"
+    },
+    {
+      "id": "ja-keita-dialogue-658-たいふうも くるそうだよ",
+      "front": "たいふうも くるそうだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-659-たいふうも くるって うわさで きいた",
+      "front": "たいふうも くるって うわさで きいた"
+    },
+    {
+      "id": "ja-keita-dialogue-660-たいふうも くるって ニュースに あった",
+      "front": "たいふうも くるって ニュースに あった"
+    },
+    {
+      "id": "ja-keita-dialogue-661-たいへんだったね",
+      "front": "たいへんだったね"
+    },
+    {
+      "id": "ja-keita-dialogue-662-たいへんだね",
+      "front": "たいへんだね"
+    },
+    {
+      "id": "ja-keita-dialogue-663-たかいから かわない ほうが いい",
       "front": "たかいから かわない ほうが いい"
     },
     {
-      "id": "ja-keita-dialogue-447-たかいから かわない ほうが いい。やすい にくが いい",
+      "id": "ja-keita-dialogue-664-たかいから かわない ほうが いい。やすい にくが いい",
       "front": "たかいから かわない ほうが いい。やすい にくが いい"
     },
     {
-      "id": "ja-keita-dialogue-448-たなかさん、きょう じゅぎょうが ありますか",
+      "id": "ja-keita-dialogue-665-たかいけど いい ぼうしだよ",
+      "front": "たかいけど いい ぼうしだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-666-たしかに",
+      "front": "たしかに"
+    },
+    {
+      "id": "ja-keita-dialogue-667-たしかに。でも、きっと くるでしょう",
+      "front": "たしかに。でも、きっと くるでしょう"
+    },
+    {
+      "id": "ja-keita-dialogue-668-たてものの むこうに ある",
+      "front": "たてものの むこうに ある"
+    },
+    {
+      "id": "ja-keita-dialogue-669-たてものの むこうに ある。まえに かいだんが ある",
+      "front": "たてものの むこうに ある。まえに かいだんが ある"
+    },
+    {
+      "id": "ja-keita-dialogue-670-たなかさん、かおが あかいね",
+      "front": "たなかさん、かおが あかいね"
+    },
+    {
+      "id": "ja-keita-dialogue-671-たなかさん、かおが あかいね。かぜを ひいたようだけど、だいじょうぶかな",
+      "front": "たなかさん、かおが あかいね。かぜを ひいたようだけど、だいじょうぶかな"
+    },
+    {
+      "id": "ja-keita-dialogue-672-たなかさん、きょう じゅぎょうが ありますか",
       "front": "たなかさん、きょう じゅぎょうが ありますか"
     },
     {
-      "id": "ja-keita-dialogue-449-たなかさん、たべものを かってください",
+      "id": "ja-keita-dialogue-673-たなかさん、くるかな",
+      "front": "たなかさん、くるかな"
+    },
+    {
+      "id": "ja-keita-dialogue-674-たなかさん、たべものを かってください",
       "front": "たなかさん、たべものを かってください"
     },
     {
-      "id": "ja-keita-dialogue-450-たなかさん、みせを おしえてください",
+      "id": "ja-keita-dialogue-675-たなかさん、みせを おしえてください",
       "front": "たなかさん、みせを おしえてください"
     },
     {
-      "id": "ja-keita-dialogue-451-たなかです",
+      "id": "ja-keita-dialogue-676-たなかさんは くると おもう？",
+      "front": "たなかさんは くると おもう？"
+    },
+    {
+      "id": "ja-keita-dialogue-677-たなかさんは くるはずだったけど、まだ こないね",
+      "front": "たなかさんは くるはずだったけど、まだ こないね"
+    },
+    {
+      "id": "ja-keita-dialogue-678-たなかさんは なんて いっていた？",
+      "front": "たなかさんは なんて いっていた？"
+    },
+    {
+      "id": "ja-keita-dialogue-679-たなかです",
       "front": "たなかです"
     },
     {
-      "id": "ja-keita-dialogue-452-たなかに なんと いう？",
+      "id": "ja-keita-dialogue-680-たなかに なんと いう？",
       "front": "たなかに なんと いう？"
     },
     {
-      "id": "ja-keita-dialogue-453-たぶん あしたも あついでしょう",
+      "id": "ja-keita-dialogue-681-たぶん",
+      "front": "たぶん"
+    },
+    {
+      "id": "ja-keita-dialogue-682-たぶん あしたも あついでしょう",
       "front": "たぶん あしたも あついでしょう"
     },
     {
-      "id": "ja-keita-dialogue-454-たぶん あめでしょう",
+      "id": "ja-keita-dialogue-683-たぶん あめでしょう",
       "front": "たぶん あめでしょう"
     },
     {
-      "id": "ja-keita-dialogue-455-たぶん あめでしょう。ばんは ゆきが ふるかな",
+      "id": "ja-keita-dialogue-684-たぶん あめでしょう。ばんは ゆきが ふるかな",
       "front": "たぶん あめでしょう。ばんは ゆきが ふるかな"
     },
     {
-      "id": "ja-keita-dialogue-456-たべない",
+      "id": "ja-keita-dialogue-685-たぶん だいじょうぶだろう",
+      "front": "たぶん だいじょうぶだろう"
+    },
+    {
+      "id": "ja-keita-dialogue-686-たぶん だいじょうぶだろう。でも、やくそくが あるから、たなかさんが くるはずだと おもう",
+      "front": "たぶん だいじょうぶだろう。でも、やくそくが あるから、たなかさんが くるはずだと おもう"
+    },
+    {
+      "id": "ja-keita-dialogue-687-たぶん。でも、きっと せいこうするでしょう",
+      "front": "たぶん。でも、きっと せいこうするでしょう"
+    },
+    {
+      "id": "ja-keita-dialogue-688-たぶん。でも、きっと だいじょうぶでしょう",
+      "front": "たぶん。でも、きっと だいじょうぶでしょう"
+    },
+    {
+      "id": "ja-keita-dialogue-689-たぶん。でも、じゅぎょうが あったから、せいこうするはずだ",
+      "front": "たぶん。でも、じゅぎょうが あったから、せいこうするはずだ"
+    },
+    {
+      "id": "ja-keita-dialogue-690-たべない",
       "front": "たべない"
     },
     {
-      "id": "ja-keita-dialogue-457-たべものの なかで なにが いちばん すき？",
+      "id": "ja-keita-dialogue-691-たべものの なかで なにが いちばん すき？",
       "front": "たべものの なかで なにが いちばん すき？"
     },
     {
-      "id": "ja-keita-dialogue-458-たまごが たべられない",
+      "id": "ja-keita-dialogue-692-たまごが たべられない",
       "front": "たまごが たべられない"
     },
     {
-      "id": "ja-keita-dialogue-459-たまごが たべられる？",
+      "id": "ja-keita-dialogue-693-たまごが たべられる？",
       "front": "たまごが たべられる？"
     },
     {
-      "id": "ja-keita-dialogue-460-たんじょうびに なにを もらいたい？",
+      "id": "ja-keita-dialogue-694-たんじょうびに なにを もらいたい？",
       "front": "たんじょうびに なにを もらいたい？"
     },
     {
-      "id": "ja-keita-dialogue-461-たんじょうびに なにを もらう？",
+      "id": "ja-keita-dialogue-695-たんじょうびに なにを もらう？",
       "front": "たんじょうびに なにを もらう？"
     },
     {
-      "id": "ja-keita-dialogue-462-たんじょうびに なにを もらった？",
+      "id": "ja-keita-dialogue-696-たんじょうびに なにを もらった？",
       "front": "たんじょうびに なにを もらった？"
     },
     {
-      "id": "ja-keita-dialogue-463-だいがくに いきたくなかった",
+      "id": "ja-keita-dialogue-697-だいがくに いきたくなかった",
       "front": "だいがくに いきたくなかった"
     },
     {
-      "id": "ja-keita-dialogue-464-だいがくまで バスに のる？",
+      "id": "ja-keita-dialogue-698-だいがくまで バスに のる？",
       "front": "だいがくまで バスに のる？"
     },
     {
-      "id": "ja-keita-dialogue-465-だいじょうぶ",
-      "front": "だいじょうぶ"
+      "id": "ja-keita-dialogue-699-だいがくを そつぎょうすることになった",
+      "front": "だいがくを そつぎょうすることになった"
     },
     {
-      "id": "ja-keita-dialogue-466-だいじょうぶです",
+      "id": "ja-keita-dialogue-700-だいがくを そつぎょうすることになった。がんばろう！",
+      "front": "だいがくを そつぎょうすることになった。がんばろう！"
+    },
+    {
+      "id": "ja-keita-dialogue-701-だいじょうぶ",
+      "front": "だいじょうぶ",
+      "speech": "大丈夫"
+    },
+    {
+      "id": "ja-keita-dialogue-702-だいじょうぶ。うちに ある",
+      "front": "だいじょうぶ。うちに ある"
+    },
+    {
+      "id": "ja-keita-dialogue-703-だいじょうぶ。コーヒーだけ かおう",
+      "front": "だいじょうぶ。コーヒーだけ かおう"
+    },
+    {
+      "id": "ja-keita-dialogue-704-だいじょうぶです",
       "front": "だいじょうぶです"
     },
     {
-      "id": "ja-keita-dialogue-467-だれが きめる？",
+      "id": "ja-keita-dialogue-705-だいじょうぶ？",
+      "front": "だいじょうぶ？"
+    },
+    {
+      "id": "ja-keita-dialogue-706-だいじょうぶ？ ねつが あるんでしょう？",
+      "front": "だいじょうぶ？ ねつが あるんでしょう？"
+    },
+    {
+      "id": "ja-keita-dialogue-707-だれか あけたの？",
+      "front": "だれか あけたの？"
+    },
+    {
+      "id": "ja-keita-dialogue-708-だれが きめる？",
       "front": "だれが きめる？"
     },
     {
-      "id": "ja-keita-dialogue-468-だれの けいたい？",
+      "id": "ja-keita-dialogue-709-だれに てがみを おくる？",
+      "front": "だれに てがみを おくる？"
+    },
+    {
+      "id": "ja-keita-dialogue-710-だれの けいたい？",
       "front": "だれの けいたい？"
     },
     {
-      "id": "ja-keita-dialogue-469-だれの じしょ？",
+      "id": "ja-keita-dialogue-711-だれの じしょ？",
       "front": "だれの じしょ？"
     },
     {
-      "id": "ja-keita-dialogue-470-だんだん さむく なるんだ",
+      "id": "ja-keita-dialogue-712-だれも いないよ",
+      "front": "だれも いないよ"
+    },
+    {
+      "id": "ja-keita-dialogue-713-だんだん さむく なるんだ",
       "front": "だんだん さむく なるんだ"
     },
     {
-      "id": "ja-keita-dialogue-471-だんだん さむく なるんだ。ふゆの やまは さむすぎる",
+      "id": "ja-keita-dialogue-714-だんだん さむく なるんだ。ふゆの やまは さむすぎる",
       "front": "だんだん さむく なるんだ。ふゆの やまは さむすぎる"
     },
     {
-      "id": "ja-keita-dialogue-472-ちいさすぎるんだ",
+      "id": "ja-keita-dialogue-715-ちいさすぎるんだ",
       "front": "ちいさすぎるんだ"
     },
     {
-      "id": "ja-keita-dialogue-473-ちいさすぎるんだ。おかねも ないんだ",
+      "id": "ja-keita-dialogue-716-ちいさすぎるんだ。おかねも ないんだ",
       "front": "ちいさすぎるんだ。おかねも ないんだ"
     },
     {
-      "id": "ja-keita-dialogue-474-ちかてつ",
-      "front": "ちかてつ"
+      "id": "ja-keita-dialogue-717-ちかてつ",
+      "front": "ちかてつ",
+      "speech": "地下鉄"
     },
     {
-      "id": "ja-keita-dialogue-475-ちかてつ。じてんしゃが いちばん やすいけど",
+      "id": "ja-keita-dialogue-718-ちかてつ。じてんしゃが いちばん やすいけど",
       "front": "ちかてつ。じてんしゃが いちばん やすいけど"
     },
     {
-      "id": "ja-keita-dialogue-476-ちかてつで いきましょう",
+      "id": "ja-keita-dialogue-719-ちかてつで いきましょう",
       "front": "ちかてつで いきましょう"
     },
     {
-      "id": "ja-keita-dialogue-477-ちかてつの ほうが やすいです",
+      "id": "ja-keita-dialogue-720-ちかてつの ほうが やすいです",
       "front": "ちかてつの ほうが やすいです"
     },
     {
-      "id": "ja-keita-dialogue-478-ちかてつの ほうが やすいです。でも でんしゃの ほうが ちかいです",
+      "id": "ja-keita-dialogue-721-ちかてつの ほうが やすいです。でも でんしゃの ほうが ちかいです",
       "front": "ちかてつの ほうが やすいです。でも でんしゃの ほうが ちかいです"
     },
     {
-      "id": "ja-keita-dialogue-479-ちかてつは？",
+      "id": "ja-keita-dialogue-722-ちかてつは？",
       "front": "ちかてつは？"
     },
     {
-      "id": "ja-keita-dialogue-480-ちかみちは ありますか",
+      "id": "ja-keita-dialogue-723-ちかみちは ありますか",
       "front": "ちかみちは ありますか"
     },
     {
-      "id": "ja-keita-dialogue-481-ちち",
-      "front": "ちち"
+      "id": "ja-keita-dialogue-724-ちち",
+      "front": "ちち",
+      "speech": "父"
     },
     {
-      "id": "ja-keita-dialogue-482-ちち。ははも よく はたらくけど",
+      "id": "ja-keita-dialogue-725-ちち。ははも よく はたらくけど",
       "front": "ちち。ははも よく はたらくけど"
     },
     {
-      "id": "ja-keita-dialogue-483-ちちと ははと あにと ぼくだ",
+      "id": "ja-keita-dialogue-726-ちちと ははと あにと ぼくだ",
       "front": "ちちと ははと あにと ぼくだ"
     },
     {
-      "id": "ja-keita-dialogue-484-ちゃは いくらですか",
+      "id": "ja-keita-dialogue-727-ちゃは いくらですか",
       "front": "ちゃは いくらですか"
     },
     {
-      "id": "ja-keita-dialogue-485-ちゃを かう",
+      "id": "ja-keita-dialogue-728-ちゃを かう",
       "front": "ちゃを かう"
     },
     {
-      "id": "ja-keita-dialogue-486-ちゃを のんで",
+      "id": "ja-keita-dialogue-729-ちゃを のんで",
       "front": "ちゃを のんで"
     },
     {
-      "id": "ja-keita-dialogue-487-ちょっと たかい",
+      "id": "ja-keita-dialogue-730-ちょきんすることにした",
+      "front": "ちょきんすることにした"
+    },
+    {
+      "id": "ja-keita-dialogue-731-ちょきんすることにした。ケンは？",
+      "front": "ちょきんすることにした。ケンは？"
+    },
+    {
+      "id": "ja-keita-dialogue-732-ちょきんを はじめることにした",
+      "front": "ちょきんを はじめることにした"
+    },
+    {
+      "id": "ja-keita-dialogue-733-ちょっと たかい",
       "front": "ちょっと たかい"
     },
     {
-      "id": "ja-keita-dialogue-488-つくえが おおきいから へやが せまいんだ",
+      "id": "ja-keita-dialogue-734-つかれたのに、いくの？",
+      "front": "つかれたのに、いくの？"
+    },
+    {
+      "id": "ja-keita-dialogue-735-つかれても、いくよ",
+      "front": "つかれても、いくよ"
+    },
+    {
+      "id": "ja-keita-dialogue-736-つかれても、いくよ。やすいし、べんりだし",
+      "front": "つかれても、いくよ。やすいし、べんりだし"
+    },
+    {
+      "id": "ja-keita-dialogue-737-つくえが おおきいから へやが せまいんだ",
       "front": "つくえが おおきいから へやが せまいんだ"
     },
     {
-      "id": "ja-keita-dialogue-489-でも あの かさの ほうが やすい",
+      "id": "ja-keita-dialogue-738-つくえが おもいね",
+      "front": "つくえが おもいね"
+    },
+    {
+      "id": "ja-keita-dialogue-739-つくえを はこんでくれる？",
+      "front": "つくえを はこんでくれる？"
+    },
+    {
+      "id": "ja-keita-dialogue-740-てつだいましょうか",
+      "front": "てつだいましょうか"
+    },
+    {
+      "id": "ja-keita-dialogue-741-でも あの かさの ほうが やすい",
       "front": "でも あの かさの ほうが やすい"
     },
     {
-      "id": "ja-keita-dialogue-490-でも あの カメラの ほうが やすい",
+      "id": "ja-keita-dialogue-742-でも あの カメラの ほうが やすい",
       "front": "でも あの カメラの ほうが やすい"
     },
     {
-      "id": "ja-keita-dialogue-491-でも この くつの ほうが あたらしい",
+      "id": "ja-keita-dialogue-743-でも この くつの ほうが あたらしい",
       "front": "でも この くつの ほうが あたらしい"
     },
     {
-      "id": "ja-keita-dialogue-492-でも たのしいと おもう",
+      "id": "ja-keita-dialogue-744-でも そらの ようすを みて",
+      "front": "でも そらの ようすを みて"
+    },
+    {
+      "id": "ja-keita-dialogue-745-でも たのしいと おもう",
       "front": "でも たのしいと おもう"
     },
     {
-      "id": "ja-keita-dialogue-493-でも でんしゃの ほうが ちかいです",
+      "id": "ja-keita-dialogue-746-でも でんしゃの ほうが ちかいです",
       "front": "でも でんしゃの ほうが ちかいです"
     },
     {
-      "id": "ja-keita-dialogue-494-でも のどが いたい",
+      "id": "ja-keita-dialogue-747-でも ないしょだよ",
+      "front": "でも ないしょだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-748-でも のどが いたい",
       "front": "でも のどが いたい"
     },
     {
-      "id": "ja-keita-dialogue-495-でんきも きえている",
+      "id": "ja-keita-dialogue-749-でも、いぬの とくちょうも あるよ",
+      "front": "でも、いぬの とくちょうも あるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-750-でも、きっと くるでしょう",
+      "front": "でも、きっと くるでしょう"
+    },
+    {
+      "id": "ja-keita-dialogue-751-でも、きっと せいこうするでしょう",
+      "front": "でも、きっと せいこうするでしょう"
+    },
+    {
+      "id": "ja-keita-dialogue-752-でも、きっと だいじょうぶでしょう",
+      "front": "でも、きっと だいじょうぶでしょう"
+    },
+    {
+      "id": "ja-keita-dialogue-753-でも、じゅぎょうが あったから、せいこうするはずだ",
+      "front": "でも、じゅぎょうが あったから、せいこうするはずだ"
+    },
+    {
+      "id": "ja-keita-dialogue-754-でも、やくそくが あるから、たなかさんが くるはずだと おもう",
+      "front": "でも、やくそくが あるから、たなかさんが くるはずだと おもう"
+    },
+    {
+      "id": "ja-keita-dialogue-755-でも、やくそくが あるよ",
+      "front": "でも、やくそくが あるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-756-でんきも きえている",
       "front": "でんきも きえている"
     },
     {
-      "id": "ja-keita-dialogue-496-でんきを けして",
+      "id": "ja-keita-dialogue-757-でんきを けして",
       "front": "でんきを けして"
     },
     {
-      "id": "ja-keita-dialogue-497-でんしゃで いく",
+      "id": "ja-keita-dialogue-758-でんしゃで いく",
       "front": "でんしゃで いく"
     },
     {
-      "id": "ja-keita-dialogue-498-でんしゃで いく。えきまで あるく",
+      "id": "ja-keita-dialogue-759-でんしゃで いく。えきまで あるく",
       "front": "でんしゃで いく。えきまで あるく"
     },
     {
-      "id": "ja-keita-dialogue-499-でんしゃで じゅっぷんですから はちじ ごふんに うちから いきます",
+      "id": "ja-keita-dialogue-760-でんしゃで じゅっぷんですから はちじ ごふんに うちから いきます",
       "front": "でんしゃで じゅっぷんですから はちじ ごふんに うちから いきます"
     },
     {
-      "id": "ja-keita-dialogue-500-でんしゃと ちかてつと どちらが やすいですか",
+      "id": "ja-keita-dialogue-761-でんしゃと ちかてつと どちらが やすいですか",
       "front": "でんしゃと ちかてつと どちらが やすいですか"
     },
     {
-      "id": "ja-keita-dialogue-501-でんしゃは なんじに くる？",
+      "id": "ja-keita-dialogue-762-でんしゃに まにあう？",
+      "front": "でんしゃに まにあう？"
+    },
+    {
+      "id": "ja-keita-dialogue-763-でんしゃは なんじに くる？",
       "front": "でんしゃは なんじに くる？"
     },
     {
-      "id": "ja-keita-dialogue-502-としょかんは なんじから？",
-      "front": "としょかんは なんじから？"
+      "id": "ja-keita-dialogue-764-としょかんに いこう？",
+      "front": "としょかんに いこう？"
     },
     {
-      "id": "ja-keita-dialogue-503-とってみた",
+      "id": "ja-keita-dialogue-765-とってみた",
       "front": "とってみた"
     },
     {
-      "id": "ja-keita-dialogue-504-とってみた。ケンの いえに おくっておく",
+      "id": "ja-keita-dialogue-766-とってみた。ケンの いえに おくっておく",
       "front": "とってみた。ケンの いえに おくっておく"
     },
     {
-      "id": "ja-keita-dialogue-505-ともだちと あそびます",
+      "id": "ja-keita-dialogue-767-ともだちと あそびます",
       "front": "ともだちと あそびます"
     },
     {
-      "id": "ja-keita-dialogue-506-ともだちの",
+      "id": "ja-keita-dialogue-768-ともだちの",
       "front": "ともだちの"
     },
     {
-      "id": "ja-keita-dialogue-507-ともだちの。あした あげる",
+      "id": "ja-keita-dialogue-769-ともだちの。あした あげる",
       "front": "ともだちの。あした あげる"
     },
     {
-      "id": "ja-keita-dialogue-508-とりあえず たべてみる",
+      "id": "ja-keita-dialogue-770-とりあえず たべてみる",
       "front": "とりあえず たべてみる"
     },
     {
-      "id": "ja-keita-dialogue-509-とりにくは たべられる",
+      "id": "ja-keita-dialogue-771-とりにくは たべられる",
       "front": "とりにくは たべられる"
     },
     {
-      "id": "ja-keita-dialogue-510-とりにくを たべる？",
+      "id": "ja-keita-dialogue-772-とりにくを たべる？",
       "front": "とりにくを たべる？"
     },
     {
-      "id": "ja-keita-dialogue-511-どうして きょう としょかんに いかないんだ？",
+      "id": "ja-keita-dialogue-773-どうして いくの？",
+      "front": "どうして いくの？"
+    },
+    {
+      "id": "ja-keita-dialogue-774-どうして きょう としょかんに いかないんだ？",
       "front": "どうして きょう としょかんに いかないんだ？"
     },
     {
-      "id": "ja-keita-dialogue-512-どうして この ふくを かわないんだ？",
+      "id": "ja-keita-dialogue-775-どうして この ふくを かわないんだ？",
       "front": "どうして この ふくを かわないんだ？"
     },
     {
-      "id": "ja-keita-dialogue-513-どうして この めがねを かわないんだ？",
+      "id": "ja-keita-dialogue-776-どうして この めがねを かわないんだ？",
       "front": "どうして この めがねを かわないんだ？"
     },
     {
-      "id": "ja-keita-dialogue-514-どうして さんぽに いかないんですか",
+      "id": "ja-keita-dialogue-777-どうして さんぽに いかないんですか",
       "front": "どうして さんぽに いかないんですか"
     },
     {
-      "id": "ja-keita-dialogue-515-どうして じゅぎょうに こないんですか",
+      "id": "ja-keita-dialogue-778-どうして じゅぎょうに こないんですか",
       "front": "どうして じゅぎょうに こないんですか"
     },
     {
-      "id": "ja-keita-dialogue-516-どうして ふゆの ふくを かうんだ？",
+      "id": "ja-keita-dialogue-779-どうして ふゆの ふくを かうんだ？",
       "front": "どうして ふゆの ふくを かうんだ？"
     },
     {
-      "id": "ja-keita-dialogue-517-どうして まいにち はたらくんだ？",
+      "id": "ja-keita-dialogue-780-どうして まいにち はたらくんだ？",
       "front": "どうして まいにち はたらくんだ？"
     },
     {
-      "id": "ja-keita-dialogue-518-どこが いたい？",
+      "id": "ja-keita-dialogue-781-どこから？",
+      "front": "どこから？"
+    },
+    {
+      "id": "ja-keita-dialogue-782-どこが いたい？",
       "front": "どこが いたい？"
     },
     {
-      "id": "ja-keita-dialogue-519-どこで たべる？",
+      "id": "ja-keita-dialogue-783-どこで たべる？",
       "front": "どこで たべる？"
     },
     {
-      "id": "ja-keita-dialogue-520-どこで はたらきますか",
+      "id": "ja-keita-dialogue-784-どこで のむ？",
+      "front": "どこで のむ？"
+    },
+    {
+      "id": "ja-keita-dialogue-785-どこで はたらきますか",
       "front": "どこで はたらきますか"
     },
     {
-      "id": "ja-keita-dialogue-521-どこに いきますか",
+      "id": "ja-keita-dialogue-786-どこで みる？",
+      "front": "どこで みる？"
+    },
+    {
+      "id": "ja-keita-dialogue-787-どこに いきますか",
       "front": "どこに いきますか"
     },
     {
-      "id": "ja-keita-dialogue-522-どっちも さんぜんえんだ",
+      "id": "ja-keita-dialogue-788-どっちも さんぜんえんだ",
       "front": "どっちも さんぜんえんだ"
     },
     {
-      "id": "ja-keita-dialogue-523-どっちも さんぜんえんだ。でも この くつの ほうが あたらしい",
+      "id": "ja-keita-dialogue-789-どっちも さんぜんえんだ。でも この くつの ほうが あたらしい",
       "front": "どっちも さんぜんえんだ。でも この くつの ほうが あたらしい"
     },
     {
-      "id": "ja-keita-dialogue-524-どようびに なにを する？",
+      "id": "ja-keita-dialogue-790-どようびに いく",
+      "front": "どようびに いく"
+    },
+    {
+      "id": "ja-keita-dialogue-791-どようびに いく。あさっても いく",
+      "front": "どようびに いく。あさっても いく"
+    },
+    {
+      "id": "ja-keita-dialogue-792-どようびに なにを する？",
       "front": "どようびに なにを する？"
     },
     {
-      "id": "ja-keita-dialogue-525-なつやすみに いく つもりだ",
+      "id": "ja-keita-dialogue-793-どようびは ひま？",
+      "front": "どようびは ひま？"
+    },
+    {
+      "id": "ja-keita-dialogue-794-どろぼうが いるよ！",
+      "front": "どろぼうが いるよ！"
+    },
+    {
+      "id": "ja-keita-dialogue-795-どろぼうに さいふを ぬすまれたんだ",
+      "front": "どろぼうに さいふを ぬすまれたんだ"
+    },
+    {
+      "id": "ja-keita-dialogue-796-どろぼうは どう なった？",
+      "front": "どろぼうは どう なった？"
+    },
+    {
+      "id": "ja-keita-dialogue-797-どろぼうは どうなった？",
+      "front": "どろぼうは どうなった？"
+    },
+    {
+      "id": "ja-keita-dialogue-798-なくしちゃった",
+      "front": "なくしちゃった"
+    },
+    {
+      "id": "ja-keita-dialogue-799-なくしてしまった",
+      "front": "なくしてしまった"
+    },
+    {
+      "id": "ja-keita-dialogue-800-なくしてしまった。ごめんなさい",
+      "front": "なくしてしまった。ごめんなさい"
+    },
+    {
+      "id": "ja-keita-dialogue-801-なつやすみに いく つもりだ",
       "front": "なつやすみに いく つもりだ"
     },
     {
-      "id": "ja-keita-dialogue-526-なつやすみに かわで あそびたい",
+      "id": "ja-keita-dialogue-802-なつやすみに かわで あそびたい",
       "front": "なつやすみに かわで あそびたい"
     },
     {
-      "id": "ja-keita-dialogue-527-なつやすみに がいこくに いくんですか",
+      "id": "ja-keita-dialogue-803-なつやすみに がいこくに いくんですか",
       "front": "なつやすみに がいこくに いくんですか"
     },
     {
-      "id": "ja-keita-dialogue-528-なつやすみに なにを するのが いちばん すき？",
+      "id": "ja-keita-dialogue-804-なつやすみに なにを するのが いちばん すき？",
       "front": "なつやすみに なにを するのが いちばん すき？"
     },
     {
-      "id": "ja-keita-dialogue-529-なつやすみに よく かわに いく",
+      "id": "ja-keita-dialogue-805-なつやすみに にほんに いく",
+      "front": "なつやすみに にほんに いく"
+    },
+    {
+      "id": "ja-keita-dialogue-806-なつやすみに よく かわに いく",
       "front": "なつやすみに よく かわに いく"
     },
     {
-      "id": "ja-keita-dialogue-530-なつやすみに りょこうを する？",
+      "id": "ja-keita-dialogue-807-なつやすみに りょこうに いく",
+      "front": "なつやすみに りょこうに いく"
+    },
+    {
+      "id": "ja-keita-dialogue-808-なつやすみに りょこうを する？",
       "front": "なつやすみに りょこうを する？"
     },
     {
-      "id": "ja-keita-dialogue-531-なつやすみの とき なにを した？",
+      "id": "ja-keita-dialogue-809-なつやすみの とき なにを した？",
       "front": "なつやすみの とき なにを した？"
     },
     {
-      "id": "ja-keita-dialogue-532-なつやすみは すき？",
+      "id": "ja-keita-dialogue-810-なつやすみは すき？",
       "front": "なつやすみは すき？"
     },
     {
-      "id": "ja-keita-dialogue-533-なつやすみは どうでしたか",
+      "id": "ja-keita-dialogue-811-なつやすみは どうでしたか",
       "front": "なつやすみは どうでしたか"
     },
     {
-      "id": "ja-keita-dialogue-534-なつやすみは どこに いきますか",
+      "id": "ja-keita-dialogue-812-なつやすみは どこに いきますか",
       "front": "なつやすみは どこに いきますか"
     },
     {
-      "id": "ja-keita-dialogue-535-なつやすみは どこへ いく？",
+      "id": "ja-keita-dialogue-813-なつやすみは どこへ いく？",
       "front": "なつやすみは どこへ いく？"
     },
     {
-      "id": "ja-keita-dialogue-536-なつやすみは なにが したいですか",
+      "id": "ja-keita-dialogue-814-なつやすみは なにが したいですか",
       "front": "なつやすみは なにが したいですか"
     },
     {
-      "id": "ja-keita-dialogue-537-なつやすみは なにが したい？",
+      "id": "ja-keita-dialogue-815-なつやすみは なにが したい？",
       "front": "なつやすみは なにが したい？"
     },
     {
-      "id": "ja-keita-dialogue-538-なつやすみは なにを する つもり？",
+      "id": "ja-keita-dialogue-816-なつやすみは なにを する つもり？",
       "front": "なつやすみは なにを する つもり？"
     },
     {
-      "id": "ja-keita-dialogue-539-なつやすみは なにを する？",
+      "id": "ja-keita-dialogue-817-なつやすみは なにを する？",
       "front": "なつやすみは なにを する？"
     },
     {
-      "id": "ja-keita-dialogue-540-なにが のみたい？",
+      "id": "ja-keita-dialogue-818-なにか かってくる？",
+      "front": "なにか かってくる？"
+    },
+    {
+      "id": "ja-keita-dialogue-819-なにが のみたい？",
       "front": "なにが のみたい？"
     },
     {
-      "id": "ja-keita-dialogue-541-なにが ほしい？",
+      "id": "ja-keita-dialogue-820-なにが ほしい？",
       "front": "なにが ほしい？"
     },
     {
-      "id": "ja-keita-dialogue-542-なにを する ことが すき？",
+      "id": "ja-keita-dialogue-821-なにを する ことが すき？",
       "front": "なにを する ことが すき？"
     },
     {
-      "id": "ja-keita-dialogue-543-なにを するのが すき？",
+      "id": "ja-keita-dialogue-822-なにを するのが すき？",
       "front": "なにを するのが すき？"
     },
     {
-      "id": "ja-keita-dialogue-544-なにを する？",
+      "id": "ja-keita-dialogue-823-なにを する？",
       "front": "なにを する？"
     },
     {
-      "id": "ja-keita-dialogue-545-なにを のむ？",
+      "id": "ja-keita-dialogue-824-なにを のむ？",
       "front": "なにを のむ？"
     },
     {
-      "id": "ja-keita-dialogue-546-にぎやかだった",
+      "id": "ja-keita-dialogue-825-なにを もってくる？",
+      "front": "なにを もってくる？"
+    },
+    {
+      "id": "ja-keita-dialogue-826-にぎやかだった",
       "front": "にぎやかだった"
     },
     {
-      "id": "ja-keita-dialogue-547-にぎやかだった。ごはんも おいしかった",
+      "id": "ja-keita-dialogue-827-にぎやかだった。ごはんも おいしかった",
       "front": "にぎやかだった。ごはんも おいしかった"
     },
     {
-      "id": "ja-keita-dialogue-548-にほんに いきたいです",
+      "id": "ja-keita-dialogue-828-にほんに いきたいです",
       "front": "にほんに いきたいです"
     },
     {
-      "id": "ja-keita-dialogue-549-にほんに いきたいです。おいしい りょうりが たべたいです",
+      "id": "ja-keita-dialogue-829-にほんに いきたいです。おいしい りょうりが たべたいです",
       "front": "にほんに いきたいです。おいしい りょうりが たべたいです"
     },
     {
-      "id": "ja-keita-dialogue-550-にほんに いく とき なにを かう？",
+      "id": "ja-keita-dialogue-830-にほんに いく とき なにを かう？",
       "front": "にほんに いく とき なにを かう？"
     },
     {
-      "id": "ja-keita-dialogue-551-にほんに いった とき なにを たべた？",
+      "id": "ja-keita-dialogue-831-にほんに いった とき なにを たべた？",
       "front": "にほんに いった とき なにを たべた？"
     },
     {
-      "id": "ja-keita-dialogue-552-にほんの じしょです",
+      "id": "ja-keita-dialogue-832-にほんの じしょです",
       "front": "にほんの じしょです"
     },
     {
-      "id": "ja-keita-dialogue-553-ねこ、いる？",
+      "id": "ja-keita-dialogue-833-ねこ、いる？",
       "front": "ねこ、いる？"
     },
     {
-      "id": "ja-keita-dialogue-554-ねこは どこ？",
+      "id": "ja-keita-dialogue-834-ねこは どこ？",
       "front": "ねこは どこ？"
     },
     {
-      "id": "ja-keita-dialogue-555-ねつが あります",
+      "id": "ja-keita-dialogue-835-ねつが あります",
       "front": "ねつが あります"
     },
     {
-      "id": "ja-keita-dialogue-556-ねつが あります。のども いたいです",
+      "id": "ja-keita-dialogue-836-ねつが あります。のども いたいです",
       "front": "ねつが あります。のども いたいです"
     },
     {
-      "id": "ja-keita-dialogue-557-ねつが あるから うちに いる",
+      "id": "ja-keita-dialogue-837-ねつが あるから うちに いる",
       "front": "ねつが あるから うちに いる"
     },
     {
-      "id": "ja-keita-dialogue-558-ねつが あるんだ",
+      "id": "ja-keita-dialogue-838-ねつが あるのに がんばった",
+      "front": "ねつが あるのに がんばった"
+    },
+    {
+      "id": "ja-keita-dialogue-839-ねつが あるんだ",
       "front": "ねつが あるんだ"
     },
     {
-      "id": "ja-keita-dialogue-559-ねつが あるんだ。びょういんに いく",
+      "id": "ja-keita-dialogue-840-ねつが あるんだ。びょういんに いく",
       "front": "ねつが あるんだ。びょういんに いく"
     },
     {
-      "id": "ja-keita-dialogue-560-ねつは ない",
+      "id": "ja-keita-dialogue-841-ねつが あるんでしょう？",
+      "front": "ねつが あるんでしょう？"
+    },
+    {
+      "id": "ja-keita-dialogue-842-ねつは ない",
       "front": "ねつは ない"
     },
     {
-      "id": "ja-keita-dialogue-561-ねつも あります",
+      "id": "ja-keita-dialogue-843-ねつも あります",
       "front": "ねつも あります"
     },
     {
-      "id": "ja-keita-dialogue-562-のどが いたいです",
+      "id": "ja-keita-dialogue-844-のどが いたいです",
       "front": "のどが いたいです"
     },
     {
-      "id": "ja-keita-dialogue-563-のどが いたいです。ねつも あります。くすりを ください",
+      "id": "ja-keita-dialogue-845-のどが いたいです。ねつも あります。くすりを ください",
       "front": "のどが いたいです。ねつも あります。くすりを ください"
     },
     {
-      "id": "ja-keita-dialogue-564-のども いたいです",
+      "id": "ja-keita-dialogue-846-のども いたいです",
       "front": "のども いたいです"
     },
     {
-      "id": "ja-keita-dialogue-565-のまない",
+      "id": "ja-keita-dialogue-847-のまない",
       "front": "のまない"
     },
     {
-      "id": "ja-keita-dialogue-566-のみます",
+      "id": "ja-keita-dialogue-848-のみます",
       "front": "のみます"
     },
     {
-      "id": "ja-keita-dialogue-567-のみものの なかで なにが いちばん すき？",
+      "id": "ja-keita-dialogue-849-のみものの なかで なにが いちばん すき？",
       "front": "のみものの なかで なにが いちばん すき？"
     },
     {
-      "id": "ja-keita-dialogue-568-のむ？",
+      "id": "ja-keita-dialogue-850-のむ？",
       "front": "のむ？"
     },
     {
-      "id": "ja-keita-dialogue-569-はい",
+      "id": "ja-keita-dialogue-851-はい",
       "front": "はい"
     },
     {
-      "id": "ja-keita-dialogue-570-はい、いきました",
+      "id": "ja-keita-dialogue-852-はい、いいですよ",
+      "front": "はい、いいですよ"
+    },
+    {
+      "id": "ja-keita-dialogue-853-はい、いきました",
       "front": "はい、いきました"
     },
     {
-      "id": "ja-keita-dialogue-571-はい、いきました。パンを かいました",
+      "id": "ja-keita-dialogue-854-はい、いきました。パンを かいました",
       "front": "はい、いきました。パンを かいました"
     },
     {
-      "id": "ja-keita-dialogue-572-はい、いきます",
+      "id": "ja-keita-dialogue-855-はい、いきます",
       "front": "はい、いきます"
     },
     {
-      "id": "ja-keita-dialogue-573-はい、がくせいです",
+      "id": "ja-keita-dialogue-856-はい、がくせいです",
       "front": "はい、がくせいです"
     },
     {
-      "id": "ja-keita-dialogue-574-はい、ごご よじに いきました",
+      "id": "ja-keita-dialogue-857-はい、ごご よじに いきました",
       "front": "はい、ごご よじに いきました"
     },
     {
-      "id": "ja-keita-dialogue-575-はい、よかったです",
+      "id": "ja-keita-dialogue-858-はい、よかったです",
       "front": "はい、よかったです"
     },
     {
-      "id": "ja-keita-dialogue-576-はい。みせに いきます",
+      "id": "ja-keita-dialogue-859-はい。みせに いきます",
       "front": "はい。みせに いきます"
     },
     {
-      "id": "ja-keita-dialogue-577-はい。コーヒーを のみましょう",
+      "id": "ja-keita-dialogue-860-はい。コーヒーを のみましょう",
       "front": "はい。コーヒーを のみましょう"
     },
     {
-      "id": "ja-keita-dialogue-578-はじめまして",
+      "id": "ja-keita-dialogue-861-はじめまして",
       "front": "はじめまして"
     },
     {
-      "id": "ja-keita-dialogue-579-はじめまして。たなかです",
+      "id": "ja-keita-dialogue-862-はじめまして。たなかです",
       "front": "はじめまして。たなかです"
     },
     {
-      "id": "ja-keita-dialogue-580-はじめまして。ケンだ",
+      "id": "ja-keita-dialogue-863-はじめまして。ケンだ",
       "front": "はじめまして。ケンだ"
     },
     {
-      "id": "ja-keita-dialogue-581-はじめまして。トムだ",
+      "id": "ja-keita-dialogue-864-はじめまして。トムだ",
       "front": "はじめまして。トムだ"
     },
     {
-      "id": "ja-keita-dialogue-582-はたちだから のめる",
+      "id": "ja-keita-dialogue-865-はたちだから のめる",
       "front": "はたちだから のめる"
     },
     {
-      "id": "ja-keita-dialogue-583-はっせんえんだ",
+      "id": "ja-keita-dialogue-866-はっせんえんだ",
       "front": "はっせんえんだ"
     },
     {
-      "id": "ja-keita-dialogue-584-はっせんえんだ。でも あの カメラの ほうが やすい",
+      "id": "ja-keita-dialogue-867-はっせんえんだ。でも あの カメラの ほうが やすい",
       "front": "はっせんえんだ。でも あの カメラの ほうが やすい"
     },
     {
-      "id": "ja-keita-dialogue-585-はなたばを あげる？",
+      "id": "ja-keita-dialogue-868-はなたばを あげる？",
       "front": "はなたばを あげる？"
     },
     {
-      "id": "ja-keita-dialogue-586-ははも よく はたらくけど",
+      "id": "ja-keita-dialogue-869-ははも よく はたらくけど",
       "front": "ははも よく はたらくけど"
     },
     {
-      "id": "ja-keita-dialogue-587-はるに なったら、なにを する？",
+      "id": "ja-keita-dialogue-870-はやいね",
+      "front": "はやいね"
+    },
+    {
+      "id": "ja-keita-dialogue-871-はるに なったら、なにを する？",
       "front": "はるに なったら、なにを する？"
     },
     {
-      "id": "ja-keita-dialogue-588-ばんに あめが ふるでしょう",
+      "id": "ja-keita-dialogue-872-ばんに あめが ふるでしょう",
       "front": "ばんに あめが ふるでしょう"
     },
     {
-      "id": "ja-keita-dialogue-589-ばんに たべすぎたんだ",
+      "id": "ja-keita-dialogue-873-ばんに たべすぎたんだ",
       "front": "ばんに たべすぎたんだ"
     },
     {
-      "id": "ja-keita-dialogue-590-ばんに たべすぎたんだ。いまは たべない",
+      "id": "ja-keita-dialogue-874-ばんに たべすぎたんだ。いまは たべない",
       "front": "ばんに たべすぎたんだ。いまは たべない"
     },
     {
-      "id": "ja-keita-dialogue-591-ばんは ごはんを たべに いく",
+      "id": "ja-keita-dialogue-875-ばんは ごはんを たべに いく",
       "front": "ばんは ごはんを たべに いく"
     },
     {
-      "id": "ja-keita-dialogue-592-ばんは ひまだから いける",
+      "id": "ja-keita-dialogue-876-ばんは ひまだから いける",
       "front": "ばんは ひまだから いける"
     },
     {
-      "id": "ja-keita-dialogue-593-ばんは ゆきが ふるかな",
+      "id": "ja-keita-dialogue-877-ばんは ゆきが ふるかな",
       "front": "ばんは ゆきが ふるかな"
     },
     {
-      "id": "ja-keita-dialogue-594-ひこうきに のった ことが ある？",
+      "id": "ja-keita-dialogue-878-ひこうきに のった ことが ある？",
       "front": "ひこうきに のった ことが ある？"
     },
     {
-      "id": "ja-keita-dialogue-595-ひまな とき うちで する",
+      "id": "ja-keita-dialogue-879-ひまじゃん",
+      "front": "ひまじゃん"
+    },
+    {
+      "id": "ja-keita-dialogue-880-ひまじゃん。コーヒー のむ？",
+      "front": "ひまじゃん。コーヒー のむ？"
+    },
+    {
+      "id": "ja-keita-dialogue-881-ひまでも みない",
+      "front": "ひまでも みない"
+    },
+    {
+      "id": "ja-keita-dialogue-882-ひまな とき うちで する",
       "front": "ひまな とき うちで する"
     },
     {
-      "id": "ja-keita-dialogue-596-ひゃくえんです",
+      "id": "ja-keita-dialogue-883-ひゃくえんです",
       "front": "ひゃくえんです"
     },
     {
-      "id": "ja-keita-dialogue-597-ひゃくえんです。やすいですよ",
+      "id": "ja-keita-dialogue-884-ひゃくえんです。やすいですよ",
       "front": "ひゃくえんです。やすいですよ"
     },
     {
-      "id": "ja-keita-dialogue-598-びょういんに いく",
+      "id": "ja-keita-dialogue-885-びょういんに いく",
       "front": "びょういんに いく"
     },
     {
-      "id": "ja-keita-dialogue-599-びょういんは どこですか",
+      "id": "ja-keita-dialogue-886-びょういんは どこですか",
       "front": "びょういんは どこですか"
     },
     {
-      "id": "ja-keita-dialogue-600-ふくが いちばん やすいけど",
+      "id": "ja-keita-dialogue-887-ふくが いちばん やすいけど",
       "front": "ふくが いちばん やすいけど"
     },
     {
-      "id": "ja-keita-dialogue-601-ふたつ ください",
+      "id": "ja-keita-dialogue-888-ふたつ ください",
       "front": "ふたつ ください"
     },
     {
-      "id": "ja-keita-dialogue-602-ふたつは ミカの？",
+      "id": "ja-keita-dialogue-889-ふたつは ミカの？",
       "front": "ふたつは ミカの？"
     },
     {
-      "id": "ja-keita-dialogue-603-ふたり",
-      "front": "ふたり"
+      "id": "ja-keita-dialogue-890-ふたり",
+      "front": "ふたり",
+      "speech": "二人"
     },
     {
-      "id": "ja-keita-dialogue-604-ふたり。おとうとは きゅうさいだ。いもうとは ろくさいだ",
+      "id": "ja-keita-dialogue-891-ふたり。おとうとは きゅうさいだ。いもうとは ろくさいだ",
       "front": "ふたり。おとうとは きゅうさいだ。いもうとは ろくさいだ"
     },
     {
-      "id": "ja-keita-dialogue-605-ふたりで ろっぱい のんだ",
+      "id": "ja-keita-dialogue-892-ふたりで ろっぱい のんだ",
       "front": "ふたりで ろっぱい のんだ"
     },
     {
-      "id": "ja-keita-dialogue-606-ふゆの やまは さむすぎる",
+      "id": "ja-keita-dialogue-893-ふっても いくよ",
+      "front": "ふっても いくよ"
+    },
+    {
+      "id": "ja-keita-dialogue-894-ふゆの やまは さむすぎる",
       "front": "ふゆの やまは さむすぎる"
     },
     {
-      "id": "ja-keita-dialogue-607-ほしだ",
+      "id": "ja-keita-dialogue-895-へや、きれいだね",
+      "front": "へや、きれいだね"
+    },
+    {
+      "id": "ja-keita-dialogue-896-へやが かざってあるし、ポスターも はってあるし、うれしかったよ",
+      "front": "へやが かざってあるし、ポスターも はってあるし、うれしかったよ"
+    },
+    {
+      "id": "ja-keita-dialogue-897-へやの じゅんびは できた？",
+      "front": "へやの じゅんびは できた？"
+    },
+    {
+      "id": "ja-keita-dialogue-898-へやは どうだった？",
+      "front": "へやは どうだった？"
+    },
+    {
+      "id": "ja-keita-dialogue-899-へやは どう？",
+      "front": "へやは どう？"
+    },
+    {
+      "id": "ja-keita-dialogue-900-ほうそうの はっぴょうを まったほうが いいらしいですね",
+      "front": "ほうそうの はっぴょうを まったほうが いいらしいですね"
+    },
+    {
+      "id": "ja-keita-dialogue-901-ほうそうは どうなるん だろう",
+      "front": "ほうそうは どうなるん だろう"
+    },
+    {
+      "id": "ja-keita-dialogue-902-ほしだ",
       "front": "ほしだ"
     },
     {
-      "id": "ja-keita-dialogue-608-ほんを みてください",
+      "id": "ja-keita-dialogue-903-ほんが きれいに ならんでいるね",
+      "front": "ほんが きれいに ならんでいるね"
+    },
+    {
+      "id": "ja-keita-dialogue-904-ほんとだ",
+      "front": "ほんとだ"
+    },
+    {
+      "id": "ja-keita-dialogue-905-ほんとだ。こえが かぜを ひいたみたいだね",
+      "front": "ほんとだ。こえが かぜを ひいたみたいだね"
+    },
+    {
+      "id": "ja-keita-dialogue-906-ほんとだ。でも、いぬの とくちょうも あるよ",
+      "front": "ほんとだ。でも、いぬの とくちょうも あるよ"
+    },
+    {
+      "id": "ja-keita-dialogue-907-ほんとだ。どこから？",
+      "front": "ほんとだ。どこから？"
+    },
+    {
+      "id": "ja-keita-dialogue-908-ほんは どう なっている？",
+      "front": "ほんは どう なっている？"
+    },
+    {
+      "id": "ja-keita-dialogue-909-ほんは どこに ある？",
+      "front": "ほんは どこに ある？"
+    },
+    {
+      "id": "ja-keita-dialogue-910-ほんを かったばかりだよ",
+      "front": "ほんを かったばかりだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-911-ほんを みてください",
       "front": "ほんを みてください"
     },
     {
-      "id": "ja-keita-dialogue-609-ぼうしは いくらですか",
+      "id": "ja-keita-dialogue-912-ぼうしは いくらですか",
       "front": "ぼうしは いくらですか"
     },
     {
-      "id": "ja-keita-dialogue-610-ぼうしは どこに ある？",
+      "id": "ja-keita-dialogue-913-ぼうしは どこに ある？",
       "front": "ぼうしは どこに ある？"
     },
     {
-      "id": "ja-keita-dialogue-611-ぼうしは どこ？",
+      "id": "ja-keita-dialogue-914-ぼうしは どこ？",
       "front": "ぼうしは どこ？"
     },
     {
-      "id": "ja-keita-dialogue-612-ぼくのを かりる？",
+      "id": "ja-keita-dialogue-915-ぼくの テレビも はこんでくれる？",
+      "front": "ぼくの テレビも はこんでくれる？"
+    },
+    {
+      "id": "ja-keita-dialogue-916-ぼくのを かりる？",
       "front": "ぼくのを かりる？"
     },
     {
-      "id": "ja-keita-dialogue-613-ぼくは いく",
+      "id": "ja-keita-dialogue-917-ぼくは いく",
       "front": "ぼくは いく"
     },
     {
-      "id": "ja-keita-dialogue-614-ぼくは いく。ミカは？",
+      "id": "ja-keita-dialogue-918-ぼくは いく。ミカは？",
       "front": "ぼくは いく。ミカは？"
     },
     {
-      "id": "ja-keita-dialogue-615-ぼくは およぐのが へただ",
+      "id": "ja-keita-dialogue-919-ぼくは およぐのが へただ",
       "front": "ぼくは およぐのが へただ"
     },
     {
-      "id": "ja-keita-dialogue-616-ぼくは およぐのが へただ。きっさてんに いきましょう",
+      "id": "ja-keita-dialogue-920-ぼくは およぐのが へただ。きっさてんに いきましょう",
       "front": "ぼくは およぐのが へただ。きっさてんに いきましょう"
     },
     {
-      "id": "ja-keita-dialogue-617-ぼくは けいたいを もらった",
+      "id": "ja-keita-dialogue-921-ぼくは けいたいを もらった",
       "front": "ぼくは けいたいを もらった"
     },
     {
-      "id": "ja-keita-dialogue-618-ぼくは じてんしゃで こないでしょう",
+      "id": "ja-keita-dialogue-922-ぼくは じてんしゃで こないでしょう",
       "front": "ぼくは じてんしゃで こないでしょう"
     },
     {
-      "id": "ja-keita-dialogue-619-ぼくは せんせいに しつもんを おくっておくんです",
+      "id": "ja-keita-dialogue-923-ぼくは せんせいに しつもんを おくっておくんです",
       "front": "ぼくは せんせいに しつもんを おくっておくんです"
     },
     {
-      "id": "ja-keita-dialogue-620-ぼくは たなかせんせいに おれいの てがみを あげるんです",
+      "id": "ja-keita-dialogue-924-ぼくは たなかせんせいに おれいの てがみを あげるんです",
       "front": "ぼくは たなかせんせいに おれいの てがみを あげるんです"
     },
     {
-      "id": "ja-keita-dialogue-621-ぼくは へただ",
+      "id": "ja-keita-dialogue-925-ぼくは へただ",
       "front": "ぼくは へただ"
     },
     {
-      "id": "ja-keita-dialogue-622-ぼくも はたらくけど トムが いちばん よく はたらく",
+      "id": "ja-keita-dialogue-926-ぼくも たなかさんに つたえるね",
+      "front": "ぼくも たなかさんに つたえるね"
+    },
+    {
+      "id": "ja-keita-dialogue-927-ぼくも はたらくけど トムが いちばん よく はたらく",
       "front": "ぼくも はたらくけど トムが いちばん よく はたらく"
     },
     {
-      "id": "ja-keita-dialogue-623-まだ みていない",
+      "id": "ja-keita-dialogue-928-まいにち いぬの しゃしんを みている",
+      "front": "まいにち いぬの しゃしんを みている"
+    },
+    {
+      "id": "ja-keita-dialogue-929-まいにち れんしゅうを しましょうか",
+      "front": "まいにち れんしゅうを しましょうか"
+    },
+    {
+      "id": "ja-keita-dialogue-930-まえに かいだんが ある",
+      "front": "まえに かいだんが ある"
+    },
+    {
+      "id": "ja-keita-dialogue-931-まだ みていない",
       "front": "まだ みていない"
     },
     {
-      "id": "ja-keita-dialogue-624-まどから なにが みえる？",
+      "id": "ja-keita-dialogue-932-まどから なにが みえる？",
       "front": "まどから なにが みえる？"
     },
     {
-      "id": "ja-keita-dialogue-625-まども あいている",
+      "id": "ja-keita-dialogue-933-まどが あいているね",
+      "front": "まどが あいているね"
+    },
+    {
+      "id": "ja-keita-dialogue-934-まどが あいているね。だれか あけたの？",
+      "front": "まどが あいているね。だれか あけたの？"
+    },
+    {
+      "id": "ja-keita-dialogue-935-まどは どう なっている？",
+      "front": "まどは どう なっている？"
+    },
+    {
+      "id": "ja-keita-dialogue-936-まども あいている",
       "front": "まども あいている"
     },
     {
-      "id": "ja-keita-dialogue-626-まどを あける？",
+      "id": "ja-keita-dialogue-937-まどを あける？",
       "front": "まどを あける？"
     },
     {
-      "id": "ja-keita-dialogue-627-みぎですか、ひだりですか",
+      "id": "ja-keita-dialogue-938-みぎですか、ひだりですか",
       "front": "みぎですか、ひだりですか"
     },
     {
-      "id": "ja-keita-dialogue-628-みず、のむ？",
+      "id": "ja-keita-dialogue-939-みず、のむ？",
       "front": "みず、のむ？"
     },
     {
-      "id": "ja-keita-dialogue-629-みずを ください",
+      "id": "ja-keita-dialogue-940-みずも もってきて",
+      "front": "みずも もってきて"
+    },
+    {
+      "id": "ja-keita-dialogue-941-みずを ください",
       "front": "みずを ください"
     },
     {
-      "id": "ja-keita-dialogue-630-みずを のみますか",
+      "id": "ja-keita-dialogue-942-みずを のみますか",
       "front": "みずを のみますか"
     },
     {
-      "id": "ja-keita-dialogue-631-みずを のんで",
+      "id": "ja-keita-dialogue-943-みずを のんで",
       "front": "みずを のんで"
     },
     {
-      "id": "ja-keita-dialogue-632-みせに いきます",
+      "id": "ja-keita-dialogue-944-みせに いきます",
       "front": "みせに いきます"
     },
     {
-      "id": "ja-keita-dialogue-633-みせは どこに ありますか",
+      "id": "ja-keita-dialogue-945-みせは どこに ありますか",
       "front": "みせは どこに ありますか"
     },
     {
-      "id": "ja-keita-dialogue-634-みせは なんじに しまる？",
+      "id": "ja-keita-dialogue-946-みせは なんじに しまる？",
       "front": "みせは なんじに しまる？"
     },
     {
-      "id": "ja-keita-dialogue-635-みせは にぎやか？",
+      "id": "ja-keita-dialogue-947-みせは にぎやか？",
       "front": "みせは にぎやか？"
     },
     {
-      "id": "ja-keita-dialogue-636-みない つもりだ",
+      "id": "ja-keita-dialogue-948-みて！",
+      "front": "みて！"
+    },
+    {
+      "id": "ja-keita-dialogue-949-みて！この にんぎょう、いもうとさんに そっくりだね",
+      "front": "みて！この にんぎょう、いもうとさんに そっくりだね"
+    },
+    {
+      "id": "ja-keita-dialogue-950-みない つもりだ",
       "front": "みない つもりだ"
     },
     {
-      "id": "ja-keita-dialogue-637-みる？",
+      "id": "ja-keita-dialogue-951-みますね",
+      "front": "みますね"
+    },
+    {
+      "id": "ja-keita-dialogue-952-みる？",
       "front": "みる？"
     },
     {
-      "id": "ja-keita-dialogue-638-むずかしいから せんせいに きいてみる",
+      "id": "ja-keita-dialogue-953-むずかしいから せんせいに きいてみる",
       "front": "むずかしいから せんせいに きいてみる"
     },
     {
-      "id": "ja-keita-dialogue-639-むずかしいと おもう",
+      "id": "ja-keita-dialogue-954-むずかしいと おもう",
       "front": "むずかしいと おもう"
     },
     {
-      "id": "ja-keita-dialogue-640-むずかしいと おもう。でも たのしいと おもう。あした きます",
+      "id": "ja-keita-dialogue-955-むずかしいと おもう。でも たのしいと おもう。あした きます",
       "front": "むずかしいと おもう。でも たのしいと おもう。あした きます"
     },
     {
-      "id": "ja-keita-dialogue-641-むずかしいんです",
+      "id": "ja-keita-dialogue-956-むずかしいんです",
       "front": "むずかしいんです"
     },
     {
-      "id": "ja-keita-dialogue-642-むずかしいんです。えいごの じゅぎょうは たのしいんですけど",
+      "id": "ja-keita-dialogue-957-むずかしいんです。えいごの じゅぎょうは たのしいんですけど",
       "front": "むずかしいんです。えいごの じゅぎょうは たのしいんですけど"
     },
     {
-      "id": "ja-keita-dialogue-643-もう かえる？",
+      "id": "ja-keita-dialogue-958-むりだよ",
+      "front": "むりだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-959-もう かえる？",
       "front": "もう かえる？"
     },
     {
-      "id": "ja-keita-dialogue-644-もう ごはんを たべた？",
+      "id": "ja-keita-dialogue-960-もう きたよ",
+      "front": "もう きたよ"
+    },
+    {
+      "id": "ja-keita-dialogue-961-もう ごはんを たべた？",
       "front": "もう ごはんを たべた？"
     },
     {
-      "id": "ja-keita-dialogue-645-もう たべたと おもう",
+      "id": "ja-keita-dialogue-962-もう してしまったよ",
+      "front": "もう してしまったよ"
+    },
+    {
+      "id": "ja-keita-dialogue-963-もう たべたと おもう",
       "front": "もう たべたと おもう"
     },
     {
-      "id": "ja-keita-dialogue-646-もう たべたと おもう。きっさてんに いったと おもう",
+      "id": "ja-keita-dialogue-964-もう たべたと おもう。きっさてんに いったと おもう",
       "front": "もう たべたと おもう。きっさてんに いったと おもう"
     },
     {
-      "id": "ja-keita-dialogue-647-もも",
-      "front": "もも"
+      "id": "ja-keita-dialogue-965-もも",
+      "front": "もも",
+      "speech": "桃"
     },
     {
-      "id": "ja-keita-dialogue-648-もも。きゅうりの ほうが やすい",
+      "id": "ja-keita-dialogue-966-もも。きゅうりの ほうが やすい",
       "front": "もも。きゅうりの ほうが やすい"
     },
     {
-      "id": "ja-keita-dialogue-649-ももだ",
+      "id": "ja-keita-dialogue-967-ももだ",
       "front": "ももだ"
     },
     {
-      "id": "ja-keita-dialogue-650-やさいの ほうが すきなんだ",
+      "id": "ja-keita-dialogue-968-やくそくが あるから、くるはずだよ",
+      "front": "やくそくが あるから、くるはずだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-969-やくそくが あるから、くるはずだよ。しんじよう",
+      "front": "やくそくが あるから、くるはずだよ。しんじよう"
+    },
+    {
+      "id": "ja-keita-dialogue-970-やさいの ほうが すきなんだ",
       "front": "やさいの ほうが すきなんだ"
     },
     {
-      "id": "ja-keita-dialogue-651-やすい にくが いい",
+      "id": "ja-keita-dialogue-971-やすい にくが いい",
       "front": "やすい にくが いい"
     },
     {
-      "id": "ja-keita-dialogue-652-やすいから よく たべる",
+      "id": "ja-keita-dialogue-972-やすいから よく たべる",
       "front": "やすいから よく たべる"
     },
     {
-      "id": "ja-keita-dialogue-653-やすいですよ",
+      "id": "ja-keita-dialogue-973-やすいし、べんりだし",
+      "front": "やすいし、べんりだし"
+    },
+    {
+      "id": "ja-keita-dialogue-974-やすいし、べんりだし、すきだよ",
+      "front": "やすいし、べんりだし、すきだよ"
+    },
+    {
+      "id": "ja-keita-dialogue-975-やすいですよ",
       "front": "やすいですよ"
     },
     {
-      "id": "ja-keita-dialogue-654-やすみに なったら、なにを しますか",
+      "id": "ja-keita-dialogue-976-やすみに なったら、なにを しますか",
       "front": "やすみに なったら、なにを しますか"
     },
     {
-      "id": "ja-keita-dialogue-655-やすみは なにを する？",
+      "id": "ja-keita-dialogue-977-やすみは なにを する？",
       "front": "やすみは なにを する？"
     },
     {
-      "id": "ja-keita-dialogue-656-やまに いく つもりだ",
+      "id": "ja-keita-dialogue-978-やまに いく つもりだ",
       "front": "やまに いく つもりだ"
     },
     {
-      "id": "ja-keita-dialogue-657-やまに いく つもりだ。うみには いった ことが ある",
+      "id": "ja-keita-dialogue-979-やまに いく つもりだ。うみには いった ことが ある",
       "front": "やまに いく つもりだ。うみには いった ことが ある"
     },
     {
-      "id": "ja-keita-dialogue-658-やまは すずしいでしょう",
+      "id": "ja-keita-dialogue-980-やまは すずしいでしょう",
       "front": "やまは すずしいでしょう"
     },
     {
-      "id": "ja-keita-dialogue-659-ゆきが ぜんぜん なかったので うみに いきました",
+      "id": "ja-keita-dialogue-981-ゆきが ぜんぜん なかったので うみに いきました",
       "front": "ゆきが ぜんぜん なかったので うみに いきました"
     },
     {
-      "id": "ja-keita-dialogue-660-よかった",
+      "id": "ja-keita-dialogue-982-よかった",
       "front": "よかった"
     },
     {
-      "id": "ja-keita-dialogue-661-よかった。くすりを のんだんだ？",
+      "id": "ja-keita-dialogue-983-よかった。くすりを のんだんだ？",
       "front": "よかった。くすりを のんだんだ？"
     },
     {
-      "id": "ja-keita-dialogue-662-よく あたまが いたい？",
+      "id": "ja-keita-dialogue-984-よかったね",
+      "front": "よかったね"
+    },
+    {
+      "id": "ja-keita-dialogue-985-よく あたまが いたい？",
       "front": "よく あたまが いたい？"
     },
     {
-      "id": "ja-keita-dialogue-663-よく うみまで はしる",
+      "id": "ja-keita-dialogue-986-よく うみまで はしる",
       "front": "よく うみまで はしる"
     },
     {
-      "id": "ja-keita-dialogue-664-よにんだ",
+      "id": "ja-keita-dialogue-987-よく かぎを おとす",
+      "front": "よく かぎを おとす"
+    },
+    {
+      "id": "ja-keita-dialogue-988-よにんだ",
       "front": "よにんだ"
     },
     {
-      "id": "ja-keita-dialogue-665-よにんだ。ちちと ははと あにと ぼくだ",
+      "id": "ja-keita-dialogue-989-よにんだ。ちちと ははと あにと ぼくだ",
       "front": "よにんだ。ちちと ははと あにと ぼくだ"
     },
     {
-      "id": "ja-keita-dialogue-666-よにんです",
+      "id": "ja-keita-dialogue-990-よにんです",
       "front": "よにんです"
     },
     {
-      "id": "ja-keita-dialogue-667-よにんです。あには じゅうななさいです",
+      "id": "ja-keita-dialogue-991-よにんです。あには じゅうななさいです",
       "front": "よにんです。あには じゅうななさいです"
     },
     {
-      "id": "ja-keita-dialogue-668-よろこんだ",
+      "id": "ja-keita-dialogue-992-よろこんだ",
       "front": "よろこんだ"
     },
     {
-      "id": "ja-keita-dialogue-669-よんはい のんだ",
+      "id": "ja-keita-dialogue-993-よんはい のんだ",
       "front": "よんはい のんだ"
     },
     {
-      "id": "ja-keita-dialogue-670-よんはい のんだ。ふたりで ろっぱい のんだ",
+      "id": "ja-keita-dialogue-994-よんはい のんだ。ふたりで ろっぱい のんだ",
       "front": "よんはい のんだ。ふたりで ろっぱい のんだ"
     },
     {
-      "id": "ja-keita-dialogue-671-らいげつ じゅぎょうが ありますよ",
+      "id": "ja-keita-dialogue-995-らいげつ じゅぎょうが ありますよ",
       "front": "らいげつ じゅぎょうが ありますよ"
     },
     {
-      "id": "ja-keita-dialogue-672-らいげつ りょこうに いきますよ",
+      "id": "ja-keita-dialogue-996-らいげつ りょこうに いきますよ",
       "front": "らいげつ りょこうに いきますよ"
     },
     {
-      "id": "ja-keita-dialogue-673-りょこうが すきだから",
+      "id": "ja-keita-dialogue-997-らいげつの じゅぎょうは むずかしいですよ",
+      "front": "らいげつの じゅぎょうは むずかしいですよ"
+    },
+    {
+      "id": "ja-keita-dialogue-998-らいしゅう いそがしいから、てつだってくれる？",
+      "front": "らいしゅう いそがしいから、てつだってくれる？"
+    },
+    {
+      "id": "ja-keita-dialogue-999-らいねん そつぎょうすることになった",
+      "front": "らいねん そつぎょうすることになった"
+    },
+    {
+      "id": "ja-keita-dialogue-1000-りょこうが すきだから",
       "front": "りょこうが すきだから"
     },
     {
-      "id": "ja-keita-dialogue-674-りょこうに いく まえに なにを かった？",
+      "id": "ja-keita-dialogue-1001-りょこうに いく まえに なにを かった？",
       "front": "りょこうに いく まえに なにを かった？"
     },
     {
-      "id": "ja-keita-dialogue-675-りょこうに いくから こないと おもう",
+      "id": "ja-keita-dialogue-1002-りょこうに いくから こないと おもう",
       "front": "りょこうに いくから こないと おもう"
     },
     {
-      "id": "ja-keita-dialogue-676-ろくがつから",
+      "id": "ja-keita-dialogue-1003-りょこうに いくなら、おみやげを かっておく？",
+      "front": "りょこうに いくなら、おみやげを かっておく？"
+    },
+    {
+      "id": "ja-keita-dialogue-1004-ろくがつから",
       "front": "ろくがつから"
     },
     {
-      "id": "ja-keita-dialogue-677-ろくがつから くがつまで にほんに いきました",
+      "id": "ja-keita-dialogue-1005-ろくがつから くがつまで にほんに いきました",
       "front": "ろくがつから くがつまで にほんに いきました"
     },
     {
-      "id": "ja-keita-dialogue-678-ろくがつから くがつまで にほんに いきました。ゆきが ぜんぜん なかったので うみに いきました",
+      "id": "ja-keita-dialogue-1006-ろくがつから くがつまで にほんに いきました。ゆきが ぜんぜん なかったので うみに いきました",
       "front": "ろくがつから くがつまで にほんに いきました。ゆきが ぜんぜん なかったので うみに いきました"
     },
     {
-      "id": "ja-keita-dialogue-679-ろくがつから。くがつまで にほんに いる",
+      "id": "ja-keita-dialogue-1007-ろくがつから。くがつまで にほんに いる",
       "front": "ろくがつから。くがつまで にほんに いる"
     },
     {
-      "id": "ja-keita-dialogue-680-ろくさいだ",
+      "id": "ja-keita-dialogue-1008-ろくさいだ",
       "front": "ろくさいだ"
     },
     {
-      "id": "ja-keita-dialogue-681-ろくさいだ。おとうとは きゅうさいだ",
+      "id": "ja-keita-dialogue-1009-ろくさいだ。おとうとは きゅうさいだ",
       "front": "ろくさいだ。おとうとは きゅうさいだ"
     },
     {
-      "id": "ja-keita-dialogue-682-ろっぽん かう",
+      "id": "ja-keita-dialogue-1010-ろっぽん かう",
       "front": "ろっぽん かう"
     },
     {
-      "id": "ja-keita-dialogue-683-ろっぽん かう。おさけは いっぽん かう",
+      "id": "ja-keita-dialogue-1011-ろっぽん かう。おさけは いっぽん かう",
       "front": "ろっぽん かう。おさけは いっぽん かう"
     },
     {
-      "id": "ja-keita-dialogue-684-わかった",
+      "id": "ja-keita-dialogue-1012-わかった",
       "front": "わかった"
     },
     {
-      "id": "ja-keita-dialogue-685-わかった。まだ みていない",
+      "id": "ja-keita-dialogue-1013-わかった、たいへんだね",
+      "front": "わかった、たいへんだね"
+    },
+    {
+      "id": "ja-keita-dialogue-1014-わかった。たいふうも くるって うわさで きいた",
+      "front": "わかった。たいふうも くるって うわさで きいた"
+    },
+    {
+      "id": "ja-keita-dialogue-1015-わかった。たいへんだね",
+      "front": "わかった。たいへんだね"
+    },
+    {
+      "id": "ja-keita-dialogue-1016-わかった。ぼくも たなかさんに つたえるね",
+      "front": "わかった。ぼくも たなかさんに つたえるね"
+    },
+    {
+      "id": "ja-keita-dialogue-1017-わかった。まだ みていない",
       "front": "わかった。まだ みていない"
     },
     {
-      "id": "ja-keita-dialogue-686-わからない",
+      "id": "ja-keita-dialogue-1018-わかった。みますね",
+      "front": "わかった。みますね"
+    },
+    {
+      "id": "ja-keita-dialogue-1019-わからない",
       "front": "わからない"
     },
     {
-      "id": "ja-keita-dialogue-687-わからない。じしょで しらべてみる",
+      "id": "ja-keita-dialogue-1020-わからない。じしょで しらべてみる",
       "front": "わからない。じしょで しらべてみる"
     },
     {
-      "id": "ja-keita-dialogue-688-わからない。せんせいに もらう",
+      "id": "ja-keita-dialogue-1021-わからない。せんせいに もらう",
       "front": "わからない。せんせいに もらう"
     },
     {
-      "id": "ja-keita-dialogue-689-わからない。とりあえず たべてみる",
+      "id": "ja-keita-dialogue-1022-わからない。とりあえず たべてみる",
       "front": "わからない。とりあえず たべてみる"
     },
     {
-      "id": "ja-keita-dialogue-690-わからないと いう",
+      "id": "ja-keita-dialogue-1023-わからない。よく かぎを おとす",
+      "front": "わからない。よく かぎを おとす"
+    },
+    {
+      "id": "ja-keita-dialogue-1024-わからないと いう",
       "front": "わからないと いう"
     },
     {
-      "id": "ja-keita-dialogue-691-わからないと いう。あした はなす",
+      "id": "ja-keita-dialogue-1025-わからないと いう。あした はなす",
       "front": "わからないと いう。あした はなす"
     },
     {
-      "id": "ja-keita-dialogue-692-わたしは がくせいだ",
+      "id": "ja-keita-dialogue-1026-わたしは がくせいだ",
       "front": "わたしは がくせいだ"
     },
     {
-      "id": "ja-keita-dialogue-693-わたしは くるまが ほしい",
+      "id": "ja-keita-dialogue-1027-わたしは くるまが ほしい",
       "front": "わたしは くるまが ほしい"
     },
     {
-      "id": "ja-keita-dialogue-694-わたしは にぎやかな いえに すんでいる",
+      "id": "ja-keita-dialogue-1028-わたしは ちがうよ",
+      "front": "わたしは ちがうよ"
+    },
+    {
+      "id": "ja-keita-dialogue-1029-わたしは にぎやかな いえに すんでいる",
       "front": "わたしは にぎやかな いえに すんでいる"
     },
     {
-      "id": "ja-keita-dialogue-695-わたしは みずを のみたい",
+      "id": "ja-keita-dialogue-1030-わたしは みずを のみたい",
       "front": "わたしは みずを のみたい"
     },
     {
-      "id": "ja-keita-dialogue-696-わたしは アメリカじんだ",
+      "id": "ja-keita-dialogue-1031-わたしは アメリカじんだ",
       "front": "わたしは アメリカじんだ"
     },
     {
-      "id": "ja-keita-dialogue-697-わたしは トムだ",
+      "id": "ja-keita-dialogue-1032-わたしは トムだ",
       "front": "わたしは トムだ"
     },
     {
-      "id": "ja-keita-dialogue-698-わたしは トムだ。がくせいだ",
+      "id": "ja-keita-dialogue-1033-わたしは トムだ。がくせいだ",
       "front": "わたしは トムだ。がくせいだ"
     },
     {
-      "id": "ja-keita-dialogue-699-わたしも",
+      "id": "ja-keita-dialogue-1034-わたしも",
       "front": "わたしも"
     },
     {
-      "id": "ja-keita-dialogue-700-アメリカから くる",
+      "id": "ja-keita-dialogue-1035-アメリカから くる",
       "front": "アメリカから くる"
     },
     {
-      "id": "ja-keita-dialogue-701-ケンが くるから",
+      "id": "ja-keita-dialogue-1036-ケンが くるから",
       "front": "ケンが くるから"
     },
     {
-      "id": "ja-keita-dialogue-702-ケンだ",
+      "id": "ja-keita-dialogue-1037-ケンだ",
       "front": "ケンだ"
     },
     {
-      "id": "ja-keita-dialogue-703-ケンだ。ケンは よく きっさてんで ほんを みる",
+      "id": "ja-keita-dialogue-1038-ケンだ。ケンは よく きっさてんで ほんを みる",
       "front": "ケンだ。ケンは よく きっさてんで ほんを みる"
     },
     {
-      "id": "ja-keita-dialogue-704-ケンの いえに おくっておく",
+      "id": "ja-keita-dialogue-1039-ケンの いえに おくっておく",
       "front": "ケンの いえに おくっておく"
     },
     {
-      "id": "ja-keita-dialogue-705-ケンの てがみだ",
+      "id": "ja-keita-dialogue-1040-ケンの てがみだ",
       "front": "ケンの てがみだ"
     },
     {
-      "id": "ja-keita-dialogue-706-ケンは よく きっさてんで ほんを みる",
+      "id": "ja-keita-dialogue-1041-ケンは げんき？",
+      "front": "ケンは げんき？"
+    },
+    {
+      "id": "ja-keita-dialogue-1042-ケンは よく きっさてんで ほんを みる",
       "front": "ケンは よく きっさてんで ほんを みる"
     },
     {
-      "id": "ja-keita-dialogue-707-コーヒーを のみましょう",
+      "id": "ja-keita-dialogue-1043-ケンは？",
+      "front": "ケンは？"
+    },
+    {
+      "id": "ja-keita-dialogue-1044-コーヒー のむ？",
+      "front": "コーヒー のむ？"
+    },
+    {
+      "id": "ja-keita-dialogue-1045-コーヒーだけ かおう",
+      "front": "コーヒーだけ かおう"
+    },
+    {
+      "id": "ja-keita-dialogue-1046-コーヒーを のみましょう",
       "front": "コーヒーを のみましょう"
     },
     {
-      "id": "ja-keita-dialogue-708-コーヒーを のむ？",
+      "id": "ja-keita-dialogue-1047-コーヒーを のむ？",
       "front": "コーヒーを のむ？"
     },
     {
-      "id": "ja-keita-dialogue-709-スポーツを する？",
+      "id": "ja-keita-dialogue-1048-スポーツを する？",
       "front": "スポーツを する？"
     },
     {
-      "id": "ja-keita-dialogue-710-テレビも けして",
+      "id": "ja-keita-dialogue-1049-タナカさんに よって はつめいされたんだ",
+      "front": "タナカさんに よって はつめいされたんだ"
+    },
+    {
+      "id": "ja-keita-dialogue-1050-テストが こわいから",
+      "front": "テストが こわいから"
+    },
+    {
+      "id": "ja-keita-dialogue-1051-テストの けっか、きっと せいこうするにちがいないよ",
+      "front": "テストの けっか、きっと せいこうするにちがいないよ"
+    },
+    {
+      "id": "ja-keita-dialogue-1052-テストの けっか、しんぱい？",
+      "front": "テストの けっか、しんぱい？"
+    },
+    {
+      "id": "ja-keita-dialogue-1053-テストの じゅんびは？",
+      "front": "テストの じゅんびは？"
+    },
+    {
+      "id": "ja-keita-dialogue-1054-テストは どうだった？",
+      "front": "テストは どうだった？"
+    },
+    {
+      "id": "ja-keita-dialogue-1055-テストは むずかしいだろうね",
+      "front": "テストは むずかしいだろうね"
+    },
+    {
+      "id": "ja-keita-dialogue-1056-テストは むずかしいでしょうね",
+      "front": "テストは むずかしいでしょうね"
+    },
+    {
+      "id": "ja-keita-dialogue-1057-テレビは だめ",
+      "front": "テレビは だめ"
+    },
+    {
+      "id": "ja-keita-dialogue-1058-テレビは？",
+      "front": "テレビは？"
+    },
+    {
+      "id": "ja-keita-dialogue-1059-テレビばかり みたよ",
+      "front": "テレビばかり みたよ"
+    },
+    {
+      "id": "ja-keita-dialogue-1060-テレビも けして",
       "front": "テレビも けして"
     },
     {
-      "id": "ja-keita-dialogue-711-トム",
+      "id": "ja-keita-dialogue-1061-テレビを みよう",
+      "front": "テレビを みよう"
+    },
+    {
+      "id": "ja-keita-dialogue-1062-トム",
       "front": "トム"
     },
     {
-      "id": "ja-keita-dialogue-712-トム。ぼくも はたらくけど トムが いちばん よく はたらく",
+      "id": "ja-keita-dialogue-1063-トム。ぼくも はたらくけど トムが いちばん よく はたらく",
       "front": "トム。ぼくも はたらくけど トムが いちばん よく はたらく"
     },
     {
-      "id": "ja-keita-dialogue-713-トムさん、きょうは はたらきますか",
+      "id": "ja-keita-dialogue-1064-トムさん、きょうは はたらきますか",
       "front": "トムさん、きょうは はたらきますか"
     },
     {
-      "id": "ja-keita-dialogue-714-トムさんは がくせいですか",
+      "id": "ja-keita-dialogue-1065-トムさんは がくせいですか",
       "front": "トムさんは がくせいですか"
     },
     {
-      "id": "ja-keita-dialogue-715-トムだ",
+      "id": "ja-keita-dialogue-1066-トムだ",
       "front": "トムだ"
     },
     {
-      "id": "ja-keita-dialogue-716-トムだ。アメリカから くる。ごぜんに えきに いく",
+      "id": "ja-keita-dialogue-1067-トムだ。アメリカから くる。ごぜんに えきに いく",
       "front": "トムだ。アメリカから くる。ごぜんに えきに いく"
     },
     {
-      "id": "ja-keita-dialogue-717-トムは いま どこに いる？",
+      "id": "ja-keita-dialogue-1068-トムは いま どこに いる？",
       "front": "トムは いま どこに いる？"
     },
     {
-      "id": "ja-keita-dialogue-718-トムは いま なにを している？",
+      "id": "ja-keita-dialogue-1069-トムは いま なにを している？",
       "front": "トムは いま なにを している？"
     },
     {
-      "id": "ja-keita-dialogue-719-トムは がくせい？",
+      "id": "ja-keita-dialogue-1070-トムは がくせい？",
       "front": "トムは がくせい？"
     },
     {
-      "id": "ja-keita-dialogue-720-ドアを ひく？",
+      "id": "ja-keita-dialogue-1071-ドアも あけておくね",
+      "front": "ドアも あけておくね"
+    },
+    {
+      "id": "ja-keita-dialogue-1072-ドアを ひく？",
       "front": "ドアを ひく？"
     },
     {
-      "id": "ja-keita-dialogue-721-ノートに かいている",
+      "id": "ja-keita-dialogue-1073-ノートに かいている",
       "front": "ノートに かいている"
     },
     {
-      "id": "ja-keita-dialogue-722-ノートに かいている。あした クラスが あるから",
+      "id": "ja-keita-dialogue-1074-ノートに かいている。あした クラスが あるから",
       "front": "ノートに かいている。あした クラスが あるから"
     },
     {
-      "id": "ja-keita-dialogue-723-バスで いく",
+      "id": "ja-keita-dialogue-1075-バスで いく",
       "front": "バスで いく"
     },
     {
-      "id": "ja-keita-dialogue-724-バスで じゅっぷんです",
+      "id": "ja-keita-dialogue-1076-バスで じゅっぷんです",
       "front": "バスで じゅっぷんです"
     },
     {
-      "id": "ja-keita-dialogue-725-バスと ちかてつと どっちが いい？",
+      "id": "ja-keita-dialogue-1077-バスと ちかてつと どっちが いい？",
       "front": "バスと ちかてつと どっちが いい？"
     },
     {
-      "id": "ja-keita-dialogue-726-バスと ちかてつと どっちが やすい？",
+      "id": "ja-keita-dialogue-1078-バスと ちかてつと どっちが やすい？",
       "front": "バスと ちかてつと どっちが やすい？"
     },
     {
-      "id": "ja-keita-dialogue-727-バスは やすい？",
+      "id": "ja-keita-dialogue-1079-バスは やすい？",
       "front": "バスは やすい？"
     },
     {
-      "id": "ja-keita-dialogue-728-パンは いくらでしたか",
+      "id": "ja-keita-dialogue-1080-パンは いくらでしたか",
       "front": "パンは いくらでしたか"
     },
     {
-      "id": "ja-keita-dialogue-729-パンは いくらですか",
+      "id": "ja-keita-dialogue-1081-パンは いくらですか",
       "front": "パンは いくらですか"
     },
     {
-      "id": "ja-keita-dialogue-730-パンを かいました",
+      "id": "ja-keita-dialogue-1082-パンを かいました",
       "front": "パンを かいました"
     },
     {
-      "id": "ja-keita-dialogue-731-パンを かう",
+      "id": "ja-keita-dialogue-1083-パンを かう",
       "front": "パンを かう"
     },
     {
-      "id": "ja-keita-dialogue-732-パンを かう？",
+      "id": "ja-keita-dialogue-1084-パンを かう？",
       "front": "パンを かう？"
     },
     {
-      "id": "ja-keita-dialogue-733-パンを かった",
+      "id": "ja-keita-dialogue-1085-パンを かった",
       "front": "パンを かった"
     },
     {
-      "id": "ja-keita-dialogue-734-パンを みっつ かう",
+      "id": "ja-keita-dialogue-1086-パンを みっつ かう",
       "front": "パンを みっつ かう"
     },
     {
-      "id": "ja-keita-dialogue-735-ホテルで たべた",
+      "id": "ja-keita-dialogue-1087-ホテルで たべた",
       "front": "ホテルで たべた"
     },
     {
-      "id": "ja-keita-dialogue-736-ホテルの よやくは ぼくが しとく",
+      "id": "ja-keita-dialogue-1088-ホテルの よやくは ぼくが しとく",
       "front": "ホテルの よやくは ぼくが しとく"
     },
     {
-      "id": "ja-keita-dialogue-737-ミカ、いく？",
+      "id": "ja-keita-dialogue-1089-ポスターも いいね",
+      "front": "ポスターも いいね"
+    },
+    {
+      "id": "ja-keita-dialogue-1090-ポスターも はってあるね",
+      "front": "ポスターも はってあるね"
+    },
+    {
+      "id": "ja-keita-dialogue-1091-ポスターを かべに はる",
+      "front": "ポスターを かべに はる"
+    },
+    {
+      "id": "ja-keita-dialogue-1092-ミカ、いく？",
       "front": "ミカ、いく？"
     },
     {
-      "id": "ja-keita-dialogue-738-ミカ、くる？",
+      "id": "ja-keita-dialogue-1093-ミカ、くる？",
       "front": "ミカ、くる？"
     },
     {
-      "id": "ja-keita-dialogue-739-ミカ、これを かう",
+      "id": "ja-keita-dialogue-1094-ミカ、これを かう",
       "front": "ミカ、これを かう"
     },
     {
-      "id": "ja-keita-dialogue-740-ミカが すきな えいがを しっている？",
+      "id": "ja-keita-dialogue-1095-ミカが すきな えいがを しっている？",
       "front": "ミカが すきな えいがを しっている？"
     },
     {
-      "id": "ja-keita-dialogue-741-ミカさんは がくせいですか",
+      "id": "ja-keita-dialogue-1096-ミカが らいげつ けっこんすることになった",
+      "front": "ミカが らいげつ けっこんすることになった"
+    },
+    {
+      "id": "ja-keita-dialogue-1097-ミカさんは がくせいですか",
       "front": "ミカさんは がくせいですか"
     },
     {
-      "id": "ja-keita-dialogue-742-ミカさんは きょう きますか",
+      "id": "ja-keita-dialogue-1098-ミカさんは きょう きますか",
       "front": "ミカさんは きょう きますか"
     },
     {
-      "id": "ja-keita-dialogue-743-ミカさんは もう たべましたか",
+      "id": "ja-keita-dialogue-1099-ミカさんは もう たべましたか",
       "front": "ミカさんは もう たべましたか"
     },
     {
-      "id": "ja-keita-dialogue-744-ミカと いう がくせいだと おもう",
+      "id": "ja-keita-dialogue-1100-ミカと いう がくせいだと おもう",
       "front": "ミカと いう がくせいだと おもう"
     },
     {
-      "id": "ja-keita-dialogue-745-ミカと いきたい",
+      "id": "ja-keita-dialogue-1101-ミカと いきたい",
       "front": "ミカと いきたい"
     },
     {
-      "id": "ja-keita-dialogue-746-ミカの いえは ふるい？",
+      "id": "ja-keita-dialogue-1102-ミカの いえは ふるい？",
       "front": "ミカの いえは ふるい？"
     },
     {
-      "id": "ja-keita-dialogue-747-ミカの おかあさんは せんせい？",
+      "id": "ja-keita-dialogue-1103-ミカの おかあさんは せんせい？",
       "front": "ミカの おかあさんは せんせい？"
     },
     {
-      "id": "ja-keita-dialogue-748-ミカの おとうさんは いま うちに いる？",
+      "id": "ja-keita-dialogue-1104-ミカの おとうさんは いま うちに いる？",
       "front": "ミカの おとうさんは いま うちに いる？"
     },
     {
-      "id": "ja-keita-dialogue-749-ミカの おとうさんは なにが すき？",
+      "id": "ja-keita-dialogue-1105-ミカの おとうさんは なにが すき？",
       "front": "ミカの おとうさんは なにが すき？"
     },
     {
-      "id": "ja-keita-dialogue-750-ミカの おにいさんは がくせい？",
+      "id": "ja-keita-dialogue-1106-ミカの おにいさんは がくせい？",
       "front": "ミカの おにいさんは がくせい？"
     },
     {
-      "id": "ja-keita-dialogue-751-ミカの おねえさんは やすみに なにを する？",
+      "id": "ja-keita-dialogue-1107-ミカの おねえさんは やすみに なにを する？",
       "front": "ミカの おねえさんは やすみに なにを する？"
     },
     {
-      "id": "ja-keita-dialogue-752-ミカの かぞくは なんにん？",
+      "id": "ja-keita-dialogue-1108-ミカの かぞくは なんにん？",
       "front": "ミカの かぞくは なんにん？"
     },
     {
-      "id": "ja-keita-dialogue-753-ミカのだ",
+      "id": "ja-keita-dialogue-1109-ミカのだ",
       "front": "ミカのだ"
     },
     {
-      "id": "ja-keita-dialogue-754-ミカは およぐのが じょうずだ",
+      "id": "ja-keita-dialogue-1110-ミカは およぐのが じょうずだ",
       "front": "ミカは およぐのが じょうずだ"
     },
     {
-      "id": "ja-keita-dialogue-755-ミカは きょう くる？",
+      "id": "ja-keita-dialogue-1111-ミカは きょう くる？",
       "front": "ミカは きょう くる？"
     },
     {
-      "id": "ja-keita-dialogue-756-ミカは せんせいに じしょを いただいたんです",
+      "id": "ja-keita-dialogue-1112-ミカは せんせいに じしょを いただいたんです",
       "front": "ミカは せんせいに じしょを いただいたんです"
     },
     {
-      "id": "ja-keita-dialogue-757-ミカは どこに すんでいる？",
+      "id": "ja-keita-dialogue-1113-ミカは どこに すんでいる？",
       "front": "ミカは どこに すんでいる？"
     },
     {
-      "id": "ja-keita-dialogue-758-ミカは なにが すき？",
+      "id": "ja-keita-dialogue-1114-ミカは なにが すき？",
       "front": "ミカは なにが すき？"
     },
     {
-      "id": "ja-keita-dialogue-759-ミカは？",
+      "id": "ja-keita-dialogue-1115-ミカは？",
       "front": "ミカは？"
     },
     {
-      "id": "ja-keita-dialogue-760-ミカも いくと おもう",
+      "id": "ja-keita-dialogue-1116-ミカも いくと おもう",
       "front": "ミカも いくと おもう"
     },
     {
-      "id": "ja-keita-dialogue-761-ミカも くる？",
+      "id": "ja-keita-dialogue-1117-ミカも くる？",
       "front": "ミカも くる？"
     }
   ]
