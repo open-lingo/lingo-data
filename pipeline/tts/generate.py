@@ -144,6 +144,15 @@ class EdgeTtsProvider(TtsProvider):
             "ko-KR-SunHiNeural",    # Female (course default)
             "ko-KR-InJoonNeural",   # Male
         ],
+        # lane/PTBETA (2026-09-18): pt scaffold's TTS-voice follow-up
+        # (docs/pt-course-design-2026-09-18.md §5 / PTINFRA report row 7).
+        # No lesson content yet — this only unblocks the sample-audition
+        # step of the recipe below once an authoring lane gives pt a
+        # deck to synthesize.
+        "pt": [
+            "pt-BR-FranciscaNeural",  # Female (course default)
+            "pt-BR-AntonioNeural",    # Male
+        ],
     }
 
     def __init__(self) -> None:
@@ -181,6 +190,10 @@ SAMPLE_PHRASES: dict[str, str] = {
     # hinges on, so a voice audition hears them immediately.
     "fr": "Bonjour, c'est un plaisir. Les amis arrivent en haut à huit heures.",
     "ko": "안녕하세요. 오늘 날씨가 좋네요. 같이 산책하러 갈까요?",
+    # lane/PTBETA (2026-09-18): pairs with the "pt" SAMPLE_VOICES entry
+    # above — audition text only (not lesson content). Nasal vowels
+    # (bem, amanhã) are the pt-BR phoneme a voice pick should be judged on.
+    "pt": "Olá, tudo bem? Vamos aprender português juntos — amanhã começamos com uma conversa.",
 }
 
 
